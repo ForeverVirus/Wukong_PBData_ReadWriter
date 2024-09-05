@@ -1,1627 +1,0 @@
-
-CREATE_ROOM创建房间
-	JOIN_ROOM加入房间
-ROLE_CONFIG角色配置
-$LEVEL_ROOM_MAIN离开浮屠塔
-CONFIRM确定 
-CANCEL取消 
-PREPARE准备
- CANCEL_PREPARE取消准备
-+	WAIT_MEMBER_PREPARE等待队友准备
-!
-WAIT_ROOM_START等待开始
- HAS_LEARN_SPELL	已开悟 
-*HAS_LEARN_TALENT已参悟此天赋 
- RES_NOT_ENOUGH资源不足
-)LONGPRESS_TO_LEARNING长按参悟 
-(LONGPRESS_TO_LEVELUP长按参悟 
-/NOT_SATISFY_LEARN_CONDITION无法参悟 
-TALENT_POINT	灵光点 
-
-DIFFICULTY关卡难度一
-#NO_ENUM_NAME_1关卡难度一
-#NO_ENUM_NAME_2关卡难度一
-#NO_ENUM_NAME_3关卡难度一
-#NO_ENUM_NAME_4关卡难度一
-0TO_SHRINE_LEARN_SPELL前往土地庙修习
-#LONG_PRESS_CREATE长按创建
-CHANGE_ROOM修改房间
-"LONG_PRESS_START长按开始
- PASSIVE_SPELL_NAME被动 
-#INITIATIVE_SPELL_NAME主动 
-%SHRINE_ACTIVE土地庙已上香
-#LONG_PRESS_CHANGE长按修改
-$LONG_PRESS_PREPARE长按准备
-" 
-GO_TEASING我要提意见！
-%!BACK_START_LEVEL返回主界面
-M" INNTERACT_CONSTRAINT_ENEMY_AROUD'附近存在敌人，暂时无法互动
-$#INNTERACT_ITEM_LACK	缺少{0} 
-,$QUIT_GAME_CONFIRM是否退出游戏？
-p%RESTORE_WAIT_CONFIRMT确定保留这些显示设置吗？将在{0}秒内还原为以前的显示设置。 
-$&SETTING_TAB_GAMEPAD	控制器 
-0'SETTING_TAB_KEYBOARDMOUSE键盘与鼠标 
-(SETTING_TAB_GAME游戏 
- )SETTING_TAB_SCREEN显示 
-*SETTING_TAB_MUSIC声音 
-$+SETTING_TAB_EXIT退出游戏 
-,SETTING_OPEN开启 
--SETTING_CLOSE关闭 
-+1SETTING_FULLSCREEN_MODE全屏模式 
-!2SETTING_WMode窗口模式 
-.3SETTING_BORDERLESS_MODE无边框模式 
-6SETTING_QUALITY_1低 
-7SETTING_QUALITY_2中 
-8SETTING_QUALITY_3高 
-9SETTING_QUALITY_4超高 
-":SETTING_QUALITY_5	影视级 
-L<SETTING_RECOMMENDED_LEVEL+确定要应用推荐的画质设置吗？  
-/BSETTING_BACK_START退出至标题界面 
-+CSETTING_BACK_DESKTOP退出至桌面 
-)DSETTING_BACK_TEAMMATE魂归故里 
-+ESETTING_BACK_END_BATTLE退出战斗 
-EFSETTING_BACK_END_BATTLE_TIPS!确定要退出当前战斗吗？ 
-)USETTING_LOCK_FRAME_RATE锁定帧率
-,VSETTING_QUALITY_PRIORITY画质优先 
-*WSETTING_FRAME_PRIORITY性能优先 
-XSETTING_NORMAL关闭 
-YSETTING_REVERSE开启 
- bSETTING_TAB_CAMERA视角 
-cSETTING_RTX光线追踪 
-3dATTR_NAME_START100到400预留给属性名字
-eNO_ENUM_NAME_5生命 
-fNO_ENUM_NAME_6法力 
-lNO_ENUM_NAME_7气力 
-#�NO_ENUM_NAME_8生命上限 
-#�NO_ENUM_NAME_9法力上限 
-�NO_ENUM_NAME_10攻击 
-�NO_ENUM_NAME_11防御 
-$�NO_ENUM_NAME_12气力上限 
-$�NO_ENUM_NAME_13气力恢复 
-!�NO_ENUM_NAME_14	暴击率 
-$�NO_ENUM_NAME_15暴击伤害 
-$�NO_ENUM_NAME_16伤害加成 
-$�NO_ENUM_NAME_17伤害减免 
-+�NO_ENUM_NAME_18承受暴击率减免
-.�NO_ENUM_NAME_19承受暴击伤害减免
-$�NO_ENUM_NAME_20寒冻耐性 
-$�NO_ENUM_NAME_21火焚耐性 
-$�NO_ENUM_NAME_22毒伤耐性 
-$�NO_ENUM_NAME_23雷蛰耐性 
-'�NO_ENUM_NAME_24葫芦盛酒量 
-�NO_ENUM_NAME_25攻击 
-�NO_ENUM_NAME_26防御 
-$�NO_ENUM_NAME_27气力恢复 
-!�NO_ENUM_NAME_28	暴击率 
-$�NO_ENUM_NAME_29暴击伤害 
-%�NO_ENUM_NAME_30暴击率减免
-(�NO_ENUM_NAME_31暴击伤害减免
-$�NO_ENUM_NAME_32伤害加成 
-$�NO_ENUM_NAME_33伤害减免 
-$�NO_ENUM_NAME_34寒冻耐性 
-$�NO_ENUM_NAME_35火焚耐性 
-$�NO_ENUM_NAME_36毒伤耐性 
-$�NO_ENUM_NAME_37雷蛰耐性 
-6�ITEM_TYPE_NAME_START400到450给道具类型名
-"�NO_ENUM_NAME_38丹药用品
-�NO_ENUM_NAME_39本草
-�NO_ENUM_NAME_40材料 
-�NO_ENUM_NAME_41细软 
-$�NO_ENUM_NAME_42要紧物事 
-�NO_ENUM_NAME_43披挂 
-$�NO_ENUM_NAME_44天上仙丹 
-�NO_ENUM_NAME_45法术 
-%�ITEM_TYPE_NAME_ALCHEMY仙丹 
-$�ITEM_TYPE_NAME_RECIPE丹药 
-�EQUIP_POS_NAME_STARTnone
-�NO_ENUM_NAME_46头冠 
-�NO_ENUM_NAME_47衣甲 
-�NO_ENUM_NAME_48臂甲 
-�NO_ENUM_NAME_49腿甲 
-�NO_ENUM_NAME_50兵器 
-�NO_ENUM_NAME_51法宝 
-�NO_ENUM_NAME_52精魄 
-�NO_ENUM_NAME_53葫芦 
-�NO_ENUM_NAME_54珍玩 
-�	TIME_YEAR年
-�
-TIME_MONTH月
-�TIME_DAY日
-�	TIME_WEEK周
-�	TIME_HOUR时
-�TIME_MINUTE分
-�TIME_SECOND秒 
-#�SPELLTYPE_NAME_START变化 
-�NO_ENUM_NAME_55身法 
-�NO_ENUM_NAME_56奇术 
-�NO_ENUM_NAME_57毫毛 
-�NO_ENUM_NAME_58体术
-�NO_ENUM_NAME_59轻棍
-�NO_ENUM_NAME_60重棍
-�SPELLTYPE_NAME_END御棍
-,�CONFIRM_BUY_ITEM确定要购买{0}？
-:�CONFIRM_START_GAME!以选择的存档开始游玩！
-/�CONFIRM_SETTING_ACTION是否确认{0}？
-3�CONRIRM_RESET_TALENT是否重置灵光点？
-8�BUY_FAIL_MAT_NOT_ENOUGH材料不足无法购买 
-T�BUY_FAIL_HAS_OWNED_LIMIT3已达此物品的持有上限，故无法买入。 
-�NO_ENUM_NAME_61
-�NO_ENUM_NAME_62
-�NO_ENUM_NAME_63
-�NO_ENUM_NAME_64
-�NO_ENUM_NAME_65
-�NO_ENUM_NAME_66
-�NO_ENUM_NAME_67
-�NO_ENUM_NAME_68
-�NO_ENUM_NAME_69
-�NO_ENUM_NAME_70
-.�BTN_ENTER_KEY_SETTING进入按键设置
-w�CONFLICT_CONFIRM_RESET_KEYT当前设置存在按键冲突，无法保存。确定重置为默认按键分配？ 
-G�CONFIRM_RESET_KEY-确定恢复本页设置项为默认设置？ 
-&�QUALITY_NAME_START505-519品质
-�NO_ENUM_NAME_71凡品 
-�NO_ENUM_NAME_72良品 
-�NO_ENUM_NAME_73上品 
-�NO_ENUM_NAME_74特品 
-�NO_ENUM_NAME_75仙品 
-�NO_ENUM_NAME_76神珍 
-�NO_ENUM_NAME_77品质
-�NO_ENUM_NAME_78品质
-�NO_ENUM_NAME_79品质
-�NO_ENUM_NAME_80品质
-�NO_ENUM_NAME_81品质
-�NO_ENUM_NAME_82品质
-�NO_ENUM_NAME_83品质
-�QUALITY_NAME_END品质
-(�SETTING_QUALITY_CUSTOM	自定义 
-t�SETTING_FRAME_LOW_TIPSW检测到您当前帧率过低，可能会出现小错误，建议降低画质选项。
-,�SETTING_COLOR_CLASS颜色辅助类型
-/�SETTING_SKIP_ANIMATION跳过剧情动画
-0�!SETTING_SUBTITLE_FONT_SIZE_NORMAL标准 
-9�*SETTING_SUBTITLE_FONT_SIZE_SLIGHTLY_LARGER稍大 
--�!SETTING_SUBTITLE_FONT_SIZE_LARGER大 
-+�SETTING_COLOR_CLASS_GREEN	绿色盲 
-)�SETTING_COLOR_CLASS_RED	红色盲 
-*�SETTING_COLOR_CLASS_BLUE	蓝色盲 
-@�SETTING_ITEM_DESC_START"534-700预留给设置条目描述
-!�NO_ENUM_NAME_84	？？？ 
--�NO_ENUM_NAME_85退出到标题界面 
-'�NO_ENUM_NAME_86退出到桌面 
-?�NO_ENUM_NAME_87'在最后一次互动的土地庙现身 
-E�$SETTING_MANUALLY_TOGGLE_LOADING_TIPS手动关闭加载界面 
-3�SETTING_CINEMATIC设定是否开启电影化
-(�NO_ENUM_NAME_88开启光线追踪
-*�NO_ENUM_NAME_89切换至劈棍法 
-*�NO_ENUM_NAME_90切换至立棍法 
-*�NO_ENUM_NAME_91切换至戳棍法 
-�NO_ENUM_NAME_92棍花 
-(�NO_ENUM_NAME_93设置描述结尾
-7�CONFIRM_USE_ITEM确定要使用该物品吗？ 
-a�CONFIRM_OVERWRITE_ARCHIVE_TWICE9该存档将被删除，并开启新游戏，确定吗？ 
-A�CONFIRM_MUTILWEEK_START!是否开启新一轮的游戏？ 
-P�USE_CHOOSE_ARCHIVE_PLAY0确定使用所选择的存档继续游戏吗？ 
-C�CONFIRM_DELETE_ARCHIVE$该存档将被删除，确定吗？ 
-X�CONFIRM_DELETE_ARCHIVE_TWICE3存档删除后将永久消失，真的确定吗？ 
-��CONFIRM_OVERWRITE_ARCHIVEu当前存档数已达上限，无法开启新游戏。确定删除一个已有存档，然后再开启新游戏吗？ 
-F�"CHOOSE_DELETE_OR_OVERWRITE_ARCHIVE请选择要删除的存档 
- �SHRINE_REST_TITLE调息 
-R�SHRINE_REST_TIPS9还原身体，补满葫芦，同时会引出山中妖怪 
-"�SHRINE_TELEPORT_TITLE缩地
-i�SHRINE_TELEPORT_TIPSN瞬息移动到上过香的任意土地庙，与此同时会引出山中妖怪
-�SHRINE_SHOP_TITLE货殖
-S�SHRINE_SHOP_TIPS<此处有当坊土地准备的土产，可花费灵蕴买入
-&�SHRINE_TALENT_TITLE天赋精进
-F�SHRINE_TALENT_TIPS-花费灵光点，开悟更高境界的天赋
-,�SHRINE_SPELL_CONFIG_TITLE法术整备
-C�SHRINE_SPELL_CONFIG_TIPS$选用战斗中需要施展的法术
-�SHRINE_RESET_TITLE换骨
-*�SHRINE_RESET_TIPS重新参悟天赋
-"�SHRINE_BIANCHAN_TITLE变蝉
-B�SHRINE_BIANCHAN_TIPS'借由土地公的法力，变身为蝉
-(�NO_ENUM_NAME_94一个测试新增
-�NO_ENUM_NAME_95空 
-�NEW_GAME	新游戏 
-!�START_GAME_SETTING设置 
-�	EXIT_GAME退出 
-"�NEW_GAME_PLUS再入轮回 
-�	LOAD_GAME载入游戏 
-�ONLINE_FUTUTA	浮屠塔
-�	ROOM_NAME	房间名
-"�CONTINUE_GAME继续游戏 
-$�ROLE_MAIN_TAB_ABILITY本事 
-"�ROLE_MAIN_TAB_SPELL神通 
-"�ROLE_MAIN_TAB_EQUIP披挂 
- �ROLE_MAIN_TAB_BAG行囊 
-)�ROLE_MAIN_TAB_TRAVEL_NOTES游记 
-*�ROLE_MAIN_TAB_CONFIGURATION配置 
-$�ROLE_MAIN_TAB_SETTING设置 
-%�SPELL_LEARN_TAB_SHENFA身法 
-$�SPELL_LEARN_TAB_QISHU奇术 
-%�SPELL_LEARN_TAB_HAOMAO毫毛 
-&�SPELL_LEARN_TAB_BIANHUA变化 
-$�ABILITY_LEARN_TAB_TISHU体术
-&�ABILITY_LEARN_TAB_QINGGUN轻棍
-'�ABILITY_LEARN_TAB_ZHONGGUN重棍
-$�ABILITY_LEARN_TAB_YUGUN御棍
-�INTERACT_ACTIVE激活
-'�INTERACT_ACTIVE_LONG长按激活
-�INTERACT_REBIRTH复活
-(�INTERACT_REBIRTH_LONG长按复活
-�INTERACT_PICKUP拾得
-'�INTERACT_PICKUP_LONG长按拾得
-�INTERACT_COLLECT采集
-(�INTERACT_COLLECT_LONG长按采集
-�COMM_EMPTY_TIPS空 
-!�SHRINE_SOAKING_TITLE泡制
-S�SHRINE_SOAKING_TIPS9在酒中加入不同药材可为酒水带来额外功效
-#�LANGUAGE_ZH_HANS简体中文
-#�LANGUAGE_ZH_HANT繁體中文
-�LANGUAGE_ENEnglish
-�LANGUAGE_FR	Français
-�LANGUAGE_DEDeutsch
-�LANGUAGE_JA	日本語
-�LANGUAGE_KO	한국어
- �LANGUAGE_RUРусский
-%�LANGUAGE_PTPortuguês - Brasil
-$�LANGUAGE_ESEspañol - España
-�LANGUAGE_PLPolski
-�LANGUAGE_ITItaliano
-)�GAME_SETTING_LOCALIZATION	多语言
-1�NO_ENUM_NAME_96翻滚/跳跃按键互换 
-�NO_ENUM_NAME_97默认 
-�NO_ENUM_NAME_98交换 
-,�NO_ENUM_NAME_99技能组合键/急奔
-9�NO_ENUM_NAME_100"预设按键切换：棍花/饮酒
-%�NO_ENUM_NAME_101向前移动 
-%�NO_ENUM_NAME_102向后移动 
-%�NO_ENUM_NAME_103向左移动 
-%�NO_ENUM_NAME_104向右移动 
-�NO_ENUM_NAME_105翻滚 
-�NO_ENUM_NAME_106疾奔 
-�NO_ENUM_NAME_107跳跃 
-�NO_ENUM_NAME_108互动 
-�NO_ENUM_NAME_109轻棍 
-�NO_ENUM_NAME_110重棍 
-,�NO_ENUM_NAME_111锁定/解除锁定 
-�NO_ENUM_NAME_112饮酒 
-%�NO_ENUM_NAME_113使用物品 
-.�NO_ENUM_NAME_114使用法术：变化 
-.�NO_ENUM_NAME_115使用法术：奇术 
-.�NO_ENUM_NAME_116使用法术：身法 
-.�NO_ENUM_NAME_117使用法术：毫毛 
-%�NO_ENUM_NAME_118使用法宝 
-(�NO_ENUM_NAME_119上一个页签 
-(�NO_ENUM_NAME_120下一个页签 
-+�NO_ENUM_NAME_121上一个子页签 
-+�NO_ENUM_NAME_122下一个子页签 
-%�NO_ENUM_NAME_123查看详情 
-0�NO_ENUM_NAME_124开启/关闭角色属性
-/�SETTING_COLOR_SEVERITY颜色辅助强度
-'�SHRINE_MAKE_MEDICINE_TITLE炼丹
-,�SHRINE_MAKE_MEDICINE_TIPS炼制丹药
-,�SHRINE_NEW_MEDICINE_TRIAL_TITLE和药
-=�SHRINE_NEW_MEDICINE_TRIAL_TIPS尝试自主调配炼丹
-1�BTN_NAME_MATERIAL_NOT_ENOUGH材料不足 
-#�BTN_NAME_MAKE_MEDICINE炼制
-@�MEDICINE_PUT_IN_MATERIAL!放入药材完成丹方以炼制
-)�MEDICINE_UNKOWN_RECIPE未知配方
-H�MEDICINE_RECIPE_DESC-哪怕失败，不也排除了错误项吗？
- �SHRINE_BACK_TITLE离开 
-(�SHRINE_BACK_TIPS离开土地庙 
-#�MEDICINE_RESET仙丹回炉 
-*�LONG_PRESS_TO_CONFIRM长按回炉 
-.�SOAKING_MAIN_CURRENT_MAT当前泡酒物
-,�SOAKING_MAIN_CURRENT_WINE当前仙酿
-1�MEDICINE_TRIAL_SELECT_MAT_NONE可选药材
-(�SHRINE_NEW_WEAPONMAIN_TITLE铸造
-H�SHRINE_NEW_WEAPONMAIN_TIPS'可在此处打造多种武器与披挂
-�ITEM_TITLE_EMPTY无 
-$�NPC_INTERACT_TALK_TITLE交谈
-�NPC_INTERACT_TALK_TIPS
-%�NPC_INTERACT_BACK_TIPS离开 
-�INTERACT_USE使用
-7�LEARN_TALENT_TOTAL_LEVEL已学习天赋总等级
-)�BATTLE_END_CONGRATULATION	恭喜！
-�BATTLE_END_THROUGH通关
-(�ONLINE_FUTUTA_DESC浮屠塔描述
-"�	NUM_START中文数字预留
-�NO_ENUM_NAME_125一
-�NO_ENUM_NAME_126二
-�NO_ENUM_NAME_127三
-�NO_ENUM_NAME_128四
-�NO_ENUM_NAME_129五
-�NO_ENUM_NAME_130六
-�NO_ENUM_NAME_131七
-�NO_ENUM_NAME_132八
-�NO_ENUM_NAME_133九
-�NO_ENUM_NAME_134十
-8�MEDICINE_NEED_CATALYST请至少放入一味药引
-)�NO_ENUM_NAME_135中文数字结束
-�NPC_INTERACT_SHOP货殖
-D�NPC_INTERACT_SHOP_TIPS'可在此处交易商品，互通有无
-/�SHRINE_UPGRADE_WINE_TITLE放入三冬虫
-^�SHRINE_UPGRADE_WINE_TIPS?放入三冬虫对现有仙酿再次酝制，即成更优佳酿
-;�CONFIRM_UPGRADE_WINE_INFO是否放入{0}只三冬虫
-:�$CONFIRM_UPGRADE_WINE_NOT_ENOUGH_TIPS三冬虫不足
-3�WINE_NOT_ENOUGH_TIPS泡制药材即将耗尽
-6�WINE_SUPPLEMENT_TIPS泡制药材数量已补充
-/�SELECT_CHAPTER_CONFIRM是否前往{0}？
-.�REFRESH_SHOP有新的道具可以购买
-7�LEVEL_LOCK_TIPS!关卡暂未开启，敬请期待
-.�COST_ATTR_START属性消耗类型开始
-�NO_ENUM_NAME_136生命 
-�NO_ENUM_NAME_137法力 
-�NO_ENUM_NAME_138气力 
-(�NO_ENUM_NAME_139葫芦盛酒量 
-)�NO_ENUM_NAME_140特殊变身能量
-/�NO_ENUM_NAME_141属性消耗类型结束
-/�COST_ATTR_TIPS{0}不足，无法施展 
-�GO_BACK返回 
-"�SHRINE_ABILITY_CONFIG修行
-E�SHRINE_ABILITY_CONFIG_TIPS$此处可开悟天赋，整备法术
-�SHRINE_LIQUOR泡制
-+�SHRINE_LIQUOR_TIPS可在此处泡制
-(�GO_BACK_TIPS回至上一层选项
-B�BUY_FAIL_ITEM_NOT_ENOUGH!商品已售罄，故无法买入 
-/�SHRINE_NEW_WEAPONBUILD_TITLE兵器铸造
-:�SHRINE_NEW_WEAPONBUILD_TIPS可在此处铸造兵器
--�SHRINE_NEW_ARMORSHOP_TITLE披挂铸造
-5�SHRINE_NEW_ARMORSHOP_TIPS可在此铸造披挂
-*�HEAVY_ATTACK_TYPE_TITLE_BEGIN沉重
-�NO_ENUM_NAME_142伸缩
-��HEAVY_ATTACK_TYPE_DESC_BEGINf【沉重】：可以蓄力使用重棍下砸，只要打中敌人，就有可能创造出大好机会
-��NO_ENUM_NAME_143�【伸缩】：可以自由伸缩的棍子，以此使出两种棍法。\n撑棍：铁杆随心，垂直立于地面之上，可以借此躲避攻击，也可顺势攻击敌人。\n捅棍：棍子朝前方伸长拨打敌人，出其不意。
-'�HEAVY_ATTACK_TYPE_DESC_END预留
-5�WEAPON_RECAST_TITLE将武器特性重铸为：
-,�WEAPON_CUR_ATTACK_TYPE当前特性：
-.�BTN_TITILE_HAS_RECAST此为当前特性
-J�SETTING_QUALITY_LEVEL_DESC'确定应用推荐的画质设置吗？ 
-@�SETTING_RECOMMENDED_LEVEL_DESC是否确认设置画质？
-A�SETTING_BACK_START_DESC!确定退出至标题界面吗？ 
-=�SETTING_BACK_DESKTOP_DESC确定退出至桌面吗？ 
-<�SETTING_BACK_TEAMMATE_DESC是否确认魂归故里？
-!�MAKE_ALCHEMY天上仙丹 
- �MAKE_RECIPE人间丹药 
-D�NO_ENUM_NAME_144-1000-1099预留给InputIcon按键提示文字
-�NO_ENUM_NAME_145故事
-#�NO_ENUM_NAME_146装备对比
-#�NAME_EMPTY_UNKNOW	？？？ 
-�SORTING_TYPE_NAME_START
-.�NO_ENUM_NAME_147按获取时间排序 
-%�NO_ENUM_NAME_148默认排序 
-+�NO_ENUM_NAME_149按稀有度排序 
-.�NO_ENUM_NAME_150按持有数量排序 
-(�NO_ENUM_NAME_151按攻击排序 
-(�NO_ENUM_NAME_152按防御排序 
-+�NO_ENUM_NAME_153按暴击率排序 
-+�NO_ENUM_NAME_154按盛酒量排序 
-4�NO_ENUM_NAME_155按商店剩余数量排序 
-(�NO_ENUM_NAME_156按价格排序 
-%�NO_ENUM_NAME_157默认排序 
-#�NO_ENUM_NAME_158画坊排序
-&�NO_ENUM_NAME_159打坐点排序
-#�NO_ENUM_NAME_160关卡排序
-2�NO_ENUM_NAME_161历史文物、古玩排序
-,�NO_ENUM_NAME_162按所有数量排序
-1�NO_ENUM_NAME_163按是否可铸造排序 
-5�NO_ENUM_NAME_164按是否有药材产出排序
-1�NO_ENUM_NAME_165按丹药稀有度排序 
-4�NO_ENUM_NAME_166按丹方获取时间排序 
-1�NO_ENUM_NAME_167按是否可强化排序 
-1�NO_ENUM_NAME_168按是否可升级排序 
-1�NO_ENUM_NAME_169按是否可升级排序 
-)�DEFAULT_SORT_NO_ENUM默认排序 
-!�SORT_DEFAULT默认排序 
-.�SORTING_TYPE_NAME_END排序方式名称
-+�SORTING_RESTORE_BTN_NAME恢复默认
-2�FALLDYING_FORBID_REBIRTH{0}s内禁止复活
-,�FALLDYING_CAN_REBIRTH{0}s后可复活
-%�NO_ENUM_NAME_170切换棍法 
-&�NO_ENUM_NAME_171删除/卸下 
-,�NO_ENUM_NAME_172检视/展开故事 
-M�ENTER_START_NEXT_CHAPTER_INFO'即将进入下一回，是否确定？ 
-"�ROLE_MAIN_TAB_GENQI根器 
-"�DSTALENT_ACTIVED	已参悟 
-$�DSTALENT_NOTACTIVE	未参悟 
-<�DSTALENT_ContinueJourney开路向前，自有机缘 
-8�DSTALENT_GoToTemple前往土地庙领悟该天赋
- �SCREEN_RATIO_AUTO自动 
-!�START_GAME_MUSEUM	博物馆
-*�MUSEUM_ITEM_TITLE_START历史文萃
-#�NO_ENUM_NAME_173前尘影事
-�NO_ENUM_NAME_174画坊
-"�MUSEUM_ITEM_TITLE_END乐坊
-.�MUSEUM_ITEM_ART_TITLE_START角色概念
-#�NO_ENUM_NAME_175场景概念
-,�MUSEUM_ITEM_ART_TITLE_END实机截图
-6�	'TRAVEL_NOTES_TITLE_UNIT_TYPE_NAME_START妖王 
-�	NO_ENUM_NAME_176小妖 
-�	NO_ENUM_NAME_177头目 
-4�	%TRAVEL_NOTES_TITLE_UNIT_TYPE_NAME_END人物 
-)�	ITEM_PACKAGE_TYPE_NAME_START开始
-'�	ITEM_PACKAGE_TYPE_NAME_0用品 
--�	ITEM_PACKAGE_TYPE_NAME_1贯通丹药 
--�	ITEM_PACKAGE_TYPE_NAME_2攻杀丹药 
--�	ITEM_PACKAGE_TYPE_NAME_3消灾丹药 
-�	ITEM_PACKAGE_TYPE_NAME_4 
--�	ITEM_PACKAGE_TYPE_NAME_5保命丹药 
--�	ITEM_PACKAGE_TYPE_NAME_6稀罕材料 
-'�	ITEM_PACKAGE_TYPE_NAME_7丹方 
-*�	ITEM_PACKAGE_TYPE_NAME_8	泡酒物 
-'�	ITEM_PACKAGE_TYPE_NAME_9种子 
-(�	ITEM_PACKAGE_TYPE_NAME_10药材 
-.�	ITEM_PACKAGE_TYPE_NAME_11披挂通材 
-.�	ITEM_PACKAGE_TYPE_NAME_12兵器通材 
-2�	ITEM_PACKAGE_TYPE_NAME_13酒器升阶材料
-+�	ITEM_PACKAGE_TYPE_NAME_14	贩卖品 
-.�	ITEM_PACKAGE_TYPE_NAME_15兵器专材 
-(�	ITEM_PACKAGE_TYPE_NAME_16精魄 
-.�	ITEM_PACKAGE_TYPE_NAME_17要紧物事 
-%�	ITEM_PACKAGE_TYPE_NAME_18酒 
-'�	ITEM_PACKAGE_TYPE_NAME_END结束
-&�	ONLINE_CREATE_PARTY创建世界
-$�	ONLINE_JOIN_PARTY加入世界
-$�	ONLINE_EXIT_PARTY离开线上
-/�	CREATING_PARTY_FAIL创建世界失败：
-*�	IS_CREATING_PARTY正在创建世界
-+�	IS_SEARCHING_PARTY正在探索世界
--�	SEARCH_PARTY_FAIL搜索世界失败：
-=�	LEAVE_CUR_WORLD'即将离开当前世界，确定吗？
->�	CANT_PARTY_TELEPORT$非世界创建者，无开启权限
-2�	MUSEUM_SOUND_NO_LYRICS这是一个纯音乐
-0�	BUY_ITEM_IN_STORED物品已进入仓库 
- �	MUSEUM_ITEM_LOCK	？？？
-'�	ROLE_MAIN_TAB_SPELL_CONFIG修行
-A�	"CONFIRM_UPGRADE_WINE_NOT_NEXT_WINE仙酿已达到最高级
-�	TRAVEL_NOTES__SUB_UPDATE
-#�	TRAVEL_NOTES_SUB__CHILD_UPDATE
-�	
-STORY_SHOW展开 
-�	
-STORY_HIDE收起 
-�	LEVEL_SIMPLE简单
-�	LEVEL_MEDIUM中等
-�	
-LEVEL_HARD困难
-B�	LEVEL_SIMPLE_DESC*少量敌人，敌人拥有较低的攻击
-B�	LEVEL_MEDIUM_DESC*适量敌人，敌人拥有一般的攻击
-@�	LEVEL_HARD_DESC*大量敌人，敌人拥有较高的攻击
--�	SORTING_REPORT_BTN_NAMEBUG一键上报
-g�	CONRIRM_RESET_TALENT_AND_LEGACYA是否花费{0}灵蕴重置灵光点？(同时重置大圣天赋)
-8�	TALENT_PLAYER_LEVEL_LIMIT达到{0}级方可修习
-F�	CHECK_SCREEN_RESOLUTION_TITLE"性能提示
-第一行
-第二行
-r�	CHECK_SCREEN_RESOLUTION_INFOO当前设置超过1080p，可能造成卡顿，是否确认切换1080p全屏？
-1�	NO_ENUM_NAME_189无法从这一侧打开 
-��	LOCALIZATION_TEST_INFOi超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文
-%�	NO_ENUM_NAME_190角色移动 
-�	NO_ENUM_NAME_191互动 
-�	NO_ENUM_NAME_192翻滚 
-�	NO_ENUM_NAME_193疾奔 
-�	NO_ENUM_NAME_194跳跃 
-�	NO_ENUM_NAME_195轻棍 
-�	NO_ENUM_NAME_196重棍 
-,�	NO_ENUM_NAME_197锁定/解除锁定 
-+�	NO_ENUM_NAME_198使用随身之物 
-%�	NO_ENUM_NAME_199使用法术 
-%�	NO_ENUM_NAME_200使用法宝 
-%�	NO_ENUM_NAME_201切换棍法 
-�	LEVEL_COMPLETE	已通关
- �	LEVEL_INCOMPLETE	未通关
-%�	END_LEVEL_PASS_BOSS_1	已击败
-+�	END_LEVEL_PASS_BOSS_2恭喜已击败
-&�	END_LEVEL_PASS_LEVEL_1	已通关
-,�	END_LEVEL_PASS_LEVEL_2恭喜已通关
-�	CHINESE_VOICE汉语
-�	ENGLISH_VOICE英语
-#�	NO_ENUM_NAME_202语音预留
-'�	RESET_820_DATA_TITLE重置标题
-;�	RESET_820_DATA_DESC!确定要重置玩家存档吗？
-:�	SELECT_820_LEVEL_DESC确定要前往该关卡吗？
-3�	EMAIL_820_TIPS请输入正确的邮箱地址
-�	SUBMIT提交
-�	GIVE_UP放弃
-�		CLAIMABLE	可领奖
-�	MODIFY_EMAIL修改
-?�	AGREE_PRIVACY_POLICY$需要同意隐私政策才可提交
-�	YES_I_DO	我愿意
-2�	CustomizedInputTypeConfigName输入类型 
-"�	NO_ENUM_NAME_203	类型一 
-"�	NO_ENUM_NAME_204	类型二 
-�	NO_ENUM_NAME_205预留
--�	 CustomizedInputTypeConfigNameMax预留
-$�	GamepadSettingDefault关闭 
-&�	GamepadSettingCustomize开启 
-�	AUDIO_ZH_HANS汉语 
-�	AUDIO_EN英语 
-=�	NO_ENUM_NAME_206&ID1270-1280，设置语音语言预留
-+�	ITEMDEATIL_SHORTCUT_DESC随身之物
-&�	ITEMDEATIL_WINE_DESC	泡酒物 
-�	ROLE_MAIN_TAB_MAP地图
-'�	ROLE_MAIN_TAB_ONLINE网络设置
-.�
-SHRINE_NEW_EQUIPBUILD_TITLE披挂再造
-E�
-SHRINE_NEW_EQUIPBUILD_TIPS$可再造披挂，升至更高品质
-/�
-MAP_TELEPORT_TO_SYMBOL是否传送至{0}
-#�
-PAINT_WORLD_NAME画中世界
-.�
-SHRINE_WEAPONBUILD_TITLE_PW兵器铸造
-6�
-SHRINE_WEAPONBUILD_TIPS_PW可在此铸造兵器
--�
-SHRINE_EQUIPBUILD_TITLE_PW披挂再造
-5�
-SHRINE_EQUIPBUILD_TIPS_PW可在此升级披挂
-�
-
-LOGIN_SCAN账户登录
-�
-LOGIN_LOGIN快速登录
-=�
-!LOGIN_TIP_USERNAME_PASSWORD_EMPTY账号或密码为空
-/�
-LOGIN_INPUT_USERNAME_HINT请输入账号
-/�
-LOGIN_INPUT_PASSWORD_HINT请输入密码
-.�
-LOGIN_BTN_SWITCH_SCAN切换扫码登录
-3�
-LOGIN_BTN_SWITCH_USER_PASS切换密码登录
-n�
-UI_SETTING_RESTART_TIPSN<820Privacy_Title>要使该设置改动生效，需要重新启动游戏。</> 
- �
-ROLE_MAIN_TAB_BUY买入 
-!�
-ROLE_MAIN_TAB_SELL卖出 
-4�
-SHOP_CONFIRM_BUY确定是否买入此物品 
-5�
-SHOP_CONFIRM_SELL确定是否卖出此物品 
-3�
-SHRINE_SHOP_BUY_TIPS可在此处购买商品
-4�
-SHRINE_SHOP_SELL_TIPS可在此处卖出物品
-+�
-SHOP_MONEY_TIPS_BUY将花费灵蕴 
-,�
-SHOP_MONEY_TIPS_SELL将获得灵蕴 
-�
-SHOP_HAS_BUY	已售罄 
-�
-SHOP_HAS_SELL	已卖出 
-5�
-DISCONNECT_CONTROLLER_TIPS控制器已断开 
--�
-SHRINE_SEEDSUBMIT_TITLE_PW交付种子
-A�
-SHRINE_SEEDSUBMIT_TIPS_PW!交付当前拥有的全部种子
-2�
-SHRINE_MEDICINECOLLECT_TITLE_PW收取药材
-C�
-SHRINE_MEDICINECOLLECT_TIPS_PW在此处收取成熟的药材
-;�
-CONFIRM_SUBMIT_ALL_SEED是否交付全部种子？ 
-;�
-FARM_LONGPRESS_COLLECT_ALL长按收取全部药材 
--�
-FARM_PRESS_COLLECT收取全部药材 
-(�
-
-FARM_EMPTY暂无药材可收取 
-1�
-HAS_ZERO_SEED尚未有可交付的种子 
-)�
-SUPER_RESOLUTION_SAMPLING_FSRFSR 
-+�
-SUPER_RESOLUTION_SAMPLING_XessXeSS 
-+�
-SUPER_RESOLUTION_SAMPLING_DLSSDLSS 
-s�
-SETIING_DLSS_TIPS_VESIONR您的操作系统版本不支持DLSS帧生成技术，此设置项无法开启。 
-��
-SETIING_DLSS_TIPS_OPENa如需开启DLSS帧生成功能，需首先在操作系统设置中开启硬件加速GPU计划。 
-��
-SETIING_DLSS_TIPS_OPEN_FULL�如需开启DLSS帧生成功能，请在windows的系统设置找到：系统->显示->图形设置->硬件加速GPU计划。将这个选项开启，并重启电脑。 
-m�
-CONFIRM_ARCHIVE_LOCKEDN是否确定要退出至标题界面？所有未保存的进度将会丢失。 
-3�
-BTN_TITILE_LEARN_LEGACY_TALENT长按参悟 
-/�
-LEGACY_NOT_HAVE_TIPS尚未寻回此根 
-+�
-DROP_EQUIP_DESC已获取新的装备
-5�
-DROP_ITEM_SUBTYPE_DESC掉落获取描述开始
-(�
-PakageTypeDesc_1351特殊道具 
-"�
-PakageTypeDesc_1352丹药 
-"�
-PakageTypeDesc_1353丹药 
-"�
-PakageTypeDesc_1354丹药 
-"�
-PakageTypeDesc_1355丹药 
-"�
-PakageTypeDesc_1356丹药 
-"�
-PakageTypeDesc_1357材料 
-"�
-PakageTypeDesc_1358丹方 
-"�
-PakageTypeDesc_1359酒食 
-"�
-PakageTypeDesc_1360种子 
-"�
-PakageTypeDesc_1361药材 
-"�
-PakageTypeDesc_1362材料 
-"�
-PakageTypeDesc_1363材料 
-"�
-PakageTypeDesc_1364材料 
-"�
-PakageTypeDesc_1365材料 
-"�
-PakageTypeDesc_1366材料 
-"�
-PakageTypeDesc_1367精魄 
-(�
-PakageTypeDesc_1368要紧物事 
-�
-PakageTypeDesc_1369酒 
-"�
-PakageTypeDesc_1370头冠 
-"�
-PakageTypeDesc_1371衣甲 
-"�
-PakageTypeDesc_1372臂甲 
-"�
-PakageTypeDesc_1373腿甲 
-"�
-PakageTypeDesc_1374兵器 
-"�
-PakageTypeDesc_1375葫芦 
-"�
-PakageTypeDesc_1376珍玩 
-/�
-NO_ENUM_NAME_217掉落获取描述结束
-;�
-MEDICINE_RECIPE_ALCHEMY药材不足，无法炼制 
-.�
-NPC_INTERACT_DOG_TALK_TITLE讨个丹吃
-?�
-NPC_INTERACT_DOG_TALK_TIPS戌狗为你准备了些丹药
-G�
-CONFIRM_WEAPONBUILD_NEED_WEAR!要装备新铸造的兵器吗？ 
-!�
-DEFEATED_CHIEF
-头目 ·  
-%�
-DEFEATED_DEMONKING
-妖王 ·  
- �
-DEFEATED_FUZISHU	父子鼠
-R�WXLOGIN_BTNHIDE_GET_FAIL3服务器连接失败，请检查当前网络环境
-<�DROP_OVERFLOW_TIPS!已达持有上限，不可再得 
-1�DROP_SPECILAL_TIPS掉落特殊提示开始
-)�DROP_SPECILAL_TIPS_1铸造成功 
-)�DROP_SPECILAL_TIPS_2升阶成功 
-2�DROP_SPECILAL_TIPS_3已收获全部药材 
-;�DROP_SPECILAL_TIPS_4已拾取所有遗落的精魄 
-2�DROP_SPECILAL_TIPS_5已收取全部谢礼 
-)�DROP_SPECILAL_TIPS_6升阶成功 
-)�DROP_SPECILAL_TIPS_7炼精成功 
-)�DROP_SPECILAL_TIPS_8升阶成功 
-)�DROP_SPECILAL_TIPS_9铸造成功 
-<�DROP_SPECILAL_TIPS_10已有精魄，炼化为灵蕴 
-B�DROP_SPECILAL_TIPS_11$已有重要物品，炼化为灵蕴 
-/�NO_ENUM_NAME_222特殊掉落提示结束
-.�DROP_MEDITION_TITLE打坐蒲团更新 
-)�DROP_MANUAL_TITLE影神图更新 
-3�DROP_MANUAL_BOSS_DESC妖王轶事已誊录 
-5�DROP_MANUAL_MINION_DESC小妖轶事已誊录 
-4�DROP_MANUAL_ELITE_DESC头目轶事已誊录 
-2�DROP_MANUAL_NPC_DESC人物轶事已誊录 
-%�SOULSKILL_ENERGY_CAST_LOW少 
-(�SOULSKILL_ENERGY_CAST_MIDDLE中 
-)�SOULSKILL_ENERGY_CAST_HIGH较多 
-7�EQUIP_SLOT_TYPE_TITLE_START装备位名称开始
-�NO_ENUM_NAME_223头冠 
-�NO_ENUM_NAME_224衣甲 
-�NO_ENUM_NAME_225臂甲 
-�NO_ENUM_NAME_226腿甲 
-�NO_ENUM_NAME_227兵器 
-�NO_ENUM_NAME_228法宝 
-�NO_ENUM_NAME_229精魄 
-�NO_ENUM_NAME_230葫芦 
-$�NO_ENUM_NAME_231珍玩·一 
-$�NO_ENUM_NAME_232珍玩·二 
-$�NO_ENUM_NAME_233珍玩·三 
-$�NO_ENUM_NAME_234珍玩·四 
-$�NO_ENUM_NAME_235珍玩·五 
-*�NO_ENUM_NAME_236随身之物·一 
-*�NO_ENUM_NAME_237随身之物·二 
-*�NO_ENUM_NAME_238随身之物·三 
-*�NO_ENUM_NAME_239随身之物·四 
-#�NO_ENUM_NAME_240快捷栏位
-�NO_ENUM_NAME_241预留
-&�EQUIP_SLOT_TYPE_TITLE_END预留
-+�SHRINE_SOULSKILL_COLLECT_TITLE拾遗
-B�SHRINE_SOULSKILL_COLLECT_TIPS收集未拾取的游荡精魄
-9�NO_ENUM_NAME_242"空 1463 - 1480 这里是商店tab
-�NO_ENUM_NAME_243全部
-�NO_ENUM_NAME_244装备
- �NO_ENUM_NAME_245	消耗品
-�NO_ENUM_NAME_246材料
-�NO_ENUM_NAME_247特殊
-�NO_ENUM_NAME_248丹药
-�NO_ENUM_NAME_249材料
-�NO_ENUM_NAME_250草药
-�NO_ENUM_NAME_251头冠 
-�NO_ENUM_NAME_252衣甲
-�NO_ENUM_NAME_253臂甲
-�NO_ENUM_NAME_254腿甲
-�NO_ENUM_NAME_255预留
-�NO_ENUM_NAME_256预留
-�NO_ENUM_NAME_257预留
-�NO_ENUM_NAME_258预留
-�NO_ENUM_NAME_259预留
-E� SHRINE_SOULSKILL_COLLECT_HAS_GET已找回所有遗落的精魄
-C�ALCHEMY_SPRINT_NOT_ENOUGH!持有灵蕴不足，无法炼制 
-A�ALCHEMY_ITEM_NOT_ENOUGH!持有材料不足，无法炼制 
-R�ALCHEMY_ITEM_IS_CARRY_MAX0已达到炼制数量上限，无法继续炼制 
-T�NO_ENUM_NAME_260=1500到1599预留给击杀后慢镜UI的自定义怪物名称
-�NO_ENUM_NAME_261小狼
-/�NO_ENUM_NAME_262兴烘掀 · 掀烘兴 
-/�NO_ENUM_NAME_263云里雾 · 雾里云 
-"�NO_ENUM_NAME_264	石先锋 
- �NO_ENUM_NAME_265	石敢当
-)�SLOW_TIME_NAME_01沙国王父子 
-0�SLOW_TIME_NAME_02急如火 · 快如风 
-T�NO_ENUM_NAME_266=1500到1599预留给击杀后慢镜UI的自定义怪物名称
-!�ACCESSORY_EMPTY	未穿戴 
-&�ACCESSORY_EMPTY_TIPS	未穿戴 
-;�TAKE_PHOTO_RESET_CAMERA确定重置镜头位置？ 
-&�ABILITY_LEARN_TAB_BASIC根基 
-(�ABILITY_LEARN_TAB_UPGRADE棍法 
-1�SHRINE_SPELL_RESETTALENT_TITLE修整筋骨
-6�SHRINE_SPELL_RESETTALENT_TIPS修整筋骨描述
-)�TALENT_RESET_LOCK未参悟天赋 
-i�TALENT_RESET_NEXT_TALENTH无法重置该天赋，该天赋是某个已参悟天赋的前置要求 
-X�TALENT_RESET_NEXT_RANK9重置该天赋会导致下一层级的天赋无法参悟 
-,�SETTING_SUBTITLE_COLOR_YELLOW黄色 
-)�SETTING_SUBTITLE_COLOR_RED红色 
-*�SETTING_SUBTITLE_COLOR_BLUE蓝色 
-+�SETTING_SUBTITLE_COLOR_GREEN绿色 
-(�SETTING_SUBTITLE_BG_LIGHT浅色 
-'�SETTING_SUBTITLE_BG_DARK深色 
-�TAKE_PHOTO_CLOSE关 
-�TAKE_PHOTO_OPEN开 
-�TAKE_PHOTO_HIDE隐藏 
-�TAKE_PHOTO_SHOW显示 
-?�TAKE_PHOTO_CONFIRM_RESET确定重置所有设置项？ 
-%�TSETTING_MOTION_BLUR_WEAR弱 
-'�TSETTING_MOTION_BLUR_STRONG强 
-%�SETTING_TAB_HELP辅助设置 
-%�SETTING__HELP_VIEW视觉辅助
-&�SETTING_HELP_LISTEN听觉辅助
-%�SETTING_HELP_SPORT运动辅助
-)�SETTING_HELP_MOTION晕动症辅助
-'�SETTING_DEVICE_TYPE_A	类型一 
-'�SETTING_DEVICE_TYPE_B	类型二 
-@�PLAYGO_REMAIN_TIME_HOUR_AND_MIN剩余{0}小时{1}分钟 
-.�PLAYGO_REMAIN_TIME_MIN剩余{0}分钟 
-=�PLAYGO_REMAIN_TIME_LESS_MIN剩余时间小于1分钟 
-;�PLAYGO_REMAIN_TIME_LARGE_DAY剩余时间大于1天 
--�SETTING_HUDSHOW_AUTOSHOW自动显示 
-/�SETTING_HUDSHOW_ALWAYSSHOW总是显示 
-/�SETTING_HUDSHOW_ALWAYSHIDE总是隐藏 
-%�ROLE_MAIN_TAB_PRACTICE修行 
-+�SOUL_SKILL_COLLECT_BTN长按拾取 
-<�SHOP_TAB_NAME_START"空 1640 - 1680 这里是商店tab
-$�SHOP_TAB_NAME_START_1全部 
-$�SHOP_TAB_NAME_START_2头冠 
-$�SHOP_TAB_NAME_START_3衣甲 
-$�SHOP_TAB_NAME_START_4臂甲 
-$�SHOP_TAB_NAME_START_5腿甲 
-$�SHOP_TAB_NAME_START_6兵器 
-$�SHOP_TAB_NAME_START_7珍玩 
-$�SHOP_TAB_NAME_START_8葫芦 
-$�SHOP_TAB_NAME_START_9用品 
-%�SHOP_TAB_NAME_START_10材料 
-%�SHOP_TAB_NAME_START_11酒食 
-%�SHOP_TAB_NAME_START_12药材 
-+�SHOP_TAB_NAME_START_13要紧物事 
-�SHOP_TAB_NAME_START_14
-�SHOP_TAB_NAME_START_15
-%�SHOP_TAB_NAME_START_16全部 
-%�SHOP_TAB_NAME_START_17用品 
-%�SHOP_TAB_NAME_START_18材料 
-%�SHOP_TAB_NAME_START_19酒食 
-%�SHOP_TAB_NAME_START_20药材 
-,�SHOP_TAB_NAME_START_21商店Tab结束
-E�TALENT_COST_TALENT_LIMIT$花费足够灵光点可参悟：{0} 
-:�PERMANENT_INCREASE_HP_MAX_BASE生命上限+{0}点 
-:�PERMANENT_INCREASE_MP_MAX_BASE法力上限+{0}点 
-?�#PERMANENT_INCREASE_STAMINA_MAX_BASE气力上限+{0}点 
-1�PERMANENT_INCREASE_DEF_BASE防御+{0}点 
-C�'PERMANENT_INCREASE_STAMINA_RECOVER_BASE气力回复+{0}点 
->�"PERMANENT_INCREASE_FREEZE_DEF_BASE寒冻耐性+{0}点 
-<� PERMANENT_INCREASE_BURN_DEF_BASE火焚耐性+{0}点 
->�"PERMANENT_INCREASE_POISON_DEF_BASE毒伤耐性+{0}点 
-?�#PERMANENT_INCREASE_THUNDER_DEF_BASE雷蛰耐性+{0}点 
-"�TALENT_PLAYER_LEVEL等级 
-F�TALENT_RANK_COST_TALENTPOINT!棍法下花费的灵光点总数 
-&�SETTING_GRAPHICS_DETAIL画质 
-3�SETTING_SUBTITLE_PREVIEW字幕样式预览 
-,�SHRINE_SOULSKILL_STRENGTH_TITLE炼精
-7�SHRINE_SOULSKILL_STRENGTH_TIPS可在此处炼精
-#�SETTING_TAB_LANGUAGE语言 
-/�BTN_TITILE_COST_NOT_ENOUGH材料不足 
-4�BTN_TITILE_HAS_BUILD_SOULSKILL已完成强化
-1�BTN_TITILE_LONG_PRESS_STRENGTH长按强化
-0�CHAPTER_AWARD_NEW_LEGACY取得新根器 
-H�CHAPTER_AWARD_NEW_LEGACY_POINT!可额外参悟一个大圣天赋 
-O�SETTING_RESET_ALL_CONFIRM-确定恢复全部设置项为默认设置？ 
-1�BTN_TITILE_NEED_PREBUILD需要前置强化
-h�SETIING_DLSS_TIPS_SUPPORTF您的显卡不支持DLSS帧生成技术，此设置项无法开启。 
-y�SETIING_DLSS_TIPS_DX12Z您的操作系统版本或显卡不支持FSR帧生成技术，此设置项无法开启。 
-&�TRAVEL_NOTES_TITLE_ECHO回声 
- �TALENT_BASE_TITLE根基 
-L�TALENT_BASE_DESC3提升气力，扎实武艺，加强身段修行。 
-$�TALENT_ADVANCED_TITLE棍法 
-J�TALENT_ADVANCED_DESC-学习招式，精进棍术，壮大棍势。 
-!�TALENT_QISHU_TITLE奇术 
-V�TALENT_QISHU_DESC<随机应变的奇巧法术，进退自如的外道神通。 
-"�TALENT_SHENFA_TITLE身法 
-W�TALENT_SHENFA_DESC<虚实莫测的修身法术，刚柔并济的内道神通。 
-"�TALENT_HAOMAO_TITLE毫毛 
-W�TALENT_HAOMAO_DESC<体用合一的毫毛法术，绝处逢生的通天神通。 
-$�TALENT_BIANSHEN_TITLE变化 
-Y�TALENT_BIANSHEN_DESC<千般百样的变身法术，相生相克的彻地神通。 
-*�SETTING_AUDIO_OUTPUT_EARPHONE耳机
-6�SETTING_AUDIO_OUTPUT_AUDIO音响（环绕声）
-$�SETTING_AUDIO_OUTPUT_TV电视
-'�SETTING_DYNAMIC_RANGE_SMALL小 
-(�SETTING_DYNAMIC_RANGE_MIDDLE中 
-%�SETTING_DYNAMIC_RANGE_BIG大 
-)�DROP_ECHO_UPDATE_TITLE回声更新
--�DROP_ECHO_COLLECT_TITLE回声已收录
-"�ECHO_PLAY_TITLE聆听回声
-�ECHO_STOP_TITLE停止
-!�GAME_VERSION游戏版本 
-#�SYSTEM_VERSION系统版本 
-!�	CPU_MODEL中央处理器 
-�	GPU_MODEL显卡型号 
-'�GPU_DRIVER_VERSION显卡驱动 
-$�GPU_MEMORY_SIZE显卡内存 
-'�SYSTEM_MEMORY_SIZE系统内存 
-:�CLOUD_MOVE_IN_BATTLE_TIPS打斗中，无法腾云 
-8�BENCHMARK_CONFIRM确定进行性能测试吗？ 
-@�BENCHMARK_BACKTOSETTING_CONFIRM确定返回设置吗？ 
-@�BENCHMARK_REDO_CONFIRM!确定重新运行性能测试？ 
-"�SETTING_GORE_CLOASE关闭 
-"�SETTING_GORE_GENTLE和缓 
- �SETTING_GORE_OPEN打开 
-,�SHRINE_HULU_UPGRADE_TITLE葫芦升级
-/�SHRINE_HULU_UPGRADE_TIPS葫芦升级Tips
-/�SHRINE_WINE_UPGRADE_TITLE放入三冬虫
-O�SHRINE_WINE_UPGRADE_TIPS0在酒坛内放入三冬虫，提升酒的功效
-"�WINE_STRENGTH_TAB_NAME酒 
-B�BOSS_ROOM_LEARN_TALENT_TIPS目前状态无法参悟天赋 
-E�BOSS_ROOM_CHANGE_EQUIP_TIPS!目前状态无法更换该物品 
-�	BENCHMARK性能测试 
-O�IS_START_NEW_GAME_PLUS0是否踏入新的轮回，重走西游之路？ 
-(�BTN_TITILE_HAS_UPGRADE	已升级 
-%�AGREEMENT_POLICY_AGREE同意 
-+�AGREEMENT_POLICY_DISAGREE	不同意 
-<�AGREEMENT_POLICY_EULA_TITLE最终用户许可协议 
-��AGREEMENT_POLICY_EULA_TIPS̞<820Privacy_Title>更新日期：2024 年 5 月 31 日</>
-
-
-<820Privacy_Title>前言</>
-
-
-1 本最终用户许可协议（以下简称为“本协议”）是由您（以下亦称为“用户”）与杭州游科互动科技有限公司（以下称为“游戏科学  ”）之间关于用户安装、使用游戏科学旗下游戏软件和相关服务所订立的协议。本协议具有合同效力。
-
-2 在您使用游戏科学提供的游戏或服务之前，游戏科学特别提醒您应认真阅读、充分理解本协议中的所有条款，特别是免除或者减轻游戏科学责任的条款、限制用户权利的条款、法律适用和争议解决条款，并选择接受或不接受。此类条款可能以黑体加粗形式标注。
-
-3 如您不同意本协议的任何条款，则不得安装、使用本协议所涉游戏或服务。您的安装、使用等行为将视为对本协议的认可，并同意接受本协议各项条款的约束。此后您不得再以未阅读/未同意本协议内容为由提出抗辩。
-
-4 如果您未满18周岁或非为完全民事行为能力人 ，请在监护人的陪同下阅读本协议，并特别注意未成年人使用条款等内容，并在取得监护人对本协议全部条款的同意之后，方可使用游戏科学提供的游戏或服务。
-
-
-
-<820Privacy_Title>第一条 定义与解释</>
-
-
-1.1 “游戏”指游戏科学提供的游戏软件（包括在游戏主机、电脑、移动智能设备等终端设备上，以客户端、程序应用或其他形式运行的版本）以及游戏相关的更新、升级、补丁、资料片等，包括但不限于程序代码、图像、音频、视频、文档等所有相关组成部分。
-
-1.2 “服务”指游戏科学向您提供的与上述游戏有关的在线运营服务、客户服务等，并包括游戏本身。
-
-1.3 “用户”指通过合法途径购买并安装游戏或接受服务的自然人或实体。
-
-1.4 “许可”指的是用户在遵守本协议全部条款的前提下，被游戏科学授予的非商业使用性质的、可撤销的、可变更的、非专有的、不可转让、不可转授权的使用本游戏及服务的权利。
-
-1.5 “第三方平台”指使用本游戏和服务时，有时需要登录游戏科学以外的第三方所提供的游戏平台。
-
-1.6 本协议中的所有标题仅为方便阅读，本身并无实际涵义，不影响对协议内容的解释。
-
-
-
-<820Privacy_Title>第二条 使用许可范围与限制</>
-
-
-2.1 在用户同意本协议全部条款的前提下，游戏科学同意授予用户非商业使用性质的、可撤销的、可变更的、非专有的、不可转让、不可转授权的使用本游戏和服务的权利。用户有权在个人使用的终端设备上根据本游戏的设计，运行本游戏的一份副本并享受游戏科学的服务。
-
-2.2 未经游戏科学事先书面同意，用户不得实施以下行为（包括营利性和非营利性的） ：
-（1）利用反向工程、反向编译、反汇编等技术手段破解、拆解或以其他方式试图获取游戏的源代码；
-（2）复制、分发、传播或展示游戏源代码、使用手册和图文印象资料内容；
-（3）公开展示，或以任何形式、在任何平台表演或播放游戏/服务的内容；  
-（4）制作游戏的衍生作品或以其他方式利用游戏进行创作；  
-（5）出租、出借或以其他方式转让游戏的使用权，或利用游戏从事任何营利活动；
-（6）删除、修改或遮盖游戏程序、动画、包装和文档等内容中的游戏科学名称、版权或商标信息、其他知识产权声明等内容；
-（7）其他违反著作权法、商标法、计算机软件保护条例和相关法律法规、国际条约、公约的行为。
-
-
-
-<820Privacy_Title>第三条 权利声明</>
-
-
-3.1 游戏科学拥有本游戏和相关服务的所有权利，以及其中包含的数据和内容，包括但不限于游戏名称、程序源代码、角色名称、形象、装备、特技设定、概念定义、资料信息、故事情节、对话文本、美术、图案、景观设计、动画、声音、音乐、视听效果、操作界面、操作方法以及所有相关文档(合称为“游戏内容”)。本游戏和游戏内容受著作权法和其他知识产权法律法规、国际条约和公约的保护。本游戏和游戏内容相关的计算机软件著作权、美术作品著作权、商标权、专利权等知识产权和商业秘密等合法权益均属于游戏科学。
-
-3.2 用户仅获得游戏的使用权。
-
-3.3 本协议未明确授予用户的权利均由游戏科学保留，包括但不限于从中创作衍生作品   的权利。用户同意不会基于游戏或游戏内容创作任何具有作者身份的作品，且不会使用游戏科学的名称、商标、域名或标语，除非事先经游戏科学书面同意。
-
-
-
-<820Privacy_Title>第四条 更新、支持  与第三方平台</>
-
-
-4.1 游戏科学有权根据需要提供或部署补丁对游戏进行更新、升级或修改，以改进游戏的用户体验、功能、性能或安全性。
-
-4.2 游戏科学将根据情况提供必要的技术支持，但不保证能够解决所有用户遇到的问题。用户应自行承担因使用游戏而产生的风险和后果。
-
-4.3 用户使用本游戏和服务时，有时需要登录游戏科学以外的第三方平台，在这种情况下，用户应遵守第三方平台的使用规则和服务条款。除非是直接与本游戏和服务相关联，游戏科学不对第三方平台的服务或内容承担任何责任。
-
-
-
-<820Privacy_Title>第五条 隐私政策</>
-
-
-5.1 游戏科学将严格遵守相关法律法规，保护用户的个人信息安全。用户的个人信息包括用户注册资料中的真实姓名、身份证件号码、联系方式、家庭住址、游戏账号等。未经用户同意，游戏科学不会将用户的个人信息提供给第三方。
-
-5.2 用户知悉并同意游戏科学在下列情形下有权向相关主体提供用户的个人信息：
-（1）为订立或履行用户作为一方当事人的合同所必需的；  
-（2）为履行法定义务，或紧急情况下为保护用户或他人的生命健康和财产安全所必需的；
-（3）行政机关或司法机关基于法定程序要求游戏科学提供的；  
-（4）在合理范围内处理用户自行公开或者已经合法公开的个人信息；
-（5）用户或者其监护人授权游戏科学披露或使用的；
-（6）游戏科学为维护自身合法权益而向用户提起诉讼或仲裁；   
-（7）法律、行政法规规定的其他情形。
-
-5.3 为保障用户的隐私权、规范对用户个人信息的利用，游戏科学制定了《隐私政策》、《儿童个人信息保护规则》，请用户详细阅读该政策的内容。   
-
-5.4 为优化用户体验，游戏科学经用户同意后，可能会收集用户使用游戏时的相关信息（以下称“用户游戏信息”），包括游戏中的统计数据、使用历史以及您用于游戏的设备硬件配置等。用户知悉游戏科学出于维护、运营和支持以及营销的目的分析和使用用户游戏信息，具体内容详见《数据采集和处理协议》。   无论是否同意游戏科学收集上述信息，都不会影响您正常使用本游戏和服务。
- 
-
-
-<820Privacy_Title>第六条 游戏科学的义务</>
-
-
-6.1 游戏科学同意通过互联网络或其他形式，按照本协议约定，为用户提供游戏和服务。
-
-
-
-<820Privacy_Title>第七条 用户的义务</>
-
-
-7.1 用户应自行配备用于安装、使用本游戏和服务的终端设备（包括但不限于游戏主机、电脑、移动智能设备、平板电脑等）。
-
-7.2 用户应遵守本协议的约定、其他相关规则和制度的规定（包括但不限于用户签署的隐私协议或服务协议，以及官方网站、官方微信公众号或本游戏内不时发布并修订的协议、用户守则、公告及通知等内容），遵守中华人民共和国相关法律法规（如果用户是中华人民共和国境外的使用者，还应遵守所在或所属国家或地区的法律法规）。
-
-7.3 用户必须为自己账号下的一切行为负责，包括但不限于用户所发表的任何内容以及由此产生的任何后果。
-
-7.4 用户除了可以按照本协议的约定使用本游戏和服务之外，不得进行任何侵犯游戏科学的知识产权或权益的行为，或者进行其他的有损于游戏科学或其他第三方合法权益的行为。
-
-
-
-<820Privacy_Title>第八条 不正当行为</>
-
-
-8.1 用户应当自行承担其所发布的信息内容所涉及的责任。特别地，用户不得发布下列内容：
-（1）反对中华人民共和国宪法所确定的基本原则的  ；
-（2）危害国家安全，泄露国家秘密，颠覆国家政权，破坏国家统一的；
-（3）损害国家荣誉和利益的；
-（4）煽动民族仇恨、民族歧视，破坏民族团结的；
-（5）破坏国家宗教政策，宣扬邪教和封建迷信的；
-（6）散布谣言，扰乱社会秩序，破坏社会稳定的；
-（7）散布淫秽、色情、赌博、暴力、凶杀、恐怖或者教唆犯罪的；
-（8）侮辱或者诽谤他人，侵害他人合法权益的；
-（9）宣扬、教唆使用外挂、私服以及木马的相关内容的；
-（10）发布任何经游戏科学合理判断为不妥当或者游戏科学未认可的软件、文件等在内的主页地址或者链接的；
-（11）含有中华人民共和国法律、行政法规禁止的其他内容的。
-
-8.2 用户不得通过不正当、不公平的手段使用本游戏或服务，包括但不限于下列行为：
-（1）删除游戏及其副本上有关著作权及其他知识产权的声明或信息；
-（2）对游戏进行反向工程、反向汇编、反向编译或者以其他方式获取软件代码；
-（3）对游戏进行扫描、探查、测试，以检测、发现、查找其中可能存在的Bug或弱点；
-（4）对游戏或者游戏运行过程中释放到任何终端内存中的数据、游戏运行过程中客户端与服务器端的交互数据，以及游戏运行所必需的系统数据，进行复制、修改、增加、删除、挂接运行或创作任何衍生作品，形式包括但不限于使用插件、外挂或非经合法授权的第三方工具/服务接入游戏和相关系统；
-（5）修改或伪造游戏运行中的指令、数据，增加、删减、变动游戏的功能或运行效果，或者将用于上述用途的软件、工具、方法进行运营或向公众传播，无论是否基于营利目的而实施上述行为；
-（6）通过非游戏科学开发或授权的第三方软件、插件、外挂、系统，使用本游戏或服务，或制作、发布、传播非游戏科学开发、授权的第三方软件、插件、外挂、系统；
-（7）对本游戏中游戏科学拥有知识产权或权益的内容进行使用、出租、出借、复制、修改、链接、转载、汇编、发表、出版、建立镜像站点等；
-（8）建立有关游戏科学、本游戏或服务的镜像站点，或者进行网页快照、利用架设服务器等方式，为他人提供与本游戏或服务完全相同或者类似的软件或服务；
-（9）将本游戏或服务的任意部分分离出来单独使用，或者进行其他的不符合本协议的使用；
-（10）使用、修改或遮盖游戏科学、本游戏或服务名称、商标或其他知识产权；
-（11）其他未经游戏科学事先书面授权的行为。
-
-8.3 用户不得干扰游戏科学正常地提供软件和服务，包括但不限于：攻击、侵入游戏科学的网站服务器，或集中时间段内以超出正常用户登录需求的高频率登录或尝试登录服务器从而使网站服务器过载；破解、修改游戏科学提供的游戏软件程序；攻击、侵入游戏科学的服务器/服务器端程序或使游戏服务器过载；制作、发布、传播、使用任何形式的妨碍游戏公平性的辅助工具或程序（包括但不限于“外挂”, “外挂”是指独立于游戏软件之外的，能够在游戏运行的同时影响游戏操作的所有程序，包括但不限于模拟用户操作、改变操作环境、修改数据等一切类型）。用户不得：利用程序的漏洞和错误（Bug）破坏游戏的正常进行或传播该漏洞或错误（Bug）；不合理地干扰或阻碍他人使用游戏科学所提供的软件和服务；通过异常或者非法的方式使用游戏科学的游戏、服务、软件；使用异常的方法登录游戏（包括但不限于使用非游戏科学开发、授权或认可的第三方软件、系统登录游戏）、使用外挂软件或机器人程序等恶意破坏服务设施、扰乱正常服务秩序的行为；修改、翻译、注释、整理、汇编、演绎游戏科学的游戏软件；利用本游戏可能存在的技术缺陷或漏洞而以各种形式为自己及他人牟利或者从事其他不正当行为等。
-
-
-
-<820Privacy_Title>第九条 免责声明</>
-
-
-9.1 游戏科学的游戏以“现状”提供给用户，不保证游戏完全没有错误或缺陷及不会中断。除游戏科学存在故意或重大过失的情况外，用户应自行承担因游戏运行中的故障、错误、缺陷、数据丢失等造成的风险和后果。  
-
-9.2 对于因用户使用游戏而产生的任何直接、间接、特殊、偶然或必然的损失或损害，包括但不限于财产损失、数据丢失、业务中断等，除游戏科学存在故意或重大过失的情况外，游戏科学不承担赔偿责任。
-
-9.3 用户应自行确保其终端设备满足运行游戏的最低系统要求，并采取必要的安全措施保护其终端设备和数据安全。游戏科学对因用户终端设备或网络安全问题导致的损失或损害不承担责任。
-
-9.4 用户充分理解不同终端设备、不同操作系统之间存在不互通的客观情况，该客观情况并非游戏科学造成，由此可能导致用户在某一终端设备、某一操作系统中的数据不能顺利转移到另一终端设备、另一操作系统中。由于用户在不同终端设备、不同操作系统进行切换造成的数据丢失等风险应由用户自行承担，不得要求游戏科学承担任何责任。
-
-9.5 游戏科学可独立决定随时变更、中止、终止用户对本游戏或服务的使用，无须向用户发出任何提前通知，但根据法律法规规定或与本协议约定需要提前通知的除外。若因用户的行为违反法律法规的规定或本协议的约定，游戏科学根据相关规定或约定中止、终止用户使用本游戏或服务，则游戏科学无须向用户承担任何责任，且有权要求用户承担相应的责任。
-
-
-
-<820Privacy_Title>第十条 服务的中止、终止</>
-
-
-10.1 对用户服务的中止、终止 
-
-(1)用户有发布违法信息、严重违背社会公德、以及其他违反法律禁止性规定的行为的，应当立即停止使用本游戏并自行卸载，游戏科学有权立即终止对用户提供服务  ；
-(2)用户在接受游戏科学服务时实施不正当行为的，游戏科学有权终止对用户提供服务。该不正当行为的具体情形应当在本协议中有明确约定或属于游戏科学事先明确告知的应被终止服务的禁止性行为，否则，游戏科学不得终止对用户提供服务。用户账号内的虚拟物品使用权随服务的终止而终止。
-（3）用户提供虚假注册身份信息，或实施违反本协议的行为，游戏科学有权中止对用户提供全部或部分服务；游戏科学采取中止措施应当通知用户并告知中止期间，中止期间应当是合理的，中止期间届满游戏科学应当及时恢复对用户的服务。用户账号内的虚拟物品使用期限不因服务的中止而延长。
-
-10.2 服务终止后，游戏科学不再对用户承担任何义务或责任。用户应自行承担因服务终止而产生的任何损失或损害。
-
-10.3 单机游戏服务的特别说明
-
-主体为单机游戏的游戏服务中，全部游戏数据将保存在您的终端设备上，一旦用户卸载、重装游戏，或用户的终端设备损坏导致游戏无法正常启动的，用户的全部游戏数据将无法恢复。如用户需将游戏数据保存在游戏服务器中的，需要联网进行数据保存操作。  
-
-
-
-<820Privacy_Title>第十一条 法律适用与争议解决</>
-
-
-11.1 本协议的订立、效力、解释、履行及争议解决均适用中华人民共和国法律并排除其他一切冲突法的适用。
-
-11.2 本协议订立于杭州市西湖区。如双方就本协议产生任何争议，应首先通过友好协商解决；协商不成时，双方同意交由本协议订立地有管辖权的人民法院管辖并处理。
-
-11.3 如本协议中的任何条款因任何原因被认定为无效或不可执行，该无效或不可执行不影响其他条款的效力或可执行性。双方应协商确定新的条款以替代无效或不可执行的条款。
-
-
-
-<820Privacy_Title>第十二条 协议生效与变更</>
-
-
-12.1 本协议自用户点击“接受”或“同意”按钮或以其他方式签署本协议之日起生效，并持续有效至双方依据本协议的约定终止本协议。
-
-12.2 本协议构成双方之间关于本游戏和服务的完整协议，并取代之前所有的口头或书面协议、声明或保证。
-
-12.3 游戏科学可随时更新本协议，更新的协议条款公布后即代替原来的协议条款，修改后的协议将通过游戏内公告、官方网站或其他适当方式通知用户。在游戏科学修改协议条款后，如用户不接受修改后的条款，请立即停止使用游戏科学提供的游戏或服务，用户继续使用游戏科学提供的游戏或服务将被视为已接受了修改后的协议。
-
-12.4 本协议的解释权归游戏科学所有。对于本协议中未明确约定的事项，双方应依据公平、诚实信用的原则协商解决。
-
-12.5 游戏科学不行使、未能及时行使或者未充分行使本协议或者按照法律规定所享有的权利，不应被视为放弃该权利，也不影响游戏科学在将来行使该权利。
-
-
-
-<820Privacy_Title>第十三条 通知</>
-
-
-13.1 游戏科学向用户发出的任何通知或信息，可通过游戏内公告、电子邮件、短信、官方网站或其他适当方式进行。用户应确保提供给游戏科学的联系方式真实有效，以便及时接收通知。
-
-13.2 如用户需要向游戏科学发出任何通知或请求，可联系官方客服邮箱：privacy@gamesci.com.cn。游戏科学将尽快处理用户的合法请求和反馈。
-
-
-
-<820Privacy_Title>第十四条 未成年人使用条款</>
-
-
-14.1 如用户为18周岁以下的未成年人， 应确保家长或监护人了解并同意本协议的所有内容，并在家长或监护人的陪同下使用游戏。家长或监护人应对未成年人用户在使用本游戏或服务过程中的行为承担全部责任。
-
-14.2 游戏科学重视未成年人隐私的保护，将严格按照相关法律法规的要求，采取适当的技术和管理措施，保护未成年人个人信息。
-
-14.3 未成年人用户必须遵守全国青少年网络文明公约：要善于网上学习，不浏览不良信息；要诚实友好交流，不侮辱欺诈他人；要增强自护意识，不随意约会网友；要维护网络安全，不破坏网络秩序；要有益身心健康，不沉溺虚拟时空。
-
-
-
-<820Privacy_Title>第十五条 附则</>
-
-
-15.1 本协议中的“包括但不限于”意味着所列出的内容仅为示例，并非穷尽所有可能的情况。
-
-15.2 本协议以中文书写，如有任何语言版本之间的冲突或不一致，应以中文版本为准。 
-?�AGREEMENT_POLICY_PRIVACY_TITLE个人信息保护政策 
-ެ�AGREEMENT_POLICY_PRIVACY_TIPS��<820Privacy_Title>更新日期：2024 年 5 月 31 日</>
-
-
-<820Privacy_Title>前言</>
-
-
-欢迎您选择由杭州游科互动科技有限公司（以下简称“我们”，注册地为中华人民共和国浙江省杭州市）提供的游戏（以下简称“本游戏”），浏览我们的网站（以下简称“服务”）！您在使用服务时，我们可能会收集和使用您的相关个人信息。我们希望通过《隐私和Cookie协议》（以下简称“本协议”）向您说明我们在收集和使用您相关个人信息时对应的处理规则等相关事宜，以便更好地保障您的权益。
-
-在使用服务前，请您务必仔细阅读并透彻理解本协议，在确认充分理解并同意后再开始使用。如果您不同意本协议的内容，将可能导致服务无法正常提供，或者无法达到我们拟达到的服务效果，您应立即停止访问/使用服务。
-
-本协议将帮助您了解以下内容：
-1.	我们收集的信息
-2.	我们如何收集您的信息
-3.	我们如何使用您的信息
-4.	我们如何共享您的信息
-5.	我们如何保护您的信息
-6.	您的选择和控制
-7.	未成年人的个人隐私
-8.	更新和通知
-9.	联系我们
- 
-
-
-<820Privacy_Title>第一条 我们收集的信息</>
-
-
-我们收集的信息取决于您使用的服务以及您使用服务的方式。
-
-A.	您直接向我们提供的信息
-
-我们收集您向我们提供的信息，例如：
-•	您的账户信息，包括您的电子邮件地址、电话号码、真实姓名或其它身份信息；
-•	您在回应有关我们服务的问卷调查时提供的信息；以及
-•	您在向我们寻求帮助时提供的信息，例如您的姓名、电话号码和您遇到的问题的记录（包括通话记录）。
-
-B.	您进行在线游戏时提供的信息
-
-当您游玩我们的在线游戏时，我们会收集您的游戏内个人资料信息、游玩情况以及游戏数据，并且部分此类信息可能在游戏中可见。
-
-C.	我们在您使用我们的服务时收集的其他信息
-
-在您使用我们的服务时，我们可能会自动收集其他信息，例如：
-•	IP 地址；
-•	与您的设备、硬件和软件有关的信息，例如硬件标识符、移动设备标识符；
-•	大致的地理位置数据（从 IP 地址或设备设置得出）；
-•	浏览器信息，包括您的浏览器类型和语言偏好；
-•	引用页面和退出页面，包括已浏览的页面以及与网页内容的其他交互；
-•	设备事件信息，包括崩溃报告、请求和引荐 URL 以及系统活动详细信息（例如，您在玩我们的游戏时是否遇到错误或掉线）；以及
-•	您在参加现场活动时可能提供的其他信息（例如您的肖像）。
-
-我们还可能会利用 cookie、浏览器 Web 存储（包括 HTML 5）和应用程序数据缓存等机制，在您的本地设备上收集和存储信息。
-
-请注意，如果我们服务的某些功能是由第三方提供的，则这些第三方也可能使用自动收集数据的方法，并可能随着时间的推移记录有关您使用服务或其他网站的信息。这些功能受第三方隐私通知和政策的约束。
-
-
-
-<820Privacy_Title>第二条 我们如何收集您的信息</>
-
-
-我们和第三方使用以下技术来收集信息，以提供我们的服务。
-
-A.	Cookie 和类似技术
-
-Cookie是一种文本文件，当您加载某个特定网址时，会被存储到您的设备或浏览器中。Cookie有很多不同的功能，比如为您带来高效的页面导航体验，记住您的偏好，以及改善用户的整体体验。举例而言，cookie可能会告诉我们，您以前是否使用过服务，或者您是否是新用户。
-Cookie被广泛使用以使网站更好的运行或更有效地工作，并为网站所有者报告信息。由网站所有者设置的cookie称为“第一方cookie”。由网站所有者以外的第三方设置的cookie称为“第三方cookie”（例如网站数据分析）。
-
-我们使用必要的cookie、日志文件和类似的文件或技术以保证服务正常运行。经过您的同意，我们也可能使用非必要的cookie来改善用户体验和分析网站流量。
-
-B.	分析技术
-
-我们使用内部和第三方分析技术来收集关于您如何使用我们的服务、您的计算机或设备以及我们的服务运行状况的信息。
-
-例如，当您使用我们的服务时，我们可能会收集和存储来自您的计算机或设备的数据。这些信息包括：与您的计算机、设备和操作和/或网络系统有关的技术和相关信息（例如 IP 地址和设备标识符）；与您对某些功能的使用情况有关的信息；游戏和使用情况统计数据；以及系统交互和外设。如果您在未连接到互联网的情况下离线玩游戏，这些数据将存储在您的设备上，并在您的设备连接到互联网时传输给我们。如果您参与在线服务，我们也可能会收集、使用、存储和传输您的游戏设置相关的人物角色和/或统计数据。
-
-
-
-<820Privacy_Title>第三条 我们如何使用您的信息</>
-
-
-我们采用以下方式单独和共同使用您的个人信息。
-
-A.	运行我们的服务并且提高和定制您的游戏体验，包括以下措施：
-•	运营、分析、改进和开发我们的游戏和服务；
-•	进行研究和分析，开发和展示我们的技术，并更好地了解我们的玩家；
-•	衡量我们服务的运行状况；
-•	设置并维护您注册的账户；
-•	识别、修复和排除漏洞或功能错误；
-•	符合您的偏好并提供内容；
-•	帮助确保我们的服务安全和公平，解决争议，调查并帮助遏制欺诈和非法行为，遵守法律，并强制执行我们的协议和政策；以及
-•	在您提供个人信息时您同意、获知或以其他方式向您披露的其他用途。
-
-B.	向您提供支持，包括：
-•	帮助识别和解决您的账户或服务的问题；
-•	问卷调查；
-•	与您沟通并回复您的具体请求或问题；以及
-•	管理和发送关于您的账户、服务、订阅和保证的确认和重要信息。
-
-C.	个性化我们与您的通信，包括：
-•	为您提供游戏相关内容、推荐或信息；以及
-•	为您提供服务更新。
-
-D.	保留
-
-我们会在提供服务所必需的时间内保留所收集的信息，但基于法律、运营或其他正当原因，若有必要，我们保留信息的时间可能会超出这个期限。
-
-在可能的情况下，我们也可能去识别化、匿名化或汇总我们收集的信息，或者以不直接识别您身份的方式收集信息。在适用法律允许的情况下，我们可能出于业务目的而使用和共享此类信息。
-
-
-
-<820Privacy_Title>第四条 我们如何共享您的信息</>
-
-
-A.	委托处理
-
-本业务功能中某些具体的模块或功能由外部供应商提供。对我们委托处理个人信息的公司、组织和个人，我们会与其签署严格的保密协定，要求他们按照我们的要求、本协议以及其他任何相关的保密和安全措施来处理个人信息。
-
-B.	共享
-
-我们非常重视保护您的个人信息，我们不会与本游戏服务提供者以外的公司、组织和个人共享您的个人信息，但以下情况除外：
-•	在获取明确同意的情况下共享：获得您的明确同意后，我们会与其他方共享您的个人信息；
-•	在法定情形下的共享：我们可能会根据法律法规规定、诉讼争议解决需要，或按行政、司法机关依法提出的要求，对外共享您的个人信息；以及
-•	与关联方的必要共享：为便于我们基于统一的帐号体系向您提供一致化服务以及便于您进行统一管理、个性化推荐、保障系统和帐号安全等，您的个人信息可能会在我们和我们的关联方之间进行必要共享。我们只会共享必要的个人信息，如果我们共享您的个人敏感信息或关联公司改变个人信息的使用及处理目的，将再次征求您的授权同意。
-
-C.	与第三方合作伙伴共享
-
-仅为实现外部处理的目的，我们可能会与第三方合作伙伴（第三方服务供应商、承包商、代理、广告合作伙伴、应用开发者等，例如，代表我们发出电子邮件或推送通知的通讯服务提供商）共享您的个人信息，让他们按照我们的说明、本协议以及其他相关的保密和安全措施来为我们处理上述信息，并用于以下用途：
-•	向您提供我们的服务；
-•	实现“我们如何收集您的信息”和“我们如何使用您的信息”部分所述目的；以及
-•	履行我们在用户协议或本协议中的义务和行使我们的权利。
-
-如我们与第三方合作伙伴共享您的信息，我们将会采用加密、匿名化处理等手段保障您的信息安全。
-
-D.	发生合并、出售或其他资产转移时的披露
-
-如果发生重组、剥离、合并、出售或破产，我们会将收集到的所有信息传输给相关第三方，如果法律或合同有规定，我们会征得您的同意。
-
-E.	公开披露
-
-我们仅会在以下情况下，且采取符合业界标准的安全防护措施的前提下，才会披露您的个人信息：
-•	根据您的需求，在您明确同意的披露方式下披露您所指定的信息；以及
-•	根据法律、法规的要求、强制性的行政执法或司法要求所必须提供您信息的情况下，我们可能会依据所要求的信息类型和披露方式披露您的信息。在符合法律法规的前提下，当我们收到上述披露信息的请求时，我们会要求接收方必须出具与之相应的法律文件，如传票或调查函。我们坚信，对于要求我们提供的信息，应该在法律允许的范围内尽可能保持透明。我们对所有的请求都进行了慎重的审查，以确保其具备合法依据，且仅限于执法部门因特定调查目的且有合法权利获取的数据。
-
-F.	共享、转让、披露信息时事先征得授权同意的例外
-
-以下情形中，共享、转让、披露您的信息无需事先征得您的授权同意：
-•	与国家安全、国防安全直接相关的；
-•	与公共安全、公共卫生、重大公共利益直接相关的；
-•	与刑事侦查、起诉、审判和判决执行等司法或行政执法直接相关的；
-•	出于维护您或其他个人的生命、财产等重大合法权益但又很难得到本人同意的；
-•	您自行向社会公众公开的信息；
-•	从合法公开披露的信息中收集信息的，如合法的新闻报道、政府信息公开等渠道；以及
-•	与我们履行法律法规规定的义务相关的。
-
-根据法律规定，共享、转让、披露经去标识化处理的个人信息，且确保数据接收方无法复原并重新识别信息主体的，不属于个人信息的对外共享、转让及公开披露行为，对此类数据的保存及处理将无需另行向您通知并征得您的同意。
-
-
-
-<820Privacy_Title>第五条 我们如何保护您的信息</>
-
-
-A.	个人信息的存储
-
-除法律法规或监管部门另有规定外，我们仅在本协议所述目的所必需且最短的时限内存储您的个人信息。如我们终止服务或运营，我们将及时停止继续收集您个人信息的活动，同时会遵守相关法律法规要求提前向您通知，并在终止服务或运营后对您的个人信息进行删除或匿名化处理，但法律法规或监管部门另有规定的除外。
-我们会按照法律法规规定，将中华人民共和国境内运营中收集和产生的用户个人信息存储于中国境内。以下情形除外：（1）法律有明确规定；（2）获得您的明确授权；（3）您要求获取境外服务等个人主动行为。
-
-当我们的产品或服务发生停止运营的情况时，我们将根据相关法律法规规定进行公告通知，并依法保障您的合法权益。
-
-B.	个人信息的保护
-
-我们非常重视信息安全，成立了专门的安全团队，并采取一切合理可行的措施，保护您的个人信息：
-
-i.	数据安全技术措施
-我们会采用符合业界标准的安全防护措施，包括建立合理的制度规范、安全技术来防止您的个人信息遭到未经授权的访问、使用、修改，避免数据的损坏或丢失。
-我们的服务采取了多种加密技术，例如利用加密技术（例如SSL）对您的个人信息进行加密保存，并通过隔离技术进行隔离，以保护您的个人信息。
-在个人信息使用时，例如信息展示、信息关联计算，我们会采用多种数据脱敏技术增强信息在使用中的安全性。
-我们还会采用严格的数据访问权限控制和多重身份认证技术保护个人信息，避免数据被违规使用。
-
-ii.	我们为保护个人信息采取的其他安全措施
-•	我们设立了个人信息保护责任部门，建立了相关内控制度，对可能接触到您的信息的工作人员采用最小够用授权原则。即我们仅允许有必要知晓这些信息的本产品和其关联公司的员工在采取合理的措施验证身份之后，访问或修改这些信息。同时，我们会严格要求他们履行保密及安全义务，如果未能履行这些义务，其会被追究法律责任或被终止与本公司的合作关系。我们通过信息接触者保密协议、监控和审计机制来对数据进行全面安全控制。我们还会举办安全和隐私保护培训课程，加强员工的安全意识以及对于个人信息保护政策和相关规程的认识；
-•	为了保护您的信息安全，如果用户个人信息有误，本产品会在严格验证并核实申请人身份后，根据用户要求访问、修正或删除相关信息（除非本产品出于合法的原因而必须保留这些个人信息）；
-•	我们会采取合理可行的措施，尽力避免收集无关的个人信息。我们只会在达成本协议所述目的所需的期限内保留您的个人信息，除非需要延长保留期或受到法律的允许；
-•	互联网并非绝对安全的环境，而且电子邮件、即时通讯、社交软件或其他服务软件等与其他用户的交流方式无法确定是否完全加密，我们建议您使用此类工具时请使用复杂密码，并注意保护您的信息安全；
-•	互联网环境并非百分之百安全，我们将尽力确保或担保您发送给我们的个人信息的安全性。如果我们的物理、技术、或管理防护设施遭到破坏，导致个人信息被非授权访问、公开披露、篡改、或毁坏，导致您的合法权益受损，我们将承担相应的法律责任；
-•	您使用本游戏服务时所用的系统和通讯网络，或硬件设备等本产品均无法控制，请您了解并注意保护您的个人信息安全；
-•	请注意，您在使用本游戏服务时自愿共享甚至公开分享的信息，可能会涉及您或他人的个人信息甚至个人敏感信息，如您在评价时选择上传包含个人信息的图片。请您更加谨慎地考虑，是否在使用我们的服务时共享甚至公开分享相关信息；以及
-•	请使用复杂密码，协助我们保证您的账号安全。我们将尽力保障您发送给我们的任何信息的安全性。如果我们的物理、技术或管理防护设施遭到破坏，导致信息被非授权访问、公开披露、篡改或毁坏，导致您的合法权益受损，我们将承担相应的法律责任。
-
-C.	安全事件处置
-
-为应对个人信息泄露、损毁和丢失等可能出现的风险，我们制定了多项制度，明确安全事件、安全漏洞的分类分级标准及相应的处理流程。我们也为安全事件建立了的应急响应团队，按照安全事件处置规范要求，针对不同安全事件启动安全预案，进行止损、分析、定位、制定补救措施、联合相关部门进行溯源和打击。我们亦定期组织内部培训和应急演练，使得我们的相关工作人员掌握相应的应急处置策略和规程。
-
-在不幸发生信息安全事件后，我们将按照法律法规的要求，及时向您告知：安全事件的基本情况和可能的影响、我们已采取或将要采取的处置措施、您可自主防范和降低风险的建议、对您的补救措施等。我们同时将及时将事件相关情况以邮件、信函、电话、推送通知等方式告知您，难以逐一告知信息主体时，我们会采取合理、有效的方式发布公告。同时，我们还将按照监管部门要求，主动上报信息安全事件的处置情况。
-
-请您理解，由于技术的限制以及风险防范的局限，即便我们已经尽量加强安全措施，也无法始终保证信息百分之百的安全。您需要了解，您接入本游戏服务所用的系统和通讯网络，有可能因我们可控范围外的情况而发生问题。
-
-请您务必妥善保管好您的帐号、密码及其他身份要素。您在使用本游戏服务时，我们会通过您的帐号、密码及其他身份要素来识别您的身份。一旦您泄露了前述信息，您可能会蒙受损失，并可能对您产生不利。如您发现帐号、密码及/或其他身份要素可能或已经泄露时，请您立即和我们取得联系，以便我们及时采取相应措施以避免或降低相关损失。
-
-
-
-<820Privacy_Title>第六条 您的选择和控制</>
-
-
-关于我们收集的个人信息，我们设法向您提供有意义的选择。您可以选择的具体选项往往因我们与您关系的确切性质而不同，例如您使用的服务。常见示例包括：
-•	关于我们向您收集的个人信息，您可以要求我们提供访问权限，或要求我们进行纠正或删除。请按照下文“联系我们”所述联系我们，以提交访问、更新或删除与您的帐户相关的个人信息的要求。请注意，在完成您的要求之前，我们可能要求您提供额外信息，以帮助我们核实您的身份。
-•	您可以随时更改您的电子邮件营销偏好，例如通过使用我们的营销电子邮件中提供的选择退出机制，或联系我们提出要求（见下文“联系我们”）。
-•	您可以更改您的浏览器或移动设备设置，以阻止、管理、删除或限制 cookie 等跟踪技术。在某些情况下，阻止或禁用 cookie 可能会导致我们的服务无法正常运行，并且一些功能可能无法使用。
-•	如果您未满 18 岁并拥有Game Science帐户，您可以要求我们删除或匿名处理您在服务上提供的某些内容。请按照下文“联系我们”所述，向我们提出帮助删除或编辑服务上的内容的要求。
-
-全球部分地区根据当地法律规定的权利，为个人提供与其个人信息有关的具体选择。
-
-
-
-<820Privacy_Title>第七条 未成年人的个人隐私</>
-
-
-如果没有父母或监护人的同意，未成年人不得创建自己的用户账户。如您为未成年人，建议您请您的父母或监护人仔细阅读本隐私和Cookie协议，并在征得您的父母或监护人同意的前提下使用我们的服务或向我们提供信息。
-
-对于经父母或监护人同意使用我们的产品或服务而收集未成年人个人信息的情况，我们只会在法律法规允许、父母或监护人明确同意或者保护未成年人所必要的情况下使用、共享、转让或披露此信息。
-
-对于未满14周岁的未成年人信息保护政策，请具体参见《儿童个人信息保护政策》。
- 
-
-
-<820Privacy_Title>第八条 更新与通知</>
-
-
-为了给您提供更好的服务，我们可能会根据本游戏服务的更新情况及法律法规的相关要求适时修改本协议的条款，此等修改构成本协议的一部分。我们会在本页面上公布对本协议所作的任何变更。对于重大变更，我们还会提供更为显著的通知（包括网站公告、推送通知、弹窗提示或其他方式），本协议所指的重大变更包括但不限于：
-•	我们的服务模式发生重大变化。如处理个人信息的目的、处理的个人信息类型、个人信息的使用方式等；
-•	我们在所有权结构方面发生重大变化。如业务调整、破产并购等引起的所有者变更等；
-•	个人信息共享、转让或公开披露的主要对象发生重大变化；
-•	您参与个人信息处理方面的权利及其行使方式发生重大变化；
-•	我们负责处理个人信息安全的责任部门、联络方式及投诉渠道发生重大变化；以及
-•	其他重要的或可能严重影响您的个人权益的情况发生。
-•	您如果不同意该等变更，可以选择停止使用本游戏服务及网站服务；如您仍然继续使用本游戏服务及网站服务的，即表示您已充分阅读、理解并同意受经修订的本协议的约束。
-
-我们鼓励您在每次使用本游戏服务及本网站服务时都查阅我们的隐私和Cookie协议。
-
-
-
-<820Privacy_Title>第九条 联系我们</>
-
-
-我们将按照本协议保护您的个人信息。如您有关于网络信息安全的投诉和举报，或您对本协议、隐私措施、您的信息的相关事宜有任何问题、意见或建议，请通过以下方式与我们联系：privacy@gamesci.com.cn。
-
-一般情况下，我们将在收到您的问题、意见或建议，并验证您的用户身份后的15个工作内予以回复。如您不满意我们的回复，还可以向消费者权益保护部门投诉或向有管辖权的法院提起诉讼。 
-?�AGREEMENT_POLICY_DATA_TITLE数据储存和处理协议 
-��AGREEMENT_POLICY_DATA_TIPS�<820Privacy_Title>更新日期：2024 年 5 月 31 日</>
-
-
-<820Privacy_Title>前言</>
-
-
-1 为了不断优化用户体验和游戏难度、开发新功能、提高服务质量，在得到用户（以下亦称“您”）同意的情况下，杭州游科互动科技有限公司（以下称“游戏科学”）将通过游戏程序收集并分析您在游戏过程中的相关数据（以下称“用户游戏数据”）。游戏科学特制订本《数据储存和处理协议》（以下简称“本协议”），以明确收集、储存和处理用户游戏数据的目的、方式和范围，保障您的合法权益。
-
-2 您可以自由选择是否同意本协议，即使您不同意，也不会影响您继续游戏。
-
-
-
-<820Privacy_Title>第一条 数据的收集</>
-
-
-1.1 收集的数据类型：
-•	平台账号数据，包括账号ID，用户昵称，年龄分级；
-•	游戏体验数据，包括游戏时长、单关卡耗时、死亡次数、装备选择、技能升级路线等；
-•	设备硬件、软件和网络信息； 
-•	设备型号；
-•	设备性能参数；
-•	程序崩溃信息。
-
-以上数据将有助于游戏科学进行游戏平衡性优化，改善游戏体验，修复BUG。
-
-1.2 收集方式：游戏程序将在您游玩过程中自动记录上述数据，并通过加密方式传输至游戏科学的服务器或与游戏科学签约的云运营商服务器进行储存和处理。
-
-
-
-<820Privacy_Title>第二条 数据的储存</>
-
-
-2.1 数据安全：游戏科学将采取严格的数据加密措施，确保用户游戏数据在储存过程中不被未经授权的第三方获取或篡改。
-
-
-
-<820Privacy_Title>第三条 数据的处理</>
-
-
-3.1 处理目的：收集的游戏数据将仅用于游戏难度调整、用户体验优化、游戏内部统计分析、推广活动（包括统计数据的公开）等合法合规的目的。游戏科学不会将您的数据进行公开，或者用于任何与本协议约定不符的用途。
-
-3.2 数据共享：游戏科学承诺不会将您的个人游戏数据共享给任何第三方，除非事先获得您的明确同意或法律法规另有规定。
-
-3.3 匿名化处理：在进行游戏内部统计分析时，游戏科学将对收集到的数据进行匿名化处理，以确保无法直接关联到您的个人身份。
-
-
-
-<820Privacy_Title>第四条 用户的权利</>
-
-
-4.1 同意的撤回：您可以随时从游戏菜单“设置”界面的“游戏”页签中撤回本协议同意内容。但这不影响在您撤回之前游戏科学对数据的合法收集和处理。
-
-
-
-<820Privacy_Title>第五条 其他</>
-
-
-5.1 本协议自您点击“接受”或“同意”按钮或以其他方式签署本协议之日起生效，并持续有效至您撤回对本协议的同意或者注销游戏账号。
-
-5.2 对用户游戏数据的收集、存储、处理方式同时将遵循用户所在国家的个人信息收集相关法律法规的要求。
-
-5.3 关于用户的个人信息处理，本协议未包含的事项，全部以游戏科学的《隐私协议》为准。在您同意本协议之前，请先查阅和同意《隐私协议》。
-
-5.4 在不违反法律法规和本协议约定的前提下，游戏科学保留对本协议进行修改的权利。修改后的协议将通过游戏内公告或其他适当方式通知您。
-
-
-最后，感谢您的支持与配合，期待为您提供更优质的游戏体验！ 
-8�AGREEMENT_POLICY_READ_TIPS请全部阅读完毕 
-�NO_ENUM_NAME_286腾云 
-(�NO_ENUM_NAME_287使出化身技 
-J�KEY_NOT_SUPPORT_CUSTOMIZED'当前按键不支持自定义修改。 
-+�TRAVEL_NOTES_TITLE_GUIDEMAIN妙诀 
-5�&TRAVEL_NOTES_TAB_TITLE_GUIDEMAIN_START战斗 
-�NO_ENUM_NAME_288世情 
-%�NO_ENUM_NAME_308照相模式 
-7�$TRAVEL_NOTES_TAB_TITLE_GUIDEMAIN_END指南预留
-.�TRAVEL_NOTES_TAB_TITLE_START	影神图 
-%�NO_ENUM_NAME_289打坐蒲团 
-�NO_ENUM_NAME_290妙诀 
-"�TRAVEL_NOTES_TAB_TITLE_END/
-)�BENCHMARK_FPS_AVG平均帧率： 
-�BENCHMARK_SHARE分享 
-^�AGREEMENT_POLICY_EULA_ANN<我已阅读并同意游戏科学的最终用户许可协议 
-U�AGREEMENT_POLICY_PRIVACY_ANN0我已阅读并同意游戏科学的隐私政策 
-m�AGREEMENT_POLICY_DATA_ANNK确定同意数据传输？后续可以随时在设置中更改此选项。 
-+�INACTIVE_ABILITY（尚未开启） 
-�NO_ENUM_NAME_291行走 
-V�SETTING_QUALITY_APPLY_TIPS3画质变更尚未应用，确定应用变更吗？ 
-)�SETTING_QUALITY_APPLY_SAVE应用 
-/�SETTING_QUALITY_APPLY_EXIT放弃变更 
-[�SETTING_QUALITY_Higher<当前设置高于推荐设置，性能可能受到影响。 
-��"SETTING_QUALITY_APPLY_TIPS_RESTART{画质变更尚未应用，确定应用变更吗？部分设置项需要<820Privacy_Title>重新启动游戏后生效</>。 
-��$SETTING_QUALITY_APPLY_MANUAL_RESTARTf确定应用画质变更吗？部分设置项需要<820Privacy_Title>重新启动游戏后生效</>。 
-C�SETTING_QUALITY_APPLY_MANUAL确定应用画质变更吗？ 
-/�DETAIL_BTN_COST_NOT_ENOUGH材料不足 
-�NO_ENUM_NAME_292预留
-&�DETAIL_BTN_NEED_PRE需要前置
-7�DETAIL_BTN_NEED_PRE_WB前置兵器尚未铸造 
-�NO_ENUM_NAME_293预留
-.�DETAIL_BTN_HAS_WEARING_FABAO	已装备 
-&�DETAIL_BTN_HAS_OWNED	已拥有 
-&�DETAIL_BTN_HAS_BUILD	已铸造 
-(�DETAIL_BTN_HAS_WEARING	已穿戴 
-)�DETAIL_BTN_HAS_SELL_OUT	已售罄 
-)�DETAIL_BTN_HAS_LEARNING	已参悟 
--�DETAIL_BTN_HAS_WEARING_HULU	已穿戴 
--�DETAIL_BTN_HAS_WEARING_WINE	已装备 
-,�DETAIL_BTN_HAS_WEARING_RZD	已装备 
-/�DETAIL_BTN_HAS_WEARING_WEAPON	已装备 
-9�DETAIL_BTN_HAS_MAX_LEVEL已提升至最高品阶 
->�DETAIL_BTN_HAS_MAX_LEVEL_WINE已提升至最高品阶 
->�DETAIL_BTN_HAS_MAX_LEVEL_HULU已提升至最高品阶 
-=�DETAIL_BTN_HAS_MAX_LEVEL_RZD已提升至最高品阶 
-�NO_ENUM_NAME_295预留
-'�DETAIL_BTN_LONGPRESS长按交互
--�DETAIL_BTN_LONGPRESS_BUY长按买入 
--�DETAIL_BTN_LONGPRESS_ZRD长按炼养 
-.�DETAIL_BTN_LONGPRESS_WINE长按升阶 
-.�DETAIL_BTN_LONGPRESS_HULU长按升阶 
-2�DETAIL_BTN_LONGPRESS_LEARNING长按参悟 
-/�DETAIL_BTN_LONGPRESS_BUILD长按铸造 
-1�DETAIL_BTN_LONGPRESS_REBUILD长按铸造 
-1�DETAIL_BTN_LONGPRESS_UPGRADE长按升阶 
-�NO_ENUM_NAME_296预留
-�DETAIL_BTN_ACTION交互
-)�DETAIL_BTN_ACTION_MEDICINE炼制 
-%�DETAIL_BTN_ACTION_WEAR穿戴 
-$�DETAIL_BTN_ACTION_BUY买入 
-$�DETAIL_BTN_ACTION_RZD装备 
-%�DETAIL_BTN_ACTION_WINE装备 
-%�DETAIL_BTN_ACTION_HULU穿戴 
-'�DETAIL_BTN_ACTION_WEAPON装备 
-&�DETAIL_BTN_ACTION_FABAO装备 
-�NO_ENUM_NAME_297预留
-<�DETAIL_BTN_GOTO_BUILD在土地庙或工匠处铸造 
--�DETAIL_BTN_SHOW_BUILD查看兵器谱 
-0�DETAIL_BTN_PREPARE_BUILD对比原兵器 
-2�DETAIL_BTN_PREPARE_REBUILD对比原兵器 
-�NO_ENUM_NAME_298预留
-]�QUICK_LOGIN_FAILF登录失败, 请使用账号密码重新登录, 或扫码重新登录
-.�EDITION_AWARD_COLLECT_BTN收取谢礼 
-1�EDITION_AWARD_ITEM_STANDARD标准版谢礼
-3�EDITION_AWARD_ITEM_PREORDER预购版谢礼 
-1�EDITION_AWARD_ITEM_DELUXE豪华版谢礼 
-=�AGE_TIPS,本游戏仅限18周岁及以上用户使用 
-#�AGE_TIPS_TITLE适龄提示 
-��AGE_TIPS_DESC�一、本游戏是一款动作角色扮演类游戏，适用于年满18周岁及以上的用户。
-
-二、本游戏以《西游记》为世界观背景设计了主线、支线剧情，有适量基于原著故事的合理改编。游戏玩法包含关卡探索、战斗挑战、角色养成等，需要玩家具备一定策略思维意识和肢体操作能力。游戏内无具有文字输入功能的陌生人社交系统。
-
-三、本游戏中有用户实名认证系统，认证为未成年人的用户将接受以下管理：
-1) 未满18周岁的用户不得进行游戏；
-2) 本游戏内没有付费内容，未满18周岁的用户不能付费。
-
-四、本游戏在场景美术、角色塑造和背景音乐等方面的创作上融入了中华传统文化元素，有助于激发玩家对优秀传统文化的兴趣；游戏设有略有难度的战斗挑战，鼓励玩家通过思考、训练达成目标，有助于锻炼玩家的大脑反应速度和手眼协调能力；游戏玩法整体具有较强的策略性，能帮助玩家提升观察能力和思维能力。 
-�BAG_TAB_NAME_STARTNone
-�NO_ENUM_NAME_299用品 
-�NO_ENUM_NAME_300材料 
-�NO_ENUM_NAME_301酒食 
-�NO_ENUM_NAME_302药材 
-%�NO_ENUM_NAME_303要紧物事 
-�NO_ENUM_NAME_304药材
-�NO_ENUM_NAME_305丹方
-�NO_ENUM_NAME_306种子
-4�NO_ENUM_NAME_3071889到1919给道具类型名
-3�EDITION_AWARD_COLLECT_LONG_BTN长按收取 
-0�SOUL_SKILL_COLLECT_LONG_BTN长按拾取 
-)�SHRINE_EDITION_AWARD_TITLE谢礼 
-.�SHRINE_EDITION_AWARD_TIPS收取谢礼 
-6�EMPTY_EDITION_AWARD_TIPS已收取全部谢礼 
-5�CLOUD_MOVE_NOT_ENABLE_TIPS此处不宜腾云 
-8�CLOUD_MOVE_NOT_DISENABLE_TIPS此处不宜下云 
-B�WEAPON_BUILD_SINGLE_NODE!此为孤品，无法继续铸造 
-8�UPGRADE_UP_DESC_HULU提升已有葫芦的品阶 
-J�UPGRADE_UP_DESC_WINE-在酒中放入三冬虫，增加回复功效 
-=�UPGRADE_UP_DESC_SOULSKILL提升已有精魄的品阶 
-|�SETTING_RECOMMENDED_TIPS[<EquipDetail_SuitDesc_State>当前设置高于推荐设置，性能可能受到影响。</> 
-]�EXCEPTION_TITLEG非常抱歉，游戏发生了错误。
-请按照指示退出游戏。
-��EXCEPTION_TIPS�游戏运行时遇到问题，请手动关闭游戏并尝试重新启动。
-如果问题仍未解决，请访问 heishenhua.com/support 获取帮助。 
-�COOLDOWN_TIME_UNITS秒 
-�TRANS_ENERGY_UNIS点 
- �TALENT_TO_LEVELUP参悟 
-+�ARCHIVE_GAME_PLUS_TIPS{0}番轮回 
-'�SHOP_ITEM_BUY_SELLOUT	已售罄 
-(�SHOP_ITEM_SELL_SELLOUT	已卖出 
-*�START_GAME_PASTMEMORY前尘影事 
-$�START_GAME_SOUNDTRACK小曲 
-*�SUMMER_STARTSummer分支预留id段
-(�
-SUMMER_ENDSummer分支预留id段
-F�CONFIRM_EQUIPBUILD_NEED_WEAR!要穿戴新升阶的披挂吗？ 
-E�CONFIRM_EQUIPSHOP_NEED_WEAR!要穿戴新铸造的披挂吗？ 
-%�NOT_LEARN_TALENT尚未参悟 
->�AUTO_LEARN_TALENT$投入一定灵光点后自行开悟 
-E�LEARN_TALENT_RANK2_AFTER$悟得二段棍势后，即可参悟 
-E�LEARN_TALENT_RANK3_AFTER$悟得三段棍势后，即可参悟 
-E�LEARN_TALENT_RANK4_AFTER$悟得四段棍势后，即可参悟 
-B�BOSS_ROOM_LEARN_LEGACY_TIPS目前状态无法参悟天赋 
-C�JINGPO_INTERACT_FAIL_TIPS!未经点化，无法吸存精魄 
-�DETAIL_ITEM_EMPTY空 
-*�DETAIL_ITEM_EFFECT_EMPTY	未配置 
-=�BAG_MAIN_CANT_USE_ITEM当前状态无法使用此物 
-,�SECCONFIRM_DEMAND_MONEY所需灵蕴 
--�SECCONFIRM_DEMAND_YAOCAI所需药材 
-=�SECCONFIRM_MEDICINE_TITLE一次炼制丹药的数量 
-*�SECCONFIRM_DEMAND_MAT所需材料 
-<�BAG_MAIN_CANT_USE_ITEM_AREA当前区域无法使用 
-p�CONFIRM_ARCHIVE_LOCKED_QUICKK是否确定要退出至桌面吗？所有未保存的进度将会丢失。 
-��COMPILE_SHADER_FAILED_TIPS�检测到上次没有成功编译所有着色器，如果您是遇到了程序异常终止，可以选择跳过编译，但请注意可能会导致游戏过程中出现卡顿情况。您也可以阅读我们官网的帮助文档了解解决方案。 
-+�COMPILE_SHADER_COMFIRM继续编译 
-*�COMPILE_SHADER_CANCEL跳过编译 
-x�LOADING_EXCEED_TIME_TIPSW检测到加载耗时过长，将游戏安装到固态硬盘可显著提升游戏性能 
-?�SETTING_SCREEN_PER_LEVEL_TIPS当前DLSS质量模式： 
-2�SETTING_ULTRA_PERFPRAMCE_TIPS极致性能 
-'�SETTING__PERFPRAMCE_TIPS性能 
-#�SETTING_BALANCE_TIPS均衡 
-#�SETTING_QUALITY_TIPS质量 
-'�SETTING_ULTRA_QUALITY_TIPSDLAA 
-/�BENCHMARK_ONLY_PURCHASE购买正式版 
-%�INNTERACT_ITEM_LACK_SPLIT、 
--�COMPILE_SHADER_QUIT_GAME关闭游戏 
-1�COMPILE_SHADER_CONTINUE_PLAY继续游玩 
-��COMPILE_SHADER_DISK_CHECK_TIPS�编译着色器失败，继续游戏可能会导致卡顿。请检查硬盘空间是否充足。
-如果问题仍未解决，请访问官网的帮助文档以获取帮助。 
-)�SUPER_RESOLUTION_SAMPLING_TSRTSR 
-|�SETTING_BACK_END_BATTLE_DESCW离开并返回到战斗开始前的土地庙，当前进行的战斗进度将会重置 
-#�SETTING_HOST_BALANCE平衡 

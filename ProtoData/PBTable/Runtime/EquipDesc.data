@@ -1,348 +1,0 @@
-
-��N	旧头饰"e/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Born/FaceRigged/SK_Wukong_head_born.SK_Wukong_head_born(Bl/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Born/AnimBlueprint/ABP_Wukong_head_born.ABP_Wukong_head_born_CJs/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Born/FaceRigged/SM_Wukong_head_born_static.SM_Wukong_head_born_static`e
-��N	旧衲衣"Z/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Born/SK_Wukong_body_born.SK_Wukong_body_born(0Bl/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Born/AnimBlueprint/ABP_Wukong_body_born.ABP_Wukong_body_born_C`f��
-��N	旧护臂"X/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Born/SK_Wukong_arm_born.SK_Wukong_arm_born(Bj/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Born/AnimBlueprint/ABP_Wukong_arm_born.ABP_Wukong_arm_born_C`g
-��N	旧腿绷"Z/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Born/SK_Wukong_foot_born.SK_Wukong_foot_born(Bl/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Born/AnimBlueprint/ABP_Wukong_foot_born.ABP_Wukong_foot_born_C`h��
-��O	虎皮裙"Z/Game/00MainHZ/Characters/Wukong/Meshes/Equip/HuPi/SK_WuKong_body_HuPi.SK_WuKong_body_HuPi(Bl/Game/00MainHZ/Characters/Wukong/Meshes/Equip/HuPi/AnimBlueprint/ABP_Wukong_body_HuPi.ABP_Wukong_body_HuPi_C`���
-��O绵布扎腕"X/Game/00MainHZ/Characters/Wukong/Meshes/Equip/HuPi/SK_WuKong_arm_HuPi.SK_WuKong_arm_HuPi(Bj/Game/00MainHZ/Characters/Wukong/Meshes/Equip/HuPi/AnimBlueprint/ABP_Wukong_arm_HuPi.ABP_Wukong_arm_HuPi_C`�
-��O绵布腿绷"Z/Game/00MainHZ/Characters/Wukong/Meshes/Equip/HuPi/SK_WuKong_foot_HuPi.SK_WuKong_foot_HuPi(Bl/Game/00MainHZ/Characters/Wukong/Meshes/Equip/HuPi/AnimBlueprint/ABP_Wukong_foot_HuPi.ABP_Wukong_foot_HuPi_C`���
-��P锦鳞战袍"]/Game/00MainHZ/Characters/Wukong/Meshes/Equip/BaiYi/SK_WuKong_body_BaiYi.SK_WuKong_body_BaiYi(0Bo/Game/00MainHZ/Characters/Wukong/Meshes/Equip/BaiYi/AnimBlueprint/ABP_Wukong_body_BaiYi.ABP_Wukong_body_BaiYi_CX`�h��6rH生命不足时，缓缓恢复些微生命，若在水中，效果增强��	�
-��P锦鳞护臂"[/Game/00MainHZ/Characters/Wukong/Meshes/Equip/BaiYi/SK_WuKong_arm_BaiYi.SK_WuKong_arm_BaiYi(Bm/Game/00MainHZ/Characters/Wukong/Meshes/Equip/BaiYi/AnimBlueprint/ABP_Wukong_arm_BaiYi.ABP_Wukong_arm_BaiYi_CX`�
-��P锦鳞行缠"]/Game/00MainHZ/Characters/Wukong/Meshes/Equip/BaiYi/SK_WuKong_foot_BaiYi.SK_WuKong_foot_BaiYi(Bo/Game/00MainHZ/Characters/Wukong/Meshes/Equip/BaiYi/AnimBlueprint/ABP_Wukong_foot_BaiYi.ABP_Wukong_foot_BaiYi_CX`���
-��P锦鳞战袍"]/Game/00MainHZ/Characters/Wukong/Meshes/Equip/BaiYi/SK_WuKong_body_BaiYi.SK_WuKong_body_BaiYi(0Bo/Game/00MainHZ/Characters/Wukong/Meshes/Equip/BaiYi/AnimBlueprint/ABP_Wukong_body_BaiYi.ABP_Wukong_body_BaiYi_CX`�h��6rH生命不足时，缓缓恢复些微生命，若在水中，效果增强��	�
-��P锦鳞护臂"[/Game/00MainHZ/Characters/Wukong/Meshes/Equip/BaiYi/SK_WuKong_arm_BaiYi.SK_WuKong_arm_BaiYi(Bm/Game/00MainHZ/Characters/Wukong/Meshes/Equip/BaiYi/AnimBlueprint/ABP_Wukong_arm_BaiYi.ABP_Wukong_arm_BaiYi_CX`�
-��P锦鳞行缠"]/Game/00MainHZ/Characters/Wukong/Meshes/Equip/BaiYi/SK_WuKong_foot_BaiYi.SK_WuKong_foot_BaiYi(Bo/Game/00MainHZ/Characters/Wukong/Meshes/Equip/BaiYi/AnimBlueprint/ABP_Wukong_foot_BaiYi.ABP_Wukong_foot_BaiYi_CX`���
-��P锦鳞战袍"]/Game/00MainHZ/Characters/Wukong/Meshes/Equip/BaiYi/SK_WuKong_body_BaiYi.SK_WuKong_body_BaiYi(0Bo/Game/00MainHZ/Characters/Wukong/Meshes/Equip/BaiYi/AnimBlueprint/ABP_Wukong_body_BaiYi.ABP_Wukong_body_BaiYi_CX`�h��6rH生命不足时，缓缓恢复些微生命，若在水中，效果增强��	�
-��P锦鳞护臂"[/Game/00MainHZ/Characters/Wukong/Meshes/Equip/BaiYi/SK_WuKong_arm_BaiYi.SK_WuKong_arm_BaiYi(Bm/Game/00MainHZ/Characters/Wukong/Meshes/Equip/BaiYi/AnimBlueprint/ABP_Wukong_arm_BaiYi.ABP_Wukong_arm_BaiYi_CX`�
-��P锦鳞行缠"]/Game/00MainHZ/Characters/Wukong/Meshes/Equip/BaiYi/SK_WuKong_foot_BaiYi.SK_WuKong_foot_BaiYi(Bo/Game/00MainHZ/Characters/Wukong/Meshes/Equip/BaiYi/AnimBlueprint/ABP_Wukong_foot_BaiYi.ABP_Wukong_foot_BaiYi_CX`���
-��P锦鳞战袍"]/Game/00MainHZ/Characters/Wukong/Meshes/Equip/BaiYi/SK_WuKong_body_BaiYi.SK_WuKong_body_BaiYi(0Bo/Game/00MainHZ/Characters/Wukong/Meshes/Equip/BaiYi/AnimBlueprint/ABP_Wukong_body_BaiYi.ABP_Wukong_body_BaiYi_CX`�h��6rH生命不足时，缓缓恢复些微生命，若在水中，效果增强��	�
-��P锦鳞护臂"[/Game/00MainHZ/Characters/Wukong/Meshes/Equip/BaiYi/SK_WuKong_arm_BaiYi.SK_WuKong_arm_BaiYi(Bm/Game/00MainHZ/Characters/Wukong/Meshes/Equip/BaiYi/AnimBlueprint/ABP_Wukong_arm_BaiYi.ABP_Wukong_arm_BaiYi_CX`�
-��P锦鳞行缠"]/Game/00MainHZ/Characters/Wukong/Meshes/Equip/BaiYi/SK_WuKong_foot_BaiYi.SK_WuKong_foot_BaiYi(Bo/Game/00MainHZ/Characters/Wukong/Meshes/Equip/BaiYi/AnimBlueprint/ABP_Wukong_foot_BaiYi.ABP_Wukong_foot_BaiYi_CX`���
-��P锦鳞战袍"`/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Jinlin/SK_wukong_body_jinlin.SK_wukong_body_jinlin(0Br/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Jinlin/AnimBlueprint/ABP_wukong_body_jinlin.ABP_wukong_body_jinlin_CX`�h��6rN生命不足时，缓缓恢复些微生命，若在水中，效果较大增强��	�
-��P锦鳞护臂"^/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Jinlin/SK_wukong_arm_jinlin.SK_wukong_arm_jinlin(Bp/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Jinlin/AnimBlueprint/ABP_wukong_arm_jinlin.ABP_wukong_arm_jinlin_CX`�
-~�P锦鳞行缠"`/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Jinlin/SK_wukong_foot_jinlin.SK_wukong_foot_jinlinX`���
-��Q行者戒箍"c/Game/00MainHZ/Characters/Wukong/Meshes/Equip/XingZhe/SK_WuKong_head_XingZhe.SK_WuKong_head_XingZhe(Bu/Game/00MainHZ/Characters/Wukong/Meshes/Equip/XingZhe/AnimBlueprint/ABP_Wukong_head_XingZhe.ABP_Wukong_head_XingZhe_CJs/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Born/FaceRigged/SM_Wukong_head_born_static.SM_Wukong_head_born_staticX`�h��6r疾奔时可饮酒�
-��Q行者直裰"c/Game/00MainHZ/Characters/Wukong/Meshes/Equip/XingZhe/SK_WuKong_body_XingZhe.SK_WuKong_body_XingZhe(Bu/Game/00MainHZ/Characters/Wukong/Meshes/Equip/XingZhe/AnimBlueprint/ABP_Wukong_body_XingZhe.ABP_Wukong_body_XingZhe_CX`���	
-��Q行者扎腕"a/Game/00MainHZ/Characters/Wukong/Meshes/Equip/XingZhe/SK_WuKong_arm_XingZhe.SK_WuKong_arm_XingZhe(Bs/Game/00MainHZ/Characters/Wukong/Meshes/Equip/XingZhe/AnimBlueprint/ABP_Wukong_arm_XingZhe.ABP_Wukong_arm_XingZhe_CX`�
-��Q行者腿绷"c/Game/00MainHZ/Characters/Wukong/Meshes/Equip/XingZhe/SK_WuKong_foot_XingZhe.SK_WuKong_foot_XingZhe(Bu/Game/00MainHZ/Characters/Wukong/Meshes/Equip/XingZhe/AnimBlueprint/ABP_Wukong_foot_XingZhe.ABP_Wukong_foot_XingZhe_CX`���
-��Q行者戒箍"c/Game/00MainHZ/Characters/Wukong/Meshes/Equip/XingZhe/SK_WuKong_head_XingZhe.SK_WuKong_head_XingZhe(Bu/Game/00MainHZ/Characters/Wukong/Meshes/Equip/XingZhe/AnimBlueprint/ABP_Wukong_head_XingZhe.ABP_Wukong_head_XingZhe_CJs/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Born/FaceRigged/SM_Wukong_head_born_static.SM_Wukong_head_born_staticX`�h��6r疾奔时可饮酒�
-��Q行者直裰"c/Game/00MainHZ/Characters/Wukong/Meshes/Equip/XingZhe/SK_WuKong_body_XingZhe.SK_WuKong_body_XingZhe(Bu/Game/00MainHZ/Characters/Wukong/Meshes/Equip/XingZhe/AnimBlueprint/ABP_Wukong_body_XingZhe.ABP_Wukong_body_XingZhe_CX`���	
-��Q行者扎腕"a/Game/00MainHZ/Characters/Wukong/Meshes/Equip/XingZhe/SK_WuKong_arm_XingZhe.SK_WuKong_arm_XingZhe(Bs/Game/00MainHZ/Characters/Wukong/Meshes/Equip/XingZhe/AnimBlueprint/ABP_Wukong_arm_XingZhe.ABP_Wukong_arm_XingZhe_CX`�
-��Q行者腿绷"c/Game/00MainHZ/Characters/Wukong/Meshes/Equip/XingZhe/SK_WuKong_foot_XingZhe.SK_WuKong_foot_XingZhe(Bu/Game/00MainHZ/Characters/Wukong/Meshes/Equip/XingZhe/AnimBlueprint/ABP_Wukong_foot_XingZhe.ABP_Wukong_foot_XingZhe_CX`���
-��Q行者戒箍"c/Game/00MainHZ/Characters/Wukong/Meshes/Equip/XingZhe/SK_WuKong_head_XingZhe.SK_WuKong_head_XingZhe(Bu/Game/00MainHZ/Characters/Wukong/Meshes/Equip/XingZhe/AnimBlueprint/ABP_Wukong_head_XingZhe.ABP_Wukong_head_XingZhe_CJs/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Born/FaceRigged/SM_Wukong_head_born_static.SM_Wukong_head_born_staticX`�h��6r疾奔时可饮酒�
-��Q行者直裰"c/Game/00MainHZ/Characters/Wukong/Meshes/Equip/XingZhe/SK_WuKong_body_XingZhe.SK_WuKong_body_XingZhe(Bu/Game/00MainHZ/Characters/Wukong/Meshes/Equip/XingZhe/AnimBlueprint/ABP_Wukong_body_XingZhe.ABP_Wukong_body_XingZhe_CX`���	
-��Q行者扎腕"a/Game/00MainHZ/Characters/Wukong/Meshes/Equip/XingZhe/SK_WuKong_arm_XingZhe.SK_WuKong_arm_XingZhe(Bs/Game/00MainHZ/Characters/Wukong/Meshes/Equip/XingZhe/AnimBlueprint/ABP_Wukong_arm_XingZhe.ABP_Wukong_arm_XingZhe_CX`�
-��Q行者腿绷"c/Game/00MainHZ/Characters/Wukong/Meshes/Equip/XingZhe/SK_WuKong_foot_XingZhe.SK_WuKong_foot_XingZhe(Bu/Game/00MainHZ/Characters/Wukong/Meshes/Equip/XingZhe/AnimBlueprint/ABP_Wukong_foot_XingZhe.ABP_Wukong_foot_XingZhe_CX`���
-��Q行者戒箍"c/Game/00MainHZ/Characters/Wukong/Meshes/Equip/XingZhe/SK_WuKong_head_XingZhe.SK_WuKong_head_XingZhe(Bu/Game/00MainHZ/Characters/Wukong/Meshes/Equip/XingZhe/AnimBlueprint/ABP_Wukong_head_XingZhe.ABP_Wukong_head_XingZhe_CJs/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Born/FaceRigged/SM_Wukong_head_born_static.SM_Wukong_head_born_staticX`�h��6r疾奔时可饮酒�
-��Q行者直裰"c/Game/00MainHZ/Characters/Wukong/Meshes/Equip/XingZhe/SK_WuKong_body_XingZhe.SK_WuKong_body_XingZhe(Bu/Game/00MainHZ/Characters/Wukong/Meshes/Equip/XingZhe/AnimBlueprint/ABP_Wukong_body_XingZhe.ABP_Wukong_body_XingZhe_CX`���	
-��Q行者扎腕"a/Game/00MainHZ/Characters/Wukong/Meshes/Equip/XingZhe/SK_WuKong_arm_XingZhe.SK_WuKong_arm_XingZhe(Bs/Game/00MainHZ/Characters/Wukong/Meshes/Equip/XingZhe/AnimBlueprint/ABP_Wukong_arm_XingZhe.ABP_Wukong_arm_XingZhe_CX`�
-��Q行者腿绷"c/Game/00MainHZ/Characters/Wukong/Meshes/Equip/XingZhe/SK_WuKong_foot_XingZhe.SK_WuKong_foot_XingZhe(Bu/Game/00MainHZ/Characters/Wukong/Meshes/Equip/XingZhe/AnimBlueprint/ABP_Wukong_foot_XingZhe.ABP_Wukong_foot_XingZhe_CX`���
-��Q行者戒箍"l/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Xingzhe_02/SK_wukong_head_xingzhe_02.SK_wukong_head_xingzhe_02Js/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Born/FaceRigged/SM_Wukong_head_born_static.SM_Wukong_head_born_staticX`�h��6r疾奔时可饮酒�
-��Q行者直裰"l/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Xingzhe_02/SK_wukong_body_xingzhe_02.SK_wukong_body_xingzhe_02(0B~/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Xingzhe_02/AnimBlueprint/ABP_wukong_body_xingzhe_02.ABP_wukong_body_xingzhe_02_CX`���	
-��Q行者扎腕"j/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Xingzhe_02/SK_wukong_arm_xingzhe_02.SK_wukong_arm_xingzhe_02X`�
-��Q行者腿绷"l/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Xingzhe_02/SK_wukong_foot_xingzhe_02.SK_wukong_foot_xingzhe_02X`���
-��R凤翅紫金冠"u/Game/00MainHZ/Characters/Wukong/Meshes/Equip/DaShengKuiJia/SK_WuKong_head_DaShengKuiJia.SK_WuKong_head_DaShengKuiJia(B�/Game/00MainHZ/Characters/Wukong/Meshes/Equip/DaShengKuiJia/AnimBlueprint/ABP_Wukong_head_DaShengKuiJia.ABP_Wukong_head_DaShengKuiJia_CJs/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Born/FaceRigged/SM_Wukong_head_born_static.SM_Wukong_head_born_staticX`�
-��R锁子黄金甲"u/Game/00MainHZ/Characters/Wukong/Meshes/Equip/DaShengKuiJia/SK_WuKong_body_DaShengKuiJia.SK_WuKong_body_DaShengKuiJia(0B�/Game/00MainHZ/Characters/Wukong/Meshes/Equip/DaShengKuiJia/AnimBlueprint/ABP_Wukong_body_DaShengKuiJia.ABP_Wukong_body_DaShengKuiJia_CX`���
-��R点翠飞龙釬"s/Game/00MainHZ/Characters/Wukong/Meshes/Equip/DaShengKuiJia/SK_WuKong_arm_DaShengKuiJia.SK_WuKong_arm_DaShengKuiJiaX`�
-��R藕丝步云履"u/Game/00MainHZ/Characters/Wukong/Meshes/Equip/DaShengKuiJia/SK_WuKong_foot_DaShengKuiJia.SK_WuKong_foot_DaShengKuiJiaX`�
-��R赭黄战袍"i/Game/00MainHZ/Characters/Wukong/Meshes/Equip/HuangFeng/SK_WuKong_body_HuangFeng.SK_WuKong_body_HuangFeng(0B{/Game/00MainHZ/Characters/Wukong/Meshes/Equip/HuangFeng/AnimBlueprint/ABP_Wukong_body_HuangFeng.ABP_Wukong_body_HuangFeng_CX`���
-
-��R赭黄臂甲"g/Game/00MainHZ/Characters/Wukong/Meshes/Equip/HuangFeng/SK_WuKong_arm_HuangFeng.SK_WuKong_arm_HuangFengX`�h��6r]每消耗一段积攒的棍势，少时内少许增加<EquipDetail_LegendDesc_KW>暴击率</>�
-��R赭黄胫甲"i/Game/00MainHZ/Characters/Wukong/Meshes/Equip/HuangFeng/SK_WuKong_foot_HuangFeng.SK_WuKong_foot_HuangFengX`����
-��R赭黄战袍"i/Game/00MainHZ/Characters/Wukong/Meshes/Equip/HuangFeng/SK_WuKong_body_HuangFeng.SK_WuKong_body_HuangFeng(0B{/Game/00MainHZ/Characters/Wukong/Meshes/Equip/HuangFeng/AnimBlueprint/ABP_Wukong_body_HuangFeng.ABP_Wukong_body_HuangFeng_CX`���
-
-��R赭黄臂甲"g/Game/00MainHZ/Characters/Wukong/Meshes/Equip/HuangFeng/SK_WuKong_arm_HuangFeng.SK_WuKong_arm_HuangFengX`�h��6r]每消耗一段积攒的棍势，少时内少许增加<EquipDetail_LegendDesc_KW>暴击率</>�
-��R赭黄胫甲"i/Game/00MainHZ/Characters/Wukong/Meshes/Equip/HuangFeng/SK_WuKong_foot_HuangFeng.SK_WuKong_foot_HuangFengX`�
-��R赭黄战袍"r/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Huangfeng_02/SK_wukong_body_huangfeng_02.SK_wukong_body_huangfeng_02(0B�/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Huangfeng_02/AnimBlueprint/ABP_wukong_body_huangfeng_02.ABP_wukong_body_huangfeng_02_CX`���
-
-��R赭黄臂甲"p/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Huangfeng_02/SK_wukong_arm_huangfeng_02.SK_wukong_arm_huangfeng_02X`�h��6r]每消耗一段积攒的棍势，少时内少许增加<EquipDetail_LegendDesc_KW>暴击率</>�
-��S赭黄胫甲"r/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Huangfeng_02/SK_wukong_foot_huangfeng_02.SK_wukong_foot_huangfeng_02X`����
-��S厌火夜叉面"i/Game/00MainHZ/Characters/Wukong/Meshes/Equip/YeChaWang/SK_WuKong_head_YeChaWang.SK_WuKong_head_YeChaWangJs/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Born/FaceRigged/SM_Wukong_head_born_static.SM_Wukong_head_born_staticX`�h��6r$生命不足时，增加较多攻击�
-��S厌火绣衫"i/Game/00MainHZ/Characters/Wukong/Meshes/Equip/YeChaWang/SK_WuKong_body_YeChaWang.SK_WuKong_body_YeChaWang(0B{/Game/00MainHZ/Characters/Wukong/Meshes/Equip/YeChaWang/AnimBlueprint/ABP_Wukong_body_YeChaWang.ABP_Wukong_body_YeChaWang_CX`���
-��S厌火魔手"g/Game/00MainHZ/Characters/Wukong/Meshes/Equip/YeChaWang/SK_WuKong_arm_YeChaWang.SK_WuKong_arm_YeChaWangX`�
-��S厌火魔足"i/Game/00MainHZ/Characters/Wukong/Meshes/Equip/YeChaWang/SK_WuKong_foot_YeChaWang.SK_WuKong_foot_YeChaWangX`���
-��S厌火夜叉面"i/Game/00MainHZ/Characters/Wukong/Meshes/Equip/YeChaWang/SK_WuKong_head_YeChaWang.SK_WuKong_head_YeChaWangJs/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Born/FaceRigged/SM_Wukong_head_born_static.SM_Wukong_head_born_staticX`�h��6r$生命不足时，增加较多攻击�
-��S厌火绣衫"i/Game/00MainHZ/Characters/Wukong/Meshes/Equip/YeChaWang/SK_WuKong_body_YeChaWang.SK_WuKong_body_YeChaWang(0B{/Game/00MainHZ/Characters/Wukong/Meshes/Equip/YeChaWang/AnimBlueprint/ABP_Wukong_body_YeChaWang.ABP_Wukong_body_YeChaWang_CX`���
-��S厌火魔手"g/Game/00MainHZ/Characters/Wukong/Meshes/Equip/YeChaWang/SK_WuKong_arm_YeChaWang.SK_WuKong_arm_YeChaWangX`�
-��S厌火魔足"i/Game/00MainHZ/Characters/Wukong/Meshes/Equip/YeChaWang/SK_WuKong_foot_YeChaWang.SK_WuKong_foot_YeChaWangX`���
-��T龙鳞战袍"o/Game/00MainHZ/Characters/Wukong/Meshes/Equip/KangJinLong/SK_WuKong_body_KangJinLong.SK_WuKong_body_KangJinLong(0B�/Game/00MainHZ/Characters/Wukong/Meshes/Equip/KangJinLong/AnimBlueprint/ABP_Wukong_body_KangJinLong.ABP_Wukong_body_KangJinLong_CX`�h��6rZ天赋<EquipDetail_LegendDesc_KW>梦幻泡影</>造成的炸裂伤害将赋予雷蛰灾劫��	�
-��T龙鳞臂甲"m/Game/00MainHZ/Characters/Wukong/Meshes/Equip/KangJinLong/SK_WuKong_arm_KangJinLong.SK_WuKong_arm_KangJinLongX`�
-��T龙鳞胫甲"o/Game/00MainHZ/Characters/Wukong/Meshes/Equip/KangJinLong/SK_WuKong_foot_KangJinLong.SK_WuKong_foot_KangJinLongX`�
-��T龙鳞战袍"o/Game/00MainHZ/Characters/Wukong/Meshes/Equip/KangJinLong/SK_WuKong_body_KangJinLong.SK_WuKong_body_KangJinLong(0B�/Game/00MainHZ/Characters/Wukong/Meshes/Equip/KangJinLong/AnimBlueprint/ABP_Wukong_body_KangJinLong.ABP_Wukong_body_KangJinLong_CX`�h��6rZ天赋<EquipDetail_LegendDesc_KW>梦幻泡影</>造成的炸裂伤害将赋予雷蛰灾劫��	�
-��T龙鳞臂甲"m/Game/00MainHZ/Characters/Wukong/Meshes/Equip/KangJinLong/SK_WuKong_arm_KangJinLong.SK_WuKong_arm_KangJinLongX`�
-��T龙鳞胫甲"o/Game/00MainHZ/Characters/Wukong/Meshes/Equip/KangJinLong/SK_WuKong_foot_KangJinLong.SK_WuKong_foot_KangJinLongX`�
-��T龙鳞战袍"x/Game/00MainHZ/Characters/Wukong/Meshes/Equip/KangJinLong_02/SK_wukong_body_kangjinlong_02.SK_wukong_body_kangjinlong_02(0B�/Game/00MainHZ/Characters/Wukong/Meshes/Equip/KangJinLong_02/AnimBlueprint/ABP_wukong_body_kangjinlong_02.ABP_wukong_body_kangjinlong_02_CX`�h��6rZ天赋<EquipDetail_LegendDesc_KW>梦幻泡影</>造成的炸裂伤害将赋予雷蛰灾劫��	�
-��T龙鳞臂甲"v/Game/00MainHZ/Characters/Wukong/Meshes/Equip/KangJinLong_02/SK_wukong_arm_kangjinlong_02.SK_wukong_arm_kangjinlong_02X`�
-��T龙鳞胫甲"x/Game/00MainHZ/Characters/Wukong/Meshes/Equip/KangJinLong_02/SK_wukong_foot_kangjinlong_02.SK_wukong_foot_kangjinlong_02X`�
-��U乌金皂罗袍"o/Game/00MainHZ/Characters/Wukong/Meshes/Equip/HeiFeng/SK_WuKong_body_HeiFeng_clean.SK_WuKong_body_HeiFeng_clean(Bu/Game/00MainHZ/Characters/Wukong/Meshes/Equip/HeiFeng/AnimBlueprint/ABP_Wukong_body_HeiFeng.ABP_Wukong_body_HeiFeng_CX	`���
-
-{�U乌金臂鞲"a/Game/00MainHZ/Characters/Wukong/Meshes/Equip/HeiFeng/SK_WuKong_arm_HeiFeng.SK_WuKong_arm_HeiFengX	`�
-��U乌金行缠"c/Game/00MainHZ/Characters/Wukong/Meshes/Equip/HeiFeng/SK_WuKong_foot_HeiFeng.SK_WuKong_foot_HeiFeng(Bu/Game/00MainHZ/Characters/Wukong/Meshes/Equip/HeiFeng/AnimBlueprint/ABP_Wukong_foot_HeiFeng.ABP_Wukong_foot_HeiFeng_CX	`�h��6rE身处化气状态片时后，一定程度增加破隐一击的伤害���
-��U乌金皂罗袍"o/Game/00MainHZ/Characters/Wukong/Meshes/Equip/HeiFeng/SK_WuKong_body_HeiFeng_clean.SK_WuKong_body_HeiFeng_clean(Bu/Game/00MainHZ/Characters/Wukong/Meshes/Equip/HeiFeng/AnimBlueprint/ABP_Wukong_body_HeiFeng.ABP_Wukong_body_HeiFeng_CX	`���
-
-{�U乌金臂鞲"a/Game/00MainHZ/Characters/Wukong/Meshes/Equip/HeiFeng/SK_WuKong_arm_HeiFeng.SK_WuKong_arm_HeiFengX	`�
-��U乌金行缠"c/Game/00MainHZ/Characters/Wukong/Meshes/Equip/HeiFeng/SK_WuKong_foot_HeiFeng.SK_WuKong_foot_HeiFeng(Bu/Game/00MainHZ/Characters/Wukong/Meshes/Equip/HeiFeng/AnimBlueprint/ABP_Wukong_foot_HeiFeng.ABP_Wukong_foot_HeiFeng_CX	`�h��6rE身处化气状态片时后，一定程度增加破隐一击的伤害���
-��U乌金皂罗袍"o/Game/00MainHZ/Characters/Wukong/Meshes/Equip/HeiFeng/SK_WuKong_body_HeiFeng_clean.SK_WuKong_body_HeiFeng_clean(Bu/Game/00MainHZ/Characters/Wukong/Meshes/Equip/HeiFeng/AnimBlueprint/ABP_Wukong_body_HeiFeng.ABP_Wukong_body_HeiFeng_CX	`���
-
-{�U乌金臂鞲"a/Game/00MainHZ/Characters/Wukong/Meshes/Equip/HeiFeng/SK_WuKong_arm_HeiFeng.SK_WuKong_arm_HeiFengX	`�
-��U乌金行缠"c/Game/00MainHZ/Characters/Wukong/Meshes/Equip/HeiFeng/SK_WuKong_foot_HeiFeng.SK_WuKong_foot_HeiFeng(Bu/Game/00MainHZ/Characters/Wukong/Meshes/Equip/HeiFeng/AnimBlueprint/ABP_Wukong_foot_HeiFeng.ABP_Wukong_foot_HeiFeng_CX	`�h��6rE身处化气状态片时后，一定程度增加破隐一击的伤害���
-��U乌金皂罗袍"]/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Wujin/SK_wukong_body_wujin.SK_wukong_body_wujin(0Bo/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Wujin/AnimBlueprint/ABP_wukong_body_wujin.ABP_wukong_body_wujin_CX	`���
-
-u�U乌金臂鞲"[/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Wujin/SK_wukong_arm_wujin.SK_wukong_arm_wujinX	`�
-��U乌金行缠"]/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Wujin/SK_wukong_foot_wujin.SK_wukong_foot_wujinX	`�h��6rE身处化气状态片时后，一定程度增加破隐一击的伤害���
-��U金身怒目面"Z/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MiLe/SK_WuKong_head_MiLe.SK_WuKong_head_MiLe(Bl/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MiLe/AnimBlueprint/ABP_wukong_head_mile.ABP_wukong_head_mile_CJs/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Born/FaceRigged/SM_Wukong_head_born_static.SM_Wukong_head_born_staticX
-`�h��6r6化身技若打中对手，还原时获得大量棍势�
-��U金身绣衫"Z/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MiLe/SK_WuKong_body_MiLe.SK_WuKong_body_MiLe(0Bl/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MiLe/AnimBlueprint/ABP_Wukong_body_MiLe.ABP_Wukong_body_MiLe_CX
-`���
-��U金身护臂"X/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MiLe/SK_WuKong_arm_MiLe.SK_WuKong_arm_MiLe(B\/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MiLe/ABP_Wukong_arm_MiLe.ABP_Wukong_arm_MiLe_CX
-`�
-x�U金身护腿"Z/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MiLe/SK_WuKong_foot_MiLe.SK_WuKong_foot_MiLeX
-`���
-��V金身怒目面"Z/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MiLe/SK_WuKong_head_MiLe.SK_WuKong_head_MiLe(Bl/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MiLe/AnimBlueprint/ABP_wukong_head_mile.ABP_wukong_head_mile_CJs/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Born/FaceRigged/SM_Wukong_head_born_static.SM_Wukong_head_born_staticX
-`�h��6r6化身技若打中对手，还原时获得大量棍势�
-��V金身绣衫"Z/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MiLe/SK_WuKong_body_MiLe.SK_WuKong_body_MiLe(0Bl/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MiLe/AnimBlueprint/ABP_Wukong_body_MiLe.ABP_Wukong_body_MiLe_CX
-`���
-��V金身护臂"X/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MiLe/SK_WuKong_arm_MiLe.SK_WuKong_arm_MiLe(B\/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MiLe/ABP_Wukong_arm_MiLe.ABP_Wukong_arm_MiLe_CX
-`�
-x�V金身护腿"Z/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MiLe/SK_WuKong_foot_MiLe.SK_WuKong_foot_MiLeX
-`���
-��W藏风兽面"]/Game/00MainHZ/Characters/Wukong/Meshes/Equip/ShaLi/SK_WuKong_head_ShaLi.SK_WuKong_head_ShaLi(Bo/Game/00MainHZ/Characters/Wukong/Meshes/Equip/ShaLi/AnimBlueprint/ABP_wukong_head_shali.ABP_wukong_head_shali_CJs/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Born/FaceRigged/SM_Wukong_head_born_static.SM_Wukong_head_born_staticX`�	
-��W藏风兽吞铠"]/Game/00MainHZ/Characters/Wukong/Meshes/Equip/ShaLi/SK_WuKong_body_ShaLi.SK_WuKong_body_ShaLi(0Bo/Game/00MainHZ/Characters/Wukong/Meshes/Equip/ShaLi/AnimBlueprint/ABP_Wukong_body_ShaLi.ABP_Wukong_body_ShaLi_CX`�	��
-
-u�W藏风护臂"[/Game/00MainHZ/Characters/Wukong/Meshes/Equip/ShaLi/SK_WuKong_arm_ShaLi.SK_WuKong_arm_ShaLiX`�	
-��W藏风护腿"]/Game/00MainHZ/Characters/Wukong/Meshes/Equip/ShaLi/SK_WuKong_foot_ShaLi.SK_WuKong_foot_ShaLiX`�	hԀ7rO少时内连续<EquipDetail_LegendDesc_KW>闪身</>3次后，恢复少许法力���
-��W藏风兽面"]/Game/00MainHZ/Characters/Wukong/Meshes/Equip/ShaLi/SK_WuKong_head_ShaLi.SK_WuKong_head_ShaLi(Bo/Game/00MainHZ/Characters/Wukong/Meshes/Equip/ShaLi/AnimBlueprint/ABP_wukong_head_shali.ABP_wukong_head_shali_CJs/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Born/FaceRigged/SM_Wukong_head_born_static.SM_Wukong_head_born_staticX`�	
-��W藏风兽吞铠"]/Game/00MainHZ/Characters/Wukong/Meshes/Equip/ShaLi/SK_WuKong_body_ShaLi.SK_WuKong_body_ShaLi(0Bo/Game/00MainHZ/Characters/Wukong/Meshes/Equip/ShaLi/AnimBlueprint/ABP_Wukong_body_ShaLi.ABP_Wukong_body_ShaLi_CX`�	��
-
-u�W藏风护臂"[/Game/00MainHZ/Characters/Wukong/Meshes/Equip/ShaLi/SK_WuKong_arm_ShaLi.SK_WuKong_arm_ShaLiX`�	
-��W藏风护腿"]/Game/00MainHZ/Characters/Wukong/Meshes/Equip/ShaLi/SK_WuKong_foot_ShaLi.SK_WuKong_foot_ShaLiX`�	hԀ7rO少时内连续<EquipDetail_LegendDesc_KW>闪身</>3次后，恢复少许法力���
-��W藏风兽面"]/Game/00MainHZ/Characters/Wukong/Meshes/Equip/ShaLi/SK_WuKong_head_ShaLi.SK_WuKong_head_ShaLi(Bo/Game/00MainHZ/Characters/Wukong/Meshes/Equip/ShaLi/AnimBlueprint/ABP_wukong_head_shali.ABP_wukong_head_shali_CJs/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Born/FaceRigged/SM_Wukong_head_born_static.SM_Wukong_head_born_staticX`�	
-��W藏风兽吞铠"]/Game/00MainHZ/Characters/Wukong/Meshes/Equip/ShaLi/SK_WuKong_body_ShaLi.SK_WuKong_body_ShaLi(0Bo/Game/00MainHZ/Characters/Wukong/Meshes/Equip/ShaLi/AnimBlueprint/ABP_Wukong_body_ShaLi.ABP_Wukong_body_ShaLi_CX`�	��
-
-u�W藏风护臂"[/Game/00MainHZ/Characters/Wukong/Meshes/Equip/ShaLi/SK_WuKong_arm_ShaLi.SK_WuKong_arm_ShaLiX`�	
-��W藏风护腿"]/Game/00MainHZ/Characters/Wukong/Meshes/Equip/ShaLi/SK_WuKong_foot_ShaLi.SK_WuKong_foot_ShaLiX`�	hԀ7rO少时内连续<EquipDetail_LegendDesc_KW>闪身</>3次后，恢复少许法力���
-��W藏风兽面"f/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Cangfeng/SK_wukong_head_cangfeng.SK_wukong_head_cangfeng(Bx/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Cangfeng/AnimBlueprint/ABP_wukong_head_cangfeng.ABP_wukong_head_cangfeng_CJs/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Born/FaceRigged/SM_Wukong_head_born_static.SM_Wukong_head_born_staticX`�	
-��W藏风兽吞铠"f/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Cangfeng/SK_wukong_body_cangfeng.SK_wukong_body_cangfeng(0Bx/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Cangfeng/AnimBlueprint/ABP_wukong_body_cangfeng.ABP_wukong_body_cangfeng_CX`�	��
-
-~�W藏风护臂"d/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Cangfeng/SK_wukong_arm_cangfeng.SK_wukong_arm_cangfengX`�	
-��W藏风护腿"f/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Cangfeng/SK_wukong_foot_cangfeng.SK_wukong_foot_cangfengX`�	h�7rO少时内连续<EquipDetail_LegendDesc_KW>闪身</>3次后，恢复少许法力���
-��X不净残面"]/Game/00MainHZ/Characters/Wukong/Meshes/Equip/NiGou/SK_WuKong_head_NiGou.SK_WuKong_head_NiGou(Bo/Game/00MainHZ/Characters/Wukong/Meshes/Equip/NiGou/AnimBlueprint/ABP_wukong_head_nigou.ABP_wukong_head_nigou_CJs/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Born/FaceRigged/SM_Wukong_head_born_static.SM_Wukong_head_born_staticX`�
-
-��X不净盘龙甲"]/Game/00MainHZ/Characters/Wukong/Meshes/Equip/NiGou/SK_WuKong_body_NiGou.SK_WuKong_body_NiGou(0Bo/Game/00MainHZ/Characters/Wukong/Meshes/Equip/NiGou/AnimBlueprint/ABP_Wukong_body_NiGou.ABP_Wukong_body_NiGou_CX`�
-��
-
-u�X不净护釬"[/Game/00MainHZ/Characters/Wukong/Meshes/Equip/NiGou/SK_WuKong_arm_NiGou.SK_WuKong_arm_NiGouX`�
-
-��X不净泥足"]/Game/00MainHZ/Characters/Wukong/Meshes/Equip/NiGou/SK_WuKong_foot_NiGou.SK_WuKong_foot_NiGouX`�
-h��7rB变身、化身还原时，短时间内所有动作不消耗气力���
-��X不净残面"]/Game/00MainHZ/Characters/Wukong/Meshes/Equip/NiGou/SK_WuKong_head_NiGou.SK_WuKong_head_NiGou(Bo/Game/00MainHZ/Characters/Wukong/Meshes/Equip/NiGou/AnimBlueprint/ABP_wukong_head_nigou.ABP_wukong_head_nigou_CJs/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Born/FaceRigged/SM_Wukong_head_born_static.SM_Wukong_head_born_staticX`�
-
-��X不净盘龙甲"]/Game/00MainHZ/Characters/Wukong/Meshes/Equip/NiGou/SK_WuKong_body_NiGou.SK_WuKong_body_NiGou(0Bo/Game/00MainHZ/Characters/Wukong/Meshes/Equip/NiGou/AnimBlueprint/ABP_Wukong_body_NiGou.ABP_Wukong_body_NiGou_CX`�
-��
-
-u�X不净护釬"[/Game/00MainHZ/Characters/Wukong/Meshes/Equip/NiGou/SK_WuKong_arm_NiGou.SK_WuKong_arm_NiGouX`�
-
-��X不净泥足"]/Game/00MainHZ/Characters/Wukong/Meshes/Equip/NiGou/SK_WuKong_foot_NiGou.SK_WuKong_foot_NiGouX`�
-h��7rB变身、化身还原时，短时间内所有动作不消耗气力���
-��Y羽士云笠"`/Game/00MainHZ/Characters/Wukong/Meshes/Equip/WuGong/SK_WuKong_head_WuGong.SK_WuKong_head_WuGong(0Br/Game/00MainHZ/Characters/Wukong/Meshes/Equip/WuGong/AnimBlueprint/ABP_Wukong_head_WuGong.ABP_Wukong_head_WuGong_CJl/Game/00MainHZ/Characters/Wukong/Meshes/Equip/WuGong/SM_wukong_wugong_statichair.SM_wukong_wugong_statichairJzStaticMesh'/Game/00MainHZ/Characters/Wukong/Meshes/Equip/WuGong/SM_wukong_wugong_shadowproxy.SM_wukong_wugong_shadowproxy'X`�
-�
-��Y羽士戗金甲"`/Game/00MainHZ/Characters/Wukong/Meshes/Equip/WuGong/SK_WuKong_body_WuGong.SK_WuKong_body_WuGong(0Br/Game/00MainHZ/Characters/Wukong/Meshes/Equip/WuGong/AnimBlueprint/ABP_Wukong_body_WuGong.ABP_Wukong_body_WuGong_CX`�
-h��7r3打杀对手后，一定时间内少许增加攻击��
-�
-{�Y羽士刺釬"^/Game/00MainHZ/Characters/Wukong/Meshes/Equip/WuGong/SK_WuKong_arm_WuGong.SK_WuKong_arm_WuGongX`�
-�
-��Y羽士护腿"`/Game/00MainHZ/Characters/Wukong/Meshes/Equip/WuGong/SK_WuKong_foot_WuGong.SK_WuKong_foot_WuGongX`�
-���
-��Y羽士云笠"`/Game/00MainHZ/Characters/Wukong/Meshes/Equip/WuGong/SK_WuKong_head_WuGong.SK_WuKong_head_WuGong(0Br/Game/00MainHZ/Characters/Wukong/Meshes/Equip/WuGong/AnimBlueprint/ABP_Wukong_head_WuGong.ABP_Wukong_head_WuGong_CJl/Game/00MainHZ/Characters/Wukong/Meshes/Equip/WuGong/SM_wukong_wugong_statichair.SM_wukong_wugong_statichairJzStaticMesh'/Game/00MainHZ/Characters/Wukong/Meshes/Equip/WuGong/SM_wukong_wugong_shadowproxy.SM_wukong_wugong_shadowproxy'X`��
-��Y羽士戗金甲"`/Game/00MainHZ/Characters/Wukong/Meshes/Equip/WuGong/SK_WuKong_body_WuGong.SK_WuKong_body_WuGong(0Br/Game/00MainHZ/Characters/Wukong/Meshes/Equip/WuGong/AnimBlueprint/ABP_Wukong_body_WuGong.ABP_Wukong_body_WuGong_CX`�h��7r3打杀对手后，一定时间内少许增加攻击��
-�
-{�Y羽士刺釬"^/Game/00MainHZ/Characters/Wukong/Meshes/Equip/WuGong/SK_WuKong_arm_WuGong.SK_WuKong_arm_WuGongX`��
-��Y羽士护腿"`/Game/00MainHZ/Characters/Wukong/Meshes/Equip/WuGong/SK_WuKong_foot_WuGong.SK_WuKong_foot_WuGongX`����
-��Y百戏傩面"Z/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MaXi/SK_WuKong_head_MaXi.SK_WuKong_head_MaXiJf/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MaXi/SM_wukong_maxi_statichair.SM_wukong_maxi_statichairX`��
-��Y百戏衬钱衣"Z/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MaXi/SK_WuKong_body_MaXi.SK_WuKong_body_MaXi(0Bl/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MaXi/AnimBlueprint/ABP_Wukong_body_MaXi.ABP_Wukong_body_MaXi_CX`���
-�
-��Y百戏护手"X/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MaXi/SK_WuKong_arm_MaXi.SK_WuKong_arm_MaXi(Bj/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MaXi/AnimBlueprint/ABP_Wukong_arm_MaXi.ABP_Wukong_arm_MaXi_CX`��
-{�Y百戏吊腿"Z/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MaXi/SK_WuKong_foot_MaXi.SK_WuKong_foot_MaXiX`����
-��Y百戏傩面"Z/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MaXi/SK_WuKong_head_MaXi.SK_WuKong_head_MaXiJf/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MaXi/SM_wukong_maxi_statichair.SM_wukong_maxi_statichairX`��
-��Y百戏衬钱衣"Z/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MaXi/SK_WuKong_body_MaXi.SK_WuKong_body_MaXi(0Bl/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MaXi/AnimBlueprint/ABP_Wukong_body_MaXi.ABP_Wukong_body_MaXi_CX`���
-�
-��Y百戏护手"X/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MaXi/SK_WuKong_arm_MaXi.SK_WuKong_arm_MaXi(Bj/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MaXi/AnimBlueprint/ABP_Wukong_arm_MaXi.ABP_Wukong_arm_MaXi_CX`��
-{�Y百戏吊腿"Z/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MaXi/SK_WuKong_foot_MaXi.SK_WuKong_foot_MaXiX`����
-��Z百戏傩面"Z/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MaXi/SK_WuKong_head_MaXi.SK_WuKong_head_MaXiJf/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MaXi/SM_wukong_maxi_statichair.SM_wukong_maxi_statichairX`��
-��Z百戏衬钱衣"Z/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MaXi/SK_WuKong_body_MaXi.SK_WuKong_body_MaXi(0Bl/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MaXi/AnimBlueprint/ABP_Wukong_body_MaXi.ABP_Wukong_body_MaXi_CX`���
-�
-��Z百戏护手"X/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MaXi/SK_WuKong_arm_MaXi.SK_WuKong_arm_MaXi(Bj/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MaXi/AnimBlueprint/ABP_Wukong_arm_MaXi.ABP_Wukong_arm_MaXi_CX`��
-{�Z百戏吊腿"Z/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MaXi/SK_WuKong_foot_MaXi.SK_WuKong_foot_MaXiX`����
-��Z百戏傩面"Z/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MaXi/SK_WuKong_head_MaXi.SK_WuKong_head_MaXiJf/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MaXi/SM_wukong_maxi_statichair.SM_wukong_maxi_statichairX`��
-��Z百戏衬钱衣"Z/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MaXi/SK_WuKong_body_MaXi.SK_WuKong_body_MaXi(0Bl/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MaXi/AnimBlueprint/ABP_Wukong_body_MaXi.ABP_Wukong_body_MaXi_CX`���
-�
-��Z百戏护手"X/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MaXi/SK_WuKong_arm_MaXi.SK_WuKong_arm_MaXi(Bj/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MaXi/AnimBlueprint/ABP_Wukong_arm_MaXi.ABP_Wukong_arm_MaXi_CX`��
-{�Z百戏吊腿"Z/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MaXi/SK_WuKong_foot_MaXi.SK_WuKong_foot_MaXiX`����
-��Z百戏傩面"Z/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MaXi/SK_WuKong_head_MaXi.SK_WuKong_head_MaXiJf/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MaXi/SM_wukong_maxi_statichair.SM_wukong_maxi_statichairX`��
-��Z百戏衬钱衣"Z/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MaXi/SK_WuKong_body_MaXi.SK_WuKong_body_MaXi(0Bl/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MaXi/AnimBlueprint/ABP_Wukong_body_MaXi.ABP_Wukong_body_MaXi_CX`���
-�
-��Z百戏护手"X/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MaXi/SK_WuKong_arm_MaXi.SK_WuKong_arm_MaXi(Bj/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MaXi/AnimBlueprint/ABP_Wukong_arm_MaXi.ABP_Wukong_arm_MaXi_CX`��
-{�Z百戏吊腿"Z/Game/00MainHZ/Characters/Wukong/Meshes/Equip/MaXi/SK_WuKong_foot_MaXi.SK_WuKong_foot_MaXiX`����
-��Z大力王面"]/Game/00MainHZ/Characters/Wukong/Meshes/Equip/NiuMo/SK_wukong_head_niumo.SK_wukong_head_niumoJs/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Born/FaceRigged/SM_Wukong_head_born_static.SM_Wukong_head_born_staticX`�h�7r]受到伤害时获得少许棍势；若此时天命人处于强硬状态，获得更多棍势�
-��Z大力山文甲"]/Game/00MainHZ/Characters/Wukong/Meshes/Equip/NiuMo/SK_wukong_body_niumo.SK_wukong_body_niumo(0Bo/Game/00MainHZ/Characters/Wukong/Meshes/Equip/NiuMo/AnimBlueprint/ABP_wukong_body_niumo.ABP_wukong_body_niumo_CX`���
-
-u�Z大力臂甲"[/Game/00MainHZ/Characters/Wukong/Meshes/Equip/NiuMo/SK_wukong_arm_niumo.SK_wukong_arm_niumoX`�
-{�Z大力胫甲"]/Game/00MainHZ/Characters/Wukong/Meshes/Equip/NiuMo/SK_wukong_foot_niumo.SK_wukong_foot_niumoX`���
-��[青铜猴面"`/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Heitie/SK_wukong_head_heitie.SK_wukong_head_heitie(Br/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Heitie/AnimBlueprint/ABP_wukong_head_heitie.ABP_wukong_head_heitie_CJs/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Born/FaceRigged/SM_Wukong_head_born_static.SM_Wukong_head_born_staticX`�
-��[青铜锦征袍"`/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Heitie/SK_wukong_body_heitie.SK_wukong_body_heitie(0Br/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Heitie/AnimBlueprint/ABP_wukong_body_heitie.ABP_wukong_body_heitie_CX`���
-
-��[青铜臂鞲"^/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Heitie/SK_wukong_arm_heitie.SK_wukong_arm_heitieX`�hǄ7r\触发天赋<EquipDetail_LegendDesc_KW>瞬机</>后，衔接轻棍将打出轻棍终结式  �
-~�[青铜吊腿"`/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Heitie/SK_wukong_foot_heitie.SK_wukong_foot_heitieX`���
-��[青铜猴面"`/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Heitie/SK_wukong_head_heitie.SK_wukong_head_heitie(Br/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Heitie/AnimBlueprint/ABP_wukong_head_heitie.ABP_wukong_head_heitie_CJs/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Born/FaceRigged/SM_Wukong_head_born_static.SM_Wukong_head_born_staticX`�
-��[青铜锦征袍"`/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Heitie/SK_wukong_body_heitie.SK_wukong_body_heitie(0Br/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Heitie/AnimBlueprint/ABP_wukong_body_heitie.ABP_wukong_body_heitie_CX`���
-
-��[青铜臂鞲"^/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Heitie/SK_wukong_arm_heitie.SK_wukong_arm_heitieX`�hǄ7r\触发天赋<EquipDetail_LegendDesc_KW>瞬机</>后，衔接轻棍将打出轻棍终结式  �
-~�[青铜吊腿"`/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Heitie/SK_wukong_foot_heitie.SK_wukong_foot_heitieX`���
-��[青铜猴面"`/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Heitie/SK_wukong_head_heitie.SK_wukong_head_heitie(Br/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Heitie/AnimBlueprint/ABP_wukong_head_heitie.ABP_wukong_head_heitie_CJs/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Born/FaceRigged/SM_Wukong_head_born_static.SM_Wukong_head_born_staticX`�
-��[青铜锦征袍"`/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Heitie/SK_wukong_body_heitie.SK_wukong_body_heitie(0Br/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Heitie/AnimBlueprint/ABP_wukong_body_heitie.ABP_wukong_body_heitie_CX`���
-
-��[青铜臂鞲"^/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Heitie/SK_wukong_arm_heitie.SK_wukong_arm_heitieX`�hǄ7r\触发天赋<EquipDetail_LegendDesc_KW>瞬机</>后，衔接轻棍将打出轻棍终结式  �
-~�[青铜吊腿"`/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Heitie/SK_wukong_foot_heitie.SK_wukong_foot_heitieX`���
-��[青铜猴面"`/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Heitie/SK_wukong_head_heitie.SK_wukong_head_heitie(Br/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Heitie/AnimBlueprint/ABP_wukong_head_heitie.ABP_wukong_head_heitie_CJs/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Born/FaceRigged/SM_Wukong_head_born_static.SM_Wukong_head_born_staticX`�
-��[青铜锦征袍"`/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Heitie/SK_wukong_body_heitie.SK_wukong_body_heitie(0Br/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Heitie/AnimBlueprint/ABP_wukong_body_heitie.ABP_wukong_body_heitie_CX`���
-
-��[青铜臂鞲"^/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Heitie/SK_wukong_arm_heitie.SK_wukong_arm_heitieX`�hǄ7r\触发天赋<EquipDetail_LegendDesc_KW>瞬机</>后，衔接轻棍将打出轻棍终结式  �
-~�[青铜吊腿"`/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Heitie/SK_wukong_foot_heitie.SK_wukong_foot_heitieX`���
-��\玄铁双角盔"]/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Cibei/SK_wukong_head_cibei.SK_wukong_head_cibei(Bo/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Cibei/AnimBlueprint/ABP_wukong_head_cibei.ABP_wukong_head_cibei_CX`�
-��\玄铁征袍铠"]/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Cibei/SK_wukong_body_cibei.SK_wukong_body_cibei(0Bo/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Cibei/AnimBlueprint/ABP_wukong_body_cibei.ABP_wukong_body_cibei_CX`���	
-��\玄铁硬手"[/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Cibei/SK_wukong_arm_cibei.SK_wukong_arm_cibeiX`�h��7rc<EquipDetail_LegendDesc_KW>铜头铁臂</>转震后，较大增加短时间内下次攻击的伤害�
-{�\玄铁硬足"]/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Cibei/SK_wukong_foot_cibei.SK_wukong_foot_cibeiX`���
-��\玄铁双角盔"]/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Cibei/SK_wukong_head_cibei.SK_wukong_head_cibei(Bo/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Cibei/AnimBlueprint/ABP_wukong_head_cibei.ABP_wukong_head_cibei_CX`�
-��\玄铁征袍铠"]/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Cibei/SK_wukong_body_cibei.SK_wukong_body_cibei(0Bo/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Cibei/AnimBlueprint/ABP_wukong_body_cibei.ABP_wukong_body_cibei_CX`���	
-��\玄铁硬手"[/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Cibei/SK_wukong_arm_cibei.SK_wukong_arm_cibeiX`�h��7rc<EquipDetail_LegendDesc_KW>铜头铁臂</>转震后，较大增加短时间内下次攻击的伤害�
-{�\玄铁硬足"]/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Cibei/SK_wukong_foot_cibei.SK_wukong_foot_cibeiX`���
-��\昆蚑佛笠"`/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Dujiao/SK_wukong_head_dujiao.SK_wukong_head_dujiao(Br/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Dujiao/AnimBlueprint/ABP_wukong_head_dujiao.ABP_wukong_head_dujiao_CX`�
-x�\昆蚑刺手"^/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Dujiao/SK_wukong_arm_dujiao.SK_wukong_arm_dujiaoX`�
-~�]昆蚑刺足"`/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Dujiao/SK_wukong_foot_dujiao.SK_wukong_foot_dujiaoX`���
-��]昆蚑佛笠"`/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Dujiao/SK_wukong_head_dujiao.SK_wukong_head_dujiao(Br/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Dujiao/AnimBlueprint/ABP_wukong_head_dujiao.ABP_wukong_head_dujiao_CX`�
-��]昆蚑毒敌甲"`/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Dujiao/SK_wukong_body_dujiao.SK_wukong_body_dujiao(0Br/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Dujiao/AnimBlueprint/ABP_wukong_body_dujiao.ABP_wukong_body_dujiao_CX`�h��7r*一定程度增加所有赋毒攻击伤害��
-��
-x�]昆蚑刺手"^/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Dujiao/SK_wukong_arm_dujiao.SK_wukong_arm_dujiaoX`�
-~�]昆蚑刺足"`/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Dujiao/SK_wukong_foot_dujiao.SK_wukong_foot_dujiaoX`���
-��]昆蚑佛笠"`/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Dujiao/SK_wukong_head_dujiao.SK_wukong_head_dujiao(Br/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Dujiao/AnimBlueprint/ABP_wukong_head_dujiao.ABP_wukong_head_dujiao_CX`�
-��]昆蚑毒敌甲"`/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Dujiao/SK_wukong_body_dujiao.SK_wukong_body_dujiao(0Br/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Dujiao/AnimBlueprint/ABP_wukong_body_dujiao.ABP_wukong_body_dujiao_CX`�h��7r*一定程度增加所有赋毒攻击伤害��
-��
-x�]昆蚑刺手"^/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Dujiao/SK_wukong_arm_dujiao.SK_wukong_arm_dujiaoX`�
-~�]昆蚑刺足"`/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Dujiao/SK_wukong_foot_dujiao.SK_wukong_foot_dujiaoX`���
-��]凤翅紫金冠"l/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Dashengtao/SK_wukong_head_dashengtao.SK_wukong_head_dashengtao(B~/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Dashengtao/AnimBlueprint/ABP_wukong_head_dashengtao.ABP_wukong_head_dashengtao_CJs/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Born/FaceRigged/SM_Wukong_head_born_static.SM_Wukong_head_born_staticX`��
-��]锁子黄金甲"l/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Dashengtao/SK_wukong_body_dashengtao.SK_wukong_body_dashengtao(0B~/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Dashengtao/AnimBlueprint/ABP_wukong_body_dashengtao.ABP_wukong_body_dashengtao_CX`����
-��]点翠飞龙釬"j/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Dashengtao/SK_wukong_arm_dashengtao.SK_wukong_arm_dashengtaoX`��
-��]藕丝步云履"l/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Dashengtao/SK_wukong_foot_dashengtao.SK_wukong_foot_dashengtao(B~/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Dashengtao/AnimBlueprint/ABP_wukong_foot_dashengtao.ABP_wukong_foot_dashengtao_CX`����
-��地灵伞盖"h/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Head/LingZhi/SK_wukong_head_lingzhi.SK_wukong_head_lingzhi(0Bz/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Head/LingZhi/AnimBlueprint/ABP_wukong_head_lingzhi.ABP_wukong_head_lingzhi_C`�6h��7rW缓慢流失生命，但大大提升酒的<EquipDetail_LegendDesc_KW>生命恢复量</>�
-��	长嘴脸"a/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Head/HuangZhu/SK_wukong_huangzhu.SK_wukong_huangzhu(B}/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Head/HuangZhu/AnimBlueprint/ABP_wukong_head_huangzhu.ABP_wukong_head_huangzhu_CJs/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Born/FaceRigged/SM_Wukong_head_born_static.SM_Wukong_head_born_static`�6h��7rf饮酒后一定时间内，少许增加攻击造成的伤害；若较长时间内不饮酒，则反之�
-��鳖宝头骨"^/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Head/NiaoZui/SK_wukong_niaozui.SK_wukong_niaozui(Bz/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Head/NiaoZui/AnimBlueprint/ABP_wukong_head_niaozui.ABP_wukong_head_niaozui_CJs/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Born/FaceRigged/SM_Wukong_head_born_static.SM_Wukong_head_born_static`�6h��7r-少许增加打杀对手获得材料的机会�
-��山珍蓑衣"h/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Body/Renshen/SK_wukong_renshen_body.SK_wukong_renshen_body(0Bl/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Body/Renshen/ABP_wukong_body_renshen.ABP_wukong_body_renshen_C`�6h��7rQ饮酒后一定时间内，少许增加<EquipDetail_LegendDesc_KW>气力上限</>���
-��长须头面"X/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Head/Mazha/SK_wukong_mazha.SK_wukong_mazha(Bt/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Head/Mazha/AnimBlueprint/ABP_wukong_head_mazha.ABP_wukong_head_mazha_CJs/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Born/FaceRigged/SM_Wukong_head_born_static.SM_Wukong_head_born_static`�6h��7rQ一定程度增加所有<EquipDetail_LegendDesc_KW>跳跃攻击</>造成的伤害�
-��	白脸子"U/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Head/Lang/SK_wukong_lang.SK_wukong_langJs/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Born/FaceRigged/SM_Wukong_head_born_static.SM_Wukong_head_born_static`�6h��7r]攻击生命危急的对手时，获得一定程度<EquipDetail_LegendDesc_KW>伤害加成</>�
-��	闭眼禅"^/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Head/Yanzhao/SK_wukong_yanzhao.SK_wukong_yanzhao(Bz/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Head/Yanzhao/AnimBlueprint/ABP_wukong_head_yanzhao.ABP_wukong_head_yanzhao_CJs/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Born/FaceRigged/SM_Wukong_head_born_static.SM_Wukong_head_born_static`�6h��7r3更容易触发<EquipDetail_LegendDesc_KW>闪身</>�
-���阴阳法衣"e/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Body/Daopao/SK_wukong_body_daopao.SK_wukong_body_daopao(0Bi/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Body/Daopao/ABP_wukong_body_daopao.ABP_wukong_body_daopao_C`�6h��7r�生命过半时属性为阳，少许减少受到的伤害，但攻击不再造成暴击伤害；生命不足时属性转阴，大大增加暴击率，但受到的伤害也大大增加���
-��	下毒手"c/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Arm/Wugong_02/SK_wukong_wugong_02.SK_wukong_wugong_02(B}/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Arm/Wugong_02/AnimBlueprint/ABP_wukong_arm_wugong_02.ABP_wukong_arm_wugong_02_CX`�6h��7rF暴击时，令对手积累<EquipDetail_SuitDesc_State>毒伤异常</>�
-��南海念珠"`/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Arm/Zhuchuan/SK_wukong_zhuchuan.SK_wukong_zhuchuan(Bz/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Arm/Zhuchuan/AnimBlueprint/ABP_wukong_arm_zhuchuan.ABP_wukong_arm_zhuchuan_C`�6h��7r]汲取鬼火后，长时间内少许增加<EquipDetail_LegendDesc_KW>生命与法力上限</>�
-��金刚护臂"W/Game/00MainHZ/Characters/Wukong/Meshes/Equip/Arm/Yulan/SK_wukong_yulan.SK_wukong_yulan`�6h��7rE少许降低所有<EquipDetail_LegendDesc_KW>奇术</>的冷却时间�
-o��测试用头"X/Game/00MainHZ/Characters/Wukong/Meshes/Preview/Simple/SK_Wukong_Simple.SK_Wukong_Simple`�N
-t��测试用身体"X/Game/00MainHZ/Characters/Wukong/Meshes/Preview/Simple/SK_Wukong_Simple.SK_Wukong_Simple`�N
-q��测试用手"X/Game/00MainHZ/Characters/Wukong/Meshes/Preview/Simple/SK_Wukong_Simple.SK_Wukong_Simple`�N
-q��测试用足"X/Game/00MainHZ/Characters/Wukong/Meshes/Preview/Simple/SK_Wukong_Simple.SK_Wukong_Simple`�N
-~�u	铜云棒"_/Game/00MainHZ/Characters/Wukong/Meshes/Weapon/Born/SK_Wukong_weapon_born.SK_Wukong_weapon_born`�'����
-��u如意金箍棒"Z/Game/00MainHZ/Characters/Wukong/Meshes/Weapon/DaSheng/SK_Wukong_DaSheng.SK_Wukong_DaShengX`�'h��r6第四段棍势可永久维持，不再随时间减削������
-��u鳞棍·双蛇"W/Game/00MainHZ/Characters/Wukong/Meshes/Weapon/LinGun/SK_WuKong_LinGun.SK_WuKong_LinGun`�'h��rl少许增加<EquipDetail_LegendDesc_KW>轻棍终结式</>的伤害；若在水中打斗，效果大大增强�����
-��u兽棍·熊罴"Z/Game/00MainHZ/Characters/Wukong/Meshes/Weapon/ShouGun/SK_WuKong_ShouGun.SK_WuKong_ShouGun`�'h��rT一定程度增加<EquipDetail_LegendDesc_KW>聚形散气</>破隐一击的暴击率�����
-y�u	柳木棍"W/Game/00MainHZ/Characters/Wukong/Meshes/Weapon/Born02/SK_Wukong_Born02.SK_Wukong_Born02`�'�����
-��u	几丁棍"]/Game/00MainHZ/Characters/Wukong/Meshes/Weapon/KunGun02/SK_Wukong_KunGun02.SK_Wukong_KunGun02`�'h��rH蓄力攻击打中对手时，每消耗一段棍势可恢复些微生命�����
-��u昆棍·百眼"]/Game/00MainHZ/Characters/Wukong/Meshes/Weapon/KunGun01/SK_Wukong_KunGun01.SK_Wukong_KunGun01`�'h��r�蓄力攻击打中对手时，每消耗一段棍势可恢复些微生命，若对手处于<EquipDetail_SuitDesc_State>毒伤</>状态，恢复效果大大增强�����
-��u	出云棍"]/Game/00MainHZ/Characters/Wukong/Meshes/Weapon/ShiGun01/SK_Wukong_ShiGun01.SK_Wukong_ShiGun01`�'h��r!少许增加蓄力劈棍的伤害�����
-��u兽棍·貂鼠"o/Game/00MainHZ/Characters/Wukong/Meshes/Weapon/HuangFengGun01/SK_Wukong_HuangFengGun01.SK_Wukong_HuangFengGun01`�'h��ri<EquipDetail_LegendDesc_KW>轻棍第四式、棍花移步</>可舞起风沙，增加攻击范围和伤害�����
-��u鳞棍·蟠龙"i/Game/00MainHZ/Characters/Wukong/Meshes/Weapon/Panlonggun01/SK_wukong_panlonggun01.SK_wukong_panlonggun01(Bm/Game/00MainHZ/Characters/Wukong/Meshes/Weapon/Panlonggun01/ABP_wukong_panlonggun01.ABP_wukong_panlonggun01_C`�'h��r-一定程度增加所有立棍招式的伤害�����
-��u	业火杖"]/Game/00MainHZ/Characters/Wukong/Meshes/Weapon/ShiGun02/SK_Wukong_ShiGun02.SK_Wukong_ShiGun02`�'h��rE使出三、四段蓄力劈棍，可在地面造成熔岩爆裂效果�����
-��u	狼牙棒"f/Game/00MainHZ/Characters/Wukong/Meshes/Weapon/LangYaGun01/SK_Wukong_LangYaGun01.SK_Wukong_LangYaGun01(Bf/Game/00MainHZ/Characters/Wukong/Meshes/Weapon/LangYaGun01/ABP_Wukong_LangYaGun.ABP_Wukong_LangYaGun_C`�'h��r6识破对手攻击后，短时间内不断获得棍势�����
-��u昆棍·蛛仙"f/Game/00MainHZ/Characters/Wukong/Meshes/Weapon/ZhiZhuGun01/SK_WuKong_ZhiZhuGun01.SK_WuKong_ZhiZhuGun01(Bj/Game/00MainHZ/Characters/Wukong/Meshes/Weapon/ZhiZhuGun01/ABP_wukong_zhizhugun01.ABP_wukong_zhizhugun01_C`�'h��r�蓄力攻击打中对手时，每消耗一段棍势可恢复些微生命，自身处于<EquipDetail_SuitDesc_State>毒伤</>状态时，还可令对手积累毒伤异常�����
-��u鳞棍·亢金"o/Game/00MainHZ/Characters/Wukong/Meshes/Weapon/Kangjinlonggun/SK_WuKong_kangjinlonggun.SK_WuKong_kangjinlonggun(Bs/Game/00MainHZ/Characters/Wukong/Meshes/Weapon/Kangjinlonggun/ABP_wukong_kangjinlonggun.ABP_wukong_kangjinlonggun_C`�'h��ri天赋<EquipDetail_LegendDesc_KW>捣蒜打</>替换为造成雷电伤害，可令对手积累雷蛰异常�����
-��u飞龙宝杖"i/Game/00MainHZ/Characters/Wukong/Meshes/Weapon/FeiLongGun01/SK_WuKong_FeiLongGun01.SK_WuKong_FeiLongGun01(Bi/Game/00MainHZ/Characters/Wukong/Meshes/Weapon/FeiLongGun01/ABP_Wukong_FeiLongGun.ABP_Wukong_FeiLongGun_C`�'h��ro一定程度增加所有立棍招式的伤害；使出三、四段蓄力立棍时，引出天龙，劈下落雷�����
-��u	混铁棍"`/Game/00MainHZ/Characters/Wukong/Meshes/Weapon/Huntiegun/SK_wukong_huntiegun.SK_wukong_huntiegun(Bd/Game/00MainHZ/Characters/Wukong/Meshes/Weapon/Huntiegun/ABP_wukong_huntiegun.ABP_wukong_huntiegun_C`�'h��r9按照防御的一定比例，增加攻击造成的伤害�����
-��u	天龙棍"i/Game/00MainHZ/Characters/Wukong/Meshes/Weapon/BaiLongGun01/SK_WuKong_BaiLongGun01.SK_WuKong_BaiLongGun01`�'h��rm蓄力时引雷上身；处于<EquipDetail_SuitDesc_State>雷蛰</>状态时，所有棍法附加赋雷伤害�����
-��u昆棍·通天"r/Game/00MainHZ/Characters/Wukong/Meshes/Weapon/Jiachongwanggun/SK_WuKong_jiachongwanggun.SK_WuKong_jiachongwanggun`�'h��rl蓄力攻击打中对手时，每消耗一段棍势可恢复些微生命，并爆发尖刺伤害周遭对手�����
-��u兽棍·金睛"c/Game/00MainHZ/Characters/Wukong/Meshes/Weapon/Jinjinggun/SK_WuKong_jinjinggun.SK_WuKong_jinjinggun(Bg/Game/00MainHZ/Characters/Wukong/Meshes/Weapon/Jinjinggun/ABP_wukong_jinjinggun.ABP_wukong_jinjinggun_C`�'�����
-��u三尖两刃枪"|/Game/00MainHZ/Characters/Wukong/Meshes/Weapon/SanJianLiangRen/SK_wukong_sanjianliangrenqiang.SK_wukong_sanjianliangrenqiang`�'h��r�在轻棍连招融入枪术，并增加所有戳棍招式的伤害；打出<EquipDetail_LegendDesc_KW>进尺</>时，还可射出飞剑�����
-��u	楮白枪"a/Game/00MainHZ/Characters/Wukong/Meshes/Weapon/ZheBai/SK_wukong_zhebaiqiang.SK_wukong_zhebaiqiang(Be/Game/00MainHZ/Characters/Wukong/Meshes/Weapon/ZheBai/ABP_wukong_zhebaiqiang.ABP_wukong_zhebaiqiang_C`�'h��rB在轻棍连招融入枪术，并增加所有戳棍招式的伤害�����
-|�|如意全箍棒"Z/Game/00MainHZ/Characters/Wukong/Meshes/Weapon/DaSheng/SK_Wukong_DaSheng.SK_Wukong_DaSheng`�.���
-���测试用武器"_/Game/00MainHZ/Characters/Wukong/Meshes/Weapon/Test/SK_Wukong_weapon_test.SK_Wukong_weapon_test`�N���
-�ь	老葫芦"[/Game/00MainHZ/Characters/Wukong/Meshes/Hulu/Born/SK_Wukong_gourd_born.SK_Wukong_gourd_born(0:
-gourd_mainB_/Game/00MainHZ/Characters/Wukong/Meshes/Hulu/Born/ABP_Wukong_gourd_born.ABP_Wukong_gourd_born_C`�>
-�Ҍ	药葫芦"d/Game/00MainHZ/Characters/Wukong/Meshes/Hulu/Born_01/SK_wukong_gourd_born_01.SK_wukong_gourd_born_01(0:
-gourd_main`�>
-�ӌ仙药葫芦"d/Game/00MainHZ/Characters/Wukong/Meshes/Hulu/Born_02/SK_wukong_gourd_born_02.SK_wukong_gourd_born_02(0:
-gourd_mainBh/Game/00MainHZ/Characters/Wukong/Meshes/Hulu/Born_02/ABP_wukong_gourd_born_02.ABP_wukong_gourd_born_02_C`�>
-�Ԍ药王葫芦"d/Game/00MainHZ/Characters/Wukong/Meshes/Hulu/Born_03/SK_wukong_gourd_born_03.SK_wukong_gourd_born_03(0:
-gourd_mainBh/Game/00MainHZ/Characters/Wukong/Meshes/Hulu/Born_03/ABP_wukong_gourd_born_03.ABP_wukong_gourd_born_03_C`�>
-�Ռ药师葫芦"d/Game/00MainHZ/Characters/Wukong/Meshes/Hulu/Born_04/SK_wukong_gourd_born_04.SK_wukong_gourd_born_04(0:
-gourd_mainBh/Game/00MainHZ/Characters/Wukong/Meshes/Hulu/Born_04/ABP_wukong_gourd_born_04.ABP_wukong_gourd_born_04_C`�>
-�֌药师佛葫芦"d/Game/00MainHZ/Characters/Wukong/Meshes/Hulu/Born_05/SK_wukong_gourd_born_05.SK_wukong_gourd_born_05(0:
-gourd_mainBh/Game/00MainHZ/Characters/Wukong/Meshes/Hulu/Born_05/ABP_wukong_gourd_born_05.ABP_wukong_gourd_born_05_C`�>
-�׌湘妃葫芦"d/Game/00MainHZ/Characters/Wukong/Meshes/Hulu/Born_06/SK_wukong_gourd_born_06.SK_wukong_gourd_born_06(0:
-gourd_mainBh/Game/00MainHZ/Characters/Wukong/Meshes/Hulu/Born_06/ABP_wukong_gourd_born_06.ABP_wukong_gourd_born_06_C`�>
-�،玉观音葫芦"d/Game/00MainHZ/Characters/Wukong/Meshes/Hulu/Born_07/SK_wukong_gourd_born_07.SK_wukong_gourd_born_07(0:
-gourd_mainBh/Game/00MainHZ/Characters/Wukong/Meshes/Hulu/Born_07/ABP_wukong_gourd_born_07.ABP_wukong_gourd_born_07_C`�>
-�ٌ争先红葫芦"d/Game/00MainHZ/Characters/Wukong/Meshes/Hulu/Born_08/SK_wukong_gourd_born_08.SK_wukong_gourd_born_08(0:
-gourd_mainBh/Game/00MainHZ/Characters/Wukong/Meshes/Hulu/Born_08/ABP_wukong_gourd_born_08.ABP_wukong_gourd_born_08_C`�>
-�ڌ上清宝葫芦"U/Game/00MainHZ/Characters/Wukong/Meshes/Hulu/02/SK_wukong_gourd_02.SK_wukong_gourd_02(0:
-gourd_mainBY/Game/00MainHZ/Characters/Wukong/Meshes/Hulu/02/ABP_wukong_gourd_02.ABP_wukong_gourd_02_C`�>
-�ی青田葫芦"U/Game/00MainHZ/Characters/Wukong/Meshes/Hulu/08/SK_wukong_gourd_08.SK_wukong_gourd_08(0:
-gourd_mainBY/Game/00MainHZ/Characters/Wukong/Meshes/Hulu/08/ABP_wukong_gourd_08.ABP_wukong_gourd_08_C`�>h��
-�܌五鬼葫芦"U/Game/00MainHZ/Characters/Wukong/Meshes/Hulu/01/SK_Wukong_gourd_01.SK_Wukong_gourd_01(0:
-gourd_mainBY/Game/00MainHZ/Characters/Wukong/Meshes/Hulu/01/ABP_Wukong_gourd_01.ABP_Wukong_gourd_01_C`�>h��
-�݌彩玉葫芦"U/Game/00MainHZ/Characters/Wukong/Meshes/Hulu/03/SK_Wukong_gourd_03.SK_Wukong_gourd_03(0:
-gourd_mainBY/Game/00MainHZ/Characters/Wukong/Meshes/Hulu/03/ABP_Wukong_gourd_03.ABP_Wukong_gourd_03_C`�>h��
-�ތ妙仙葫芦"U/Game/00MainHZ/Characters/Wukong/Meshes/Hulu/07/SK_wukong_gourd_07.SK_wukong_gourd_07(0:
-gourd_mainBY/Game/00MainHZ/Characters/Wukong/Meshes/Hulu/07/ABP_wukong_gourd_07.ABP_wukong_gourd_07_C`�>h��
-�ߌ乾坤彩葫芦"U/Game/00MainHZ/Characters/Wukong/Meshes/Hulu/05/SK_wukong_gourd_05.SK_wukong_gourd_05(0:
-gourd_mainBY/Game/00MainHZ/Characters/Wukong/Meshes/Hulu/05/ABP_wukong_gourd_05.ABP_wukong_gourd_05_C`�>
-���宝莲玉葫芦"U/Game/00MainHZ/Characters/Wukong/Meshes/Hulu/06/SK_wukong_gourd_06.SK_wukong_gourd_06(0:
-gourd_mainBY/Game/00MainHZ/Characters/Wukong/Meshes/Hulu/06/ABP_wukong_gourd_06.ABP_wukong_gourd_06_C`�>
-��	燃葫芦"U/Game/00MainHZ/Characters/Wukong/Meshes/Hulu/04/SK_wukong_gourd_04.SK_wukong_gourd_04(0:
-gourd_mainBY/Game/00MainHZ/Characters/Wukong/Meshes/Hulu/04/ABP_wukong_gourd_04.ABP_wukong_gourd_04_C`�>
-��	辟火罩`�F
-��	定风珠`�F
-��	绣花针`�F
-��	芭蕉扇`�F
-D�}细磁茶盂`�.r)少许增加<{0}_KW>气力恢复速度</>�
-;�}猫睛宝串`�.r 些微增加<{0}_KW>暴击率</>�
-5�}	玛瑙罐`�.r少许增加<{0}_KW>防御</>�
-i�}	虎头牌h��rP若连续打中对手，短时间内少许增加<{0}_KW>攻击</>造成的伤害�
-@�}	砗磲佩h��r'些微减少所有法术的回转时间�
-M�}金花玉萼`�.r2些微增加打杀对手获得的<{0}_KW>灵蕴</>�
-H�}琉璃舍利瓶h��r)闪身时，恢复少许<{0}_KW>气力</>�
-9�}风铎h��r#些微增加<{0}_KW>移动速度</>�
-8�}雷榍`�.r#少许增加<{0}_KW>雷蛰耐性</>�
-;�}	耐雪枝`�.r#少许增加<{0}_KW>寒冻耐性</>�
-9�}	白狐毫`�.r!少许增加变身的维持时间�
-U�}	未来珠h��r<打中对手足够次数后，可避免下一次致命伤害�
-H�}	金色鲤`�.r0少许增加打杀对手后获得材料的机会�
-j�}	月玉兔X`�.rP些微增加<{0}_KW>伤害减免</>；若同时配有日金乌，可提升效果�
-Q�}	三清令h��r8生命不足时，一定程度增加<{0}_KW>暴击率</>�
-c�}	定颜珠h��rJ还魂后较长时间内，增加<{0}_KW>生命、法力、气力上限</>�
-j�}	日金乌X`�/rP些微增加<{0}_KW>伤害加成</>；若同时配有月玉兔，可提升效果�
-A�}错金银带钩`�/r#少许增加<{0}_KW>毒伤耐性</>�
-T�}金钮h��r>生命饱满时，较大增加<{0}_KW>攻击</>造成的伤害�
-;�}	阳燧珠`�/r#少许增加<{0}_KW>火焚耐性</>�
-M�}	水火篮`�/r5少许增加火性、寒性变身的<{0}_KW>攻击</>�
-K�}	辟水珠h��r2在水中时，一定程度增加<{0}_KW>防御</>�
-C�}琥珀念珠h��r'少许加快提升棍势段数的速度�
-G�}仙箓`�/r2些微增加打杀对手获得的<{0}_KW>道行</>�
-}�}虎筋绦子h��ra<{0}_KW>识破</>对手攻击后，短时间内一定程度增加<{0}_KW>攻击</>造成的伤害�
-H�}仙胞石片h��r,攻击无视对手的<{0}_KW>四灾耐性</>�
-`�}	摩尼珠h��rG陷入寒冻状态后，一定时间内少许增加<{0}_KW>暴击率</>�
-T�}	博山炉h��r;饮尽葫芦后，获得一定程度<{0}_KW>伤害减免</>�
-A�}	不求人`�/r)一定程度增加<{0}_KW>气力上限</>�
-��}	吉祥灯h��r~<{0}_KW>聚形散气</>时对自身触发魔音效果：少许增加<{0}_KW>攻击</>，但大大降低<{0}_KW>生命上限</>�
-i�}	金棕衣`�/h��rM一定程度增加<{0}_KW>防御</>；受到伤害时，也伤害周遭对手�
-;�}	兽与佛`�/r#少许增加<{0}_KW>暴击伤害</>�
-;�}	铜佛坠`�/r#些微增加<{0}_KW>四灾耐性</>�
-A�}	雷火印`�/r)一定程度增加<{0}_KW>法力上限</>�
-E�}	君子牌h��r,些微增加<{0}_KW>神力</>的回复速度�
-;�}	卵中骨`�/r#少许增加<{0}_KW>赋毒伤害</>�
-8�}白贝腰链`�/r些微增加<{0}_KW>攻击</>�

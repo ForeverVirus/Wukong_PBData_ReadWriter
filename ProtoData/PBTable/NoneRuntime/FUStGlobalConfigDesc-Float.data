@@ -1,64 +1,0 @@
-
-é
-GridSize2500
-ê
-
-HugeRadius400
-ë
-	BigRadius300
-ì
-MediumRadius200
-"í
-CanDefeatTTTBAdditive99
-î
-ObjectPoolMaxCount300
--ï(
-TransitionLocomotionMaxDistance800
-0ğ+
-%GlobalBuffDispMaxTriggerCountPerFrame10
-)ñ$
-BuffDispMaxTriggerCountPerFrame1
-ò
-G4RotateSpeed1
-9ó4
-*AlchemyNpcCommunicationAwardIntervalSecond1800
-0ô+
-$YinYangDmgMultiplier_PlayerHitPlayer1
-4õ/
-%YinYangDmgMultiplier_MonsterHitPlayer1.25
-3ö.
-%YinYangDmgMultiplier_PlayerHitMonster2.5
-2÷-
-&YinYangDmgMultiplier_MonsterHitMonster1
-ø
-WukongResID10
-%ù 
-EnableVigourUnitDispItem4091
-6ú1
-(PausedCameraShakeContinueRequireRestTime0.5
-û
-PillarFormStateBuff275
-$ü
-PillarFormTerminatorBuff276
-7ı2
--CanTriggerDeadAutoSwitch2PhysicMInQualityType5
--ş(
-DeadAutoSwitch2PhysicThresholds0.6
-ÿ
-FoxTransResID39
-/€*
-"PlayerAutoLockInputDegreeThreshold30
- 
-DaShengHeadEquipID12001
- ‚
-FoxTransQuestItemID2403
-1ƒ,
-"PigsyStory_PlayerOverDistInterrupt1000
--„(
-PigsyStory_ListenNextStoryDist2000
-4…/
-%SummonNavProtectDistLimit_ReverseCalc1500
-†
-BPAnimal_MaxNum10
-$‡
-BPAnimal_DestroyDist10000

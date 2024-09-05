@@ -1,151 +1,0 @@
-
->‹¿CAMERA_LOCK ‹¿*CAMERA_LOCK2root:	SoulFocusB	SoulFocus
-8‹¿CAMERA_LOCK_HAND_L ›¿*CAMERA_LOCK_HAND_L2root
-8‹¿CAMERA_LOCK_HAND_R ›¿*CAMERA_LOCK_HAND_R2root
-@›¿CAMERA_LOCK ﬁ¿*CAMERA_LOCK2root:	SoulFocusB	SoulFocus
-8›¿CAMERA_LOCK_HAND_L ﬂ¿*CAMERA_LOCK_HAND_L2root
-8›¿CAMERA_LOCK_HAND_R ﬂ¿*CAMERA_LOCK_HAND_R2root
-@ﬁ¿CAMERA_LOCK ·¿*CAMERA_LOCK2root:	SoulFocusB	SoulFocus
-8ﬁ¿CAMERA_LOCK_HAND_L ‡¿*CAMERA_LOCK_HAND_L2root
-8ﬁ¿CAMERA_LOCK_HAND_R ‡¿*CAMERA_LOCK_HAND_R2root
-%	∞æCAMERA_LOCK ≤æ*pelvis2root
-8
-∞æCAMERA_LOCK_FOOT_R ∞æ*CAMERA_LOCK_FOOT_R2root
-8∞æCAMERA_LOCK_FOOT_L ∞æ*CAMERA_LOCK_FOOT_L2root
-%±æCAMERA_LOCK ±æ*pelvis2root
-8±æCAMERA_LOCK_FOOT_R ≥æ*CAMERA_LOCK_FOOT_R2root
-8±æCAMERA_LOCK_FOOT_L ≥æ*CAMERA_LOCK_FOOT_L2root
-7ÃΩCAMERA_LOCK ÃΩ*CAMERA_LOCK2rootBCAMERA_LOCK
-4ÃΩCAMERA_LOCK_BONE œΩ*CAMERA_LOCK_BONE2root
-*œΩCAMERA_LOCK ÃΩ*CAMERA_LOCK2root
-4œΩCAMERA_LOCK_BONE œΩ*CAMERA_LOCK_BONE2root
-*®…CAMERA_LOCK ®…*CAMERA_LOCK2root
-4®…CAMERA_LOCK_HEAD ®…*CAMERA_LOCK_HEAD2root
-*©…CAMERA_LOCK ©…*CAMERA_LOCK2root
-4©…CAMERA_LOCK_HEAD ©…*CAMERA_LOCK_HEAD2root
-*‡ÍCAMERA_LOCK ‡Í*CAMERA_LOCK2root
-4‡ÍCAMERA_LOCK_HEAD ·Í*CAMERA_LOCK_HEAD2root
-*‚ÍCAMERA_LOCK ‚Í*CAMERA_LOCK2root
-4‚ÍCAMERA_LOCK_HEAD ‚Í*CAMERA_LOCK_HEAD2root
-*„ÍCAMERA_LOCK „Í*CAMERA_LOCK2root
-4„ÍCAMERA_LOCK_HEAD „Í*CAMERA_LOCK_HEAD2root
-*‰ÍCAMERA_LOCK ‰Í*CAMERA_LOCK2root
-4‰ÍCAMERA_LOCK_HEAD ‰Í*CAMERA_LOCK_HEAD2root
-5Ã∂CAMERA_LOCK_HEAD ∞”≤*CAMERA_LOCK_HEAD2root
-+ Ã∂CAMERA_LOCK ∞”≤*CAMERA_LOCK2root
-5!Õ∂CAMERA_LOCK_HEAD ±”≤*CAMERA_LOCK_HEAD2root
-+"Õ∂CAMERA_LOCK ∞”≤*CAMERA_LOCK2root
-5#Œ∂CAMERA_LOCK_HEAD ≤”≤*CAMERA_LOCK_HEAD2root
-+$Œ∂CAMERA_LOCK ∞”≤*CAMERA_LOCK2root
-5%œ∂CAMERA_LOCK_HEAD ≥”≤*CAMERA_LOCK_HEAD2root
-+&œ∂CAMERA_LOCK ≥”≤*CAMERA_LOCK2root
-5'–∂CAMERA_LOCK_HEAD ¥”≤*CAMERA_LOCK_HEAD2root
-+(–∂CAMERA_LOCK ¥”≤*CAMERA_LOCK2root
-5)—∂CAMERA_LOCK_HEAD µ”≤*CAMERA_LOCK_HEAD2root
-+*—∂CAMERA_LOCK ∞”≤*CAMERA_LOCK2root
-5+“∂CAMERA_LOCK_HEAD ∂”≤*CAMERA_LOCK_HEAD2root
-+,“∂CAMERA_LOCK ∞”≤*CAMERA_LOCK2root
-5-”∂CAMERA_LOCK_HEAD ∑”≤*CAMERA_LOCK_HEAD2root
-+.”∂CAMERA_LOCK ∑”≤*CAMERA_LOCK2root
-5/◊∂CAMERA_LOCK_HEAD ª”≤*CAMERA_LOCK_HEAD2root
-+0◊∂CAMERA_LOCK ª”≤*CAMERA_LOCK2root
-*1ÄôCAMERA_LOCK_SZLC Äô*pelvis2root
-%2ıúCAMERA_LOCK ıú*pelvis2root
-*3ıúCAMERA_LOCK_HEAD ˆú*pelvis2root
-*4ÄÍ0CAMERA_LOCK ÄÍ0*CAMERA_LOCK2root
-R5ÄÍ0CAMERA_LOCK_FAKE ÄÍ0*CAMERA_LOCK_242root:CAMERA_LOCK_24BCAMERA_LOCK_24
-*6ÅÍ0CAMERA_LOCK ÅÍ0*CAMERA_LOCK2root
-R7ÅÍ0CAMERA_LOCK_FAKE ÅÍ0*CAMERA_LOCK_242root:CAMERA_LOCK_24BCAMERA_LOCK_24
-*8ÇÍ0CAMERA_LOCK ÇÍ0*CAMERA_LOCK2root
-R9ÇÍ0CAMERA_LOCK_FAKE ÇÍ0*CAMERA_LOCK_242root:CAMERA_LOCK_24BCAMERA_LOCK_24
-,:Å§ËCAMERA_LOCK Å§Ë*CAMERA_LOCK2root
-T;Å§ËCAMERA_LOCK_FAKE Å§Ë*CAMERA_LOCK_242root:CAMERA_LOCK_24BCAMERA_LOCK_24
-*<ƒ›*CAMERA_LOCK ƒ›**CAMERA_LOCK2root
-R=ƒ›*CAMERA_LOCK_FAKE ƒ›**CAMERA_LOCK_152root:CAMERA_LOCK_15BCAMERA_LOCK_15
-*>ƒ›*CAMERA_LOCK ≈›**CAMERA_LOCK2root
-R?ƒ›*CAMERA_LOCK_FAKE ≈›**CAMERA_LOCK_152root:CAMERA_LOCK_15BCAMERA_LOCK_15
-+@ºìCAMERA_LOCK öø	*CAMERA_LOCK2root
-3AºìCAMERA_LOCK_SAN öø	*CAMERA_LOCK_SAN2root
-+BŸ¬yCAMERA_LOCK ‘õø	*CAMERA_LOCK2root
-3CŸ¬yCAMERA_LOCK_SAN ‘õø	*CAMERA_LOCK_SAN2root
-+DÉƒyCAMERA_LOCK î®ø	*CAMERA_LOCK2root
-3EÉƒyCAMERA_LOCK_SAN î®ø	*CAMERA_LOCK_SAN2root
-+FçƒyCAMERA_LOCK ¯®ø	*CAMERA_LOCK2root
-3GçƒyCAMERA_LOCK_SAN ¯®ø	*CAMERA_LOCK_SAN2root
-+HéƒyCAMERA_LOCK ˙®ø	*CAMERA_LOCK2root
-3IéƒyCAMERA_LOCK_SAN ˙®ø	*CAMERA_LOCK_SAN2root
-+JœìCAMERA_LOCK ›©ø	*CAMERA_LOCK2root
-3KœìCAMERA_LOCK_SAN ›©ø	*CAMERA_LOCK_SAN2root
-+LË√yCAMERA_LOCK †Ωø	*CAMERA_LOCK2root
-3MË√yCAMERA_LOCK_SAN †Ωø	*CAMERA_LOCK_SAN2root
-*NÿíCAMERA_LOCK ÿí*CAMERA_LOCK2root
-6OÿíCAMERA_LOCK_BLADE ÿí*CAMERA_LOCK_BLADE2root
-*P⁄íCAMERA_LOCK ⁄í*CAMERA_LOCK2root
-6Q⁄íCAMERA_LOCK_BLADE ⁄í*CAMERA_LOCK_BLADE2root
-*R‚íCAMERA_LOCK ‚í*CAMERA_LOCK2root
-6S‚íCAMERA_LOCK_BLADE ‚í*CAMERA_LOCK_BLADE2root
-*T§–$CAMERA_LOCK_HANDR ê‹Œ*root2root
-*U§–$CAMERA_LOCK_HANDL ê‹Œ*root2root
-$V§–$CAMERA_LOCK ê‹Œ*root2root
-*W•–$CAMERA_LOCK_HANDR ë‹Œ*root2root
-*X•–$CAMERA_LOCK_HANDL ë‹Œ*root2root
-$Y•–$CAMERA_LOCK ë‹Œ*root2root
-*Z¶–$CAMERA_LOCK_HANDR í‹Œ*root2root
-*[¶–$CAMERA_LOCK_HANDL í‹Œ*root2root
-$\¶–$CAMERA_LOCK í‹Œ*root2root
-$]ß–$CAMERA_LOCK ì‹Œ*root2root
-*^ß–$CAMERA_LOCK_HANDR ê‹Œ*root2root
-*_ß–$CAMERA_LOCK_HANDL ê‹Œ*root2root
-$`≠–$CAMERA_LOCK ô‹Œ*root2root
-*a≠–$CAMERA_LOCK_HANDR ô‹Œ*root2root
-*b≠–$CAMERA_LOCK_HANDL ô‹Œ*root2root
-*c –$CAMERA_LOCK_HANDR ö‹Œ*root2root
-*d –$CAMERA_LOCK_HANDL ö‹Œ*root2root
-$e –$CAMERA_LOCK ö‹Œ*root2root
-#fƒìCAMERA_LOCK ƒì*head2root
-8gƒìCAMERA_LOCK_HAND_L ƒì*CAMERA_LOCK_HAND_L2root
-8hƒìCAMERA_LOCK_HAND_R ƒì*CAMERA_LOCK_HAND_R2root
-#i∆ìCAMERA_LOCK ∆ì*head2root
-8j∆ìCAMERA_LOCK_HAND_L ∆ì*CAMERA_LOCK_HAND_L2root
-8k∆ìCAMERA_LOCK_HAND_R ∆ì*CAMERA_LOCK_HAND_R2root
-*l‘ÁCAMERA_LOCK ‘Á*CAMERA_LOCK2root
-/m‘ÁCAMERA_LOCK_HEAD ‘Á*CAMERA_LOCK2root
-*n’ÁCAMERA_LOCK ’Á*CAMERA_LOCK2root
-/o’ÁCAMERA_LOCK_HEAD ’Á*CAMERA_LOCK2root
-*p÷ÁCAMERA_LOCK ÷Á*CAMERA_LOCK2root
-/q÷ÁCAMERA_LOCK_HEAD ÷Á*CAMERA_LOCK2root
-*r◊ÁCAMERA_LOCK ◊Á*CAMERA_LOCK2root
-/s◊ÁCAMERA_LOCK_HEAD ◊Á*CAMERA_LOCK2root
-*tÿÁCAMERA_LOCK ÿÁ*CAMERA_LOCK2root
-/uÿÁCAMERA_LOCK_HEAD ÿÁ*CAMERA_LOCK2root
-(v‹πCAMERA_LOCK ‹π*	SoulFocus2root
-3w‹πCAMERA_LOCK_SPINE ‹π*SoulFocusSpine2root
-4x‹πCAMERA_LOCK_TAIL ‹π*CAMERA_LOCK_TAIL2root
-(y›πCAMERA_LOCK ›π*	SoulFocus2root
-3z›πCAMERA_LOCK_SPINE ›π*SoulFocusSpine2root
-4{›πCAMERA_LOCK_TAIL ›π*CAMERA_LOCK_TAIL2root
-(|ﬁπCAMERA_LOCK ﬁπ*	SoulFocus2root
-3}ﬁπCAMERA_LOCK_SPINE ﬁπ*SoulFocusSpine2root
-4~ﬁπCAMERA_LOCK_TAIL ﬁπ*CAMERA_LOCK_TAIL2root
-(ﬂπCAMERA_LOCK ﬂπ*	SoulFocus2root
-4ÄﬂπCAMERA_LOCK_SPINE ﬂπ*SoulFocusSpine2root
-5ÅﬂπCAMERA_LOCK_TAIL ﬂπ*CAMERA_LOCK_TAIL2root
-)Ç‡πCAMERA_LOCK ‡π*	SoulFocus2root
-4É‡πCAMERA_LOCK_SPINE ‡π*SoulFocusSpine2root
-5Ñ‡πCAMERA_LOCK_TAIL ‡π*CAMERA_LOCK_TAIL2root
-)Ö·πCAMERA_LOCK ·π*	SoulFocus2root
-4Ü·πCAMERA_LOCK_SPINE ·π*SoulFocusSpine2root
-5á·πCAMERA_LOCK_TAIL ·π*CAMERA_LOCK_TAIL2root
-(àË‚CAMERA_LOCK Ë‚*spine_032root
-)âË‚CAMERA_LOCK_HEAD Ë‚*head2root
-+ä∏ÏCAMERA_LOCK ∏Ï*CAMERA_LOCK2root
-5ã∏ÏCAMERA_LOCK_HAND ∏Ï*CAMERA_LOCK_HAND2root
-(åÈ‚CAMERA_LOCK È‚*spine_032root
-)çÈ‚CAMERA_LOCK_HEAD È‚*head2root
-$é≈ìCAMERA_LOCK ≈ì*head2root
-9è≈ìCAMERA_LOCK_HAND_L ≈ì*CAMERA_LOCK_HAND_L2root
-9ê≈ìCAMERA_LOCK_HAND_R ≈ì*CAMERA_LOCK_HAND_R2root
-(ëÍ‚CAMERA_LOCK È‚*spine_032root
-)íÍ‚CAMERA_LOCK_HEAD È‚*head2root
-&ìËCAMERA_LOCK*CAMERA_LOCK2root
-0îËCAMERA_LOCK_Root*CAMERA_LOCK_Root2root

@@ -1,332 +1,0 @@
-
-ñÉV(Ã2âAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cotton/EVT_player_wk_cloth_cotton_atk_light.EVT_player_wk_cloth_cotton_atk_light'
-íÑV(Ã2ÖAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cotton/EVT_player_wk_cloth_cotton_atk_mid.EVT_player_wk_cloth_cotton_atk_mid'
-òÖV(Ã2ãAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cotton/EVT_player_wk_cloth_cotton_atk_strong.EVT_player_wk_cloth_cotton_atk_strong'
-êÎ](Ã2ÉAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cotton/EVT_player_wk_cloth_cotton_roll01.EVT_player_wk_cloth_cotton_roll01'
-êÏ](Ã2ÉAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cotton/EVT_player_wk_cloth_cotton_roll02.EVT_player_wk_cloth_cotton_roll02'
-êÌ](Ã2ÉAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cotton/EVT_player_wk_cloth_cotton_roll03.EVT_player_wk_cloth_cotton_roll03'
-£œ^(Ã2ñAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll01.EVT_player_wk_act_landtype_general_roll01'
-£–^(Ã2ñAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll02.EVT_player_wk_act_landtype_general_roll02'
-£	—^(Ã2ñAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll03.EVT_player_wk_act_landtype_general_roll03'
-°
-œ^ (Ã2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll01.EVT_player_wk_act_landtype_water_roll01'
-°–^ (Ã2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll02.EVT_player_wk_act_landtype_water_roll02'
-°—^ (Ã2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll03.EVT_player_wk_act_landtype_water_roll03'
-°œ^ (Ã2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll01.EVT_player_wk_act_landtype_water_roll01'
-°–^ (Ã2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll02.EVT_player_wk_act_landtype_water_roll02'
-°—^ (Ã2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll03.EVT_player_wk_act_landtype_water_roll03'
-üœ^ 
-(Ã2êAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll01.EVT_player_wk_act_landtype_snow_roll01'
-ü–^ 
-(Ã2êAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll02.EVT_player_wk_act_landtype_snow_roll02'
-ü—^ 
-(Ã2êAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll03.EVT_player_wk_act_landtype_snow_roll03'
-íı](Ã2ÖAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cotton/EVT_player_wk_cloth_cotton_jump_up.EVT_player_wk_cloth_cotton_jump_up'
-ñˆ](Ã2âAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cotton/EVT_player_wk_cloth_cotton_jump_down.EVT_player_wk_cloth_cotton_jump_down'
-õˇ](Ã2éAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cotton/EVT_player_wk_cloth_cotton_act_zhengtuo.EVT_player_wk_cloth_cotton_act_zhengtuo
-ãèN(Ã2AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cotton/EVT_player_wk_cloth_cotton_step.EVT_player_wk_cloth_cotton_step'
-ò”e(Ã2ãAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cotton/EVT_player_wk_cloth_cotton_hurt_light.EVT_player_wk_cloth_cotton_hurt_light'
-î‘e(Ã2áAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cotton/EVT_player_wk_cloth_cotton_hurt_mid.EVT_player_wk_cloth_cotton_hurt_mid'
-ö’e(Ã2çAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cotton/EVT_player_wk_cloth_cotton_hurt_strong.EVT_player_wk_cloth_cotton_hurt_strong'
-´ÉV(∞	2ûAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_light/EVT_player_wk_cloth_leather_light_atk_light.EVT_player_wk_cloth_leather_light_atk_light'
-ßÑV(∞	2öAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_light/EVT_player_wk_cloth_leather_light_atk_mid.EVT_player_wk_cloth_leather_light_atk_mid'
-≠ÖV(∞	2†AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_light/EVT_player_wk_cloth_leather_light_atk_strong.EVT_player_wk_cloth_leather_light_atk_strong'
-•Î](∞	2òAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_light/EVT_player_wk_cloth_leather_light_roll01.EVT_player_wk_cloth_leather_light_roll01'
-•Ï](∞	2òAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_light/EVT_player_wk_cloth_leather_light_roll02.EVT_player_wk_cloth_leather_light_roll02'
-•Ì](∞	2òAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_light/EVT_player_wk_cloth_leather_light_roll03.EVT_player_wk_cloth_leather_light_roll03'
-£ œ^(∞	2ñAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll01.EVT_player_wk_act_landtype_general_roll01'
-£!–^(∞	2ñAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll02.EVT_player_wk_act_landtype_general_roll02'
-£"—^(∞	2ñAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll03.EVT_player_wk_act_landtype_general_roll03'
-°#œ^ (∞	2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll01.EVT_player_wk_act_landtype_water_roll01'
-°$–^ (∞	2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll02.EVT_player_wk_act_landtype_water_roll02'
-°%—^ (∞	2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll03.EVT_player_wk_act_landtype_water_roll03'
-°&œ^ (∞	2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll01.EVT_player_wk_act_landtype_water_roll01'
-°'–^ (∞	2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll02.EVT_player_wk_act_landtype_water_roll02'
-°(—^ (∞	2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll03.EVT_player_wk_act_landtype_water_roll03'
-ü)œ^ 
-(∞	2êAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll01.EVT_player_wk_act_landtype_snow_roll01'
-ü*–^ 
-(∞	2êAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll02.EVT_player_wk_act_landtype_snow_roll02'
-ü+—^ 
-(∞	2êAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll03.EVT_player_wk_act_landtype_snow_roll03'
-ß,ı](∞	2öAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_light/EVT_player_wk_cloth_leather_light_jump_up.EVT_player_wk_cloth_leather_light_jump_up'
-´-ˆ](∞	2ûAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_light/EVT_player_wk_cloth_leather_light_jump_down.EVT_player_wk_cloth_leather_light_jump_down'
-±.ˇ](∞	2§AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_light/EVT_player_wk_cloth_leather_light_act_zhengtuo.EVT_player_wk_cloth_leather_light_act_zhengtuo'
-°/èN(∞	2îAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_light/EVT_player_wk_cloth_leather_light_step.EVT_player_wk_cloth_leather_light_step'
-≠0”e(∞	2†AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_light/EVT_player_wk_cloth_leather_light_hurt_light.EVT_player_wk_cloth_leather_light_hurt_light'
-©1‘e(∞	2úAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_light/EVT_player_wk_cloth_leather_light_hurt_mid.EVT_player_wk_cloth_leather_light_hurt_mid'
-Ø2’e(∞	2¢AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_light/EVT_player_wk_cloth_leather_light_hurt_strong.EVT_player_wk_cloth_leather_light_hurt_strong'
-Æ3ÉV(î
-2°AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_strong/EVT_player_wk_cloth_leather_strong_atk_light.EVT_player_wk_cloth_leather_strong_atk_light'
-™4ÑV(î
-2ùAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_strong/EVT_player_wk_cloth_leather_strong_atk_mid.EVT_player_wk_cloth_leather_strong_atk_mid'
-∞5ÖV(î
-2£AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_strong/EVT_player_wk_cloth_leather_strong_atk_strong.EVT_player_wk_cloth_leather_strong_atk_strong'
-®6Î](î
-2õAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_strong/EVT_player_wk_cloth_leather_strong_roll01.EVT_player_wk_cloth_leather_strong_roll01'
-®7Ï](î
-2õAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_strong/EVT_player_wk_cloth_leather_strong_roll02.EVT_player_wk_cloth_leather_strong_roll02'
-®8Ì](î
-2õAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_strong/EVT_player_wk_cloth_leather_strong_roll03.EVT_player_wk_cloth_leather_strong_roll03'
-£9œ^(î
-2ñAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll01.EVT_player_wk_act_landtype_general_roll01'
-£:–^(î
-2ñAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll02.EVT_player_wk_act_landtype_general_roll02'
-£;—^(î
-2ñAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll03.EVT_player_wk_act_landtype_general_roll03'
-°<œ^ (î
-2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll01.EVT_player_wk_act_landtype_water_roll01'
-°=–^ (î
-2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll02.EVT_player_wk_act_landtype_water_roll02'
-°>—^ (î
-2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll03.EVT_player_wk_act_landtype_water_roll03'
-°?œ^ (î
-2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll01.EVT_player_wk_act_landtype_water_roll01'
-°@–^ (î
-2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll02.EVT_player_wk_act_landtype_water_roll02'
-°A—^ (î
-2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll03.EVT_player_wk_act_landtype_water_roll03'
-üBœ^ 
-(î
-2êAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll01.EVT_player_wk_act_landtype_snow_roll01'
-üC–^ 
-(î
-2êAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll02.EVT_player_wk_act_landtype_snow_roll02'
-üD—^ 
-(î
-2êAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll03.EVT_player_wk_act_landtype_snow_roll03'
-™Eı](î
-2ùAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_strong/EVT_player_wk_cloth_leather_strong_jump_up.EVT_player_wk_cloth_leather_strong_jump_up'
-ÆFˆ](î
-2°AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_strong/EVT_player_wk_cloth_leather_strong_jump_down.EVT_player_wk_cloth_leather_strong_jump_down'
-¥Gˇ](î
-2ßAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_strong/EVT_player_wk_cloth_leather_strong_act_zhengtuo.EVT_player_wk_cloth_leather_strong_act_zhengtuo'
-§HèN(î
-2óAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_strong/EVT_player_wk_cloth_leather_strong_step.EVT_player_wk_cloth_leather_strong_step'
-∞I”e(î
-2£AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_strong/EVT_player_wk_cloth_leather_strong_hurt_light.EVT_player_wk_cloth_leather_strong_hurt_light'
-¨J‘e(î
-2üAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_strong/EVT_player_wk_cloth_leather_strong_hurt_mid.EVT_player_wk_cloth_leather_strong_hurt_mid'
-≤K’e(î
-2•AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/leather_strong/EVT_player_wk_cloth_leather_strong_hurt_strong.EVT_player_wk_cloth_leather_strong_hurt_strong'
-êLÉV(¯
-2ÉAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/coin/EVT_player_wk_cloth_coin_atk_light.EVT_player_wk_cloth_coin_atk_light'
-ãMÑV(¯
-2AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/coin/EVT_player_wk_cloth_coin_atk_mid.EVT_player_wk_cloth_coin_atk_mid'
-íNÖV(¯
-2ÖAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/coin/EVT_player_wk_cloth_coin_atk_strong.EVT_player_wk_cloth_coin_atk_strong'
-âOÎ](¯
-2}AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/coin/EVT_player_wk_cloth_coin_roll01.EVT_player_wk_cloth_coin_roll01'
-âPÏ](¯
-2}AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/coin/EVT_player_wk_cloth_coin_roll02.EVT_player_wk_cloth_coin_roll02'
-âQÌ](¯
-2}AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/coin/EVT_player_wk_cloth_coin_roll03.EVT_player_wk_cloth_coin_roll03'
-£Rœ^(¯
-2ñAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll01.EVT_player_wk_act_landtype_general_roll01'
-£S–^(¯
-2ñAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll02.EVT_player_wk_act_landtype_general_roll02'
-£T—^(¯
-2ñAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll03.EVT_player_wk_act_landtype_general_roll03'
-°Uœ^ (¯
-2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll01.EVT_player_wk_act_landtype_water_roll01'
-°V–^ (¯
-2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll02.EVT_player_wk_act_landtype_water_roll02'
-°W—^ (¯
-2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll03.EVT_player_wk_act_landtype_water_roll03'
-°Xœ^ (¯
-2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll01.EVT_player_wk_act_landtype_water_roll01'
-°Y–^ (¯
-2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll02.EVT_player_wk_act_landtype_water_roll02'
-°Z—^ (¯
-2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll03.EVT_player_wk_act_landtype_water_roll03'
-ü[œ^ 
-(¯
-2êAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll01.EVT_player_wk_act_landtype_snow_roll01'
-ü\–^ 
-(¯
-2êAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll02.EVT_player_wk_act_landtype_snow_roll02'
-ü]—^ 
-(¯
-2êAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll03.EVT_player_wk_act_landtype_snow_roll03'
-ã^ı](¯
-2AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/coin/EVT_player_wk_cloth_coin_jump_up.EVT_player_wk_cloth_coin_jump_up'
-ê_ˆ](¯
-2ÉAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/coin/EVT_player_wk_cloth_coin_jump_down.EVT_player_wk_cloth_coin_jump_down'
-ñ`ˇ](¯
-2âAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/coin/EVT_player_wk_cloth_coin_act_zhengtuo.EVT_player_wk_cloth_coin_act_zhengtuo'
-ÖaèN(¯
-2yAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/coin/EVT_player_wk_cloth_coin_step.EVT_player_wk_cloth_coin_step'
-íb”e(¯
-2ÖAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/coin/EVT_player_wk_cloth_coin_hurt_light.EVT_player_wk_cloth_coin_hurt_light'
-éc‘e(¯
-2ÅAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/coin/EVT_player_wk_cloth_coin_hurt_mid.EVT_player_wk_cloth_coin_hurt_mid'
-îd’e(¯
-2áAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/coin/EVT_player_wk_cloth_coin_hurt_strong.EVT_player_wk_cloth_coin_hurt_strong'
-ìeÉV(‹2ÜAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/metal/EVT_player_wk_cloth_metal_atk_light.EVT_player_wk_cloth_metal_atk_light'
-èfÑV(‹2ÇAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/metal/EVT_player_wk_cloth_metal_atk_mid.EVT_player_wk_cloth_metal_atk_mid'
-ïgÖV(‹2àAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/metal/EVT_player_wk_cloth_metal_atk_strong.EVT_player_wk_cloth_metal_atk_strong'
-çhÎ](‹2ÄAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/metal/EVT_player_wk_cloth_metal_roll01.EVT_player_wk_cloth_metal_roll01'
-çiÏ](‹2ÄAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/metal/EVT_player_wk_cloth_metal_roll02.EVT_player_wk_cloth_metal_roll02'
-çjÌ](‹2ÄAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/metal/EVT_player_wk_cloth_metal_roll03.EVT_player_wk_cloth_metal_roll03'
-£kœ^(‹2ñAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll01.EVT_player_wk_act_landtype_general_roll01'
-£l–^(‹2ñAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll02.EVT_player_wk_act_landtype_general_roll02'
-£m—^(‹2ñAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll03.EVT_player_wk_act_landtype_general_roll03'
-°nœ^ (‹2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll01.EVT_player_wk_act_landtype_water_roll01'
-°o–^ (‹2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll02.EVT_player_wk_act_landtype_water_roll02'
-°p—^ (‹2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll03.EVT_player_wk_act_landtype_water_roll03'
-°qœ^ (‹2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll01.EVT_player_wk_act_landtype_water_roll01'
-°r–^ (‹2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll02.EVT_player_wk_act_landtype_water_roll02'
-°s—^ (‹2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll03.EVT_player_wk_act_landtype_water_roll03'
-ütœ^ 
-(‹2êAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll01.EVT_player_wk_act_landtype_snow_roll01'
-üu–^ 
-(‹2êAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll02.EVT_player_wk_act_landtype_snow_roll02'
-üv—^ 
-(‹2êAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll03.EVT_player_wk_act_landtype_snow_roll03'
-èwı](‹2ÇAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/metal/EVT_player_wk_cloth_metal_jump_up.EVT_player_wk_cloth_metal_jump_up'
-ìxˆ](‹2ÜAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/metal/EVT_player_wk_cloth_metal_jump_down.EVT_player_wk_cloth_metal_jump_down'
-ôyˇ](‹2åAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/metal/EVT_player_wk_cloth_metal_act_zhengtuo.EVT_player_wk_cloth_metal_act_zhengtuo'
-àzèN(‹2|AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/metal/EVT_player_wk_cloth_metal_step.EVT_player_wk_cloth_metal_step'
-ï{”e(‹2àAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/metal/EVT_player_wk_cloth_metal_hurt_light.EVT_player_wk_cloth_metal_hurt_light'
-ë|‘e(‹2ÑAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/metal/EVT_player_wk_cloth_metal_hurt_mid.EVT_player_wk_cloth_metal_hurt_mid'
-ó}’e(‹2äAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/metal/EVT_player_wk_cloth_metal_hurt_strong.EVT_player_wk_cloth_metal_hurt_strong'
-ì~ÉV(¿2ÜAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/suoyi/EVT_player_wk_foley_suoyi_atk_light.EVT_player_wk_foley_suoyi_atk_light'
-èÑV(¿2ÇAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/suoyi/EVT_player_wk_foley_suoyi_atk_mid.EVT_player_wk_foley_suoyi_atk_mid'
-ñÄÖV(¿2àAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/suoyi/EVT_player_wk_foley_suoyi_atk_strong.EVT_player_wk_foley_suoyi_atk_strong'
-éÅÎ](¿2ÄAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/suoyi/EVT_player_wk_foley_suoyi_roll01.EVT_player_wk_foley_suoyi_roll01'
-éÇÏ](¿2ÄAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/suoyi/EVT_player_wk_foley_suoyi_roll02.EVT_player_wk_foley_suoyi_roll02'
-éÉÌ](¿2ÄAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/suoyi/EVT_player_wk_foley_suoyi_roll03.EVT_player_wk_foley_suoyi_roll03'
-§Ñœ^(¿2ñAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll01.EVT_player_wk_act_landtype_general_roll01'
-§Ö–^(¿2ñAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll02.EVT_player_wk_act_landtype_general_roll02'
-§Ü—^(¿2ñAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll03.EVT_player_wk_act_landtype_general_roll03'
-¢áœ^ (¿2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll01.EVT_player_wk_act_landtype_water_roll01'
-¢à–^ (¿2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll02.EVT_player_wk_act_landtype_water_roll02'
-¢â—^ (¿2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll03.EVT_player_wk_act_landtype_water_roll03'
-¢äœ^ (¿2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll01.EVT_player_wk_act_landtype_water_roll01'
-¢ã–^ (¿2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll02.EVT_player_wk_act_landtype_water_roll02'
-¢å—^ (¿2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll03.EVT_player_wk_act_landtype_water_roll03'
-†çœ^ 
-(¿2êAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll01.EVT_player_wk_act_landtype_snow_roll01'
-†é–^ 
-(¿2êAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll02.EVT_player_wk_act_landtype_snow_roll02'
-†è—^ 
-(¿2êAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll03.EVT_player_wk_act_landtype_snow_roll03'
-êêı](¿2ÇAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/suoyi/EVT_player_wk_foley_suoyi_jump_up.EVT_player_wk_foley_suoyi_jump_up'
-îëˆ](¿2ÜAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/suoyi/EVT_player_wk_foley_suoyi_jump_down.EVT_player_wk_foley_suoyi_jump_down'
-öíˇ](¿2åAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/suoyi/EVT_player_wk_foley_suoyi_act_zhengtuo.EVT_player_wk_foley_suoyi_act_zhengtuo'
-âìèN(¿2|AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/suoyi/EVT_player_wk_foley_suoyi_step.EVT_player_wk_foley_suoyi_step'
-ñî”e(¿2àAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/suoyi/EVT_player_wk_foley_suoyi_hurt_light.EVT_player_wk_foley_suoyi_hurt_light'
-íï‘e(¿2ÑAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/suoyi/EVT_player_wk_foley_suoyi_hurt_mid.EVT_player_wk_foley_suoyi_hurt_mid'
-òñ’e(¿2äAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/suoyi/EVT_player_wk_foley_suoyi_hurt_strong.EVT_player_wk_foley_suoyi_hurt_strong'
-îóÉV(§2ÜAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cloth/EVT_player_wk_foley_cloth_atk_light.EVT_player_wk_foley_cloth_atk_light'
-êòÑV(§2ÇAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cloth/EVT_player_wk_foley_cloth_atk_mid.EVT_player_wk_foley_cloth_atk_mid'
-ñôÖV(§2àAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cloth/EVT_player_wk_foley_cloth_atk_strong.EVT_player_wk_foley_cloth_atk_strong'
-éöÎ](§2ÄAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cloth/EVT_player_wk_foley_cloth_roll01.EVT_player_wk_foley_cloth_roll01'
-éõÏ](§2ÄAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cloth/EVT_player_wk_foley_cloth_roll02.EVT_player_wk_foley_cloth_roll02'
-éúÌ](§2ÄAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cloth/EVT_player_wk_foley_cloth_roll03.EVT_player_wk_foley_cloth_roll03'
-§ùœ^(§2ñAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll01.EVT_player_wk_act_landtype_general_roll01'
-§û–^(§2ñAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll02.EVT_player_wk_act_landtype_general_roll02'
-§ü—^(§2ñAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_general_roll03.EVT_player_wk_act_landtype_general_roll03'
-¢†œ^ (§2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll01.EVT_player_wk_act_landtype_water_roll01'
-¢°–^ (§2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll02.EVT_player_wk_act_landtype_water_roll02'
-¢¢—^ (§2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll03.EVT_player_wk_act_landtype_water_roll03'
-¢£œ^ (§2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll01.EVT_player_wk_act_landtype_water_roll01'
-¢§–^ (§2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll02.EVT_player_wk_act_landtype_water_roll02'
-¢•—^ (§2íAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_water_roll03.EVT_player_wk_act_landtype_water_roll03'
-†¶œ^ 
-(§2êAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll01.EVT_player_wk_act_landtype_snow_roll01'
-†ß–^ 
-(§2êAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll02.EVT_player_wk_act_landtype_snow_roll02'
-†®—^ 
-(§2êAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/LandType/EVT_player_wk_act_landtype_snow_roll03.EVT_player_wk_act_landtype_snow_roll03'
-ê©ı](§2ÇAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cloth/EVT_player_wk_foley_cloth_jump_up.EVT_player_wk_foley_cloth_jump_up'
-î™ˆ](§2ÜAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cloth/EVT_player_wk_foley_cloth_jump_down.EVT_player_wk_foley_cloth_jump_down'
-ö´ˇ](§2åAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cloth/EVT_player_wk_foley_cloth_act_zhengtuo.EVT_player_wk_foley_cloth_act_zhengtuo'
-â¨èN(§2|AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cloth/EVT_player_wk_foley_cloth_step.EVT_player_wk_foley_cloth_step'
-ñ≠”e(§2àAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cloth/EVT_player_wk_foley_cloth_hurt_light.EVT_player_wk_foley_cloth_hurt_light'
-íÆ‘e(§2ÑAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cloth/EVT_player_wk_foley_cloth_hurt_mid.EVT_player_wk_foley_cloth_hurt_mid'
-òØ’e(§2äAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Cloth/cloth/EVT_player_wk_foley_cloth_hurt_strong.EVT_player_wk_foley_cloth_hurt_strong'
-ï∞ˇ](¥2áAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/FS_land/EVT_player_wk_fs_bare_land_general.EVT_player_wk_fs_bare_land_general'
-ó±ˇ] (¥2áAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/FS_land/EVT_player_wk_fs_bare_land_general.EVT_player_wk_fs_bare_land_general'
-ì≤ˇ] (¥2ÉAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/FS_land/EVT_player_wk_fs_bare_land_water.EVT_player_wk_fs_bare_land_water'
-ì≥ˇ] (¥2ÉAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/FS_land/EVT_player_wk_fs_bare_land_stone.EVT_player_wk_fs_bare_land_stone'
-ì¥ˇ] (¥2ÉAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/FS_land/EVT_player_wk_fs_bare_land_grass.EVT_player_wk_fs_bare_land_grass'
-éµˇ] (¥2AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/FS_land/EVT_player_wk_fs_bare_land_mud.EVT_player_wk_fs_bare_land_mud'
-ë∂ˇ] (¥2ÅAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/FS_land/EVT_player_wk_fs_bare_land_wood.EVT_player_wk_fs_bare_land_wood'
-ë∑ˇ] (¥2ÅAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/FS_land/EVT_player_wk_fs_bare_land_sand.EVT_player_wk_fs_bare_land_sand'
-ì∏ˇ] (¥2ÉAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/FS_land/EVT_player_wk_fs_bare_land_water.EVT_player_wk_fs_bare_land_water'
-ëπˇ] 
-(¥2ÅAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/FS_land/EVT_player_wk_fs_bare_land_snow.EVT_player_wk_fs_bare_land_snow'
-ï∫Ä^(¥2áAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/FS_land/EVT_player_wk_fs_bare_land_general.EVT_player_wk_fs_bare_land_general'
-ØªÌ§(ú2†AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/wood/EVT_player_wk_atk_combo_wosh_wood_combo01.EVT_player_wk_atk_combo_wosh_wood_combo01'
-±ºÕ(ú2¢AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/wood/EVT_player_wk_atk_combo_wosh_wood_combo02a.EVT_player_wk_atk_combo_wosh_wood_combo02a'
-±ΩŒ(ú2¢AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/wood/EVT_player_wk_atk_combo_wosh_wood_combo02b.EVT_player_wk_atk_combo_wosh_wood_combo02b'
-ØæÔ§(ú2†AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/wood/EVT_player_wk_atk_combo_wosh_wood_combo03.EVT_player_wk_atk_combo_wosh_wood_combo03'
-±ø·(ú2¢AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/wood/EVT_player_wk_atk_combo_wosh_wood_combo04a.EVT_player_wk_atk_combo_wosh_wood_combo04a'
-±¿‚(ú2¢AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/wood/EVT_player_wk_atk_combo_wosh_wood_combo04b.EVT_player_wk_atk_combo_wosh_wood_combo04b'
-π¡Î(ú2™AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/wood/EVT_player_wk_atk_combo_wosh_wood_combo05_jump.EVT_player_wk_atk_combo_wosh_wood_combo05_jump'
-ª¬Ï(ú2¨AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/wood/EVT_player_wk_atk_combo_wosh_wood_combo05_xiapi.EVT_player_wk_atk_combo_wosh_wood_combo05_xiapi'
-´√—•(ú2úAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/wood/EVT_player_wk_atk_combo_wosh_wood_pre01.EVT_player_wk_atk_combo_wosh_wood_pre01'
-´ƒ“•(ú2úAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/wood/EVT_player_wk_atk_combo_wosh_wood_pre02.EVT_player_wk_atk_combo_wosh_wood_pre02'
-£≈ä˙(ú2îAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/wood/EVT_player_wk_weapon_catchbang_wood.EVT_player_wk_weapon_catchbang_wood'
-©∆Ú§(ú2öAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/wood/EVT_player_wk_pigun_xuli_wosh_pre_wood.EVT_player_wk_pigun_xuli_wosh_pre_wood'
-´«µ¶(ú2úAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/ZhuanGun/EVT_player_wk_akt_zhuangun_light_wood_wosh_a.EVT_player_wk_akt_zhuangun_light_wood_wosh_a'
-´»∂¶(ú2úAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/ZhuanGun/EVT_player_wk_akt_zhuangun_light_wood_wosh_b.EVT_player_wk_akt_zhuangun_light_wood_wosh_b'
-©…∑¶(ú2öAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/ZhuanGun/EVT_player_wk_akt_zhuangun_strong_wood_wosh.EVT_player_wk_akt_zhuangun_strong_wood_wosh'
-û •º(ú2èAkAudioEvent'/Game/00Main/Audio/SFX/Player/BianShen/WuKong/EVT_player_wk_trans_bang_wosh_rotate_wood.EVT_player_wk_trans_bang_wosh_rotate_wood'
-ûÀ¶º(ú2èAkAudioEvent'/Game/00Main/Audio/SFX/Player/BianShen/WuKong/EVT_player_wk_trans_bang_wosh_tail_a_wood.EVT_player_wk_trans_bang_wosh_tail_a_wood'
-ûÃßº(ú2èAkAudioEvent'/Game/00Main/Audio/SFX/Player/BianShen/WuKong/EVT_player_wk_trans_bang_wosh_tail_b_wood.EVT_player_wk_trans_bang_wosh_tail_b_wood'
-≤ÕÌ§(Ä2£AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/stone/EVT_player_wk_atk_combo_wosh_stone_combo01.EVT_player_wk_atk_combo_wosh_stone_combo01'
-¥ŒÕ(Ä2•AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/stone/EVT_player_wk_atk_combo_wosh_stone_combo02a.EVT_player_wk_atk_combo_wosh_stone_combo02a'
-¥œŒ(Ä2•AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/stone/EVT_player_wk_atk_combo_wosh_stone_combo02b.EVT_player_wk_atk_combo_wosh_stone_combo02b'
-≤–Ô§(Ä2£AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/stone/EVT_player_wk_atk_combo_wosh_stone_combo03.EVT_player_wk_atk_combo_wosh_stone_combo03'
-¥—·(Ä2•AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/stone/EVT_player_wk_atk_combo_wosh_stone_combo04a.EVT_player_wk_atk_combo_wosh_stone_combo04a'
-¥“‚(Ä2•AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/stone/EVT_player_wk_atk_combo_wosh_stone_combo04b.EVT_player_wk_atk_combo_wosh_stone_combo04b'
-º”Î(Ä2≠AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/stone/EVT_player_wk_atk_combo_wosh_stone_combo05_jump.EVT_player_wk_atk_combo_wosh_stone_combo05_jump'
-æ‘Ï(Ä2ØAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/stone/EVT_player_wk_atk_combo_wosh_stone_combo05_xiapi.EVT_player_wk_atk_combo_wosh_stone_combo05_xiapi'
-Æ’—•(Ä2üAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/stone/EVT_player_wk_atk_combo_wosh_stone_pre01.EVT_player_wk_atk_combo_wosh_stone_pre01'
-Æ÷“•(Ä2üAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/stone/EVT_player_wk_atk_combo_wosh_stone_pre02.EVT_player_wk_atk_combo_wosh_stone_pre02'
-¶◊ä˙(Ä2óAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/stone/EVT_player_wk_weapon_catchbang_stone.EVT_player_wk_weapon_catchbang_stone'
-¨ÿÚ§(Ä2ùAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/stone/EVT_player_wk_pigun_xuli_wosh_pre_stone.EVT_player_wk_pigun_xuli_wosh_pre_stone'
-≠Ÿµ¶(Ä2ûAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/ZhuanGun/EVT_player_wk_akt_zhuangun_light_stone_wosh_a.EVT_player_wk_akt_zhuangun_light_stone_wosh_a'
-≠⁄∂¶(Ä2ûAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/ZhuanGun/EVT_player_wk_akt_zhuangun_light_stone_wosh_b.EVT_player_wk_akt_zhuangun_light_stone_wosh_b'
-´€∑¶(Ä2úAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/ZhuanGun/EVT_player_wk_akt_zhuangun_strong_stone_wosh.EVT_player_wk_akt_zhuangun_strong_stone_wosh'
-†‹•º(Ä2ëAkAudioEvent'/Game/00Main/Audio/SFX/Player/BianShen/WuKong/EVT_player_wk_trans_bang_wosh_rotate_stone.EVT_player_wk_trans_bang_wosh_rotate_stone'
-†›¶º(Ä2ëAkAudioEvent'/Game/00Main/Audio/SFX/Player/BianShen/WuKong/EVT_player_wk_trans_bang_wosh_tail_a_stone.EVT_player_wk_trans_bang_wosh_tail_a_stone'
-†ﬁßº(Ä2ëAkAudioEvent'/Game/00Main/Audio/SFX/Player/BianShen/WuKong/EVT_player_wk_trans_bang_wosh_tail_b_stone.EVT_player_wk_trans_bang_wosh_tail_b_stone'
-≤ﬂÌ§(‰2£AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/metal/EVT_player_wk_atk_combo_wosh_metal_combo01.EVT_player_wk_atk_combo_wosh_metal_combo01'
-¥‡Õ(‰2•AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/metal/EVT_player_wk_atk_combo_wosh_metal_combo02a.EVT_player_wk_atk_combo_wosh_metal_combo02a'
-¥·Œ(‰2•AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/metal/EVT_player_wk_atk_combo_wosh_metal_combo02b.EVT_player_wk_atk_combo_wosh_metal_combo02b'
-≤‚Ô§(‰2£AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/metal/EVT_player_wk_atk_combo_wosh_metal_combo03.EVT_player_wk_atk_combo_wosh_metal_combo03'
-¥„·(‰2•AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/metal/EVT_player_wk_atk_combo_wosh_metal_combo04a.EVT_player_wk_atk_combo_wosh_metal_combo04a'
-¥‰‚(‰2•AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/metal/EVT_player_wk_atk_combo_wosh_metal_combo04b.EVT_player_wk_atk_combo_wosh_metal_combo04b'
-ºÂÎ(‰2≠AkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/metal/EVT_player_wk_atk_combo_wosh_metal_combo05_jump.EVT_player_wk_atk_combo_wosh_metal_combo05_jump'
-æÊÏ(‰2ØAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/metal/EVT_player_wk_atk_combo_wosh_metal_combo05_xiapi.EVT_player_wk_atk_combo_wosh_metal_combo05_xiapi'
-ÆÁ—•(‰2üAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/metal/EVT_player_wk_atk_combo_wosh_metal_pre01.EVT_player_wk_atk_combo_wosh_metal_pre01'
-ÆË“•(‰2üAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/metal/EVT_player_wk_atk_combo_wosh_metal_pre02.EVT_player_wk_atk_combo_wosh_metal_pre02'
-¶Èä˙(‰2óAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/metal/EVT_player_wk_weapon_catchbang_metal.EVT_player_wk_weapon_catchbang_metal'
-¨ÍÚ§(‰2ùAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/general_combo/metal/EVT_player_wk_pigun_xuli_wosh_pre_metal.EVT_player_wk_pigun_xuli_wosh_pre_metal'
-≠Îµ¶(‰2ûAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/ZhuanGun/EVT_player_wk_akt_zhuangun_light_metal_wosh_a.EVT_player_wk_akt_zhuangun_light_metal_wosh_a'
-≠Ï∂¶(‰2ûAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/ZhuanGun/EVT_player_wk_akt_zhuangun_light_metal_wosh_b.EVT_player_wk_akt_zhuangun_light_metal_wosh_b'
-´Ì∑¶(‰2úAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Attack/ZhuanGun/EVT_player_wk_akt_zhuangun_strong_metal_wosh.EVT_player_wk_akt_zhuangun_strong_metal_wosh'
-†Ó•º(‰2ëAkAudioEvent'/Game/00Main/Audio/SFX/Player/BianShen/WuKong/EVT_player_wk_trans_bang_wosh_rotate_metal.EVT_player_wk_trans_bang_wosh_rotate_metal'
-†Ô¶º(‰2ëAkAudioEvent'/Game/00Main/Audio/SFX/Player/BianShen/WuKong/EVT_player_wk_trans_bang_wosh_tail_a_metal.EVT_player_wk_trans_bang_wosh_tail_a_metal'
-†ßº(‰2ëAkAudioEvent'/Game/00Main/Audio/SFX/Player/BianShen/WuKong/EVT_player_wk_trans_bang_wosh_tail_b_metal.EVT_player_wk_trans_bang_wosh_tail_b_metal'
-¶Òâ^(ú2òAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/WeaponFall/EVT_player_wk_act_weaponfall_general_wood.EVT_player_wk_act_weaponfall_general_wood'
-®Úâ^(Ä2öAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/WeaponFall/EVT_player_wk_act_weaponfall_general_stone.EVT_player_wk_act_weaponfall_general_stone'
-®Ûâ^(‰2öAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/WeaponFall/EVT_player_wk_act_weaponfall_general_metal.EVT_player_wk_act_weaponfall_general_metal'
-öÙâ^ (ú2äAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/WeaponFall/EVT_player_wk_act_weaponfall_water.EVT_player_wk_act_weaponfall_water'
-öıâ^ (Ä2äAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/WeaponFall/EVT_player_wk_act_weaponfall_water.EVT_player_wk_act_weaponfall_water'
-öˆâ^ (‰2äAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/WeaponFall/EVT_player_wk_act_weaponfall_water.EVT_player_wk_act_weaponfall_water'
-ö˜â^ (ú2äAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/WeaponFall/EVT_player_wk_act_weaponfall_water.EVT_player_wk_act_weaponfall_water'
-ö¯â^ (Ä2äAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/WeaponFall/EVT_player_wk_act_weaponfall_water.EVT_player_wk_act_weaponfall_water'
-ö˘â^ (‰2äAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/WeaponFall/EVT_player_wk_act_weaponfall_water.EVT_player_wk_act_weaponfall_water'
-£˙ÛÅ(ú2îAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/Die_BodyFall/EVT_player_wk_act_die_bodyfall_general.EVT_player_wk_act_die_bodyfall_general'
-°˚ÛÅ (ú2êAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/Die_BodyFall/EVT_player_wk_act_die_bodyfall_water.EVT_player_wk_act_die_bodyfall_water'
-°¸ÛÅ (ú2êAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/Die_BodyFall/EVT_player_wk_act_die_bodyfall_water.EVT_player_wk_act_die_bodyfall_water'
-£˝ÛÅ(Ä2îAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/Die_BodyFall/EVT_player_wk_act_die_bodyfall_general.EVT_player_wk_act_die_bodyfall_general'
-°˛ÛÅ (Ä2êAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/Die_BodyFall/EVT_player_wk_act_die_bodyfall_water.EVT_player_wk_act_die_bodyfall_water'
-°ˇÛÅ (Ä2êAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/Die_BodyFall/EVT_player_wk_act_die_bodyfall_water.EVT_player_wk_act_die_bodyfall_water'
-£ÄÛÅ(‰2îAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/Die_BodyFall/EVT_player_wk_act_die_bodyfall_general.EVT_player_wk_act_die_bodyfall_general'
-°ÅÛÅ (‰2êAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/Die_BodyFall/EVT_player_wk_act_die_bodyfall_water.EVT_player_wk_act_die_bodyfall_water'
-°ÇÛÅ (‰2êAkAudioEvent'/Game/00Main/Audio/SFX/Player/WuKong/Action/Die_BodyFall/EVT_player_wk_act_die_bodyfall_water.EVT_player_wk_act_die_bodyfall_water'
