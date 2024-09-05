@@ -29,6 +29,9 @@
 	  <Reference Include="Protobuf.RunTime">
 	    <HintPath>Protobuf.RunTime.dll</HintPath>
 	  </Reference>
+		<Reference Include="Protobuf.RunTime">
+			<HintPath>UnrealEngine.Runtime.dll</HintPath>
+		</Reference>
 	</ItemGroup>
 
 	<ItemGroup>
