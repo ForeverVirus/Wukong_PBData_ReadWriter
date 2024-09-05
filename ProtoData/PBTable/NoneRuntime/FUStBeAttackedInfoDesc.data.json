@@ -1,0 +1,4288 @@
+{
+  "1": [
+    {
+      "1": "1001",
+      "2": "8",
+      "4": "5",
+      "5": "7",
+      "7": "/Game/00MainHZ/Characters/Wukong/UBAConfig_Wukong_dep01.UBAConfig_Wukong_dep01",
+      "8": "Guard"
+    },
+    {
+      "1": "1002",
+      "2": "10",
+      "4": "99",
+      "5": "99",
+      "7": "/Game/00MainHZ/Characters/Wukong/UBAConfig_Wukong_dep01.UBAConfig_Wukong_dep01",
+      "8": "Guard"
+    },
+    {
+      "1": "1003",
+      "2": "10",
+      "4": "99",
+      "5": "99",
+      "7": "/Game/00MainHZ/Characters/Wukong/UBAConfig_Wukong_ComboAZ5_dep01.UBAConfig_Wukong_ComboAZ5_dep01",
+      "8": "Guard"
+    },
+    {
+      "1": "1201",
+      "2": "8",
+      "4": "99",
+      "5": "99",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Transform/Player_gycy_lang/UBAC_player_gycy_lang_dep01.UBAC_player_gycy_lang_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "1301",
+      "2": "8",
+      "4": "99",
+      "5": "99",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Transform/Player_hfm_shi/UBAC_player_hfm_shi_dep01.UBAC_player_hfm_shi_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "1401",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Transform/Player_hfm_hu/UBAC_player_hfm_hu_dep01.UBAC_player_hfm_hu_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "1402",
+      "2": "10",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Transform/Player_hfm_hu/UBAC_player_hfm_hu_dep02.UBAC_player_hfm_hu_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "1453",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Transform/Player_hfm_hu/UBAC_player_hfm_hu_dep53.UBAC_player_hfm_hu_dep53'",
+      "8": "Guard"
+    },
+    {
+      "1": "1501",
+      "2": "8",
+      "4": "99",
+      "5": "99",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Transform/Player_lys_shu/UBAC_player_lys_shu_dep01.UBAC_player_lys_shu_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "1601",
+      "2": "8",
+      "4": "99",
+      "5": "99",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Transform/Player_lys_yao/UBAC_player_lys_yao_dep01.UBAC_player_lys_yao_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "1701",
+      "2": "8",
+      "4": "99",
+      "5": "99",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Transform/Player_lys_hou/UBAC_player_lys_hou_dep01.UBAC_player_lys_hou_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "1801",
+      "2": "8",
+      "4": "99",
+      "5": "99",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Transform/Player_psd_chong/UBAC_player_psd_chong_dep01.UBAC_player_psd_chong_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "1901",
+      "2": "8",
+      "4": "99",
+      "5": "99",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Transform/Player_psd_long/UBAC_player_psd_long_dep01.UBAC_player_psd_long_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "1902",
+      "2": "8",
+      "4": "99",
+      "5": "99",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Transform/Player_psd_long/UBAC_player_psd_long_dep02.UBAC_player_psd_long_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "2301",
+      "2": "8",
+      "4": "99",
+      "5": "99",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Transform/Player_hys_ma/UBAC_player_hys_ma_dep01.UBAC_player_hys_ma_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "2401",
+      "2": "8",
+      "4": "99",
+      "5": "99",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Transform/Player_mgd_yuan/UBAC_player_mgd_yuan_dep01.UBAC_player_mgd_yuan_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "2501",
+      "2": "8",
+      "4": "99",
+      "5": "99",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Transform/Player_ftxd/UBAC_player_ftxd_dep01.UBAC_player_ftxd_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "2503",
+      "2": "8",
+      "4": "99",
+      "5": "99",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Transform/Player_ftxd/UBAC_player_ftxd_dep03.UBAC_player_ftxd_dep03'",
+      "8": "Guard"
+    },
+    {
+      "1": "3001",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/Tianbing_01/UBAConfig_Tianbing_01_Test_dep01.UBAConfig_Tianbing_01_Test_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "3101",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HGS/HGS_TianBing_02/UBAConfig_HGS_TianBing_02_dep01.UBAConfig_HGS_TianBing_02_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "3201",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "8": "Guard"
+    },
+    {
+      "1": "3301",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HGS/HGS_TianJiang_01/UBAConfig_GYCY_TianJiang_01_dep01.UBAConfig_GYCY_TianJiang_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "3302",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "8": "Guard"
+    },
+    {
+      "1": "3401",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "8": "Guard"
+    },
+    {
+      "1": "3501",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "8": "Guard"
+    },
+    {
+      "1": "3601",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "8": "Guard"
+    },
+    {
+      "1": "3701",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "8": "Guard"
+    },
+    {
+      "1": "3801",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_Hou_01a/UBAConfig_HFM_Hou_01a_dep01.UBAConfig_HFM_Hou_01a_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "4001",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "8": "Guard"
+    },
+    {
+      "1": "5001",
+      "2": "8",
+      "4": "99",
+      "5": "99",
+      "7": "/Game/00MainHZ/Characters/Dasheng/UBAC_dasheng_dep01.UBAC_dasheng_dep01",
+      "8": "Guard"
+    },
+    {
+      "1": "5002",
+      "2": "8",
+      "4": "99",
+      "5": "99",
+      "7": "/Game/00MainHZ/Characters/Dasheng/UBAC_dasheng_dep01.UBAC_dasheng_dep01",
+      "8": "Guard"
+    },
+    {
+      "1": "9801",
+      "2": "8",
+      "3": "1065353216",
+      "4": "5",
+      "5": "7",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "/Game/00MainHZ/Characters/Wukong/UBAConfig_Wukong_dep01.UBAConfig_Wukong_dep01",
+      "8": "Guard"
+    },
+    {
+      "1": "9901",
+      "2": "8",
+      "3": "1065353216",
+      "4": "5",
+      "5": "7",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "/Game/00MainHZ/Characters/Wukong/UBAConfig_Wukong_dep01.UBAConfig_Wukong_dep01",
+      "8": "Guard"
+    },
+    {
+      "1": "100101",
+      "2": "9",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_02/UBAConfig_GYCY_Lang_02_dep01.UBAConfig_GYCY_Lang_02_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "100201",
+      "2": "9",
+      "3": "1077936128",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_03/UBAConfig_GYCY_Lang_03_dep01.UBAConfig_GYCY_Lang_03_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "100301",
+      "2": "9",
+      "3": "1045220557",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_She_01/UBAConfig_GYCY_She_01_dep01.UBAConfig_GYCY_She_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "100401",
+      "2": "8",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_She_02/UBAConfig_GYCY_She_02_dep01.UBAConfig_GYCY_She_02_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "100501",
+      "2": "9",
+      "3": "1060320051",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_01A/UBAConfig_GYCY_Lang_01A_dep01.UBAConfig_GYCY_Lang_01A_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "100601",
+      "2": "9",
+      "3": "1077936128",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_She_03/UBAConfig_GYCY_She_03_dep01.UBAConfig_GYCY_She_03_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "100701",
+      "2": "9",
+      "3": "1045220557",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_LingXuZi_01/UBAConfig_GYCY_LingXuZi_01_dep01.UBAConfig_GYCY_LingXuZi_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "100801",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_BaiYi_01/UBAConfig_GYCY_BaiYi_01_dep01.UBAConfig_GYCY_BaiYi_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "100901",
+      "2": "9",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Wa_02/UBAConfig_GYCY_Wa_02_dep01.UBAConfig_GYCY_Wa_02_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "101001",
+      "2": "9",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_TuFei_01/UBAConfig_GYCY_TuFei_01_dep01.UBAConfig_GYCY_TuFei_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "101101",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_04/UBAConfig_GYCY_Lang_04_dep01.UBAConfig_GYCY_Lang_04_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "101301",
+      "2": "9",
+      "3": "1084227584",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Wa_01/UBAConfig_GYCY_Wa_01_dep01.UBAConfig_GYCY_Wa_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "101401",
+      "2": "9",
+      "3": "1056964608",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_05/UBAConfig_GYCY_Lang_05_02_dep01.UBAConfig_GYCY_Lang_05_02_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "101501",
+      "2": "9",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_06/UBAConfig_GYCY_Lang_06_dep01.UBAConfig_GYCY_Lang_06_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "101601",
+      "2": "9",
+      "3": "1077936128",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_07/UBAConfig_GYCY_Lang_07a_dep01.UBAConfig_GYCY_Lang_07a_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "101701",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Seng_01/UBAConfig_GYCY_Seng_01_dep01.UBAConfig_GYCY_Seng_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "101801",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Seng_03/UBAConfig_GYCY_Seng_03_dep01.UBAConfig_GYCY_Seng_03_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "101901",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/FTT/FTT_ShiBing_01/UBAConfig_FTT_ShiBing_01_dep01.UBAConfig_FTT_ShiBing_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "102001",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Seng_02/UBAConfig_GYCY_Seng_02_dep01.UBAConfig_GYCY_Seng_02_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "102101",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Seng_04/UBAConfig_GYCY_Seng_04_dep01.UBAConfig_GYCY_Seng_04_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "102102",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Seng_04/UBAConfig_GYCY_Seng_04_dep02.UBAConfig_GYCY_Seng_04_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "102201",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_HeiXiong_Mm/UBAConfig_GYCY_HeiXiong_Mm_dep01.UBAConfig_GYCY_HeiXiong_Mm_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "102301",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_YanJianXi_01/UBAConfig_GYCY_YanJianXi_01_dep01.UBAConfig_GYCY_YanJianXi_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "102401",
+      "2": "9",
+      "3": "1092616192",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_YanJianXi_01b/UBAConfig_GYCY_YanJianXi_01b_dep01.UBAConfig_GYCY_YanJianXi_01b_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "102501",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_DBL_01/UBAConfig_GYCY_DBL_01_dep01.UBAConfig_GYCY_DBL_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "102502",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_DBL_01/UBAConfig_GYCY_DBL_01_dep02.UBAConfig_GYCY_DBL_01_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "102701",
+      "2": "9",
+      "3": "1065353216",
+      "4": "2",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/FTT/FTT_GuiShiWei_01/UBAConfig_GYCY_GuiShiWei_01_dep01.UBAConfig_GYCY_GuiShiWei_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "102801",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_BaiYi_03/UBAConfig_GYCY_BaiYi_03_she_dep01.UBAConfig_GYCY_BaiYi_03_she_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "102901",
+      "2": "9",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_08/UBAConfig_GYCY_Lang_08_dep01.UBAConfig_GYCY_Lang_08_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "103001",
+      "2": "9",
+      "3": "1056964608",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_Chong_01/UBAConfig_PSD_Chong_01_dep01.UBAConfig_PSD_Chong_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "103101",
+      "2": "9",
+      "3": "1084227584",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Xiong_02/UBAConfig_GYCY_Xiong_02_dep01.UBAConfig_GYCY_Xiong_02_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "103102",
+      "2": "9",
+      "3": "1084227584",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Xiong_02/UBAConfig_GYCY_Xiong_02_dep02.UBAConfig_GYCY_Xiong_02_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "103201",
+      "2": "9",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_03/UBAConfig_GYCY_Lang_03_dep01.UBAConfig_GYCY_Lang_03_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "103301",
+      "2": "9",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_06/UBAConfig_GYCY_Lang_06_dep01.UBAConfig_GYCY_Lang_06_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "103401",
+      "2": "9",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_08/UBAConfig_GYCY_Lang_08_dep01.UBAConfig_GYCY_Lang_08_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "103501",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_BaYi_04/UBAConfig_GYCY_BaiYi_04_dep01.UBAConfig_GYCY_BaiYi_04_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "103701",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_HFDW_01a/UBAConfig_GYCY_HFDW_01a_dep01.UBAConfig_GYCY_HFDW_01a_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "103801",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_SheBang/UBAConfig_GYCY_SheBang_dep01.UBAConfig_GYCY_SheBang_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "103901",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "8": "Guard"
+    },
+    {
+      "1": "105101",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "/Game/3rd/guansitest/Player_Yun/UBAConfig_player_yun_dep01.UBAConfig_player_yun_dep01",
+      "8": "Guard"
+    },
+    {
+      "1": "110101",
+      "2": "9",
+      "3": "1076929495",
+      "4": "4",
+      "5": "4",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_Niu_01/UBAConfig_HFM_Niu_01_dep01.UBAConfig_HFM_Niu_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "111001",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/Test/Lang_06_cd9/UBAConfig_GYCY_Lang_06_dep01.UBAConfig_GYCY_Lang_06_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "111101",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/3rd/cd9Test/Test/TianJiang/UBAConfig_cd9_TianJiang_01_dep01.UBAConfig_cd9_TianJiang_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "111102",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/3rd/cd9Test/Test/TianJiang/UBAConfig_cd9_TianJiang_01_dep02.UBAConfig_cd9_TianJiang_01_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "111301",
+      "2": "9",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_03/UBAConfig_GYCY_Lang_03_dep01.UBAConfig_GYCY_Lang_03_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "111401",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_XunShanGui_01a/UBAConfig_HFM_XunShanGui_01a_dep01.UBAConfig_HFM_XunShanGui_01a_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "111501",
+      "2": "9",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_05/UBAConfig_GYCY_Lang_05_02_dep01.UBAConfig_GYCY_Lang_05_02_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "111901",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_08/UBAConfig_GYCY_Lang_08_dep01.UBAConfig_GYCY_Lang_08_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "112001",
+      "2": "9",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_ShuNuShou_01b/UBAConfig_HFM_ShuNuShou_01b_dep01.UBAConfig_HFM_ShuNuShou_01b_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "112201",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_08/UBAConfig_GYCY_Lang_08_dep01.UBAConfig_GYCY_Lang_08_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "112401",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/3rd/guansitest/Player_TianJiang/UBAConfig_Player_TianJiang_01_dep01.UBAConfig_Player_TianJiang_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "112402",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/3rd/guansitest/Player_TianJiang/UBAConfig_Player_TianJiang_01_dep02.UBAConfig_Player_TianJiang_01_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "112601",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "8": "Guard"
+    },
+    {
+      "1": "112801",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_04/UBAConfig_GYCY_Lang_04_dep01.UBAConfig_GYCY_Lang_04_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "140101",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "8": "Guard"
+    },
+    {
+      "1": "140201",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "8": "Guard"
+    },
+    {
+      "1": "188801",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/MGD/MGD_tianbing_02/UBACONFIG_mgd_tianbing_02_dep01.UBACONFIG_mgd_tianbing_02_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "188802",
+      "2": "9",
+      "3": "1065353216",
+      "4": "3",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/MGD/MGD_tianbing_02/UBACONFIG_mgd_tianbing_02_dep02.UBACONFIG_mgd_tianbing_02_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "188901",
+      "2": "8",
+      "3": "1065353216",
+      "4": "3",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/MGD/MGD_tianbing_03/UBACONFIG_mgd_tianbing_03_dep01.UBACONFIG_mgd_tianbing_03_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "199001",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HGS/HGS_zengzhang/UBACONFIG_hgs_zengzhang_dep01.UBACONFIG_hgs_zengzhang_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "199002",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HGS/HGS_zengzhang/UBACONFIG_hgs_zengzhang_dep02_atk10.UBACONFIG_hgs_zengzhang_dep02_atk10'",
+      "8": "Guard"
+    },
+    {
+      "1": "199101",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HGS/HGS_duowen/UBACONFIG_hgs_duowen_dep01.UBACONFIG_hgs_duowen_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "199201",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HGS/HGS_chiguo/UBACONFIG_hgs_chiguo_dep01.UBACONFIG_hgs_chiguo_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "199202",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HGS/HGS_chiguo/UBACONFIG_hgs_chiguo_dep02.UBACONFIG_hgs_chiguo_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "199203",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HGS/HGS_chiguo/UBACONFIG_hgs_chiguo_dep03.UBACONFIG_hgs_chiguo_dep03'",
+      "8": "Guard"
+    },
+    {
+      "1": "199301",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HGS/HGS_guangmu/UBACONFIG_hgs_guangmu_dep01.UBACONFIG_hgs_guangmu_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "199302",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HGS/HGS_guangmu/UBACONFIG_hgs_guangmu_dep02.UBACONFIG_hgs_guangmu_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "199303",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HGS/HGS_guangmu/UBACONFIG_hgs_guangmu_dep03.UBACONFIG_hgs_guangmu_dep03'",
+      "8": "Guard"
+    },
+    {
+      "1": "199304",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HGS/HGS_guangmu/UBACONFIG_hgs_guangmu_dep04.UBACONFIG_hgs_guangmu_dep04'",
+      "8": "Guard"
+    },
+    {
+      "1": "199601",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/MGD/MGD_tianbing_04/UBACONFIG_mgd_tianbing_04_dep01.UBACONFIG_mgd_tianbing_04_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "199901",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/MGD/MGD_erlangshen_01/UBACONFIG_mgd_erlangshen_01_dep01.UBACONFIG_mgd_erlangshen_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "199902",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/MGD/MGD_erlangshen_01/UBACONFIG_mgd_erlangshen_01_dep02.UBACONFIG_mgd_erlangshen_01_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "199903",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/MGD/MGD_erlangshen_01/UBACONFIG_mgd_erlangshen_01_dep03.UBACONFIG_mgd_erlangshen_01_dep03'",
+      "8": "Guard"
+    },
+    {
+      "1": "200101",
+      "2": "9",
+      "3": "1077936128",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_Hu_01/UBAConfig_HFM_Hu_01_dep01.UBAConfig_HFM_Hu_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "200102",
+      "2": "8",
+      "3": "1077936128",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_Hu_01/UBAConfig_HFM_Hu_01_dep02.UBAConfig_HFM_Hu_01_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "200201",
+      "2": "9",
+      "3": "1082130432",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_MaMian_01a/UBAConfig_HFM_MaMian_01a_dep01.UBAConfig_HFM_MaMian_01a_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "200301",
+      "2": "9",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_Shu_04a/UBAConfig_HFM_Shu_04a_dep01.UBAConfig_HFM_Shu_04a_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "200401",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_XunShanGui_01a/UBAConfig_HFM_XunShanGui_01a_dep01.UBAConfig_HFM_XunShanGui_01a_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "200501",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_ShaWuLiang_01a/UBAConfig_HFM_ShaWuLiang_01a_dep01.UBAConfig_HFM_ShaWuLiang_01a_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "200601",
+      "2": "9",
+      "3": "1073741824",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_Hou_01a/UBAConfig_HFM_Hou_01a_dep01.UBAConfig_HFM_Hou_01a_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "200701",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_ShanZhen_01/UBAConfig_HFM_ShanZhen_01_dep01.UBAConfig_HFM_ShanZhen_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "200801",
+      "2": "14",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_MaoYou_02a/UBAConfig_HFM_MaoYou_02a_dep01.UBAConfig_HFM_MaoYou_02a_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "200901",
+      "2": "9",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_Shu_05a/UBAConfig_HFM_Shu_05a_dep01.UBAConfig_HFM_Shu_05a_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "200902",
+      "2": "9",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_Shu_05a/UBAConfig_HFM_Shu_05a_dep02.UBAConfig_HFM_Shu_05a_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "200903",
+      "2": "9",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_Shu_05a/UBAConfig_HFM_Shu_05a_dep03.UBAConfig_HFM_Shu_05a_dep03'",
+      "8": "Guard"
+    },
+    {
+      "1": "201101",
+      "2": "9",
+      "3": "1073741824",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_HFDS_01a/UBAConfig_HFM_HFDS_01a_dep01.UBAConfig_HFM_HFDS_01a_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "201102",
+      "2": "9",
+      "3": "1073741824",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_HFDS_01a/UBAConfig_HFM_HFDS_01a_dep02.UBAConfig_HFM_HFDS_01a_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "211101",
+      "2": "9",
+      "3": "1073741824",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "8": "Guard"
+    },
+    {
+      "1": "201201",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_ShiXianFeng_01/UBAConfig_HFM_ShiXianFeng_01_dep01.UBAConfig_HFM_ShiXianFeng_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "201301",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_BXA_01a/UBAConfig_HFM_BXA_01a_dep01.UBAConfig_HFM_BXA_01a_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "201401",
+      "2": "13",
+      "3": "1045220557",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_ShuWang_01a/UBAConfig_HFM_ShuWang_01a_dep01.UBAConfig_HFM_ShuWang_01a_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "201501",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_ShuangTouShu_01a/UBAConfig_HFM_ShuangTouShu_01a_dep01.UBAConfig_HFM_ShuangTouShu_01a_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "201601",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_ShiTongLing/UBAConfig_HFM_ShiTongLing_01a_dep01.UBAConfig_HFM_ShiTongLing_01a_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "201602",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_ShiTongLing/UBAConfig_HFM_ShiTongLing_01a_dep02.UBAConfig_HFM_ShiTongLing_01a_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "201603",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_ShiTongLing/UBAConfig_HFM_ShiTongLing_01a_dep03.UBAConfig_HFM_ShiTongLing_01a_dep03'",
+      "8": "Guard"
+    },
+    {
+      "1": "201604",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_ShiTongLing/UBAConfig_HFM_ShiTongLing_01a_dep04.UBAConfig_HFM_ShiTongLing_01a_dep04'",
+      "8": "Guard"
+    },
+    {
+      "1": "201701",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_HuanWuZhe_01a/UBAConfig_HFM_HuanWuZhe_01a_dep01.UBAConfig_HFM_HuanWuZhe_01a_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "201801",
+      "2": "9",
+      "3": "1058642330",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_HuangPaoLang/UBAConfig_GYCY_HuangPaoLang_dep01.UBAConfig_GYCY_HuangPaoLang_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "201901",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_HuangPaoZhu/UBAConfig_HFM_HuangPaoZhu_dep01.UBAConfig_HFM_HuangPaoZhu_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "202001",
+      "2": "9",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_GuYao_01A/UBAConfig_HFM_GuYao_01A_dep01.UBAConfig_HFM_GuYao_01A_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "202201",
+      "2": "9",
+      "3": "1073741824",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_Hu_Stone_01/UBAConfig_HFM_Hu_Stone_01_dep01.UBAConfig_HFM_Hu_Stone_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "202202",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_Hu_Stone_01/UBAConfig_HFM_Hu_Stone_01_dep02.UBAConfig_HFM_Hu_Stone_01_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "202205",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_Hu_Stone_01/UBAConfig_HFM_Hu_Stone_01_dep05.UBAConfig_HFM_Hu_Stone_01_dep05'",
+      "8": "Guard"
+    },
+    {
+      "1": "202301",
+      "2": "9",
+      "3": "1073741824",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_ShuNuShou_01b/UBAConfig_HFM_ShuNuShou_01b_dep01.UBAConfig_HFM_ShuNuShou_01b_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "202401",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_FuShu/UBAConfig_HFM_FuShu.UBAConfig_HFM_FuShu'",
+      "8": "Guard"
+    },
+    {
+      "1": "202501",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_FuZiShu/UBAConfig_HFM_FuZiShu_dep_01.UBAConfig_HFM_FuZiShu_dep_01'",
+      "8": "Guard"
+    },
+    {
+      "1": "202502",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_FuZiShu/UBAConfig_HFM_FuZiShu_dep_02.UBAConfig_HFM_FuZiShu_dep_02'",
+      "8": "Guard"
+    },
+    {
+      "1": "202601",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_ZiShu/UBAConfig_HFM_ZiShu.UBAConfig_HFM_ZiShu'",
+      "8": "Guard"
+    },
+    {
+      "1": "202701",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_RouBianfu_01a/UBAConfig_HFM_RouBianFu_01a.UBAConfig_HFM_RouBianFu_01a'",
+      "8": "Guard"
+    },
+    {
+      "1": "202801",
+      "2": "9",
+      "3": "1082130432",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_Hu_Wind/UBAConfig_HFM_Hu_Wind.UBAConfig_HFM_Hu_Wind'",
+      "8": "Guard"
+    },
+    {
+      "1": "202802",
+      "2": "10",
+      "3": "1082130432",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_Hu_Wind/UBAConfig_HFM_Hu_Wind_dep02.UBAConfig_HFM_Hu_Wind_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "202901",
+      "2": "9",
+      "3": "1082130432",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_MaGu_01A/UBAConfig_HFM_MaGu_01a_dep01.UBAConfig_HFM_MaGu_01a_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "202902",
+      "2": "9",
+      "3": "1082130432",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_MaGu_01A/UBAConfig_HFM_MaGu_01a_dep02.UBAConfig_HFM_MaGu_01a_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "202903",
+      "2": "9",
+      "3": "1082130432",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_MaGu_01A/UBAConfig_HFM_MaGu_01a_dep03.UBAConfig_HFM_MaGu_01a_dep03'",
+      "8": "Guard"
+    },
+    {
+      "1": "203001",
+      "2": "9",
+      "3": "1056964608",
+      "4": "2",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_GanShi_01A/UBAConfig_HFM_GanShi_01A_dep01.UBAConfig_HFM_GanShi_01A_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "210201",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_bashanhu_01/UBACCONFIG_hfm_bashanhu_01_dep01.UBACCONFIG_hfm_bashanhu_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "210202",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_bashanhu_01/UBACCONFIG_hfm_bashanhu_01_dep02.UBACCONFIG_hfm_bashanhu_01_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "220101",
+      "2": "8",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_HJBow_01A/UBAConfig_HFM_HJBow_01A_dep01.UBAConfig_HFM_HJBow_01A_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "220201",
+      "2": "8",
+      "3": "1056964608",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_ShanZhen_02/UBAConfig_HFM_ShanZhen_02_dep01.UBAConfig_HFM_ShanZhen_02_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "220202",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_ShanZhen_02/UBAConfig_HFM_ShanZhen_02_dep02.UBAConfig_HFM_ShanZhen_02_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "220301",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_ShanZhen_03/UBAConfig_HFM_ShanZhen_03_dep01.UBAConfig_HFM_ShanZhen_03_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "220302",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_ShanZhen_03/UBAConfig_HFM_ShanZhen_03_dep02.UBAConfig_HFM_ShanZhen_03_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "220401",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "8": "Guard"
+    },
+    {
+      "1": "220501",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_ShiGanDang_01/UBAConfig_HFM_ShiGanDang_01_dep01.UBAConfig_HFM_ShiGanDang_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "221001",
+      "2": "9",
+      "3": "1084227584",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Wa_01/UBAConfig_GYCY_Wa_01_dep01.UBAConfig_GYCY_Wa_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "221101",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "8": "Guard"
+    },
+    {
+      "1": "240101",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Wa_02/UBAConfig_HFM_Wa_02_dep01.UBAConfig_HFM_Wa_02_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "250101",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_ShuangTouShu_01a/UBAConfig_HFM_ShuangTouShu_01a_dep01.UBAConfig_HFM_ShuangTouShu_01a_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "250301",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_StoneMan_01/UBAConfig_HFM_StoneMan_01_dep01.UBAConfig_HFM_StoneMan_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "260101",
+      "2": "9",
+      "3": "1073741824",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_Suoyang_01a/UBAConfig_HFM_Suoyang_01a_dep01.UBAConfig_HFM_Suoyang_01a_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "260102",
+      "2": "9",
+      "3": "1073741824",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_Suoyang_01a/UBAConfig_HFM_Suoyang_01a_dep02.UBAConfig_HFM_Suoyang_01a_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "260103",
+      "2": "9",
+      "3": "1073741824",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_Suoyang_01a/UBAConfig_HFM_Suoyang_01a_dep03.UBAConfig_HFM_Suoyang_01a_dep03'",
+      "8": "Guard"
+    },
+    {
+      "1": "300101",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_HongPaoShu/UBAConfig_LYS_HongPaoShu_dep01.UBAConfig_LYS_HongPaoShu_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "300201",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_TuiSeng/UBAConfig_LYS_TuiSeng_01_dep01.UBAConfig_LYS_TuiSeng_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "300301",
+      "2": "9",
+      "3": "1065353216",
+      "4": "2",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_4ChiFu/UBAConfig_LYS_4ChiFu_dep01.UBAConfig_LYS_4ChiFu_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "300302",
+      "2": "9",
+      "3": "1065353216",
+      "4": "2",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_4ChiFu/UBAConfig_LYS_4ChiFu_dep02.UBAConfig_LYS_4ChiFu_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "300401",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_NuMuJinGang/UBAConfig_LYS_NuMuJinGang_dep01.UBAConfig_LYS_NuMuJinGang_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "300402",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_NuMuJinGang/UBAConfig_LYS_NuMuJinGang_dep02.UBAConfig_LYS_NuMuJinGang_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "300501",
+      "2": "9",
+      "3": "1068373115",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_TuiSeng_P2/UBAConfig_LYS_TuiSeng_P2_dep01.UBAConfig_LYS_TuiSeng_P2_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "300601",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "8": "Guard"
+    },
+    {
+      "1": "300701",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_YaXiangKe_1a/UBAConfig_LYS_YaXiangKe.UBAConfig_LYS_YaXiangKe'",
+      "8": "Guard"
+    },
+    {
+      "1": "300801",
+      "2": "9",
+      "3": "1065353216",
+      "4": "2",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_FrozenMon/UBAConfig_LYS_FrozenMon_dep01.UBAConfig_LYS_FrozenMon_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "300901",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_SengMian/UBAConfig_LYS_SengMian_dep01.UBAConfig_LYS_SengMian_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "301001",
+      "2": "9",
+      "3": "1065353216",
+      "4": "2",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_JieDaoSeng/UBAConfig_LYS_JieDaoSeng_dep00.UBAConfig_LYS_JieDaoSeng_dep00'",
+      "8": "Guard"
+    },
+    {
+      "1": "301002",
+      "2": "9",
+      "3": "1065353216",
+      "4": "2",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_JieDaoSeng/UBAConfig_LYS_JieDaoSeng_dep02.UBAConfig_LYS_JieDaoSeng_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "301101",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_FSYS/UBAConfig_LYS_FSYS_dep01.UBAConfig_LYS_FSYS_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "301201",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_SengMian_Alter/P1/UBAConfig_LYS_SengMian_P1_dep01.UBAConfig_LYS_SengMian_P1_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "301202",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_SengMian_Alter/P2/UBAConfig_LYS_SengMian_P2_dep02.UBAConfig_LYS_SengMian_P2_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "301301",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_XueHou/UBAConfig_LYS_XueHou_dep01.UBAConfig_LYS_XueHou_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "301401",
+      "2": "9",
+      "3": "1056964608",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_RuYiLong_01/UBAConfig_LYS_RuYiLong_01_dep01.UBAConfig_LYS_RuYiLong_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "301402",
+      "2": "9",
+      "3": "1056964608",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_RuYiLong_01/UBAConfig_LYS_RuYiLong_01_dep02.UBAConfig_LYS_RuYiLong_01_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "301601",
+      "2": "9",
+      "3": "1075838976",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_Dage/UBAConfig_LYS_Dage_dep01.UBAConfig_LYS_Dage_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "301602",
+      "2": "9",
+      "3": "1071225242",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_Dage/UBAConfig_LYS_Dage_dep02.UBAConfig_LYS_Dage_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "301701",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_XiaoHou/UBAConfig_LYS_XiaoHou.UBAConfig_LYS_XiaoHou'",
+      "8": "Guard"
+    },
+    {
+      "1": "301801",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_ShuaHouSeng/UBAConfig_LYS_ShuaHouSeng.UBAConfig_LYS_ShuaHouSeng'",
+      "8": "Guard"
+    },
+    {
+      "1": "301901",
+      "2": "9",
+      "3": "1090519040",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_Mo1/UBAConfig_LYS_Mo1_dep01.UBAConfig_LYS_Mo1_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "301902",
+      "2": "9",
+      "3": "1090519040",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_Mo1/UBAConfig_LYS_Mo1_dep02_fall.UBAConfig_LYS_Mo1_dep02_fall'",
+      "8": "Guard"
+    },
+    {
+      "1": "302001",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_Mo2/UBAConfig_LYS_Mo2_dep01.UBAConfig_LYS_Mo2_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "302101",
+      "2": "9",
+      "3": "1082445005",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_Mo3/UBAConfig_LYS_Mo3_dep01.UBAConfig_LYS_Mo3_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "302102",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_Mo3/UBAConfig_LYS_Mo3_dep02.UBAConfig_LYS_Mo3_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "302103",
+      "2": "9",
+      "3": "1082445005",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "8": "Guard"
+    },
+    {
+      "1": "302201",
+      "2": "8",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_Mo4/UBAC_LYS_Mo4_dep01.UBAC_LYS_Mo4_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "302301",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_KJLDragon/UBAC_LYS_KJLDragon_dep01.UBAC_LYS_KJLDragon_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "302401",
+      "2": "8",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_xizhanglao_01/UBAC_lys_xizhanglao_01.UBAC_lys_xizhanglao_01'",
+      "8": "Guard"
+    },
+    {
+      "1": "302501",
+      "2": "9",
+      "3": "1082445005",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_chuilong_01a_new/UBAConfig_LYS_ChuiLong_01A_dep01.UBAConfig_LYS_ChuiLong_01A_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "302502",
+      "2": "9",
+      "3": "1082445005",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_chuilong_01a_new/UBAConfig_LYS_ChuiLong_01A_dep02.UBAConfig_LYS_ChuiLong_01A_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "302601",
+      "2": "9",
+      "3": "1045220557",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_ChiFaGui_01A/UBAConfig_LYS_ChiFaGui_01A_dep01.UBAConfig_LYS_ChiFaGui_01A_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "302701",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "8": "Guard"
+    },
+    {
+      "1": "302801",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_LaoSeng_01/UBAConfig_LYS_LaoSeng_01_dep01.UBAConfig_LYS_LaoSeng_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "302901",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_WuDuLong_03A/UBAConfig_LYS_WuDuLong_03A_dep01.UBAConfig_LYS_WuDuLong_03A_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "303001",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_baitouweng_01/UBAConfig_lys_baitouweng_01_dep01.UBAConfig_lys_baitouweng_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "303101",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_princexiaozhang/UBAConfig_lys_xztz_01_dep01.UBAConfig_lys_xztz_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "305601",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/PDS_lingzhijing_01a/UBACONFIG_pds_lingzhijing_01a.UBACONFIG_pds_lingzhijing_01a'",
+      "8": "Guard"
+    },
+    {
+      "1": "305602",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/PDS_lingzhijing_01a/UBACONFIG_pds_lingzhijing_01a_dep02.UBACONFIG_pds_lingzhijing_01a_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "305603",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "8": "Guard"
+    },
+    {
+      "1": "305701",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/PDS_lingzhijing_01a/UBACONFIG_pds_lingzhijing_01a.UBACONFIG_pds_lingzhijing_01a'",
+      "8": "Guard"
+    },
+    {
+      "1": "305702",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/PDS_lingzhijing_01a/UBACONFIG_pds_lingzhijing_01a_dep02.UBACONFIG_pds_lingzhijing_01a_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "305703",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "8": "Guard"
+    },
+    {
+      "1": "305801",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/PDS_lingzhijing_03a/UBACONFIG_pds_lingzhijing_03a.UBACONFIG_pds_lingzhijing_03a'",
+      "8": "Guard"
+    },
+    {
+      "1": "305802",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/PDS_lingzhijing_03a/UBACONFIG_pds_lingzhijing_03a_dep02.UBACONFIG_pds_lingzhijing_03a_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "305803",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "8": "Guard"
+    },
+    {
+      "1": "306001",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_quanseng_01/UBAConfig_LYS_mangseng_02a_dep01.UBAConfig_LYS_mangseng_02a_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "307001",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/NPC/LYS_yaoseng/UBAConfig_lys_yaoseng_03a_dep01.UBAConfig_lys_yaoseng_03a_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "310801",
+      "2": "9",
+      "3": "1073741824",
+      "4": "2",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_frozenmon_02/UBACONFIG_lys_frozenmon_02_dep01.UBACONFIG_lys_frozenmon_02_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "310802",
+      "2": "9",
+      "3": "1077936128",
+      "4": "2",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_frozenmon_02/UBACONFIG_lys_frozenmon_02_dep02.UBACONFIG_lys_frozenmon_02_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "311401",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "8": "Guard"
+    },
+    {
+      "1": "333301",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_diyongjinlian_01/UBAC_lys_diyongjinlian_01_dep01.UBAC_lys_diyongjinlian_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "340101",
+      "2": "9",
+      "3": "1069547520",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_KJLWoman/UBAConfig_LYS_KJLWoman_dep01.UBAConfig_LYS_KJLWoman_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "340102",
+      "2": "9",
+      "3": "1069547520",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_KJLWoman/UBAConfig_LYS_KJLWoman_dep02.UBAConfig_LYS_KJLWoman_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "340201",
+      "2": "9",
+      "3": "1084227584",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_Mo3/SmallVersion/UBAConfig_LYS_Mo3_dep01.UBAConfig_LYS_Mo3_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "380001",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_HuangMei_03/UBAConfig_LYS_HuangMei_03_dep01.UBAConfig_LYS_HuangMei_03_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "380002",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_HuangMei_03/UBAConfig_LYS_HuangMei_03_dep02.UBAConfig_LYS_HuangMei_03_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "390001",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_HuangMei_02/UBAConfig_LYS_HuangMei_02_dep01.UBAConfig_LYS_HuangMei_02_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "390101",
+      "2": "9",
+      "3": "1069547520",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_WuDuLong_02A/UBAConfig_LYS_WuDuLong_02A.UBAConfig_LYS_WuDuLong_02A'",
+      "8": "Guard"
+    },
+    {
+      "1": "390102",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_WuDuLong_02A/UBAConfig_LYS_WuDuLong_02A_Down.UBAConfig_LYS_WuDuLong_02A_Down'",
+      "8": "Guard"
+    },
+    {
+      "1": "399101",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_xuansu_01/UBAConfig_LYS_xuansu_01_dep01.UBAConfig_LYS_xuansu_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "399201",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_xuansu_02/UBAConfig_LYS_xuansu_02_dep01.UBAConfig_LYS_xuansu_02_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "400101",
+      "2": "12",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_JiRuHuo/UBAConfig_HYS_JiRuHuo_dep01.UBAConfig_HYS_JiRuHuo_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "400201",
+      "2": "9",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_HuiJing/UBAConfig_HYS_HuiJing_dep01.UBAConfig_HYS_HuiJing_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "400301",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_ShiXianFeng_02/UBAConfig_HYS_ShiXianFeng_02_dep01.UBAConfig_HYS_ShiXianFeng_02_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "400401",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_JJShou_01/UBAConfig_HYS_JJShou_01_dep01.UBAConfig_HYS_JJShou_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "400402",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_JJShou_01/UBAConfig_HYS_JJShou_01_dep02.UBAConfig_HYS_JJShou_01_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "400501",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_YunLiWu/UBAConfig_HYS_YunLiWu_dep01.UBAConfig_HYS_YunLiWu_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "400601",
+      "2": "10",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_WuLiYun/UBAConfig_HYS_WuLiYun_dep01.UBAConfig_HYS_WuLiYun_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "400602",
+      "2": "10",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_WuLiYun/UBAConfig_HYS_WuLiYun_dep02_tandao.UBAConfig_HYS_WuLiYun_dep02_tandao'",
+      "8": "Guard"
+    },
+    {
+      "1": "400701",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_TeChuShi_01/UBAConfig_HYS_TeChuShi_01_dep01.UBAConfig_HYS_TeChuShi_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "400801",
+      "2": "9",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_TeChuShi_02/UBAConfig_HYS_TeChuShi_02_dep01.UBAConfig_HYS_TeChuShi_02_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "400802",
+      "2": "9",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_TeChuShi_02/UBAConfig_HYS_TeChuShi_02_dep02.UBAConfig_HYS_TeChuShi_02_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "400901",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_TeChuShi_03/UBAConfig_HYS_TeChuShi_03_dep01.UBAConfig_HYS_TeChuShi_03_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "401001",
+      "2": "8",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_XiZhangLao_01/UBAConfig_HYS_XiZhangLao_01_dep01.UBAConfig_HYS_XiZhangLao_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "401101",
+      "2": "9",
+      "3": "1086324736",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_HMS/UBAConfig_HYS_HMS_dep01.UBAConfig_HYS_HMS_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "401102",
+      "2": "9",
+      "3": "1086324736",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_HMS/UBAConfig_HYS_HMS_dep02.UBAConfig_HYS_HMS_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "401201",
+      "2": "9",
+      "3": "1080452710",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_LuoChaGui_01/UBAConfig_HYS_LuoChaGui_01_dep01.UBAConfig_HYS_LuoChaGui_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "401202",
+      "2": "9",
+      "3": "1080452710",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_LuoChaGui_01/UBAConfig_HYS_LuoChaGui_01_dep02.UBAConfig_HYS_LuoChaGui_01_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "401301",
+      "2": "9",
+      "3": "1084227584",
+      "4": "2",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_XiaoYao_01A/UBAConfig_HYS_XiaoYao_01A_dep01.UBAConfig_HYS_XiaoYao_01A_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "401401",
+      "2": "9",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_YeXunGui_01/UBAConfig_HYS_YeXunGui_01_dep01.UBAConfig_HYS_YeXunGui_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "401501",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_ShiTongLing_02/UBAConfig_HYS_ShiTongLing_02_dep01.UBAConfig_HYS_ShiTongLing_02_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "401502",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_ShiTongLing_02/UBAConfig_HYS_ShiTongLing_02_dep02.UBAConfig_HYS_ShiTongLing_02_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "401503",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_ShiTongLing_02/UBAConfig_HYS_ShiTongLing_02_dep03.UBAConfig_HYS_ShiTongLing_02_dep03'",
+      "8": "Guard"
+    },
+    {
+      "1": "401504",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_ShiTongLing_02/UBAConfig_HYS_ShiTongLing_02_dep04.UBAConfig_HYS_ShiTongLing_02_dep04'",
+      "8": "Guard"
+    },
+    {
+      "1": "401701",
+      "2": "9",
+      "3": "1056964608",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_ganshi_02a/UBAC_hys_ganshi_02a_dep01.UBAC_hys_ganshi_02a_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "401801",
+      "2": "9",
+      "3": "1076929495",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_Niu_01/UBAConfig_HFM_Niu_01_dep01.UBAConfig_HFM_Niu_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "401901",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_KuaiRuFeng_01/UBAConfig_HYS_KuaiRuFeng_01_dep01.UBAConfig_HYS_KuaiRuFeng_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "401902",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_KuaiRuFeng_01/UBAConfig_HYS_KuaiRuFeng_01_dep02.UBAConfig_HYS_KuaiRuFeng_01_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "402001",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_NiuMo/UBACONFIG_hys_niumo_dep01.UBACONFIG_hys_niumo_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "402101",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_YuMian/UBAConfig_hys_yumian_01_dep01.UBAConfig_hys_yumian_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "402201",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_huolingsha_02/UBAConfig_hys_huolingsha_02_dep01.UBAConfig_hys_huolingsha_02_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "402301",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_huolingsha_01/UBAConfig_hys_huolingsha_01_dep01.UBAConfig_hys_huolingsha_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "402401",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/NPC/HYS_fox_01/UBAConfig_hys_fox_01_dep01.UBAConfig_hys_fox_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "402501",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_yinbingniumo_01/UBAConfig_hys_yinbingniumo_01_dep01.UBAConfig_hys_yinbingniumo_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "402601",
+      "2": "9",
+      "3": "1069547520",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_huijin_02b/UBAConfig_hys_huijin_02b.UBAConfig_hys_huijin_02b'",
+      "8": "Guard"
+    },
+    {
+      "1": "402602",
+      "2": "9",
+      "3": "1067030938",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_huijin_02b/UBAConfig_hys_huijin_02b_hitdown.UBAConfig_hys_huijin_02b_hitdown'",
+      "8": "Guard"
+    },
+    {
+      "1": "405001",
+      "2": "9",
+      "3": "1097859072",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_zhanche_01a/UBACONFIG_hys_zhanche_01a_dep01.UBACONFIG_hys_zhanche_01a_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "405101",
+      "2": "9",
+      "3": "1097859072",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_zhanche_01b/UBAConfig_hys_zhanche_01b_dep01.UBAConfig_hys_zhanche_01b_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "405201",
+      "2": "9",
+      "3": "1097859072",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_zhanche_01c/UBAConfig_hys_zhanche_01c_dep01.UBAConfig_hys_zhanche_01c_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "405301",
+      "2": "9",
+      "3": "1097859072",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_zhanche_01d/UBAConfig_hys_zhanche_01d_dep01.UBAConfig_hys_zhanche_01d_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "405501",
+      "2": "13",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_NiaoZui/UBAConfig_HYS_NiaoZui_dep01.UBAConfig_HYS_NiaoZui_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "405601",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_RouBianfu_01a/UBAConfig_HFM_RouBianFu_01a.UBAConfig_HFM_RouBianFu_01a'",
+      "8": "Guard"
+    },
+    {
+      "1": "405701",
+      "2": "9",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_huijin_b/UBACONIG_hys_huijin_b_dep01.UBACONIG_hys_huijin_b_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "405801",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_yinbinghoumo_01/UBAConfig_hys_yinbinghoumo_01_dep01.UBAConfig_hys_yinbinghoumo_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "409901",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/NPC/HYS_wolf_test/UBAConfig_hys_wolf_test_dep01.UBAConfig_hys_wolf_test_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "410901",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_TeChuShi_01/UBAConfig_HYS_TeChuShi_01_dep01.UBAConfig_HYS_TeChuShi_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "411001",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/Online/BSD/BSD_JJShou_01/UBAConfig_BSD_JJShou_01_dep01.UBAConfig_BSD_JJShou_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "411201",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_NuMuJinGang/UBAConfig_LYS_NuMuJinGang_dep01.UBAConfig_LYS_NuMuJinGang_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "412101",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "8": "Guard"
+    },
+    {
+      "1": "412201",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_ShanZhen_03/UBAConfig_HFM_ShanZhen_03_dep01.UBAConfig_HFM_ShanZhen_03_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "412301",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_ShiXianFeng_01/UBAConfig_HFM_ShiXianFeng_01_dep01.UBAConfig_HFM_ShiXianFeng_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "412401",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_huijin_02b/UBAConfig_hys_huijin_02b.UBAConfig_hys_huijin_02b'",
+      "8": "Guard"
+    },
+    {
+      "1": "412501",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/Online/SL/SZLC_shujing_03/UBAConfig_szlc_shujing_03_dep01.UBAConfig_szlc_shujing_03_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "412601",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/Online/SL/SL_shitongling/UBAConfig_sl_shitongling_dep01.UBAConfig_sl_shitongling_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "412602",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_ShiTongLing_02/UBAConfig_HYS_ShiTongLing_02_dep02.UBAConfig_HYS_ShiTongLing_02_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "412603",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_ShiTongLing_02/UBAConfig_HYS_ShiTongLing_02_dep03.UBAConfig_HYS_ShiTongLing_02_dep03'",
+      "8": "Guard"
+    },
+    {
+      "1": "412604",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_ShiTongLing_02/UBAConfig_HYS_ShiTongLing_02_dep04.UBAConfig_HYS_ShiTongLing_02_dep04'",
+      "8": "Guard"
+    },
+    {
+      "1": "412701",
+      "2": "10",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_JiRuHuo/UBAConfig_HYS_JiRuHuo_dep01.UBAConfig_HYS_JiRuHuo_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "412801",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/Online/SL/SZLC_shijing_01a/UBAConfig_szlc_shijing_01a_dep01.UBAConfig_szlc_shijing_01a_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "412901",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/Online/SL/SZLC_shijing_01a/UBAConfig_szlc_shijing_01a_02_dep01.UBAConfig_szlc_shijing_01a_02_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "413201",
+      "2": "10",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_JiRuHuo/UBAConfig_HYS_JiRuHuo_dep01.UBAConfig_HYS_JiRuHuo_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "413301",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/Online/SL/SZLC_heimoshou_01/UBAConfig_szlc_HMS_dep01.UBAConfig_szlc_HMS_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "413302",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/Online/SL/SZLC_heimoshou_01/UBAConfig_szlc_HMS_dep02.UBAConfig_szlc_HMS_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "413401",
+      "2": "10",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HGS/HGS_TianJiang_01/UBAConfig_sl_tianjiang_01_dep01.UBAConfig_sl_tianjiang_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "413402",
+      "2": "10",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HGS/HGS_TianJiang_01/UBAConfig_sl_tianjiang_01_dep02.UBAConfig_sl_tianjiang_01_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "413501",
+      "2": "8",
+      "3": "1028443341",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_jiachongzongbing_02/UBAC_psd_jiachongzongbing_02_dep01.UBAC_psd_jiachongzongbing_02_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "416301",
+      "2": "9",
+      "3": "1073741824",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Wa_01/UBAConfig_szlc_wa_01_dep01.UBAConfig_szlc_wa_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "417001",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "8": "Guard"
+    },
+    {
+      "1": "416302",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Wa_01/UBAConfig_szlc_wa_01_dep01.UBAConfig_szlc_wa_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "416303",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Wa_01/UBAConfig_szlc_wa_01_dep02.UBAConfig_szlc_wa_01_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "418001",
+      "2": "8",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/Online/SZLC/SZLC_chicken_M/UBAC_szlc_chicken_01_dep01.UBAC_szlc_chicken_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "418101",
+      "2": "8",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/Online/SZLC/SZLC_rhinoceros_M/UBAC_szlc_rhionceros_01_dep01.UBAC_szlc_rhionceros_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "418201",
+      "2": "8",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/Online/SZLC/SZLC_Crane/UBAC_szlc_crane_dep01.UBAC_szlc_crane_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "418301",
+      "2": "8",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/Online/SZLC/SZLC_rabbit/UBAC_szlc_rabbit_dep01.UBAC_szlc_rabbit_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "418401",
+      "2": "8",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/Online/SZLC/SZLC_deer_M/UBAC_szlc_deer_01_dep01.UBAC_szlc_deer_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "418501",
+      "2": "8",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/Online/SZLC/SZLC_tortoise/UBAC_szlc_tortoise_dep01.UBAC_szlc_tortoise_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "419001",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Wa_01/UBAConfig_szlc_wa_01_dep01.UBAConfig_szlc_wa_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "420101",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_chong_03/UBACONFIG_psd_chong_03_dep01.UBACONFIG_psd_chong_03_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "430101",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_xiaozhizhu_01/UBACONFIG_psd_xiaozhizhu_01_dep01.UBACONFIG_psd_xiaozhizhu_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "430901",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_daoshi_01/UBACONFIG_psd_daoshi_01_dep01.UBACONFIG_psd_daoshi_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "431001",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_daoshi_02/UBACONFIG_psd_daoshi_02_dep01.UBACONFIG_psd_daoshi_02_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "431101",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_daoshi_02/UBACONFIG_psd_daoshi_02_dep01.UBACONFIG_psd_daoshi_02_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "440101",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_HongHaiEr_01A/UBAConfig_HYS_HongHaiEr_01A_dep01.UBAConfig_HYS_HongHaiEr_01A_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "440201",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_XingGongXian_01/UBAConfig_HYS_XingGongXian_01_dep01.UBAConfig_HYS_XingGongXian_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "440202",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_XingGongXian_01/UBAConfig_HYS_XingGongXian_01_dep02.UBAConfig_HYS_XingGongXian_01_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "440203",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_XingGongXian_01/UBAConfig_HYS_XingGongXian_01_dep03.UBAConfig_HYS_XingGongXian_01_dep03'",
+      "8": "Guard"
+    },
+    {
+      "1": "440301",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_XianGongXing_01/UBAConfig_HYS_XianGongXing_01_dep01.UBAConfig_HYS_XianGongXing_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "440302",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_XianGongXing_01/UBAConfig_HYS_XianGongXing_01_dep02.UBAConfig_HYS_XianGongXing_01_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "440303",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_XianGongXing_01/UBAConfig_HYS_XianGongXing_01_dep03.UBAConfig_HYS_XianGongXing_01_dep03'",
+      "8": "Guard"
+    },
+    {
+      "1": "440401",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "8": "Guard"
+    },
+    {
+      "1": "440501",
+      "2": "9",
+      "3": "1068289229",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_HongHaiEr_02A/UBAConfig_HYS_HongHaiEr_02A_dep01.UBAConfig_HYS_HongHaiEr_02A_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "440601",
+      "2": "12",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_YuSaiGui_01A/UBAConfig_HYS_DiaoZuiYuSaiGui_01A_dep01.UBAConfig_HYS_DiaoZuiYuSaiGui_01A_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "440701",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_TuDi_01/UBAConfig_HYS_TuDiGong_01A_dep01.UBAConfig_HYS_TuDiGong_01A_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "444101",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_TuDi_01/UBAConfig_HYS_HuiJing_dep02.UBAConfig_HYS_HuiJing_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "444201",
+      "2": "8",
+      "3": "1056964608",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_TuDi_01/UBAConfig_HFM_HJBow_01A_dep02.UBAConfig_HFM_HJBow_01A_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "444301",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "8": "Guard"
+    },
+    {
+      "1": "444401",
+      "2": "10",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HGS/HGS_TianJiang_01/UBAConfig_HYS_TianJiang_01_dep01.UBAConfig_HYS_TianJiang_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "444402",
+      "2": "10",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "8": "Guard"
+    },
+    {
+      "1": "445001",
+      "2": "9",
+      "3": "1084227584",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Wa_01/UBAConfig_hys_wa_01_dep01.UBAConfig_hys_wa_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "305101",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Wa_01/UBAConfig_lys_wa_01_dep01.UBAConfig_lys_wa_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "470101",
+      "2": "8",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_huolingsha_01/UBAConfig_hys_huolingsha_01_dep01.UBAConfig_hys_huolingsha_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "470201",
+      "2": "8",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_huolingsha_01/UBAConfig_hys_huolingsha_01_dep01.UBAConfig_hys_huolingsha_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "470501",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/Online/SZLC/SZLC_yingzuilu_01/UBACONFIG_szlc_yingzuilu_01_dep01.UBACONFIG_szlc_yingzuilu_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "470502",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/Online/SZLC/SZLC_yingzuilu_01/UBACONFIG_szlc_yingzuilu_01_dep02.UBACONFIG_szlc_yingzuilu_01_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "470601",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/Online/BHL/BHL_gushou_01/UBACONFIG_bhl_gushoufsq_01_dep01.UBACONFIG_bhl_gushoufsq_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "470602",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/Online/BHL/BHL_gushou_01/UBACONFIG_bhl_gushoufsq_01_dep02.UBACONFIG_bhl_gushoufsq_01_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "470701",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/Online/SZLC/SZLC_xiniu_01/UBACONFIG_szlc_xiniu_01_dep01.UBACONFIG_szlc_xiniu_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "470702",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/Online/SZLC/SZLC_xiniu_01/UBACONFIG_szlc_xiniu_01_dep02.UBACONFIG_szlc_xiniu_01_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "471001",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Wa_01/UBAConfig_szlc_wa_01_dep01.UBAConfig_szlc_wa_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "470801",
+      "2": "8",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00Main/Animation/Online/BYS_Zhu_01/UBAC_BYS_Zhu_dep01.UBAC_BYS_Zhu_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "470901",
+      "2": "8",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/Online/SZLC/SZLC_WildBoar_M/UBAC_SZLC_WildBoar_dep01.UBAC_SZLC_WildBoar_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "471101",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/Online/SZLC/SZLC_XiShuai_01/UBAConfig_SZLC_XiShuai_01_dep01.UBAConfig_SZLC_XiShuai_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "471201",
+      "2": "9",
+      "3": "1056964608",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/Online/SZLC/SZLC_wanglingguan_01/UBACONFIG_szlc_wanglingguan_01_dep01.UBACONFIG_szlc_wanglingguan_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "471301",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/Online/SZLC/SZLC_TangLang01/UBAConfig_szlc_tanglang01_dep01.UBAConfig_szlc_tanglang01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "488801",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_foshouchong_02a/UBAConfig_psd_foshouchong_02a_dep01.UBAConfig_psd_foshouchong_02a_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "488802",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_foshouchong_02a/UBAConfig_psd_foshouchong_02a_dep02.UBAConfig_psd_foshouchong_02a_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "499701",
+      "2": "9",
+      "3": "1069547520",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_xiezijing_01/UBACONFIG_psd_xiezijing_01a.UBACONFIG_psd_xiezijing_01a'",
+      "8": "Guard"
+    },
+    {
+      "1": "499801",
+      "2": "9",
+      "3": "1073741824",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_xiezijing_01/UBACONFIG_psd_xiezijing_01a.UBACONFIG_psd_xiezijing_01a'",
+      "8": "Guard"
+    },
+    {
+      "1": "499802",
+      "2": "9",
+      "3": "1073741824",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_xiezijing_01/UBACONFIG_psd_xiezijing_01a_dep02.UBACONFIG_psd_xiezijing_01a_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "499901",
+      "2": "9",
+      "3": "1084227584",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_xiezijing_og/UBACONFIG_psd_xiezijing_og.UBACONFIG_psd_xiezijing_og'",
+      "8": "Guard"
+    },
+    {
+      "1": "499902",
+      "2": "9",
+      "3": "1073741824",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_xiezijing_og/UBACONFIG_psd_xiezijing_og_dep02.UBACONFIG_psd_xiezijing_og_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "500101",
+      "2": "9",
+      "3": "1077936128",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_WuLong/UBAConfig_PSD_WuLong_dep01.UBAConfig_PSD_WuLong_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "500102",
+      "2": "9",
+      "3": "1077936128",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_WuLong/UBAConfig_PSD_WuLong_dep02.UBAConfig_PSD_WuLong_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "500201",
+      "2": "9",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_FeiTianChong_01/UBAConfig_PSD_FeiTianChong_01_dep01.UBAConfig_PSD_FeiTianChong_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "500301",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_ZhuBaJie_01B/UBAConfig_PSD_ZhuBaJie_01B_dep01.UBAConfig_PSD_ZhuBaJie_01B_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "500501",
+      "2": "9",
+      "3": "1075419546",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_BaiYanMoJun_01/UBAConfig_PSD_BaiYanMoJun_01_dep01.UBAConfig_PSD_BaiYanMoJun_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "500502",
+      "2": "9",
+      "3": "1075419546",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_BaiYanMoJun_01/UBAConfig_PSD_BaiYanMoJun_01_dep02.UBAConfig_PSD_BaiYanMoJun_01_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "500503",
+      "2": "9",
+      "3": "1075419546",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_BaiYanMoJun_01/UBAConfig_PSD_BaiYanMoJun_01_dep03.UBAConfig_PSD_BaiYanMoJun_01_dep03'",
+      "8": "Guard"
+    },
+    {
+      "1": "500601",
+      "2": "9",
+      "3": "1082130432",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_RenShenJing_01A/UBAConfig_PSD_RenShenJing_01A_dep01.UBAConfig_PSD_RenShenJing_01A_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "500701",
+      "2": "8",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_ZhuSun_01/UBAConfig_PSD_ZhuSun_01_dep01.UBAConfig_PSD_ZhuSun_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "500801",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_ZiZhuEr_01/UBAConfig_PSD_ZiZhuEr_01_dep01.UBAConfig_PSD_ZiZhuEr_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "500901",
+      "2": "12",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_DuChongSiShi/UBAC_psd_duchongsishi_dep01.UBAC_psd_duchongsishi_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "501001",
+      "2": "8",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_zhusun_02/UBAConfig_PSD_ZhuSun_02_dep01.UBAConfig_PSD_ZhuSun_02_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "501101",
+      "2": "8",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_zhusun_03/UBAConfig_PSD_ZhuSun_03_dep01.UBAConfig_PSD_ZhuSun_03_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "501201",
+      "2": "8",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_LeiBiShi_01/UBAConfig_psd_leibishi_01_dep01.UBAConfig_psd_leibishi_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "501301",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_ZhiZhuJing_01/UBAC_psd_zhizhujing_01_dep01.UBAC_psd_zhizhujing_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "501401",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_ZhiZhuJing_02/UBAC_psd_zhizhujing_02_dep01.UBAC_psd_zhizhujing_02_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "501501",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_ZhiZhuJing_01/UBAC_psd_zhizhujing_01_dep01.UBAC_psd_zhizhujing_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "501701",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_ZhiZhuJing_01/UBAC_psd_zhizhujing_01_dep01.UBAC_psd_zhizhujing_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "501801",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_ZhiZhuJing_01/UBAC_psd_zhizhujing_01_dep01.UBAC_psd_zhizhujing_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "501901",
+      "2": "9",
+      "3": "1072064102",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_hutoushe_01/UBAConfig_psd_hutoushe_01_dep01.UBAConfig_psd_hutoushe_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "502001",
+      "2": "9",
+      "3": "1084227584",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_YouYan_02/UBAC_psd_youyan_02_dep01.UBAC_psd_youyan_02_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "502101",
+      "2": "9",
+      "3": "1069547520",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "/Game/00MainHZ/Characters/Enemy/PSD/PDS_renshenjing_02a/UBAC_pds_renshenjing_02a.UBAC_pds_renshenjing_02a",
+      "8": "Guard"
+    },
+    {
+      "1": "505401",
+      "2": "9",
+      "3": "1084227584",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Wa_01/UBAConfig_psd_wa_01_dep01.UBAConfig_psd_wa_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "509901",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/NPC/NPC_ZhuBaJie01B/UBAConfig_NPC_ZhuBaJie01B_dep01.UBAConfig_NPC_ZhuBaJie01B_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "510001",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_zhubajie_02a/UBAConfig_psd_zhubajie_02a_dep01.UBAConfig_psd_zhubajie_02a_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "510002",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_zhubajie_02a/UBAConfig_psd_zhubajie_02a_dep02.UBAConfig_psd_zhubajie_02a_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "510101",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/NPC/NPC_zhubajie_02a/UBAConfig_npc_zhubajie_02a_dep01.UBAConfig_npc_zhubajie_02a_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "510201",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttackChongjian_01a.PhysAnimConfig_BeAttackChongjian_01a'",
+      "8": "Guard"
+    },
+    {
+      "1": "540101",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_CunMin_05A/UBAConfig_psd_cunmin_05a.UBAConfig_psd_cunmin_05a'",
+      "8": "Guard"
+    },
+    {
+      "1": "540201",
+      "2": "9",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_huangchong_01/UBAConfig_psd_huangchong_01_dep01.UBAConfig_psd_huangchong_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "540301",
+      "2": "9",
+      "3": "1082130432",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_jiachongzongbing_02/UBAC_psd_jiachongzongbing_02_dep01.UBAC_psd_jiachongzongbing_02_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "540302",
+      "2": "9",
+      "3": "1056964608",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_jiachongzongbing_02/UBAC_psd_jiachongzongbing_02_dep02.UBAC_psd_jiachongzongbing_02_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "540401",
+      "2": "9",
+      "3": "1073741824",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_daoshi_03/UBAConfig_psd_daoshi_03_dep01.UBAConfig_psd_daoshi_03_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "540402",
+      "2": "9",
+      "3": "1073741824",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_daoshi_03/UBAConfig_psd_daoshi_03_zys_dep02.UBAConfig_psd_daoshi_03_zys_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "540501",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_She_03/UBAConfig_PSD_She_03_dep01.UBAConfig_PSD_She_03_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "540601",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttackChongjian_01a.PhysAnimConfig_BeAttackChongjian_01a'",
+      "8": "Guard"
+    },
+    {
+      "1": "540701",
+      "2": "13",
+      "3": "1090519040",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttackChongjian_01a.PhysAnimConfig_BeAttackChongjian_01a'",
+      "8": "Guard"
+    },
+    {
+      "1": "540801",
+      "2": "9",
+      "3": "1090519040",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_baijiangcan_02/UBAC_psd_baijiangcan_02_dep01.UBAC_psd_baijiangcan_02_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "540802",
+      "2": "9",
+      "3": "1082130432",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_baijiangcan_02/UBAC_psd_baijiangcan_01_dep02.UBAC_psd_baijiangcan_01_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "540803",
+      "2": "9",
+      "3": "1088421888",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_baijiangcan_02/UBAC_psd_baijiangcan_01_dep03.UBAC_psd_baijiangcan_01_dep03'",
+      "8": "Guard"
+    },
+    {
+      "1": "555501",
+      "2": "8",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "8": "Guard"
+    },
+    {
+      "1": "555502",
+      "2": "8",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "8": "Guard"
+    },
+    {
+      "1": "580101",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_Shanzhen_01/UBACONFIG_hys_shanzhen_01_dep01.UBACONFIG_hys_shanzhen_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "580201",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_Shanzhen_02/UBACONFIG_hys_shanzhen_02_dep01.UBACONFIG_hys_shanzhen_02_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "580202",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_Shanzhen_02/UBAConfig_HYS_ShanZhen_02_dep02.UBAConfig_HYS_ShanZhen_02_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "580301",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_Shanzhen_01/UBACONFIG_hys_shanzhen_01_dep01.UBACONFIG_hys_shanzhen_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "581001",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_huijingrenou_03/UBACONFIG_hys_huijingrenou_03.UBACONFIG_hys_huijingrenou_03'",
+      "8": "Guard"
+    },
+    {
+      "1": "581002",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_huijingrenou_03/UBACONFIG_hys_huijingrenou_03_dual.UBACONFIG_hys_huijingrenou_03_dual'",
+      "8": "Guard"
+    },
+    {
+      "1": "581101",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_huijingtitan_01/UBACONFIG_hys_huijingtitan_01_dep01.UBACONFIG_hys_huijingtitan_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "600101",
+      "2": "12",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_DuJiaoXian/UBAConfig_HFM_DuJiaoXian_dep01.UBAConfig_HFM_DuJiaoXian_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "600401",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_01A/UBAConfig_GYCY_Lang_01A_dep01.UBAConfig_GYCY_Lang_01A_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "600601",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_YanJianXi_01b/UBAConfig_GYCY_YanJianXi_01b_dep01.UBAConfig_GYCY_YanJianXi_01b_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "600701",
+      "2": "9",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_03/UBAConfig_GYCY_Lang_03_dep01.UBAConfig_GYCY_Lang_03_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "600801",
+      "2": "9",
+      "3": "1073741824",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_DuJiaoXian/UBAConfig_HFM_HFDS_01a_dep01.UBAConfig_HFM_HFDS_01a_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "700101",
+      "2": "8",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/MGD/MGD_JSDS/UBAConfig_MGD_JSDS_dep01.UBAConfig_MGD_JSDS_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "700102",
+      "2": "8",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/MGD/MGD_JSDS/UBAConfig_MGD_JSDS_dep02.UBAConfig_MGD_JSDS_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "700103",
+      "2": "8",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/MGD/MGD_JSDS/UBAConfig_MGD_JSDS_dep03.UBAConfig_MGD_JSDS_dep03'",
+      "8": "Guard"
+    },
+    {
+      "1": "700201",
+      "2": "8",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/MGD/MGD_JSDS/UBAConfig_MGD_JSDS_dep01.UBAConfig_MGD_JSDS_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "740101",
+      "2": "9",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/MGD/MGD_ftxd/UBAC_mgd_yuan_dep01.UBAC_mgd_yuan_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "740102",
+      "2": "9",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/MGD/MGD_ftxd/UBAC_mgd_yuan_dep01.UBAC_mgd_yuan_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "740201",
+      "2": "8",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "8": "Guard"
+    },
+    {
+      "1": "777701",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/Test/LYS_ChiFaGui_01A_HMC/UBAC_LYS_ChiFaGui_dep01_HMC.UBAC_LYS_ChiFaGui_dep01_HMC'",
+      "8": "Guard"
+    },
+    {
+      "1": "800001",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/MGD/MGD_yangjian_01/UBAConfig_mgd_yangjian_01_dep01.UBAConfig_mgd_yangjian_01_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "800002",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/MGD/MGD_yangjian_01/UBAConfig_mgd_yangjian_01_dep02.UBAConfig_mgd_yangjian_01_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "800003",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/MGD/MGD_yangjian_01/UBAConfig_mgd_yangjian_01_dep03.UBAConfig_mgd_yangjian_01_dep03'",
+      "8": "Guard"
+    },
+    {
+      "1": "800004",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/MGD/MGD_yangjian_01/UBAConfig_mgd_yangjian_01_dep04.UBAConfig_mgd_yangjian_01_dep04'",
+      "8": "Guard"
+    },
+    {
+      "1": "800101",
+      "2": "8",
+      "3": "1065353216",
+      "4": "5",
+      "5": "5",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "8": "Guard"
+    },
+    {
+      "1": "888801",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/Test/LYS_CFG_JOSH/UBAC_LYS_ChiFaGui_Josh_dep01.UBAC_LYS_ChiFaGui_Josh_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "889901",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/Test/LYS_ChiFaGui_01A_CR/UBAConfig_LYS_ChiFaGui_CR.UBAConfig_LYS_ChiFaGui_CR'",
+      "8": "Guard"
+    },
+    {
+      "1": "900101",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Xiong_02/UBAConfig_GYCY_Xiong_02_dep01.UBAConfig_GYCY_Xiong_02_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "900102",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Xiong_02/UBAConfig_GYCY_Xiong_02_dep02.UBAConfig_GYCY_Xiong_02_dep02'",
+      "8": "Guard"
+    },
+    {
+      "1": "901501",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/Test/Lang_06_Pt/UBAConfig_GYCY_Lang_06_dep01_Pt.UBAConfig_GYCY_Lang_06_dep01_Pt'",
+      "8": "Guard"
+    },
+    {
+      "1": "999101",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "8": "Guard"
+    },
+    {
+      "1": "999401",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "8": "Guard"
+    },
+    {
+      "1": "999501",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "8": "Guard"
+    },
+    {
+      "1": "999601",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "8": "Guard"
+    },
+    {
+      "1": "999701",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "8": "Guard"
+    },
+    {
+      "1": "999801",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "8": "Guard"
+    },
+    {
+      "1": "999901",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "8": "Guard"
+    },
+    {
+      "1": "1000601",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack_Small.PhysAnimConfig_BeAttack_Small'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/Test/Lang_06test_pat/UBAConfig_GYCY_Lang06test_pat_dep01.UBAConfig_GYCY_Lang06test_pat_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "1001101",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "/Game/00MainHZ/Characters/Wukong/SummonMonkey/UBAConfig_Wukong_FS_dep01.UBAConfig_Wukong_FS_dep01",
+      "8": "Guard"
+    },
+    {
+      "1": "1001102",
+      "2": "10",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "/Game/00MainHZ/Characters/Wukong/SummonMonkey/UBAConfig_Wukong_FS_dep01.UBAConfig_Wukong_FS_dep01",
+      "8": "Guard"
+    },
+    {
+      "1": "1001103",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Wukong/SummonMonkey/UBAConfig_Wukong_FS_dep03.UBAConfig_Wukong_FS_dep03'",
+      "8": "Guard"
+    },
+    {
+      "1": "1001301",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "8": "Guard"
+    },
+    {
+      "1": "2401001",
+      "2": "8",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Transform/Player_mgd_yuan/UBAC_player_mgd_yuan_summon_dep01.UBAC_player_mgd_yuan_summon_dep01'",
+      "8": "Guard"
+    },
+    {
+      "1": "30200101",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "8": "Guard"
+    },
+    {
+      "1": "30200201",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "8": "Guard"
+    },
+    {
+      "1": "471401",
+      "2": "9",
+      "3": "1065353216",
+      "4": "99",
+      "5": "99",
+      "6": "BGWBeAtkPhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_BeAttack.PhysAnimConfig_BeAttack'",
+      "7": "BGWDataAsset_UnitBeAttackedConfig'/Game/00MainHZ/Characters/Enemy/Online/SZLC/SZLC_hema_01/UBACONFIG_szlc_hema_01_dep01.UBACONFIG_szlc_hema_01_dep01'",
+      "8": "Guard"
+    }
+  ]
+}

@@ -1,0 +1,689 @@
+{
+  "1": [
+    {
+      "1": "9999999",
+      "2": "BED_TaskAsset'/Game/00Main/TaskAssets/Test_TaskGraph.Test_TaskGraph'",
+      "5": "Guard"
+    },
+    {
+      "1": "100",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/HFM02/QuestAssets/CTG_HFM_BOSShop.CTG_HFM_BOSShop'",
+      "3": "100",
+      "4": "\\xd9\u0004",
+      "5": "Guard"
+    },
+    {
+      "1": "200",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/HFS01/QuestAssets/CTG_get_skill.CTG_get_skill'",
+      "5": "Guard"
+    },
+    {
+      "1": "201",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/HFS01/QuestAssets/CTG_systemfunction.CTG_systemfunction'",
+      "3": "20101",
+      "5": "Guard"
+    },
+    {
+      "1": "202",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/HFS01/QuestAssets/CTG_travelnote.CTG_travelnote'",
+      "5": "Guard"
+    },
+    {
+      "1": "203",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/HFS01/QuestAssets/CTG_hfs_guide.CTG_hfs_guide'",
+      "5": "Guard"
+    },
+    {
+      "1": "999",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/MGD/QuestAsset/CTG_mgd_main.CTG_mgd_main'",
+      "5": "Guard"
+    },
+    {
+      "1": "1000",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/HFS01/QuestAssets/CTG_hfs_main.CTG_hfs_main'",
+      "5": "Guard"
+    },
+    {
+      "1": "1001",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/HFS01/QuestAssets/CTG_HFS_QiaoZhong.CTG_HFS_QiaoZhong'",
+      "4": "֎=",
+      "5": "Guard"
+    },
+    {
+      "1": "1002",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/HFS01/QuestAssets/CTG_HFS_QiaoZhong_Tudi_Voice.CTG_HFS_QiaoZhong_Tudi_Voice'",
+      "5": "Guard"
+    },
+    {
+      "1": "1011",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/HFS01/QuestAssets/CTG_hfs_startwolfdead_tudi_voice.CTG_hfs_startwolfdead_tudi_voice'",
+      "5": "Guard"
+    },
+    {
+      "1": "1012",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/HFS01/QuestAssets/CTG_hfs_learn_dingshen.CTG_hfs_learn_dingshen'",
+      "5": "Guard"
+    },
+    {
+      "1": "1099",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/HFS01/QuestAssets/CTG_Chiran_PUbu_Voice.CTG_Chiran_PUbu_Voice'",
+      "5": "Guard"
+    },
+    {
+      "1": "1100",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/Degenerator_map/HFS_Transmit/Sequence/CTG_hfs_wooddragon.CTG_hfs_wooddragon'",
+      "3": "1100001",
+      "4": "\\xe1\\x91C",
+      "5": "Guard"
+    },
+    {
+      "1": "1313",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/HFS01/QuestAssets/CTG_HFS_Shenhou.CTG_HFS_Shenhou'",
+      "3": "1313001",
+      "4": "\\xed\\x91P",
+      "5": "Guard"
+    },
+    {
+      "1": "1400",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/HFS01/QuestAssets/CTG_Tudipo.CTG_Tudipo'",
+      "3": "1400001",
+      "4": "\\xa3\\xbaU",
+      "5": "Guard"
+    },
+    {
+      "1": "2000",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/HFM02/QuestAssets/CTG_hfm_main.CTG_hfm_main'",
+      "5": "Guard"
+    },
+    {
+      "1": "2001",
+      "2": "/Game/00Main/TaskAssets/HFM/MaoShuTongMian/CTG_HFM_MaoShuTongMian.CTG_HFM_MaoShuTongMian",
+      "3": "2001101",
+      "4": "ݔz\\x95\\x93z",
+      "5": "Guard"
+    },
+    {
+      "1": "2002",
+      "2": "BED_TaskAsset'/Game/00Main/TaskAssets/HFM/ShiZhongSheng/CTG_HFM_ShiZhongSheng.CTG_HFM_ShiZhongSheng'",
+      "3": "2002101",
+      "4": "șz",
+      "5": "Guard"
+    },
+    {
+      "1": "2003",
+      "2": "BED_TaskAsset'/Game/00Main/TaskAssets/HFM/ZhuXingNanYi/CTG_HFM_ZhuXingNanYi.CTG_HFM_ZhuXingNanYi'",
+      "3": "2003101",
+      "4": "\\xa8\\xa1z",
+      "5": "Guard"
+    },
+    {
+      "1": "2004",
+      "2": "/Game/00Main/TaskAssets/HFM/HuoZhongQuLi/CTG_HFM_HuoZhongQuLi.CTG_HFM_HuoZhongQuLi",
+      "3": "2004101",
+      "4": "ݭz",
+      "5": "Guard"
+    },
+    {
+      "1": "2005",
+      "2": "BED_TaskAsset'/Game/00Main/TaskAssets/HFM/LongZaiYuan/CTG_HFM_LongZaiYuan.CTG_HFM_LongZaiYuan'",
+      "3": "2005101",
+      "4": "\\xb6\\xb2z",
+      "5": "Guard"
+    },
+    {
+      "1": "2006",
+      "2": "BED_TaskAsset'/Game/00Main/TaskAssets/HFM/ShiGanDang/CTG_HFM_ShiGanDang.CTG_HFM_ShiGanDang'",
+      "3": "2006100",
+      "4": "۸z",
+      "5": "Guard"
+    },
+    {
+      "1": "2007",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/HFM02/QuestAssets/CTG_HFM_Temple.CTG_HFM_Temple'",
+      "5": "Guard"
+    },
+    {
+      "1": "2101",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/HFM02/QuestAssets/CTG_HFM_XiaoXuMi.CTG_HFM_XiaoXuMi'",
+      "3": "2101100",
+      "4": "힀\u0001",
+      "5": "Guard"
+    },
+    {
+      "1": "2201",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/HFM02/QuestAssets/CTG_HFM_HouHuCave_01.CTG_HFM_HouHuCave_01'",
+      "5": "Guard"
+    },
+    {
+      "1": "2008",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/HFM02/QuestAssets/CTG_HFM_Village_FuJieVFX.CTG_HFM_Village_FuJieVFX'",
+      "3": "2008101",
+      "4": "\\xa7\\xc8z",
+      "5": "Guard"
+    },
+    {
+      "1": "2009",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/HFM02/QuestAssets/CTG_hfm_chuilong.CTG_hfm_chuilong'",
+      "5": "Guard"
+    },
+    {
+      "1": "2010",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/HFM02/QuestAssets/CTG_HFM_MV_HPS_Final.CTG_HFM_MV_HPS_Final'",
+      "5": "Guard"
+    },
+    {
+      "1": "2099",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/HFM02/QuestAssets/CTG_HFM_LevelEnding.CTG_HFM_LevelEnding'",
+      "5": "Guard"
+    },
+    {
+      "1": "2820",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/HFM02/QuestAssets/CTG_HFM_Valley.CTG_HFM_Valley'",
+      "5": "Guard"
+    },
+    {
+      "1": "2888",
+      "2": "BED_TaskAsset'/Game/00Main/TaskAssets/HFM/DuJiaoXian/CTG_hfm_dujiaoxian.CTG_hfm_dujiaoxian'",
+      "3": "2888001",
+      "4": "\\xa3\\xa3\\xb0\u0001",
+      "5": "Guard"
+    },
+    {
+      "1": "2222",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/HFS01/QuestAssets/CTG_Mamian.CTG_Mamian'",
+      "3": "2222001",
+      "4": "\\xb5χ\u0001\\xb9χ\u0001",
+      "5": "Guard"
+    },
+    {
+      "1": "10001",
+      "2": "BED_TaskAsset'/Game/00Main/TaskAssets/DebugRoom/GameLevelPass/CTG_DebugRoom_GameLevelPass.CTG_DebugRoom_GameLevelPass'",
+      "5": "Guard"
+    },
+    {
+      "1": "10002",
+      "2": "BED_TaskAsset'/Game/00Main/TaskAssets/DebugRoom/PrologueCompleted/CTG_DebugRoom_PrologueCompleted.CTG_DebugRoom_PrologueCompleted'",
+      "5": "Guard"
+    },
+    {
+      "1": "10003",
+      "2": "BED_TaskAsset'/Game/00Main/TaskAssets/DebugRoom/LevelFinish/CTG_DebugRoom_LevelFinish.CTG_DebugRoom_LevelFinish'",
+      "5": "Guard"
+    },
+    {
+      "1": "10005",
+      "2": "BED_TaskAsset'/Game/00Main/TaskAssets/DebugRoom/Main/CTG_DebugRoom_LongZaiYuan.CTG_DebugRoom_LongZaiYuan'",
+      "3": "10005101",
+      "4": "\\xb6\\xd6\\xe2\u0004",
+      "5": "Guard"
+    },
+    {
+      "1": "5000",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/HYS01/QuestAssets/CTG_hys_main.CTG_hys_main'",
+      "5": "Guard"
+    },
+    {
+      "1": "5001",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/HYS01/QuestAssets/CTG_HYS_JDS.CTG_HYS_JDS'",
+      "4": "\\x8d\\x9f\\xb1\u0002\\xf4\\x9f\\xb1\u0002",
+      "5": "Guard"
+    },
+    {
+      "1": "5002",
+      "2": "BED_TaskAsset'/Game/00Main/TaskAssets/HYS/Mamian/CTG_HYS_MaMian.CTG_HYS_MaMian'",
+      "3": "5002101",
+      "4": "\\xf9\\xa6\\xb1\u0002",
+      "5": "Guard"
+    },
+    {
+      "1": "5099",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/HYS01/QuestAssets/CTG_hys_zhubajie.CTG_hys_zhubajie'",
+      "5": "Guard"
+    },
+    {
+      "1": "5007",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/HYS01/QuestAssets/CTG_hys_tudigong.CTG_hys_tudigong'",
+      "3": "5007101",
+      "4": "\\xfeͱ\u0002",
+      "5": "Guard"
+    },
+    {
+      "1": "5009",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/HYS01/QuestAssets/CTG_hys_hms.CTG_hys_hms'",
+      "5": "Guard"
+    },
+    {
+      "1": "5010",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/HYS01/QuestAssets/CTG_hys_jrhkrf.CTG_hys_jrhkrf'",
+      "3": "5010001",
+      "4": "\\xd1\\xe4\\xb1\u0002",
+      "5": "Guard"
+    },
+    {
+      "1": "5011",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/HYS01/QuestAssets/CTG_hys_YLWWLY.CTG_hys_YLWWLY'",
+      "3": "5011001",
+      "4": "\\xb9\\xec\\xb1\u0002",
+      "5": "Guard"
+    },
+    {
+      "1": "5012",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/HYS01/QuestAssets/CTG_hys_honghaier.CTG_hys_honghaier'",
+      "3": "5012001",
+      "4": "\\xa1\\xf4\\xb1\u0002",
+      "5": "Guard"
+    },
+    {
+      "1": "5020",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/HYS01/QuestAssets/CTG_hys_foxguide.CTG_hys_foxguide'",
+      "3": "5020001",
+      "4": "Ჲ\u0002",
+      "5": "Guard"
+    },
+    {
+      "1": "4000",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/PSD01/QuestAssets/CTG_psd_main.CTG_psd_main'",
+      "5": "Guard"
+    },
+    {
+      "1": "4001",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/PSD01/QuestAssets/CTG_psd_switchlight.CTG_psd_switchlight'",
+      "3": "4001001",
+      "4": "\\xe9\\x99\\xf4\u0001",
+      "5": "Guard"
+    },
+    {
+      "1": "4901",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/PSD01/QuestAssets/CTG_psd_zhubajie_follow.CTG_psd_zhubajie_follow'",
+      "3": "4901001",
+      "4": "\\xfb\\xd8\\xf9\u0001",
+      "5": "Guard"
+    },
+    {
+      "1": "4902",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/PSD01/QuestAssets/CTG_psd_zhubajie_follow_interactive.CTG_psd_zhubajie_follow_interactive'",
+      "5": "Guard"
+    },
+    {
+      "1": "6000",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/End_A01/QuestAsset/CTG_enda01_main.CTG_enda01_main'",
+      "5": "Guard"
+    },
+    {
+      "1": "6001",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/PSD01/QuestAssets/CTG_psd_zhubajie_follow.CTG_psd_zhubajie_follow'",
+      "3": "4901001",
+      "4": "\\xfb\\xd8\\xf9\u0001",
+      "5": "Guard"
+    },
+    {
+      "1": "6201",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/End_B01/QuestAsset/CTG_endb01_yangjian.CTG_endb01_yangjian'",
+      "3": "6210001",
+      "4": "\\xb3\\x84\\xfb\u0002",
+      "5": "Guard"
+    },
+    {
+      "1": "4002",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/PSD01/QuestAssets/CTG_psd_zhuhaitaowang.CTG_psd_zhuhaitaowang'",
+      "3": "4002001",
+      "4": "ѡ\\xf4\u0001",
+      "5": "Guard"
+    },
+    {
+      "1": "4003",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/PSD01/QuestAssets/CTG_psd_youyan.CTG_psd_youyan'",
+      "5": "Guard"
+    },
+    {
+      "1": "4004",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/PSD01/QuestAssets/CTG_psd_baiyanmojun.CTG_psd_baiyanmojun'",
+      "5": "Guard"
+    },
+    {
+      "1": "4402",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/PSD01/QuestAssets/CTG_psd_sijiequest.CTG_psd_sijiequest'",
+      "3": "4402101",
+      "5": "Guard"
+    },
+    {
+      "1": "4403",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/PSD01/QuestAssets/CTG_psd_wulongquest.CTG_psd_wulongquest'",
+      "3": "4403001",
+      "4": "\\x9bߌ\u0002",
+      "5": "Guard"
+    },
+    {
+      "1": "4404",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/PSD01/QuestAssets/CTG_psd_zhaogujing.CTG_psd_zhaogujing'",
+      "3": "4404001",
+      "4": "\\xa5\\xe6\\x8c\u0002",
+      "5": "Guard"
+    },
+    {
+      "1": "4500",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/PSD01/QuestAssets/CTG_psd_Dage.CTG_psd_Dage'",
+      "3": "4500001",
+      "4": "\\xa1Ԓ\u0002",
+      "5": "Guard"
+    },
+    {
+      "1": "4600",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/PSD01/QuestAssets/CTG_psd_baijiangcan.CTG_psd_baijiangcan'",
+      "3": "4600001",
+      "4": "\\xc1\\xe1\\x98\u0002",
+      "5": "Guard"
+    },
+    {
+      "1": "4700",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/PSD01/QuestAssets/CTG_psd_sijie_fail.CTG_psd_sijie_fail'",
+      "3": "4700001",
+      "4": "\\xe1\\xee\\x9e\u0002",
+      "5": "Guard"
+    },
+    {
+      "1": "3000",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/LYS/QuestAsset/CTG_lys_main.CTG_lys_main'",
+      "5": "Guard"
+    },
+    {
+      "1": "3014",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/LYS/QuestAsset/CTG_LYS_Ruyilong.CTG_LYS_Ruyilong'",
+      "3": "3014001",
+      "4": "\\xd3\\xfb\\xb7\u0001",
+      "5": "Guard"
+    },
+    {
+      "1": "3333",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/LYS/QuestAsset/CTG_lys_yangxian.CTG_lys_yangxian'",
+      "3": "3333001",
+      "4": "\\x92\\xb7\\xcb\u0001",
+      "5": "Guard"
+    },
+    {
+      "1": "3900",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/LYS/QuestAsset/CTG_lys_huangmei.CTG_lys_huangmei'",
+      "3": "3900001",
+      "5": "Guard"
+    },
+    {
+      "1": "3999",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/LYS/QuestAsset/CTG_lys_zbj_rzd.CTG_lys_zbj_rzd'",
+      "5": "Guard"
+    },
+    {
+      "1": "3401",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/LYS/QuestAsset/CTG_lys_guibei.CTG_lys_guibei'",
+      "3": "3401001",
+      "4": "\\xae\\xca\\xcf\u0001",
+      "5": "Guard"
+    },
+    {
+      "1": "7001",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/BSD02/QuestAssets/CTG_bsd_JJS.CTG_bsd_JJS'",
+      "3": "7001001",
+      "4": "\\xab\\xa7\\xab\u0003",
+      "5": "Guard"
+    },
+    {
+      "1": "7002",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/BSD02/QuestAssets/CTG_bsd_xgx.CTG_bsd_xgx'",
+      "3": "7002001",
+      "4": "\\x91\\xaf\\xab\u0003",
+      "5": "Guard"
+    },
+    {
+      "1": "8001",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/ZYS01/Quest/CTG_zys_HongLinMang.CTG_zys_HongLinMang'",
+      "3": "8001001",
+      "4": "\\xeb\\xab\\xe8\u0003",
+      "5": "Guard"
+    },
+    {
+      "1": "8002",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/ZYS01/Quest/CTG_zys_DuChong.CTG_zys_DuChong'",
+      "3": "8002001",
+      "4": "ֳ\\xe8\u0003",
+      "5": "Guard"
+    },
+    {
+      "1": "8003",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/ZYS01/Quest/CTG_zys_XieZi.CTG_zys_XieZi'",
+      "3": "8003001",
+      "4": "\\xbe\\xbb\\xe8\u0003",
+      "5": "Guard"
+    },
+    {
+      "1": "8004",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/ZYS01/Quest/CTG_zys_mrxg.CTG_zys_mrxg'",
+      "3": "8004001",
+      "4": "\\xa3\\xc3\\xe8\u0003",
+      "5": "Guard"
+    },
+    {
+      "1": "8005",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/ZYS01/Quest/CTG_zys_XieZi_MRXG.CTG_zys_XieZi_MRXG'",
+      "3": "8005001",
+      "4": "\\x8c\\xcb\\xe8\u0003",
+      "5": "Guard"
+    },
+    {
+      "1": "3013",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/LYS/QuestAsset/CTG_lys_xuehou.CTG_lys_xuehou'",
+      "3": "3013001",
+      "5": "Guard"
+    },
+    {
+      "1": "3901",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/LYS/QuestAsset/CTG_ZhubajieLYSJourney.CTG_ZhubajieLYSJourney'",
+      "3": "3901001",
+      "4": "\\xbbԼ\u0001",
+      "5": "Guard"
+    },
+    {
+      "1": "3015",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/LYS/QuestAsset/CTG_lys_xuehou_bat.CTG_lys_xuehou_bat'",
+      "3": "3015001",
+      "5": "Guard"
+    },
+    {
+      "1": "3016",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/LYS/QuestAsset/CTG_lys_quest_shegu.CTG_lys_quest_shegu'",
+      "3": "3016001",
+      "4": "\u0000",
+      "5": "Guard"
+    },
+    {
+      "1": "3017",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/LYS/QuestAsset/CTG_lys_jianlong.CTG_lys_jianlong'",
+      "3": "3017001",
+      "4": "\\xaa\\x92\\xb8\u0001",
+      "5": "Guard"
+    },
+    {
+      "1": "3020",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/LYS/CTG_lys_laoseng.CTG_lys_laoseng'",
+      "3": "3020001",
+      "4": "⩸\u0001",
+      "5": "Guard"
+    },
+    {
+      "1": "4026",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/LYS/QuestAsset/CTG_lys_huijin_02b_allclear.CTG_lys_huijin_02b_allclear'",
+      "3": "4026007",
+      "4": "\\x97\\xdd\\xf5\u0001",
+      "5": "Guard"
+    },
+    {
+      "1": "3402",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/LYS/QuestAsset/CTG_lys_XiaoMiLe_Quest.CTG_lys_XiaoMiLe_Quest'",
+      "5": "Guard"
+    },
+    {
+      "1": "3403",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/LYS/QuestAsset/CTG_lys_XiaoMiLe_Interact.CTG_lys_XiaoMiLe_Interact'",
+      "5": "Guard"
+    },
+    {
+      "1": "3031",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/LYS/QuestAsset/CTG_lys_xztz.CTG_lys_xztz'",
+      "3": "3031000",
+      "4": "\\xbb\\x80\\xb9\u0001",
+      "5": "Guard"
+    },
+    {
+      "1": "3032",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/LYS/QuestAsset/CTG_lys_xztz_mo3.CTG_lys_xztz_mo3'",
+      "3": "3032001",
+      "4": "\\xb9\u0001",
+      "5": "Guard"
+    },
+    {
+      "1": "3070",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/HFS01/QuestAssets/CTG_YSCheng_AllPhase.CTG_YSCheng_AllPhase'",
+      "3": "3070000",
+      "4": "\\xb6\\xb0\\xbb\u0001",
+      "5": "Guard"
+    },
+    {
+      "1": "3100",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/LYS/QuestAsset/CTG_Huazhongshijie.CTG_Huazhongshijie'",
+      "3": "3100001",
+      "5": "Guard"
+    },
+    {
+      "1": "3101",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/LYS/QuestAsset/CTG_Huazhongshijie_yangcan.CTG_Huazhongshijie_yangcan'",
+      "3": "3101001",
+      "4": "ɢ\\xbd\u0001",
+      "5": "Guard"
+    },
+    {
+      "1": "3102",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/LYS/QuestAsset/CTG_Huazhongshijie_HuWind.CTG_Huazhongshijie_HuWind'",
+      "3": "3102001",
+      "4": "\\xb2\\xaa\\xbd\u0001",
+      "5": "Guard"
+    },
+    {
+      "1": "9201",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/FTT02/Quest/CTG_FTT_teleport.CTG_FTT_teleport'",
+      "3": "9201000",
+      "4": "\\xcb˱\u0004",
+      "5": "Guard"
+    },
+    {
+      "1": "9801",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/BYS/Quest/CTG_BYS_WLG.CTG_BYS_WLG'",
+      "3": "9801001",
+      "4": "\\xab\\x9a\\xd6\u0004",
+      "5": "Guard"
+    },
+    {
+      "1": "9802",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/BYS/Quest/CTG_BYS_JDS.CTG_BYS_JDS'",
+      "3": "9802001",
+      "4": "\\x96\\xa2\\xd6\u0004",
+      "5": "Guard"
+    },
+    {
+      "1": "9803",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/BYS/Quest/CTG_BYS_Xiniu.CTG_BYS_Xiniu'",
+      "3": "9803001",
+      "4": "\\xfa\\xa9\\xd6\u0004",
+      "5": "Guard"
+    },
+    {
+      "1": "9804",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/BYS/Quest/CTG_BYS_Xuelu.CTG_BYS_Xuelu'",
+      "3": "9804001",
+      "4": "\\xe2\\xb1\\xd6\u0004",
+      "5": "Guard"
+    },
+    {
+      "1": "9806",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/BYS/Quest/CTG_BYS_Xishuai.CTG_BYS_Xishuai'",
+      "3": "9806001",
+      "4": "\\xb1\\xc1\\xd6\u0004",
+      "5": "Guard"
+    },
+    {
+      "1": "9807",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/BYS/Quest/CTG_bys_tanglang.CTG_bys_tanglang'",
+      "3": "9807001",
+      "4": "\\x9c\\xc9\\xd6\u0004",
+      "5": "Guard"
+    },
+    {
+      "1": "9809",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/BYS/Quest/CTG_BYS_GamePass.CTG_BYS_GamePass'",
+      "5": "Guard"
+    },
+    {
+      "1": "9810",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/BYS/Quest/CTG_BYS_ZBJ.CTG_BYS_ZBJ'",
+      "5": "Guard"
+    },
+    {
+      "1": "9812",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/BYS/Quest/ShuiLianDong/CTG_BYS_ShuiLianDong.CTG_BYS_ShuiLianDong'",
+      "3": "9812000",
+      "4": "\\xa4\\xf0\\xd6\u0004",
+      "5": "Guard"
+    },
+    {
+      "1": "9814",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/BYS/Quest/CTG_BYS_Shitongling03.CTG_BYS_Shitongling03'",
+      "3": "9814001",
+      "4": "\\xf1\\xff\\xd6\u0004",
+      "5": "Guard"
+    },
+    {
+      "1": "9815",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/BYS/Quest/CTG_BYS_Tudipo.CTG_BYS_Tudipo'",
+      "3": "9815001",
+      "4": "ه\\xd7\u0004",
+      "5": "Guard"
+    },
+    {
+      "1": "9800",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/End_B01/QuestAsset/CTG_endb01_RebirthPorint.CTG_endb01_RebirthPorint'",
+      "5": "Guard"
+    },
+    {
+      "1": "9820",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/BYS/CTG_BYS_BajieBox.CTG_BYS_BajieBox'",
+      "3": "9820001",
+      "4": "\\xe1\\xae\\xd7\u0004",
+      "5": "Guard"
+    },
+    {
+      "1": "1301",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/MGD/QuestAsset/CTG_mgd_game_opening.CTG_mgd_game_opening'",
+      "3": "1301101",
+      "4": "\\xee\\xb4O",
+      "5": "Guard"
+    },
+    {
+      "1": "9599",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/WhiteBox/CTG_Zhubajie_Cesuo.CTG_Zhubajie_Cesuo'",
+      "3": "9599000",
+      "4": "\\x9a\\xf0\\xc9\u0004",
+      "5": "Guard"
+    },
+    {
+      "1": "9999",
+      "2": "BED_TaskAsset'/Game/00Main/TaskAssets/HFM/CTG_HFM_Testseq.CTG_HFM_Testseq'",
+      "3": "9999100",
+      "4": "\\xfc\\xa5\\xe2\u0004",
+      "5": "Guard"
+    },
+    {
+      "1": "3011",
+      "2": "BED_TaskAsset'/Game/00Main/Maps/LYS/QuestAsset/CTG_LYS_fsys.CTG_LYS_fsys'",
+      "3": "3011000",
+      "4": "\\xb9\\xe3\\xb7\u0001",
+      "5": "Guard"
+    }
+  ]
+}

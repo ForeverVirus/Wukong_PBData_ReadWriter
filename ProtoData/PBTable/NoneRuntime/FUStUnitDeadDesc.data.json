@@ -1,0 +1,2934 @@
+{
+  "1": [
+    {
+      "1": "1001",
+      "2": "10",
+      "3": "1080033280",
+      "4": "3212836864",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Wukong/UDDConfig_Wukong_dep01.UDDConfig_Wukong_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "1201",
+      "2": "12",
+      "3": "1082130432",
+      "4": "3212836864",
+      "14": "Guard"
+    },
+    {
+      "1": "1301",
+      "2": "13",
+      "3": "1082130432",
+      "4": "3212836864",
+      "14": "Guard"
+    },
+    {
+      "1": "1401",
+      "2": "14",
+      "3": "1082130432",
+      "4": "3212836864",
+      "14": "Guard"
+    },
+    {
+      "1": "1501",
+      "2": "15",
+      "3": "1082130432",
+      "4": "3212836864",
+      "14": "Guard"
+    },
+    {
+      "1": "1601",
+      "2": "16",
+      "3": "1082130432",
+      "4": "3212836864",
+      "14": "Guard"
+    },
+    {
+      "1": "1701",
+      "2": "17",
+      "3": "1082130432",
+      "4": "3212836864",
+      "14": "Guard"
+    },
+    {
+      "1": "1702",
+      "2": "17",
+      "3": "1077936128",
+      "4": "3212836864",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Transform/Player_lys_hou/UDDC_player_lys_hou_dep02.UDDC_player_lys_hou_dep02'",
+      "14": "Guard"
+    },
+    {
+      "1": "1801",
+      "2": "18",
+      "3": "1082130432",
+      "4": "3212836864",
+      "14": "Guard"
+    },
+    {
+      "1": "1901",
+      "2": "19",
+      "3": "1082130432",
+      "4": "3212836864",
+      "14": "Guard"
+    },
+    {
+      "1": "2301",
+      "2": "23",
+      "3": "1082130432",
+      "4": "3212836864",
+      "14": "Guard"
+    },
+    {
+      "1": "2401",
+      "2": "24",
+      "3": "1086324736",
+      "4": "3212836864",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Transform/Player_mgd_yuan/UDDC_player_mgd_yuan_dep01.UDDC_player_mgd_yuan_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "2501",
+      "2": "25",
+      "3": "1086324736",
+      "4": "3212836864",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Transform/Player_ftxd/UDDC_player_ftxd_dep01.UDDC_player_ftxd_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "100101",
+      "2": "1001",
+      "3": "1078774989",
+      "4": "1078774989",
+      "9": "/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_02/Meshes/PA_GYCY_Lang_02_Die.PA_GYCY_Lang_02",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_02/UDDConfig_GYCY_Lang_02_dep01.UDDConfig_GYCY_Lang_02_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "100201",
+      "2": "1002",
+      "3": "1080033280",
+      "4": "1092616192",
+      "9": "/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_03/Meshes/PA_GYCY_Lang_03_phy.PA_GYCY_Lang_03_phy",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_03/UDDConfig_GYCY_Lang_03_dep01.UDDConfig_GYCY_Lang_03_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "100301",
+      "2": "1003",
+      "3": "1080033280",
+      "4": "1097859072",
+      "9": "/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_She_01/Meshes/PA_GYCY_She_01_Die.PA_GYCY_She_01",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_She_01/UDDConfig_GYCY_She_01_dep01.UDDConfig_GYCY_She_01_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "100401",
+      "2": "1004",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_She_02/UDDConfig_GYCY_She_02_dep01.UDDConfig_GYCY_She_02_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "100501",
+      "2": "1005",
+      "3": "1080033280",
+      "4": "1092616192",
+      "9": "/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_01/Meshes/PA_GYCY_Lang_01_Die.PA_GYCY_Lang_01",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_01A/UDDConfig_GYCY_Lang_01A_dep01.UDDConfig_GYCY_Lang_01A_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "100601",
+      "2": "1006",
+      "3": "1056964608",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_She_03/UDDConfig_GYCY_She_03_dep01.UDDConfig_GYCY_She_03_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "100701",
+      "2": "1007",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_LingXuZi_01/UDDConfig_GYCY_LingXuZi_01_dep01.UDDConfig_GYCY_LingXuZi_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "100801",
+      "2": "1008",
+      "3": "1065353216",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_BaiYi_01/UDDConfig_GYCY_BaiYi_01_dep01.UDDConfig_GYCY_BaiYi_01_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "100901",
+      "2": "1009",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Wa_02/UDDConfig_GYCY_Wa_02_dep01.UDDConfig_GYCY_Wa_02_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "101001",
+      "2": "1010",
+      "3": "1080033280",
+      "4": "1092616192",
+      "9": "/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_TuFei_01/Meshes/PA_GYCY_TuFei_01.PA_GYCY_TuFei_01",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_TuFei_01/UDDConfig_GYCY_TuFei_01_dep01.UDDConfig_GYCY_TuFei_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "101101",
+      "2": "1011",
+      "3": "1097859072",
+      "4": "1099431936",
+      "9": "/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_04/Meshes/pa_GYCY_Lang_04.PA_GYCY_Lang_04",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_04/UDDConfig_GYCY_Lang_04_dep01.UDDConfig_GYCY_Lang_04_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "101301",
+      "2": "1013",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Wa_01/UDDConfig_GYCY_Wa_01_dep01.UDDConfig_GYCY_Wa_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "101401",
+      "2": "1014",
+      "3": "1080033280",
+      "4": "1092616192",
+      "9": "PhysicsAsset'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_05/Meshes/PA_GYCY_Lang_05_Die.PA_GYCY_Lang_05_Die'",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_05/UDDConfig_GYCY_Lang_05_dep01.UDDConfig_GYCY_Lang_05_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "101501",
+      "2": "1015",
+      "3": "1073741824",
+      "4": "1092616192",
+      "9": "/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_06/Meshes/PA_GYCY_Lang_06.PA_GYCY_Lang_06",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_06/UDDConfig_GYCY_Lang_06_dep01.UDDConfig_GYCY_Lang_06_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "101601",
+      "2": "1016",
+      "3": "1080033280",
+      "4": "1092616192",
+      "9": "/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_07/Meshes/PA_GYCY_Lang_07.PA_GYCY_Lang_07",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_07/UDDConfig_GYCY_Lang_07a_dep01.UDDConfig_GYCY_Lang_07a_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "101701",
+      "2": "1017",
+      "3": "1084227584",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Seng_01/UDDConfig_GYCY_Seng_01_dep01.UDDConfig_GYCY_Seng_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "101801",
+      "2": "1018",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Seng_03/UDDConfig_GYCY_Seng_03_dep01.UDDConfig_GYCY_Seng_03_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "101901",
+      "2": "1019",
+      "3": "1073741824",
+      "4": "1073741824",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/FTT/FTT_ShiBing_01/UDDConfig_FTT_ShiBing_01_dep01.UDDConfig_FTT_ShiBing_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "102001",
+      "2": "1020",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Seng_02/UDDConfig_GYCY_Seng_02_dep01.UDDConfig_GYCY_Seng_02_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "102101",
+      "2": "1021",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Seng_04/UDDConfig_GYCY_Seng_04_dep01.UDDConfig_GYCY_Seng_04_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "102301",
+      "2": "1023",
+      "3": "1080033280",
+      "4": "1112014848",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_YanJianXi_01/UDDConfig_GYCY_YanJianXi_01_dep01.UDDConfig_GYCY_YanJianXi_01_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "102401",
+      "2": "1024",
+      "3": "1036831949",
+      "4": "1086744166",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_YanJianXi_01b/UDDConfig_GYCY_YanJianXi_01b_dep01.UDDConfig_GYCY_YanJianXi_01b_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "102501",
+      "2": "1025",
+      "3": "1080033280",
+      "4": "1112014848",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_DBL_01/UDDConfig_GYCY_DBL_01_dep01.UDDConfig_GYCY_DBL_01_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "102701",
+      "2": "1027",
+      "3": "1082130432",
+      "4": "1086324736",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/FTT/FTT_GuiShiWei_01/UDDConfig_GYCY_GuiShiWei_01_dep01.UDDConfig_GYCY_GuiShiWei_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "102801",
+      "2": "1028",
+      "3": "1080033280",
+      "4": "1080033280",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_BaiYi_03/UDDConfig_GYCY_BaiYi_03_she_dep01.UDDConfig_GYCY_BaiYi_03_she_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "102901",
+      "2": "1029",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_08/UDDConfig_GYCY_Lang_08_dep01.UDDConfig_GYCY_Lang_08_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "103001",
+      "2": "1030",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_Chong_01/UDDConfig_PSD_Chong_01_dep01.UDDConfig_PSD_Chong_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "103101",
+      "2": "1031",
+      "3": "1080033280",
+      "4": "1124532224",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Xiong_02/UDDConfig_GYCY_Xiong_02_dep01.UDDConfig_GYCY_Xiong_02_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "103201",
+      "2": "1032",
+      "3": "1080033280",
+      "4": "1092616192",
+      "9": "/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_03/Meshes/PA_GYCY_Lang_03_phy.PA_GYCY_Lang_03_phy",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_03/UDDConfig_GYCY_Lang_03_dep01.UDDConfig_GYCY_Lang_03_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "103301",
+      "2": "1033",
+      "3": "1080033280",
+      "4": "1092616192",
+      "9": "/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_06/Meshes/PA_GYCY_Lang_06.PA_GYCY_Lang_06",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_06/UDDConfig_GYCY_Lang_06_dep01.UDDConfig_GYCY_Lang_06_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "103401",
+      "2": "1034",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_08/UDDConfig_GYCY_Lang_08_dep01.UDDConfig_GYCY_Lang_08_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "103501",
+      "2": "1035",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_BaYi_04/UDDConfig_GYCY_BaiYi_04_dep01.UDDConfig_GYCY_BaiYi_04_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "103701",
+      "2": "1037",
+      "3": "1080033280",
+      "4": "1080033280",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_HFDW_01a/UDDConfig_GYCY_HFDW_01a_dep01.UDDConfig_GYCY_HFDW_01a_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "103801",
+      "2": "1038",
+      "3": "1080033280",
+      "4": "1080033280",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_SheBang/UDDConfig_gycy_shebang_dep01.UDDConfig_gycy_shebang_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "103901",
+      "2": "1039",
+      "3": "1080033280",
+      "4": "1077936128",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_YouHun/UDDConfig_GYCY_YouHun_dep01.UDDConfig_GYCY_YouHun_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "103902",
+      "2": "1039",
+      "3": "1080033280",
+      "4": "1077936128",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_YouHun/UDDConfig_GYCY_YouHun_dep02.UDDConfig_GYCY_YouHun_dep02'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "105001",
+      "2": "1050",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_04/UDDConfig_GYCY_Lang_04_dep01.UDDConfig_GYCY_Lang_04_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "110101",
+      "2": "1101",
+      "3": "1084227584",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_Niu_01/UDDConfig_HFM_Niu_01_dep01.UDDConfig_HFM_Niu_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_big.C_throwup_big",
+      "14": "Guard"
+    },
+    {
+      "1": "111301",
+      "2": "1113",
+      "3": "1080033280",
+      "4": "1092616192",
+      "9": "/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_03/Meshes/PA_GYCY_Lang_03_phy.PA_GYCY_Lang_03_phy",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/Online/GYCY_Lang_03_Online/UDDConfig_GYCY_Lang_03_Online_dep01.UDDConfig_GYCY_Lang_03_Online_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "111401",
+      "2": "1114",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_XunShanGui_01a/UDDConfig_HFM_XunShanGui_01a_dep01.UDDConfig_HFM_XunShanGui_01a_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "111501",
+      "2": "1115",
+      "3": "1080033280",
+      "4": "1092616192",
+      "9": "/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_05/Meshes/PA_GYCY_Lang_05.PA_GYCY_Lang_05",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/Online/GYCY_Lang_05_Online/UDDConfig_GYCY_Lang_05_Online_02_dep01.UDDConfig_GYCY_Lang_05_Online_02_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "111901",
+      "2": "1119",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_08/UDDConfig_GYCY_Lang_08_dep01.UDDConfig_GYCY_Lang_08_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "112001",
+      "2": "1120",
+      "3": "1080033280",
+      "4": "1077936128",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_ShuNuShou_01b/UDDConfig_HFM_ShuNuShou_01b_dep01.UDDConfig_HFM_ShuNuShou_01b_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "112101",
+      "2": "1121",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_ShuNuShou_01b/UDDConfig_HFM_ShuNuShou_01b_dep01.UDDConfig_HFM_ShuNuShou_01b_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "112301",
+      "2": "1123",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/Online/HFM_RouBianFu_01a_Online/UDDConfig_HFM_RouBianFu_01a_Online_dep01.UDDConfig_HFM_RouBianFu_01a_Online_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "112501",
+      "2": "1125",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_Niu_01/UDDConfig_HFM_Niu_01_dep01.UDDConfig_HFM_Niu_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "112801",
+      "2": "1128",
+      "3": "1069547520",
+      "4": "1069547520",
+      "9": "/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_04/Meshes/pa_GYCY_Lang_04.PA_GYCY_Lang_04",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_04/UDDConfig_GYCY_Lang_04_dep01.UDDConfig_GYCY_Lang_04_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "188801",
+      "2": "1888",
+      "3": "1069547520",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/MGD/MGD_tianbing_02/UDDCONFIG_mgd_tianbing_02_dep01.UDDCONFIG_mgd_tianbing_02_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "188802",
+      "2": "1888",
+      "3": "1069547520",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/MGD/MGD_tianbing_02/UDDCONFIG_mgd_tianbing_02_dep02.UDDCONFIG_mgd_tianbing_02_dep02'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "188901",
+      "2": "1889",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/MGD/MGD_tianbing_03/UDDCONFIG_mgd_tianbing_03_dep01.UDDCONFIG_mgd_tianbing_03_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "199901",
+      "2": "1999",
+      "3": "1091567616",
+      "4": "1091567616",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/MGD/MGD_erlangshen_01/UDDCONFIG_mgd_erlangshen_01_dep01.UDDCONFIG_mgd_erlangshen_01_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "200101",
+      "2": "2001",
+      "3": "1084227584",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_Hu_01/UDDConfig_HFM_Hu_01_dep01.UDDConfig_HFM_Hu_01_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "200201",
+      "2": "2002",
+      "3": "1082130432",
+      "4": "1082130432",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_MaMian_01a/UDDConfig_HFM_MaMian_01a_dep01.UDDConfig_HFM_MaMian_01a_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "200301",
+      "2": "2003",
+      "3": "1086324736",
+      "4": "1090519040",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_Shu_04a/UDDConfig_HFM_Shu_04a_dep01.UDDConfig_HFM_Shu_04a_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "200401",
+      "2": "2004",
+      "3": "1075838976",
+      "4": "1082130432",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_XunShanGui_01a/UDDConfig_HFM_XunShanGui_01a_dep01.UDDConfig_HFM_XunShanGui_01a_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "200501",
+      "2": "2005",
+      "3": "1101529088",
+      "4": "1101529088",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_ShaWuLiang_01a/UDDConfig_HFM_ShaWuLiang_01a_dep01.UDDConfig_HFM_ShaWuLiang_01a_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "200601",
+      "2": "2006",
+      "3": "1084227584",
+      "4": "1086324736",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_Hou_01a/UDDConfig_HFM_Hou_01a_dep01.UDDConfig_HFM_Hou_01a_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "200701",
+      "2": "2007",
+      "3": "1086324736",
+      "4": "1086324736",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_ShanZhen_01/UDDConfig_HFM_ShanZhen_01_dep01.UDDConfig_HFM_ShanZhen_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "200801",
+      "2": "2008",
+      "3": "1080033280",
+      "4": "1077936128",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_MaoYou_02a/UDDConfig_HFM_MaoYou_02a_dep01.UDDConfig_HFM_MaoYou_02a_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "200901",
+      "2": "2009",
+      "3": "1080033280",
+      "4": "1084227584",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_Shu_05a/UDDConfig_HFM_Shu_05a.UDDConfig_HFM_Shu_05a'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "201101",
+      "2": "2011",
+      "3": "1103626240",
+      "4": "1103626240",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_HFDS_01a/UDDConfig_HFM_HFDS_01a_dep01.UDDConfig_HFM_HFDS_01a_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "211101",
+      "2": "2111",
+      "3": "1036831949",
+      "4": "1036831949",
+      "14": "Guard"
+    },
+    {
+      "1": "201201",
+      "2": "2012",
+      "3": "1080033280",
+      "4": "1088421888",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_ShiXianFeng_01/UDDConfig_HFM_ShiXianFeng_01_dep01.UDDConfig_HFM_ShiXianFeng_01_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "201301",
+      "2": "2013",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_BXA_01a/UDDConfig_HFM_BXA_01a_dep01.UDDConfig_HFM_BXA_01a_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "201401",
+      "2": "2014",
+      "3": "1080033280",
+      "4": "1112014848",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_ShuWang_01a/UDDConfig_HFM_ShuWang_01a_dep01.UDDConfig_HFM_ShuWang_01a_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "201501",
+      "2": "2015",
+      "3": "1080033280",
+      "4": "1085905306",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_ShuangTouShu_01a/UDDConfig_HFM_ShuangTouShu_01a_dep01.UDDConfig_HFM_ShuangTouShu_01a_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "201601",
+      "2": "2016",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_ShiTongLing/UDDConfig_HFM_ShiTongLing_01a_dep01.UDDConfig_HFM_ShiTongLing_01a_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "201701",
+      "2": "2017",
+      "3": "1084227584",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_HuanWuZhe_01a/UDDConfig_HFM_HuanWuZhe_01a_dep01.UDDConfig_HFM_HuanWuZhe_01a_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "201801",
+      "2": "2018",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_HuangPaoLang/UDDConfig_GYCY_HuangPaoLang_dep01.UDDConfig_GYCY_HuangPaoLang_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "201901",
+      "2": "2019",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_HuangPaoZhu/UDDConfig_HFM_HuangPaoZhu_dep01.UDDConfig_HFM_HuangPaoZhu_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "202001",
+      "2": "2020",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_GuYao_01A/UDDConfig_HFM_GuYao_01A_dep01.UDDConfig_HFM_GuYao_01A_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "202201",
+      "2": "2022",
+      "3": "1092616192",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_Hu_Stone_01/UDDConfig_HFM_Hu_Stone_01_dep01.UDDConfig_HFM_Hu_Stone_01_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "202301",
+      "2": "2023",
+      "3": "1086324736",
+      "4": "1090519040",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_ShuNuShou_01b/UDDConfig_HFM_ShuNuShou_01b_dep01.UDDConfig_HFM_ShuNuShou_01b_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "202401",
+      "2": "2024",
+      "3": "1073741824",
+      "4": "1075838976",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_FuShu/UDDConfig_HFM_FuShu_dep01.UDDConfig_HFM_FuShu_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "202402",
+      "2": "2024",
+      "3": "1065437102",
+      "4": "1066192077",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_FuShu/UDDConfig_HFM_FuShu_dep02.UDDConfig_HFM_FuShu_dep02'",
+      "14": "Guard"
+    },
+    {
+      "1": "202501",
+      "2": "2025",
+      "3": "1076258406",
+      "4": "1087583027",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_FuZiShu/Mesh/Body/UDDConfig_HFM_FuZiShu_dep01.UDDConfig_HFM_FuZiShu_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "202502",
+      "2": "2025",
+      "3": "1080033280",
+      "4": "1084227584",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_FuZiShu/Mesh/Body/UDDConfig_HFM_FuZiShu_dep02.UDDConfig_HFM_FuZiShu_dep02'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_big.C_throwup_big",
+      "14": "Guard"
+    },
+    {
+      "1": "202701",
+      "2": "2027",
+      "3": "1075838976",
+      "4": "1075838976",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_RouBianfu_01a/UDDConfig_HFM_RouBianFu_01a_dep01.UDDConfig_HFM_RouBianFu_01a_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "202801",
+      "2": "2028",
+      "3": "1092616192",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_Hu_Wind/UDDCONFIG_hfm_hu_wind_dep01.UDDCONFIG_hfm_hu_wind_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "202901",
+      "2": "2029",
+      "3": "1080033280",
+      "4": "1086324736",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_MaGu_01A/UDDConfig_HFM_Magu_01A_dep01.UDDConfig_HFM_Magu_01A_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "202902",
+      "2": "2029",
+      "3": "1080033280",
+      "4": "1086324736",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_MaGu_01A/UDDConfig_HFM_Magu_01A_dep02.UDDConfig_HFM_Magu_01A_dep02'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "203001",
+      "2": "2030",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_GanShi_01A/UDDConfig_HFM_GanShi_01A_dep01.UDDConfig_HFM_GanShi_01A_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "210201",
+      "2": "2102",
+      "3": "1084227584",
+      "4": "1084227584",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_bashanhu_01/UDDCONFIG_hfm_bashanhu_01_dep01.UDDCONFIG_hfm_bashanhu_01_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "220101",
+      "2": "2201",
+      "3": "1089470464",
+      "4": "1088421888",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_HJBow_01A/UDDConfig_HFM_HJBow_01A_dep01.UDDConfig_HFM_HJBow_01A_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "220201",
+      "2": "2202",
+      "3": "1086324736",
+      "4": "1086324736",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_ShanZhen_02/UDDConfig_HFM_ShanZhen_02_dep01.UDDConfig_HFM_ShanZhen_02_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "220301",
+      "2": "2203",
+      "3": "1086324736",
+      "4": "1086324736",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_ShanZhen_03/UDDConfig_HFM_ShanZhen_03_dep01.UDDConfig_HFM_ShanZhen_03_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "220302",
+      "2": "2203",
+      "3": "1086324736",
+      "4": "1086324736",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_ShanZhen_03/UDDConfig_HFM_ShanZhen_03_dep02.UDDConfig_HFM_ShanZhen_03_dep02'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "220401",
+      "2": "2204",
+      "3": "1086324736",
+      "4": "1086324736",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_ShanZhen_03/UDDConfig_HFM_ShanZhen_04_dep01_papesse.UDDConfig_HFM_ShanZhen_04_dep01_papesse'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "220501",
+      "2": "2205",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_ShiGanDang_01/UDDConfig_HFM_ShiGanDang_01_dep01.UDDConfig_HFM_ShiGanDang_01_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "221001",
+      "2": "2210",
+      "3": "1080033280",
+      "4": "1084227584",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Wa_01/UDDConfig_GYCY_Wa_01_dep01.UDDConfig_GYCY_Wa_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "221101",
+      "2": "2211",
+      "3": "1148829696",
+      "4": "1148829696",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_shigong_01/UDDCONFIG_hfm_shigong_01_dep01.UDDCONFIG_hfm_shigong_01_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "240101",
+      "2": "2401",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Wa_02/UDDConfig_HFM_Wa_02_dep01.UDDConfig_HFM_Wa_02_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "250101",
+      "2": "2501",
+      "3": "1036831949",
+      "4": "1036831949",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/NPC/HFM_ShuangTouShu/UDDConfig_HFM_ShuangTouShu_NPC_dep01.UDDConfig_HFM_ShuangTouShu_NPC_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "250301",
+      "2": "2503",
+      "3": "1092616192",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_StoneMan_01/UDDConfig_HFM_StoneMan_01_dep01.UDDConfig_HFM_StoneMan_01_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "260101",
+      "2": "2601",
+      "3": "1077936128",
+      "4": "1077936128",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_Suoyang_01a/UDDConfig_HFM_Suoyang_01a_dep01.UDDConfig_HFM_Suoyang_01a_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_big.C_throwup_big",
+      "14": "Guard"
+    },
+    {
+      "1": "300101",
+      "2": "3001",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_HongPaoShu/UDDConfig_LYS_HongPaoShu_dep01.UDDConfig_LYS_HongPaoShu_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "300201",
+      "2": "3002",
+      "3": "1065353216",
+      "4": "1065353216",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_TuiSeng/UDDConfig_LYS_TuiSeng_01_dep01.UDDConfig_LYS_TuiSeng_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "300301",
+      "2": "3003",
+      "3": "1092616192",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_4ChiFu/UDDConfig_LYS_4ChiFu_dep01.UDDConfig_LYS_4ChiFu_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "300302",
+      "2": "3003",
+      "3": "1092616192",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_4ChiFu/UDDConfig_LYS_4ChiFu_dep02.UDDConfig_LYS_4ChiFu_dep02'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "300401",
+      "2": "3004",
+      "3": "1080033280",
+      "4": "1084227584",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_NuMuJinGang/UDDConfig_LYS_NuMuJinGang_dep01.UDDConfig_LYS_NuMuJinGang_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_big.C_throwup_big",
+      "14": "Guard"
+    },
+    {
+      "1": "300402",
+      "2": "3004",
+      "3": "1080033280",
+      "4": "1084227584",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_NuMuJinGang/UDDConfig_LYS_NuMuJinGang_dep02.UDDConfig_LYS_NuMuJinGang_dep02'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_big.C_throwup_big",
+      "14": "Guard"
+    },
+    {
+      "1": "300501",
+      "2": "3005",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_TuiSeng_P2/UDDConfig_LYS_TuiSeng_P2_dep01.UDDConfig_LYS_TuiSeng_P2_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "300701",
+      "2": "3007",
+      "3": "1086324736",
+      "4": "1086324736",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_YaXiangKe_1a/UDDConfig_LYS_YaXiangKe_1a_dep01.UDDConfig_LYS_YaXiangKe_1a_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "300801",
+      "2": "3008",
+      "3": "1080033280",
+      "4": "1084227584",
+      "10": "/Game/00Main/VFX/Characters/LYS/LYS_FrozenMon/BP_LYS_FrozenMon_Fracture.BP_LYS_FrozenMon_Fracture_C",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_FrozenMon/UDDConfig_LYS_FrozenMon_dep01.UDDConfig_LYS_FrozenMon_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "300901",
+      "2": "3009",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_SengMian/UDDConfig_LYS_SengMian_dep01.UDDConfig_LYS_SengMian_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "301001",
+      "2": "3010",
+      "3": "1086324736",
+      "4": "1086324736",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_JieDaoSeng/UDDConfig_LYS_JieDaoSeng_dep01.UDDConfig_LYS_JieDaoSeng_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "301101",
+      "2": "3011",
+      "3": "1075838976",
+      "4": "1082130432",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_FSYS/UDDConfig_LYS_FSYS_dep01.UDDConfig_LYS_FSYS_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "301102",
+      "2": "3011",
+      "3": "1075838976",
+      "4": "1082130432",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_FSYS/UDDConfig_LYS_FSYS_dep01.UDDConfig_LYS_FSYS_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "301201",
+      "2": "3012",
+      "3": "1088421888",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_SengMian_Alter/P1/UDDConfig_LYS_SengMian_P1_dep01.UDDConfig_LYS_SengMian_P1_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "301202",
+      "2": "3012",
+      "3": "1090519040",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_SengMian_Alter/P2/UDDConfig_LYS_SengMian_P2_dep02.UDDConfig_LYS_SengMian_P2_dep02'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "301301",
+      "2": "3013",
+      "3": "1080033280",
+      "4": "1080033280",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_XueHou/UDDConfig_LYS_XueHou_dep01.UDDConfig_LYS_XueHou_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "301302",
+      "2": "3013",
+      "3": "1080033280",
+      "4": "1080033280",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_XueHou/UDDConfig_LYS_XueHou_dep02.UDDConfig_LYS_XueHou_dep02'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "301401",
+      "2": "3014",
+      "3": "1087373312",
+      "4": "1088421888",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_RuYiLong_01/UDDConfig_LYS_RuYiLong_01_dep01.UDDConfig_LYS_RuYiLong_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "301402",
+      "2": "3014",
+      "3": "1087373312",
+      "4": "1088421888",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_RuYiLong_01/UDDConfig_LYS_RuYiLong_01_dep02.UDDConfig_LYS_RuYiLong_01_dep02'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "301502",
+      "2": "3015",
+      "3": "1080033280",
+      "4": "1080033280",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_XueHou_P/UDDConfig_LYS_XueHou_P_dep02.UDDConfig_LYS_XueHou_P_dep02'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "301601",
+      "2": "3016",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_Dage/UDDConfig_LYS_Dage_dep01.UDDConfig_LYS_Dage_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "301801",
+      "2": "3018",
+      "3": "1086324736",
+      "4": "1086324736",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_ShuaHouSeng/UDDConfig_ShuaHouSeng_dep01.UDDConfig_ShuaHouSeng_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "301901",
+      "2": "3019",
+      "3": "1092616192",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_Mo1/UDDConfig_LYS_Mo1_dep01.UDDConfig_LYS_Mo1_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "301902",
+      "2": "3019",
+      "3": "1092616192",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_Mo1/UDDConfig_LYS_Mo1_dep02.UDDConfig_LYS_Mo1_dep02'",
+      "14": "Guard"
+    },
+    {
+      "1": "302001",
+      "2": "3020",
+      "3": "1085905306",
+      "4": "1085905306",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_Mo2/UDDConfig_LYS_Mo2_dep01.UDDConfig_LYS_Mo2_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "302101",
+      "2": "3021",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_Mo3/UDDConfig_LYS_Mo3_dep01.UDDConfig_LYS_Mo3_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "302102",
+      "2": "3021",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_Mo3/UDDConfig_LYS_Mo3_dep02.UDDConfig_LYS_Mo3_dep02'",
+      "14": "Guard"
+    },
+    {
+      "1": "302201",
+      "2": "3022",
+      "3": "1077936128",
+      "4": "1077936128",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_Mo4/UDDC_LYS_Mo4_dep01.UDDC_LYS_Mo4_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "302301",
+      "2": "3023",
+      "3": "1080033280",
+      "4": "1106247680",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_KJLDragon/UDDConfig_LYS_KJLDragon_dep01.UDDConfig_LYS_KJLDragon_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "302302",
+      "2": "3023",
+      "3": "1080033280",
+      "4": "1106247680",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_KJLDragon/UDDConfig_LYS_KJLDragon_dep02.UDDConfig_LYS_KJLDragon_dep02'",
+      "14": "Guard"
+    },
+    {
+      "1": "302401",
+      "2": "3024",
+      "3": "1090519040",
+      "4": "1090519040",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_XiZhangLao_01/UDDConfig_HYS_XiZhangLao_01_dep01.UDDConfig_HYS_XiZhangLao_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "302501",
+      "2": "3025",
+      "3": "1080033280",
+      "4": "1080033280",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_chuilong_01a_new/UDDConfig_LYS_ChuiLong_01A_dep01.UDDConfig_LYS_ChuiLong_01A_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "302601",
+      "2": "3026",
+      "3": "1087373312",
+      "4": "1086324736",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_ChiFaGui_01A/UDDConfig_ChiFaGui_01A_dep01.UDDConfig_ChiFaGui_01A_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "302801",
+      "2": "3028",
+      "3": "1080033280",
+      "4": "1103626240",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_LaoSeng_01/UDDConfig_LYS_LaoSeng_01_dep01.UDDConfig_LYS_LaoSeng_01_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "302901",
+      "2": "3029",
+      "3": "1080033280",
+      "4": "1086324736",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_WuDuLong_03A/UDDConfig_LYS_WuDuLong_03A_dep01.UDDConfig_LYS_WuDuLong_03A_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "303001",
+      "2": "3030",
+      "3": "1077936128",
+      "4": "1084227584",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_baitouweng_01/UDDConfig_lys_baitouweng_01_dep01.UDDConfig_lys_baitouweng_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_big.C_throwup_big",
+      "14": "Guard"
+    },
+    {
+      "1": "303101",
+      "2": "3031",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_princexiaozhang/UDDConfig_lys_xztz_01_dep01.UDDConfig_lys_xztz_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_big.C_throwup_big",
+      "14": "Guard"
+    },
+    {
+      "1": "303201",
+      "2": "3032",
+      "3": "1065353216",
+      "4": "1065353216",
+      "14": "Guard"
+    },
+    {
+      "1": "305101",
+      "2": "3051",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Wa_01/UDDConfig_lys_wa_01_dep01.UDDConfig_lys_wa_01_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "305601",
+      "2": "3056",
+      "3": "1086324736",
+      "4": "1086324736",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/PDS_lingzhijing_01a/UDDCONFIG_pds_lingzhijing_01a.UDDCONFIG_pds_lingzhijing_01a'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "305701",
+      "2": "3057",
+      "3": "1086324736",
+      "4": "1086324736",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/PDS_lingzhijing_01a/UDDCONFIG_pds_lingzhijing_02a.UDDCONFIG_pds_lingzhijing_02a'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "305801",
+      "2": "3058",
+      "3": "1086324736",
+      "4": "1086324736",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/PDS_lingzhijing_03a/UDDCONFIG_pds_lingzhijing_03a.UDDCONFIG_pds_lingzhijing_03a'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "305802",
+      "2": "3058",
+      "3": "1086324736",
+      "4": "1086324736",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/PDS_lingzhijing_03a/UDDCONFIG_pds_lingzhijing_03a_dep02.UDDCONFIG_pds_lingzhijing_03a_dep02'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "306001",
+      "2": "3060",
+      "3": "1080033280",
+      "4": "1084227584",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_quanseng_01/UDDConfig_LYS_mangseng_02a_dep01.UDDConfig_LYS_mangseng_02a_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "307001",
+      "2": "3070",
+      "3": "1092616192",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/NPC/LYS_yaoseng/UDDConfig_lys_yaoseng_03a_dep01.UDDConfig_lys_yaoseng_03a_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "310801",
+      "2": "3108",
+      "3": "1090519040",
+      "4": "1090519040",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_frozenmon_02/UDDCONFIG_lys_frozenmon_02_dep01.UDDCONFIG_lys_frozenmon_02_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "311401",
+      "2": "3114",
+      "3": "1087373312",
+      "4": "1088421888",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "333301",
+      "2": "3333",
+      "3": "1075838976",
+      "4": "1082130432",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_diyongjinlian_01/UDDC_lys_diyongjinlian_01_dep01.UDDC_lys_diyongjinlian_01_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "340101",
+      "2": "3401",
+      "3": "1080033280",
+      "4": "1074161254",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_KJLWoman/UDDConfig_KJLWoman_dep01.UDDConfig_KJLWoman_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "340201",
+      "2": "3402",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_Mo3/SmallVersion/UDDConfig_LYS_Mo3_dep01.UDDConfig_LYS_Mo3_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "380001",
+      "2": "3800",
+      "3": "1080033280",
+      "4": "1084227584",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_HuangMei_03/UDDConfig_LYS_HuangMei_03_dep01.UDDConfig_LYS_HuangMei_03_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "390001",
+      "2": "3900",
+      "3": "1080033280",
+      "4": "1084227584",
+      "14": "Guard"
+    },
+    {
+      "1": "390101",
+      "2": "3901",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_WuDuLong_02A/UDDConfig_LYS_WuDuLong_02A_dep01.UDDConfig_LYS_WuDuLong_02A_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "390102",
+      "2": "3901",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_WuDuLong_02A/UDDConfig_LYS_WuDuLong_02A_Right_dep02.UDDConfig_LYS_WuDuLong_02A_Right_dep02'",
+      "14": "Guard"
+    },
+    {
+      "1": "390103",
+      "2": "3901",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_WuDuLong_02A/UDDConfig_LYS_WuDuLong_02A_Left_dep03.UDDConfig_LYS_WuDuLong_02A_Left_dep03'",
+      "14": "Guard"
+    },
+    {
+      "1": "390301",
+      "2": "3903",
+      "3": "1080033280",
+      "4": "1106247680",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_KJL_Patrol/UDDConfig_LYS_KJLDragon_Patrol_dep01.UDDConfig_LYS_KJLDragon_Patrol_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "399101",
+      "2": "3991",
+      "3": "1080033280",
+      "4": "1080033280",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_xuansu_01/UDDConfig_LYS_xuansu_01_dep01.UDDConfig_LYS_xuansu_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "399201",
+      "2": "3992",
+      "3": "1080033280",
+      "4": "1072064102",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_xuansu_02/UDDConfig_LYS_xuansu_02_dep01.UDDConfig_LYS_xuansu_02_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "400101",
+      "2": "4001",
+      "3": "1088421888",
+      "4": "1088421888",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_JiRuHuo/UDDConfig_HYS_JiRuHuo_dep01.UDDConfig_HYS_JiRuHuo_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "400201",
+      "2": "4002",
+      "3": "1086324736",
+      "4": "1090519040",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_HuiJing/UDDConfig_HYS_HuiJing_dep01.UDDConfig_HYS_HuiJing_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "400301",
+      "2": "4003",
+      "3": "1086324736",
+      "4": "1088421888",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_ShiXianFeng_02/UDDConfig_HYS_ShiXianFeng_02_dep01.UDDConfig_HYS_ShiXianFeng_02_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "400401",
+      "2": "4004",
+      "3": "1086324736",
+      "4": "1101004800",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_JJShou_01/UDDConfig_HYS_JJShou_01_dep01.UDDConfig_HYS_JJShou_01_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "400501",
+      "2": "4005",
+      "3": "1086324736",
+      "4": "1090519040",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_YunLiWu/UDDConfig_HYS_YunLiWu_dep01.UDDConfig_HYS_YunLiWu_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "400502",
+      "2": "4005",
+      "3": "1086324736",
+      "4": "1090519040",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_YunLiWu/UDDConfig_HYS_YunLiWu_dep02.UDDConfig_HYS_YunLiWu_dep02'",
+      "14": "Guard"
+    },
+    {
+      "1": "400601",
+      "2": "4006",
+      "3": "1086324736",
+      "4": "1090519040",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_WuLiYun/UDDConfig_HYS_WuLiYun_dep01.UDDConfig_HYS_WuLiYun_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "400602",
+      "2": "4006",
+      "3": "1086324736",
+      "4": "1090519040",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_WuLiYun/UDDConfig_HYS_WuLiYun_dep02_forCloudDead.UDDConfig_HYS_WuLiYun_dep02_forCloudDead'",
+      "14": "Guard"
+    },
+    {
+      "1": "400701",
+      "2": "4007",
+      "3": "1080033280",
+      "4": "1080033280",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_TeChuShi_01/UDDConfig_HYS_TeChuShi_01_dep01.UDDConfig_HYS_TeChuShi_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "400801",
+      "2": "4008",
+      "3": "1080033280",
+      "4": "1080033280",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_TeChuShi_02/UDDConfig_HYS_TeChuShi_02_dep01.UDDConfig_HYS_TeChuShi_02_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "400802",
+      "2": "4008",
+      "3": "1080033280",
+      "4": "1080033280",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_TeChuShi_02/UDDConfig_HYS_TeChuShi_02_dep02.UDDConfig_HYS_TeChuShi_02_dep02'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "400901",
+      "2": "4009",
+      "3": "1080033280",
+      "4": "1080033280",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_TeChuShi_03/UDDConfig_HYS_TeChuShi_03_dep01.UDDConfig_HYS_TeChuShi_03_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "401001",
+      "2": "4010",
+      "3": "1090519040",
+      "4": "1090519040",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_XiZhangLao_01/UDDConfig_HYS_XiZhangLao_01_dep01.UDDConfig_HYS_XiZhangLao_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "401101",
+      "2": "4011",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_HMS/UDDConfig_HYS_HMS_dep01.UDDConfig_HYS_HMS_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "401102",
+      "2": "4011",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_HMS/UDDConfig_HYS_HMS_dep02.UDDConfig_HYS_HMS_dep02'",
+      "14": "Guard"
+    },
+    {
+      "1": "401201",
+      "2": "4012",
+      "3": "1097859072",
+      "4": "1097859072",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_LuoChaGui_01/UDDConfig_HYS_LuoChaGui_01_dep01.UDDConfig_HYS_LuoChaGui_01_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "401202",
+      "2": "4012",
+      "3": "1097859072",
+      "4": "1097859072",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_LuoChaGui_01/UDDConfig_HYS_LuoChaGui_01_dep02.UDDConfig_HYS_LuoChaGui_01_dep02'",
+      "14": "Guard"
+    },
+    {
+      "1": "401301",
+      "2": "4013",
+      "3": "1092616192",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_XiaoYao_01A/UDDConfig_HYS_XiaoYao_01A_dep01.UDDConfig_HYS_XiaoYao_01A_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "401401",
+      "2": "4014",
+      "3": "1092616192",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_YeXunGui_01/UDDConfig_HYS_YeXunGui_01_dep01.UDDConfig_HYS_YeXunGui_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "401501",
+      "2": "4015",
+      "3": "1084227584",
+      "4": "1084227584",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_ShiTongLing_02/UDDConfig_HYS_ShiTongLing_02_dep01.UDDConfig_HYS_ShiTongLing_02_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "401701",
+      "2": "4017",
+      "3": "1088421888",
+      "4": "1088421888",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_ganshi_02a/UDDC_hys_ganshi_02a_dep01.UDDC_hys_ganshi_02a_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "401801",
+      "2": "4018",
+      "3": "1084227584",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_Niu_01/UDDConfig_HFM_Niu_01_dep01.UDDConfig_HFM_Niu_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_big.C_throwup_big",
+      "14": "Guard"
+    },
+    {
+      "1": "401901",
+      "2": "4019",
+      "3": "1096810496",
+      "4": "1096810496",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_KuaiRuFeng_01/UDDConfig_HYS_KuaiRuFeng_01_dep01.UDDConfig_HYS_KuaiRuFeng_01_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "401902",
+      "2": "4019",
+      "3": "1096810496",
+      "4": "1096810496",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_KuaiRuFeng_01/UDDConfig_HYS_KuaiRuFeng_01_dep02.UDDConfig_HYS_KuaiRuFeng_01_dep02'",
+      "14": "Guard"
+    },
+    {
+      "1": "402001",
+      "2": "4020",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_NiuMo/UDDCONFIG_hys_niumo_dep01.UDDCONFIG_hys_niumo_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "402101",
+      "2": "4021",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_YuMian/UDDConfig_hys_yumian_01_dep01.UDDConfig_hys_yumian_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "402201",
+      "2": "4022",
+      "3": "1083179008",
+      "4": "1086324736",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_huolingsha_02/UDDConfig_hys_huolingsha_02_dep01.UDDConfig_hys_huolingsha_02_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "402211",
+      "2": "4022",
+      "3": "1073741824",
+      "4": "1073741824",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_huolingsha_02/UDDConfig_hys_huolingsha_02_dep11.UDDConfig_hys_huolingsha_02_dep11'",
+      "14": "Guard"
+    },
+    {
+      "1": "402301",
+      "2": "4023",
+      "3": "1083179008",
+      "4": "1083179008",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_huolingsha_01/UDDConfig_hys_huolingsha_01_dep01.UDDConfig_hys_huolingsha_01_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "402401",
+      "2": "4024",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/NPC/HYS_fox_01/UDDConfig_hys_fox_01_dep01.UDDConfig_hys_fox_01_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "402501",
+      "2": "4025",
+      "3": "1084227584",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_yinbingniumo_01/UDDConfig_hys_yinbingniumo_01_dep01.UDDConfig_hys_yinbingniumo_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_big.C_throwup_big",
+      "14": "Guard"
+    },
+    {
+      "1": "402601",
+      "2": "4026",
+      "3": "1084227584",
+      "4": "1097859072",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_huijin_02b/UDDConfig_hys_huijin_02b.UDDConfig_hys_huijin_02b'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_big.C_throwup_big",
+      "14": "Guard"
+    },
+    {
+      "1": "405001",
+      "2": "4050",
+      "3": "1080033280",
+      "4": "1084227584",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_zhanche_01a/UDDCONFIG_hys_zhanche_01a_dep01.UDDCONFIG_hys_zhanche_01a_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "405101",
+      "2": "4051",
+      "3": "1080033280",
+      "4": "1084227584",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_zhanche_01b/UDDConfig_hys_zhanche_01b_dep01.UDDConfig_hys_zhanche_01b_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "405201",
+      "2": "4052",
+      "3": "1080033280",
+      "4": "1090519040",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_zhanche_01c/UDDConfig_hys_zhanche_01c_dep01.UDDConfig_hys_zhanche_01c_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "405301",
+      "2": "4053",
+      "3": "1080033280",
+      "4": "1090519040",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_zhanche_01d/UDDConfig_hys_zhanche_01d_dep01.UDDConfig_hys_zhanche_01d_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "405501",
+      "2": "4055",
+      "3": "1080033280",
+      "4": "1084227584",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_NiaoZui/UDDConfig_HYS_NiaoZui_dep01.UDDConfig_HYS_NiaoZui_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_big.C_throwup_big",
+      "14": "Guard"
+    },
+    {
+      "1": "405601",
+      "2": "4056",
+      "3": "1075838976",
+      "4": "1075838976",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_RouBianfu_01a/UDDConfig_HFM_RouBianFu_01a_dep01.UDDConfig_HFM_RouBianFu_01a_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "405701",
+      "2": "4057",
+      "3": "1086324736",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_huijin_b/UDDCONFIG_hys_huijin_b_dep01.UDDCONFIG_hys_huijin_b_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "405801",
+      "2": "4058",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_yinbinghoumo_01/UDDConfig_hys_yinbinghoumo_01_dep01.UDDConfig_hys_yinbinghoumo_01_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "409901",
+      "2": "4099",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/NPC/HYS_wolf_test/UDDConfig_hys_wolf_test_dep01.UDDConfig_hys_wolf_test_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "411001",
+      "2": "4110",
+      "3": "1088421888",
+      "4": "1101004800",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/Online/BSD/BSD_JJShou_01/UDDConfig_BSD_JJShou_01_dep01.UDDConfig_BSD_JJShou_01_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "411201",
+      "2": "4112",
+      "3": "1056964608",
+      "4": "1056964608",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "411301",
+      "2": "4113",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_TeChuShi_03/UDDConfig_HYS_TeChuShi_03_dep01.UDDConfig_HYS_TeChuShi_03_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "411501",
+      "2": "4115",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_GanShi_01A/UDDConfig_HFM_GanShi_01A_dep01.UDDConfig_HFM_GanShi_01A_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "411601",
+      "2": "4116",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Seng_01/UDDConfig_GYCY_Seng_01_dep01.UDDConfig_GYCY_Seng_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "411701",
+      "2": "4117",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Seng_03/UDDConfig_GYCY_Seng_03_dep01.UDDConfig_GYCY_Seng_03_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "411801",
+      "2": "4118",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_YouYan_01/UDDConfig_PSD_YouYan_01_dep01.UDDConfig_PSD_YouYan_01_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "411901",
+      "2": "4119",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_Mo2/UDDConfig_LYS_Mo2_dep01.UDDConfig_LYS_Mo2_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "412001",
+      "2": "4120",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/FTT/FTT_ShiBing_01/UDDConfig_FTT_ShiBing_01_dep01.UDDConfig_FTT_ShiBing_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "412301",
+      "2": "4123",
+      "3": "1080033280",
+      "4": "1077936128",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/Online/SL/SZLC_shujing_02/UDDConfig_szlc_shujing_02.UDDConfig_szlc_shujing_02'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_small.C_throwup_small",
+      "14": "Guard"
+    },
+    {
+      "1": "412401",
+      "2": "4124",
+      "3": "1080033280",
+      "4": "1094713344",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/Online/SL/SZLC_shujing_01/UDDConfig_szlc_shujing_01.UDDConfig_szlc_shujing_01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "412501",
+      "2": "4125",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_FuZiShu/Mesh/Body/UDDConfig_HFM_FuZiShu_dep01.UDDConfig_HFM_FuZiShu_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "412601",
+      "2": "4126",
+      "3": "1092616192",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/Online/SL/SL_shitongling/UDDConfig_sl_shitongling_dep01.UDDConfig_sl_shitongling_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "412701",
+      "2": "4127",
+      "3": "1073741824",
+      "4": "1041865114",
+      "14": "Guard"
+    },
+    {
+      "1": "412801",
+      "2": "4128",
+      "3": "1077936128",
+      "4": "1077936128",
+      "8": "\\xaf\\xdb\\xd7\u0013\\xb0\\xdb\\xd7\u0013",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/Online/SL/SZLC_shijing_01a/UDDConfig_szlc_shijing_01a_dep01.UDDConfig_szlc_shijing_01a_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "412901",
+      "2": "4129",
+      "3": "1077936128",
+      "4": "1077936128",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/Online/SL/SZLC_shijing_01a/UDDConfig_szlc_shijing_01a_02_dep01.UDDConfig_szlc_shijing_01a_02_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "413001",
+      "2": "4130",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/Online/SL/SZLC_shijing_01a/UDDConfig_szlc_shijing_01a_02_dep01.UDDConfig_szlc_shijing_01a_02_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "413101",
+      "2": "4131",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_ShiXianFeng_01/UDDConfig_sl_mini_sxf_dep01.UDDConfig_sl_mini_sxf_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "413201",
+      "2": "4132",
+      "3": "1073741824",
+      "4": "1041865114",
+      "14": "Guard"
+    },
+    {
+      "1": "413302",
+      "2": "4133",
+      "3": "1088212173",
+      "4": "1090519040",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/Online/SL/SZLC_heimoshou_01/UDDConfig_szlc_HMS_dep02.UDDConfig_szlc_HMS_dep02'",
+      "14": "Guard"
+    },
+    {
+      "1": "413401",
+      "2": "4134",
+      "3": "1086324736",
+      "4": "1086324736",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HGS/HGS_TianJiang_01/UDDConfig_sl_tianjiang_01_dep01.UDDConfig_sl_tianjiang_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "413501",
+      "2": "4135",
+      "3": "1092616192",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_jiachongzongbing_02/UDD_psd_jiachongzongbing_02_dep01.UDD_psd_jiachongzongbing_02_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "413601",
+      "2": "4136",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_SengMian/UDDConfig_LYS_SengMian_dep01.UDDConfig_LYS_SengMian_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "416301",
+      "2": "4163",
+      "3": "1080033280",
+      "4": "1084227584",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Wa_01/UDDConfig_szlc_wa_01_dep01.UDDConfig_szlc_wa_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "416302",
+      "2": "4163",
+      "3": "1080033280",
+      "4": "1084227584",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Wa_01/UDDConfig_szlc_wa_01_dep02.UDDConfig_szlc_wa_01_dep02'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "416601",
+      "2": "4166",
+      "3": "1086324736",
+      "4": "1086324736",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_daoshi_03/UDDConfig_psd_daoshi_03_dep01.UDDConfig_psd_daoshi_03_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "416701",
+      "2": "4167",
+      "3": "1082130432",
+      "4": "1084227584",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_daoshi_01/UDDCONFIG_psd_daoshi_01_dep01.UDDCONFIG_psd_daoshi_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "416801",
+      "2": "4168",
+      "3": "1082130432",
+      "4": "1084227584",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_daoshi_02/UDDCONFIG_psd_daoshi_02_dep01.UDDCONFIG_psd_daoshi_02_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "417001",
+      "2": "4170",
+      "3": "1065353216",
+      "4": "1045220557",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_RuYiLong_01/UDDConfig_LYS_RuYiLong_01_dep01.UDDConfig_LYS_RuYiLong_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "417101",
+      "2": "4171",
+      "3": "1045220557",
+      "4": "1045220557",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/Online/SL/SZLC_baiyanmojun_01/UDDConfig_szlc_baiyanmj_ball_dep01.UDDConfig_szlc_baiyanmj_ball_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "418001",
+      "2": "4180",
+      "3": "1082130432",
+      "4": "1077936128",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/Online/SZLC/SZLC_chicken_M/UDDC_szlc_chicken_01.UDDC_szlc_chicken_01'",
+      "14": "Guard"
+    },
+    {
+      "1": "418101",
+      "2": "4181",
+      "3": "1082130432",
+      "4": "1069547520",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/Online/SZLC/SZLC_rhinoceros_M/UDDC_szlc_rhinoceros_01.UDDC_szlc_rhinoceros_01'",
+      "14": "Guard"
+    },
+    {
+      "1": "418201",
+      "2": "4182",
+      "3": "1082130432",
+      "4": "1068708659",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/Online/SZLC/SZLC_Crane/UDDC_szlc_crane.UDDC_szlc_crane'",
+      "14": "Guard"
+    },
+    {
+      "1": "418301",
+      "2": "4183",
+      "3": "1082130432",
+      "4": "1077936128",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/Online/SZLC/SZLC_rabbit/UDDC_szlc_rabbit.UDDC_szlc_rabbit'",
+      "14": "Guard"
+    },
+    {
+      "1": "418401",
+      "2": "4184",
+      "3": "1082130432",
+      "4": "1077936128",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/Online/SZLC/SZLC_deer_M/UDDC_szlc_deer_01.UDDC_szlc_deer_01'",
+      "14": "Guard"
+    },
+    {
+      "1": "418501",
+      "2": "4185",
+      "3": "1082130432",
+      "4": "1077936128",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/Online/SZLC/SZLC_tortoise/UDDC_szlc_tortoise.UDDC_szlc_tortoise'",
+      "14": "Guard"
+    },
+    {
+      "1": "420101",
+      "2": "4201",
+      "3": "1082130432",
+      "4": "1086324736",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_chong_03/UDDCONFIG_chong_03_dep01.UDDCONFIG_chong_03_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "420102",
+      "2": "4201",
+      "3": "1082130432",
+      "4": "1086324736",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_chong_03/UDDCONFIG_chong_03_dep02.UDDCONFIG_chong_03_dep02'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "430101",
+      "2": "4301",
+      "4": "1084227584",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_xiaozhizhu_01/UDDCONFIG_psd_xiaozhizhu_01_dep01.UDDCONFIG_psd_xiaozhizhu_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "430901",
+      "2": "4309",
+      "3": "1082130432",
+      "4": "1084227584",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_daoshi_01/UDDCONFIG_psd_daoshi_01_dep01.UDDCONFIG_psd_daoshi_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "431001",
+      "2": "4310",
+      "3": "1084227584",
+      "4": "1084227584",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_daoshi_02/UDDCONFIG_psd_daoshi_02_dep01.UDDCONFIG_psd_daoshi_02_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "431101",
+      "2": "4311",
+      "3": "1084227584",
+      "4": "1084227584",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_daoshi_02/UDDCONFIG_psd_daoshi_02_dep01.UDDCONFIG_psd_daoshi_02_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "440101",
+      "2": "4401",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_HongHaiEr_01A/UDDConfig_HYS_HongHaiEr_01A_dep01.UDDConfig_HYS_HongHaiEr_01A_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "440201",
+      "2": "4402",
+      "3": "1101004800",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_XingGongXian_01/UDDConfig_HYS_XingGongXian_01_dep01.UDDConfig_HYS_XingGongXian_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "440301",
+      "2": "4403",
+      "3": "1101004800",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_XianGongXing_01/UDDConfig_HYS_XianGongXing_01_dep01.UDDConfig_HYS_XianGongXing_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "440501",
+      "2": "4405",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_HongHaiEr_02A/UDDConfig_HYS_HongHaiEr_02A_dep01.UDDConfig_HYS_HongHaiEr_02A_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "440601",
+      "2": "4406",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_YuSaiGui_01A/UDD_HYS_DiaoZuiYuSaiGui_01A_dep01.UDD_HYS_DiaoZuiYuSaiGui_01A_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "440701",
+      "2": "4407",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_TuDi_01/UDDConfig_HYS_TuDiGong_01A_dep01.UDDConfig_HYS_TuDiGong_01A_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "444102",
+      "2": "4441",
+      "3": "1086324736",
+      "4": "1088421888",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_TuDi_01/UDDC_HYS_HuiJing_dep02.UDDC_HYS_HuiJing_dep02'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "444202",
+      "2": "4442",
+      "3": "1087373312",
+      "4": "1087373312",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_TuDi_01/UDDC_HFM_HJBow_01A_dep02.UDDC_HFM_HJBow_01A_dep02'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "444301",
+      "2": "4443",
+      "3": "1083179008",
+      "4": "1083179008",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_TuDi_01/Mesh/TuDiBall/UDD_hys_tudiball_dep01.UDD_hys_tudiball_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "444302",
+      "2": "4443",
+      "3": "1083179008",
+      "4": "1083179008",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_TuDi_01/Mesh/TuDiBall/UDD_hys_tudiball_dep02.UDD_hys_tudiball_dep02'",
+      "14": "Guard"
+    },
+    {
+      "1": "444401",
+      "2": "4444",
+      "3": "1086324736",
+      "4": "1086324736",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HGS/HGS_TianJiang_01/UDDConfig_HYS_TianJiang_01_dep01.UDDConfig_HYS_TianJiang_01_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "445001",
+      "2": "4450",
+      "3": "1080033280",
+      "4": "1084227584",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Wa_01/UDDConfig_hys_wa_01_dep01.UDDConfig_hys_wa_01_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "470501",
+      "2": "4705",
+      "3": "1092616192",
+      "4": "1092616192",
+      "8": "\\xd4\\xf8\\xb7\u0016",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/Online/SZLC/SZLC_yingzuilu_01/UDDCONFIG_szlc_yingzuilu_01_dep_01.UDDCONFIG_szlc_yingzuilu_01_dep_01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "471301",
+      "2": "4713",
+      "3": "1092616192",
+      "4": "1092616192",
+      "8": "\\xd1\\xca\\xda\u0013",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/Online/SZLC/SZLC_TangLang01/UDDCONFIG_szlc_tanglang01_dep_01.UDDCONFIG_szlc_tanglang01_dep_01'",
+      "14": "Guard"
+    },
+    {
+      "1": "470601",
+      "2": "4706",
+      "3": "1077936128",
+      "4": "1077936128",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/Online/BHL/BHL_gushoufsq_01/UDDCONFIG_bhl_gushoufsq_01_dep_01.UDDCONFIG_bhl_gushoufsq_01_dep_01'",
+      "14": "Guard"
+    },
+    {
+      "1": "470701",
+      "2": "4707",
+      "3": "1101004800",
+      "4": "1101004800",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/Online/SZLC/SZLC_xiniu_01/UDDCONFIG_szlc_xiniu_01_dep01.UDDCONFIG_szlc_xiniu_01_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "470801",
+      "2": "4708",
+      "3": "1082130432",
+      "4": "1082130432",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00Main/Animation/Online/BYS_Zhu_01/UDDC_BYS_Zhu.UDDC_BYS_Zhu'",
+      "14": "Guard"
+    },
+    {
+      "1": "470901",
+      "2": "4709",
+      "3": "1082130432",
+      "4": "1077936128",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/Online/SZLC/SZLC_WildBoar_M/UDDC_SZLC_WildBoar.UDDC_SZLC_WildBoar'",
+      "14": "Guard"
+    },
+    {
+      "1": "471201",
+      "2": "4712",
+      "3": "1092616192",
+      "4": "1101004800",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/Online/SZLC/SZLC_wanglingguan_01/UDDCONFIG_szlc_wanglingguan_01_dep01.UDDCONFIG_szlc_wanglingguan_01_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "488801",
+      "2": "4888",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_foshouchong_02a/UDDConfig_psd_foshouchong_02a_dep01.UDDConfig_psd_foshouchong_02a_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "488802",
+      "2": "4888",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_foshouchong_02a/UDDConfig_psd_foshouchong_02a_dep02.UDDConfig_psd_foshouchong_02a_dep02'",
+      "14": "Guard"
+    },
+    {
+      "1": "499701",
+      "2": "4997",
+      "3": "1097859072",
+      "4": "1097859072",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_xiezijing_01/UDDCONFIG_psd_xiezijing_01a.UDDCONFIG_psd_xiezijing_01a'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "499801",
+      "2": "4998",
+      "3": "1097859072",
+      "4": "1097859072",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_xiezijing_01/UDDCONFIG_psd_xiezijing_01a.UDDCONFIG_psd_xiezijing_01a'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "499901",
+      "2": "4999",
+      "3": "1097859072",
+      "4": "1097859072",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_xiezijing_og/UDDCONFIG_psd_xiezijing_og.UDDCONFIG_psd_xiezijing_og'",
+      "14": "Guard"
+    },
+    {
+      "1": "500101",
+      "2": "5001",
+      "3": "1148829696",
+      "4": "1080033280",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_WuLong/UDDConfig_PSD_WuLong_dep01.UDDConfig_PSD_WuLong_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "500102",
+      "2": "5001",
+      "3": "1148829696",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_WuLong/UDDConfig_PSD_WuLong_dep02.UDDConfig_PSD_WuLong_dep02'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "500201",
+      "2": "5002",
+      "3": "1080033280",
+      "4": "1073741824",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_FeiTianChong_01/UDDConfig_PSD_FeiTianChong_01_dep01.UDDConfig_PSD_FeiTianChong_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "500301",
+      "2": "5003",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_ZhuBaJie_01B/UDDConfig_PSD_ZhuBaJie_01B_dep01.UDDConfig_PSD_ZhuBaJie_01B_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "500501",
+      "2": "5005",
+      "3": "1084227584",
+      "4": "1084227584",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_BaiYanMoJun_01/UDDConfig_PSD_BaiYanMoJun_01_dep01.UDDConfig_PSD_BaiYanMoJun_01_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "500502",
+      "2": "5005",
+      "3": "1065353216",
+      "4": "1065353216",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_BaiYanMoJun_01/UDDConfig_PSD_BaiYanMoJun_01_dep02.UDDConfig_PSD_BaiYanMoJun_01_dep02'",
+      "14": "Guard"
+    },
+    {
+      "1": "500601",
+      "2": "5006",
+      "3": "1082130432",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_RenShenJing_01A/UDDConfig_PSD_RenShenJing_01A_dep01.UDDConfig_PSD_RenShenJing_01A_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "500701",
+      "2": "5007",
+      "3": "1090519040",
+      "4": "1090519040",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_ZhuSun_01/UDDConfig_PSD_ZhuSun_01_dep01.UDDConfig_PSD_ZhuSun_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "500801",
+      "2": "5008",
+      "3": "1092616192",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_ZiZhuEr_01/UDDConfig_PSD_ZiZhuEr_01_dep01.UDDConfig_PSD_ZiZhuEr_01_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "500901",
+      "2": "5009",
+      "3": "1084227584",
+      "4": "1086324736",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_DuChongSiShi/UDDC_psd_duchongsishi_dep01.UDDC_psd_duchongsishi_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "500912",
+      "2": "5009",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_DuChongSiShi/UDDC_psd_duchongsishi_02_dep01.UDDC_psd_duchongsishi_02_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "501001",
+      "2": "5010",
+      "3": "1090519040",
+      "4": "1090519040",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_zhusun_02/UDDConfig_PSD_ZhuSun_02_dep01.UDDConfig_PSD_ZhuSun_02_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "501101",
+      "2": "5011",
+      "3": "1090519040",
+      "4": "1090519040",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_zhusun_03/UDDConfig_PSD_ZhuSun_03_dep01.UDDConfig_PSD_ZhuSun_03_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "501201",
+      "2": "5012",
+      "3": "1090519040",
+      "4": "1090519040",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_LeiBiShi_01/UDDConfig_psd_leibishi_01_dep01.UDDConfig_psd_leibishi_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "501301",
+      "2": "5013",
+      "3": "1090519040",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_ZhiZhuJing_01/UDDC_psd_zhizhujing_01_dep01.UDDC_psd_zhizhujing_01_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "501401",
+      "2": "5014",
+      "3": "1090519040",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_ZhiZhuJing_02/UDDC_psd_zhizhujing_02_dep01.UDDC_psd_zhizhujing_02_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "501402",
+      "2": "5014",
+      "3": "1090519040",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_ZhiZhuJing_02/UDDC_psd_zhizhujing_02_dep02.UDDC_psd_zhizhujing_02_dep02'",
+      "14": "Guard"
+    },
+    {
+      "1": "501501",
+      "2": "5015",
+      "3": "1090519040",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_ZhiZhuJing_01/UDDC_psd_zhizhujing_01_dep01.UDDC_psd_zhizhujing_01_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "501701",
+      "2": "5017",
+      "3": "1090519040",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_ZhiZhuJing_01/UDDC_psd_zhizhujing_01_dep01.UDDC_psd_zhizhujing_01_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "501801",
+      "2": "5018",
+      "3": "1090519040",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_ZhiZhuJing_01/UDDC_psd_zhizhujing_01_dep01.UDDC_psd_zhizhujing_01_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "501901",
+      "2": "5019",
+      "3": "1090519040",
+      "4": "1090519040",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_hutoushe_01/UDDConfig_psd_hutoushe_01_dep01.UDDConfig_psd_hutoushe_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "502001",
+      "2": "5020",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_YouYan_02/UDDC_psd_youyan_02_dep01.UDDC_psd_youyan_02_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "502101",
+      "2": "5021",
+      "3": "1082130432",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PDS_renshenjing_02a/UDDC_pds_renshenjing_02a.UDDC_pds_renshenjing_02a'",
+      "14": "Guard"
+    },
+    {
+      "1": "505401",
+      "2": "5054",
+      "3": "1080033280",
+      "4": "1084227584",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Wa_01/UDDConfig_psd_wa_01_dep01.UDDConfig_psd_wa_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "509901",
+      "2": "5099",
+      "3": "1080033280",
+      "4": "1101004800",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/NPC/NPC_ZhuBaJie01B/UDDConfig_NPC_ZhuBaJie01B_dep01.UDDConfig_NPC_ZhuBaJie01B_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "510001",
+      "2": "5100",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_zhubajie_02a/UDDConfig_psd_zhubajie_02a_dep01.UDDConfig_psd_zhubajie_02a_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "510101",
+      "2": "5101",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/NPC/NPC_zhubajie_02a/UDDConfig_npc_zhubajie_02a_dep01.UDDConfig_npc_zhubajie_02a_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "540101",
+      "2": "5401",
+      "3": "1086324736",
+      "4": "1086324736",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_CunMin_05A/UDDConfig_psd_cunmin_05a.UDDConfig_psd_cunmin_05a'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "540201",
+      "2": "5402",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_huangchong_01/UDDConfig_psd_huangchong_01_dep01.UDDConfig_psd_huangchong_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "540301",
+      "2": "5403",
+      "3": "1092616192",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_jiachongzongbing_02/UDD_psd_jiachongzongbing_02_dep01.UDD_psd_jiachongzongbing_02_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "540401",
+      "2": "5404",
+      "3": "1086324736",
+      "4": "1086324736",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_daoshi_03/UDDConfig_psd_daoshi_03_dep01.UDDConfig_psd_daoshi_03_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "540402",
+      "2": "5404",
+      "3": "1086324736",
+      "4": "1086324736",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_daoshi_03/UDDConfig_psd_daoshi_03_zys_dep02.UDDConfig_psd_daoshi_03_zys_dep02'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "540501",
+      "2": "5405",
+      "3": "1090519040",
+      "4": "1090519040",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_She_03/UDDConfig_PSD_She_03_dep01.UDDConfig_PSD_She_03_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "540601",
+      "2": "5406",
+      "3": "1080033280",
+      "4": "1080033280",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/psd_chongjian_01a/UDD_psd_chongjian_01a.UDD_psd_chongjian_01a'",
+      "14": "Guard"
+    },
+    {
+      "1": "540602",
+      "2": "5406",
+      "3": "1080033280",
+      "4": "1080033280",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/psd_chongjian_01a/UDD_psd_chongjian_01a_dep02.UDD_psd_chongjian_01a_dep02'",
+      "14": "Guard"
+    },
+    {
+      "1": "540701",
+      "2": "5407",
+      "3": "1080033280",
+      "4": "1080033280",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_chongluan_01/UDDC_psd_chongluan_01_dep01.UDDC_psd_chongluan_01_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "540702",
+      "2": "5407",
+      "3": "1080033280",
+      "4": "1080033280",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_chongluan_01/UDDC_psd_chongluan_01_dep02.UDDC_psd_chongluan_01_dep02'",
+      "14": "Guard"
+    },
+    {
+      "1": "540703",
+      "2": "5407",
+      "3": "1080033280",
+      "4": "1080033280",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_chongluan_01/UDDC_psd_chongluan_01_dep03.UDDC_psd_chongluan_01_dep03'",
+      "14": "Guard"
+    },
+    {
+      "1": "540801",
+      "2": "5408",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_baijiangcan_02/UDDC_psd_baijiangcan_02_dep01.UDDC_psd_baijiangcan_02_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "540802",
+      "2": "5408",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/PSD/PSD_baijiangcan_02/UDDC_psd_baijiangcan_01_dep02.UDDC_psd_baijiangcan_01_dep02'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "580101",
+      "2": "5801",
+      "3": "1086324736",
+      "4": "1086324736",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_Shanzhen_01/UDDCONFIG_hys_shanzhen_01_dep01.UDDCONFIG_hys_shanzhen_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "580201",
+      "2": "5802",
+      "3": "1086324736",
+      "4": "1086324736",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_Shanzhen_02/UDDCONFIG_hys_shanzhen_02_dep01.UDDCONFIG_hys_shanzhen_02_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "580301",
+      "2": "5803",
+      "3": "1086324736",
+      "4": "1086324736",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_Shanzhen_01/UDDCONFIG_hys_shanzhen_01_dep01.UDDCONFIG_hys_shanzhen_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "581001",
+      "2": "5810",
+      "3": "1082130432",
+      "4": "1084227584",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_huijingrenou_03/UDDCONFIG_hys_huijingrenou_03.UDDCONFIG_hys_huijingrenou_03'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_big.C_throwup_big",
+      "14": "Guard"
+    },
+    {
+      "1": "581002",
+      "2": "5810",
+      "3": "1082130432",
+      "4": "1084227584",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_huijingrenou_03/UDDCONFIG_hys_huijingrenou_03_dual.UDDCONFIG_hys_huijingrenou_03_dual'",
+      "14": "Guard"
+    },
+    {
+      "1": "581101",
+      "2": "5811",
+      "3": "1092616192",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HYS/HYS_huijingtitan_01/UDDCONFIG_hys_huijingtitan_01_dep01.UDDCONFIG_hys_huijingtitan_01_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "600101",
+      "2": "6001",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/HFM/HFM_DuJiaoXian/UDDConfig_HFM_DuJiaoXian_dep01.UDDConfig_HFM_DuJiaoXian_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "600301",
+      "2": "6003",
+      "3": "1080033280",
+      "4": "1084227584",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LSH/WulongOL/UDDConfig_PSD_WuLong_OL_dep01.UDDConfig_PSD_WuLong_OL_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_mediumbig.C_throwup_mediumbig",
+      "14": "Guard"
+    },
+    {
+      "1": "600401",
+      "2": "6004",
+      "3": "1080033280",
+      "4": "1092616192",
+      "9": "/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_01/Meshes/PA_GYCY_Lang_01_Die.PA_GYCY_Lang_01",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_01A/UDDConfig_GYCY_Lang_01A_dep01.UDDConfig_GYCY_Lang_01A_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "600601",
+      "2": "6006",
+      "3": "1036831949",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_YanJianXi_01/UDDConfig_GYCY_YanJianXi_01_dep01.UDDConfig_GYCY_YanJianXi_01_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_big.C_throwup_big",
+      "14": "Guard"
+    },
+    {
+      "1": "600701",
+      "2": "6007",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_03/UDDConfig_GYCY_Lang_03_dep01.UDDConfig_GYCY_Lang_03_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "700101",
+      "2": "7001",
+      "3": "1080033280",
+      "4": "1077936128",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/MGD/MGD_JSDS/UDDConfig_MGD_JSDS_dep01.UDDConfig_MGD_JSDS_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "740101",
+      "2": "7401",
+      "3": "1080033280",
+      "4": "1083808154",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/MGD/MGD_ftxd/UDDC_mgd_yuan_dep01.UDDC_mgd_yuan_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "740201",
+      "2": "7402",
+      "3": "1041865114",
+      "4": "1041865114",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/MGD/MGD_ftxd/UDDC_mgd_yuan_egg_dep01.UDDC_mgd_yuan_egg_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "777701",
+      "2": "7777",
+      "3": "1087373312",
+      "4": "1086324736",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/Test/LYS_ChiFaGui_01A_HMC/UDDC_LYS_ChiFaGui_HMC.UDDC_LYS_ChiFaGui_HMC'",
+      "14": "Guard"
+    },
+    {
+      "1": "800001",
+      "2": "8000",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/MGD/MGD_yangjian_01/UDDC_mgd_yangjian_01_dep01.UDDC_mgd_yangjian_01_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "800101",
+      "2": "8001",
+      "14": "Guard"
+    },
+    {
+      "1": "800201",
+      "2": "8002",
+      "14": "Guard"
+    },
+    {
+      "1": "888801",
+      "2": "8888",
+      "3": "1086324736",
+      "4": "1086324736",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/Test/LYS_CFG_JOSH/UDDC_lys_chifagui_josh.UDDC_lys_chifagui_josh'",
+      "14": "Guard"
+    },
+    {
+      "1": "889901",
+      "2": "8899",
+      "3": "1087373312",
+      "4": "1086324736",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/Test/LYS_ChiFaGui_01A_CR/UDDConfig_LYS_ChiFaGui_CR.UDDConfig_LYS_ChiFaGui_CR'",
+      "14": "Guard"
+    },
+    {
+      "1": "900101",
+      "2": "9001",
+      "3": "1080033280",
+      "4": "1092616192",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Xiong_02/UDDConfig_GYCY_Xiong_02_dep01.UDDConfig_GYCY_Xiong_02_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "901501",
+      "2": "9015",
+      "3": "1073741824",
+      "4": "1092616192",
+      "9": "PhysicsAsset'/Game/00MainHZ/Characters/Enemy/Test/Lang_06_Pt/Mesh/PA_SK_GYCY_Lang_06.PA_SK_GYCY_Lang_06'",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/Test/Lang_06_Pt/UDDConfig_GYCY_Lang_06_dep01_Pt.UDDConfig_GYCY_Lang_06_dep01_Pt'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "1001101",
+      "2": "10011",
+      "9": "/Game/00MainHZ/Characters/Sunwukong/Meshs/Body/SK_Wukong_PhysicsAsset.SK_Wukong_PhysicsAsset",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Wukong/SummonMonkey/UDDConfig_Wukong_FS_dep01.UDDConfig_Wukong_FS_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "1001301",
+      "2": "10013",
+      "9": "/Game/00MainHZ/Characters/Sunwukong/Meshs/Body/SK_Wukong_PhysicsAsset.SK_Wukong_PhysicsAsset",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Wukong/SummonMonkey/UDDConfig_Wukong_FS_dep01.UDDConfig_Wukong_FS_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "1011101",
+      "2": "10111",
+      "3": "1080033280",
+      "4": "1080033280",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_SheBang/UDDConfig_gycy_shebang_dep01.UDDConfig_gycy_shebang_dep01'",
+      "14": "Guard"
+    },
+    {
+      "1": "1011401",
+      "2": "10114",
+      "14": "Guard"
+    },
+    {
+      "1": "1100201",
+      "2": "11002",
+      "3": "1080033280",
+      "4": "1092616192",
+      "9": "/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_03/Meshes/PA_GYCY_Lang_03_phy.PA_GYCY_Lang_03_phy",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Lang_03/UDDConfig_GYCY_Lang_03_dep01.UDDConfig_GYCY_Lang_03_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "30200201",
+      "2": "302002",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/LYS/LYS_Mo2/Mesh/SummonUnit/Phase1/UDDConfig_LYS_Mo2_Summon_P1_dep01.UDDConfig_LYS_Mo2_Summon_P1_dep01'",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/BaJiaoShan/C_throwup_medium.C_throwup_medium",
+      "14": "Guard"
+    },
+    {
+      "1": "199001",
+      "2": "1990",
+      "14": "Guard"
+    },
+    {
+      "1": "199101",
+      "2": "1991",
+      "14": "Guard"
+    },
+    {
+      "1": "199201",
+      "2": "1992",
+      "14": "Guard"
+    },
+    {
+      "1": "199301",
+      "2": "1993",
+      "14": "Guard"
+    },
+    {
+      "1": "471401",
+      "2": "4714",
+      "3": "1091567616",
+      "4": "1091567616",
+      "11": "BGWDataAsset_UnitDeathDispConfig'/Game/00MainHZ/Characters/Enemy/Online/SZLC/SZLC_hema_01/UDDCONFIG_szlc_hema_01_dep01.UDDCONFIG_szlc_hema_01_dep01'",
+      "14": "Guard"
+    }
+  ]
+}

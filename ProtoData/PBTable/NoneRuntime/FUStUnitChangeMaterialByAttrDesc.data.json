@@ -1,0 +1,20 @@
+{
+  "1": [
+    {
+      "1": "10805",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/SummonUnit/Attack/ComboA/AM_Wukong_ComboA_q5_PR.AM_Wukong_ComboA_q5_PR"
+    },
+    {
+      "1": "10830",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/SummonUnit/Attack/Copy/AM_wukong_xuli_attack_0_pr.AM_wukong_xuli_attack_0_pr"
+    },
+    {
+      "1": "10831",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/SummonUnit/Attack/Copy/AM_wukong_xuli_attack_1_pr.AM_wukong_xuli_attack_1_pr"
+    },
+    {
+      "1": "4001",
+      "2": "BGWDataAsset_ChangeMaterialByUnitAttrConfig'/Game/00Main/VFX/Characters/HYS/HYS_JiRuHuo/DA/DA_mat_config_hys_jiruhuo.DA_mat_config_hys_jiruhuo'"
+    }
+  ]
+}

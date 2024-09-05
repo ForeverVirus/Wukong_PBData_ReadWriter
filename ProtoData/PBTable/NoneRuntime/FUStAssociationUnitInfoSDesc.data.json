@@ -1,0 +1,175 @@
+{
+  "1": [
+    {
+      "1": "509901",
+      "2": "/Game/00Main/Design/Units/PSD/TAMER_psd_zhubajie_summon.TAMER_psd_zhubajie_summon_C",
+      "3": "BehaviorTree'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/BT_NPC_ZhuBaJie01B.BT_NPC_ZhuBaJie01B'",
+      "4": "509901",
+      "5": "EnvQuery'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/EQ_NPC_ZhuBaJie01B_ReSpawn.EQ_NPC_ZhuBaJie01B_ReSpawn'",
+      "6": "ZBJSpawnPoint_HHE",
+      "7": "̏\u001f\\x89\\x90\u001f"
+    },
+    {
+      "1": "509902",
+      "2": "/Game/00Main/Design/Units/NPC/TAMER_npc_zhubajie_02a.TAMER_npc_zhubajie_02a_C",
+      "3": "BehaviorTree'/Game/00Main/Design/AI/BTs/NPC/NPC_zhubajie_02a/BT_npc_zhubajie_02a.BT_npc_zhubajie_02a'",
+      "5": "EnvQuery'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/EQ_NPC_ZhuBaJie01B_ReSpawn.EQ_NPC_ZhuBaJie01B_ReSpawn'",
+      "6": "ZBJSpawnPoint_Start",
+      "7": "\\xd5\u0001"
+    },
+    {
+      "1": "509903",
+      "2": "/Game/00Main/Design/Units/PSD/TAMER_psd_zhubajie_summon.TAMER_psd_zhubajie_summon_C",
+      "3": "BehaviorTree'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/BT_NPC_ZhuBaJie01B.BT_NPC_ZhuBaJie01B'",
+      "4": "509903",
+      "5": "EnvQuery'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/EQ_NPC_ZhuBaJie01B_ReSpawn.EQ_NPC_ZhuBaJie01B_ReSpawn'",
+      "6": "ZBJSpawnPoint_TuDi",
+      "7": "\\xd5\u0001Տ\u001f֏\u001f̏\u001f"
+    },
+    {
+      "1": "509904",
+      "2": "/Game/00Main/Design/Units/PSD/TAMER_psd_zhubajie_summon.TAMER_psd_zhubajie_summon_C",
+      "3": "BehaviorTree'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/BT_NPC_ZhuBaJie01B.BT_NPC_ZhuBaJie01B'",
+      "4": "509904",
+      "5": "EnvQuery'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/EQ_NPC_ZhuBaJie01B_ReSpawn.EQ_NPC_ZhuBaJie01B_ReSpawn'",
+      "7": "ӏ\u001f"
+    },
+    {
+      "1": "509905",
+      "2": "/Game/00Main/Design/Units/NPC/TAMER_NPC_ZhuBaJie_01B_Follow.TAMER_NPC_ZhuBaJie_01B_Follow_C",
+      "3": "BehaviorTree'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/BT_npc_zhubajie_01b_new.BT_npc_zhubajie_01b_new'",
+      "4": "509902",
+      "5": "EnvQuery'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/EQ_NPC_ZhuBaJie01B_ReSpawn.EQ_NPC_ZhuBaJie01B_ReSpawn'",
+      "6": "ZBJSpawnPoint_PSD_2JB",
+      "7": "\\xd5\u0001\\xf5\\x8f\u001f"
+    },
+    {
+      "1": "509906",
+      "2": "/Game/00Main/Design/Units/NPC/TAMER_NPC_ZhuBaJie_01B_Follow.TAMER_NPC_ZhuBaJie_01B_Follow_C",
+      "3": "BehaviorTree'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/BT_npc_zhubajie_01b_new.BT_npc_zhubajie_01b_new'",
+      "4": "509902",
+      "5": "EnvQuery'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/EQ_NPC_ZhuBaJie01B_ReSpawn.EQ_NPC_ZhuBaJie01B_ReSpawn'",
+      "6": "ZBJSpawnPoint_PSD_SV",
+      "7": "\\xd5\u0001\\xf5\\x8f\u001f"
+    },
+    {
+      "1": "509907",
+      "2": "/Game/00Main/Design/Units/NPC/TAMER_npc_zhubajie_02a.TAMER_npc_zhubajie_02a_C",
+      "3": "BehaviorTree'/Game/00Main/Design/AI/BTs/NPC/NPC_zhubajie_02a/BT_npc_zhubajie_02a.BT_npc_zhubajie_02a'",
+      "5": "EnvQuery'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/EQ_NPC_ZhuBaJie01B_ReSpawn.EQ_NPC_ZhuBaJie01B_ReSpawn'",
+      "6": "ZBJSpawnPoint_Rebirth",
+      "7": "\\xd5\u0001"
+    },
+    {
+      "1": "509908",
+      "2": "/Game/00Main/Design/Units/NPC/TAMER_NPC_ZhuBaJie_01B_Follow.TAMER_NPC_ZhuBaJie_01B_Follow_C",
+      "3": "BehaviorTree'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/BT_npc_zhubajie_01b_new.BT_npc_zhubajie_01b_new'",
+      "4": "509902",
+      "5": "EnvQuery'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/EQ_NPC_ZhuBaJie01B_ReSpawn.EQ_NPC_ZhuBaJie01B_ReSpawn'",
+      "6": "ZBJSpawnPoint_PSD_2JB",
+      "7": "\\xd5\u0001׏\u001f"
+    },
+    {
+      "1": "509909",
+      "2": "/Game/00Main/Design/Units/LYS/TAMER_lys_zhubajie_rzd_assist.TAMER_lys_zhubajie_rzd_assist_C",
+      "3": "BehaviorTree'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/BT_NPC_ZhuBaJie01B.BT_NPC_ZhuBaJie01B'",
+      "4": "509909",
+      "5": "EnvQuery'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/EQ_NPC_ZhuBaJie01B_ReSpawn.EQ_NPC_ZhuBaJie01B_ReSpawn'",
+      "6": "ZBJSpawnPoint_RZD_1st",
+      "7": "\\xd5\u0001"
+    },
+    {
+      "1": "509910",
+      "2": "/Game/00Main/Design/Units/LYS/TAMER_lys_zhubajie_rzd_assist.TAMER_lys_zhubajie_rzd_assist_C",
+      "3": "BehaviorTree'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/BT_NPC_ZhuBaJie01B.BT_NPC_ZhuBaJie01B'",
+      "4": "509909",
+      "5": "EnvQuery'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/EQ_NPC_ZhuBaJie01B_ReSpawn.EQ_NPC_ZhuBaJie01B_ReSpawn'",
+      "6": "ZBJSpawnPoint_RZD1",
+      "7": "\\xd5\u0001"
+    },
+    {
+      "1": "509920",
+      "2": "/Game/00Main/Design/Units/NPC/TAMER_NPC_ZhuBaJie_01B_Guibei.TAMER_NPC_ZhuBaJie_01B_Guibei_C",
+      "5": "EnvQuery'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/EQ_NPC_ZhuBaJie01B_ReSpawn.EQ_NPC_ZhuBaJie01B_ReSpawn'",
+      "6": "ZBJSpawnPoint_Guibei",
+      "7": "\\xd5\u0001"
+    },
+    {
+      "1": "509930",
+      "2": "/Game/00Main/Design/Units/NPC/TAMER_NPC_ZhuBaJie_01B_Follow.TAMER_NPC_ZhuBaJie_01B_Follow_C",
+      "3": "BehaviorTree'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/BT_npc_zhubajie_01b_new.BT_npc_zhubajie_01b_new'",
+      "4": "509930",
+      "5": "EnvQuery'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/EQ_NPC_ZhuBaJie01B_ReSpawn.EQ_NPC_ZhuBaJie01B_ReSpawn'",
+      "7": "\\xd5\u0001\\xf4\\x8f\u001f"
+    },
+    {
+      "1": "509931",
+      "2": "/Game/00Main/Design/Units/NPC/TAMER_NPC_ZhuBaJie_01B_Follow.TAMER_NPC_ZhuBaJie_01B_Follow_C",
+      "3": "BehaviorTree'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/BT_npc_zhubajie_01b_new.BT_npc_zhubajie_01b_new'",
+      "4": "509930",
+      "5": "EnvQuery'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/EQ_NPC_ZhuBaJie01B_ReSpawn.EQ_NPC_ZhuBaJie01B_ReSpawn'",
+      "7": "\\xd5\u0001̏\u001f\\xf4\\x8f\u001f"
+    },
+    {
+      "1": "509999",
+      "2": "/Game/00Main/Design/Units/NPC/TAMER_NPC_ZhuBaJie_01B_Follow.TAMER_NPC_ZhuBaJie_01B_Follow_C",
+      "3": "BehaviorTree'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/BT_npc_zhubajie_01b_new.BT_npc_zhubajie_01b_new'",
+      "4": "509902",
+      "5": "EnvQuery'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/EQ_NPC_ZhuBaJie01B_ReSpawn.EQ_NPC_ZhuBaJie01B_ReSpawn'",
+      "7": "\\xd5\u0001"
+    },
+    {
+      "1": "499901",
+      "2": "/Game/00Main/Design/Units/PSD/TAMER_psd_xiezijing_og_MRXG.TAMER_psd_xiezijing_og_MRXG_C",
+      "3": "BehaviorTree'/Game/00Main/Design/AI/BTs/PSD/PSD_xiezijing_og/BT_psd_xiezijing_og.BT_psd_xiezijing_og'",
+      "4": "499901",
+      "5": "EnvQuery'/Game/00Main/Design/AI/BTs/PSD/PSD_xiezijing_og/EQ_psd_xieziMRXG_ReSpawn.EQ_psd_xieziMRXG_ReSpawn'",
+      "6": "XZSpawnPoint_MRXG",
+      "7": "\\xda\\xdc\u001c"
+    },
+    {
+      "1": "509940",
+      "2": "/Game/00Main/Design/Units/PSD/TAMER_psd_zhubajie_summon.TAMER_psd_zhubajie_summon_C",
+      "3": "BehaviorTree'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/BT_NPC_ZhuBaJie01B.BT_NPC_ZhuBaJie01B'",
+      "4": "509942",
+      "5": "EnvQuery'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/EQ_NPC_ZhuBaJie01B_Xuelu_ReSpawn.EQ_NPC_ZhuBaJie01B_Xuelu_ReSpawn'",
+      "6": "ZBJSpawnPoint_BYS_Xuelu",
+      "7": "\\xd5\u0001\\x8f\\x90\u001f\\xd2\u0001ϋ\u0019"
+    },
+    {
+      "1": "509941",
+      "2": "/Game/00Main/Design/Units/PSD/TAMER_psd_zhubajie_summon.TAMER_psd_zhubajie_summon_C",
+      "3": "BehaviorTree'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/BT_NPC_ZhuBaJie01B.BT_NPC_ZhuBaJie01B'",
+      "4": "509942",
+      "5": "EnvQuery'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/EQ_NPC_ZhuBaJie01B_ReSpawn.EQ_NPC_ZhuBaJie01B_ReSpawn'",
+      "6": "ZBJSpawnPoint_BYS_Xiniu",
+      "7": "\\xd5\u0001\\x8e\\x90\u001f\\xd2\u0001"
+    },
+    {
+      "1": "509942",
+      "2": "/Game/00Main/Design/Units/NPC/TAMER_NPC_ZhuBaJie_01B_Follow.TAMER_NPC_ZhuBaJie_01B_Follow_C",
+      "3": "BehaviorTree'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/BT_npc_zhubajie_01b_new_hgs.BT_npc_zhubajie_01b_new_hgs'",
+      "4": "509942",
+      "5": "EnvQuery'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/EQ_NPC_ZhuBaJie01B_ReSpawn.EQ_NPC_ZhuBaJie01B_ReSpawn'",
+      "6": "ZBJSpawnPoint_BYS",
+      "7": "\\xd5\u0001\\xfd\\x8f\u001f\\x8b\\x90\u001f\\x8d\\x90\u001f"
+    },
+    {
+      "1": "509943",
+      "2": "/Game/00Main/Design/Units/NPC/TAMER_NPC_ZhuBaJie_01B_Follow.TAMER_NPC_ZhuBaJie_01B_Follow_C",
+      "3": "BehaviorTree'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/BT_npc_zhubajie_01b_new.BT_npc_zhubajie_01b_new'",
+      "4": "509943",
+      "5": "EnvQuery'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/EQ_NPC_ZhuBaJie01B_ReSpawn.EQ_NPC_ZhuBaJie01B_ReSpawn'",
+      "6": "ZBJSpawnPoint_Houshan",
+      "7": "\\xd5\u0001\\xfd\\x8f\u001f\\x8c\\x90\u001f"
+    },
+    {
+      "1": "509944",
+      "2": "/Game/00Main/Design/Units/PSD/TAMER_psd_zhubajie_summon.TAMER_psd_zhubajie_summon_C",
+      "3": "BehaviorTree'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/BT_NPC_ZhuBaJie01B.BT_NPC_ZhuBaJie01B'",
+      "4": "509942",
+      "5": "EnvQuery'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/EQ_NPC_ZhuBaJie01B_ReSpawn.EQ_NPC_ZhuBaJie01B_ReSpawn'",
+      "7": "\\xd5\u0001\\x8d\\x90\u001f"
+    }
+  ]
+}

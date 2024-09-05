@@ -1,0 +1,182 @@
+{
+  "1": [
+    {
+      "1": "1",
+      "2": "402001",
+      "3": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_hys_niumo1.TAMER_hys_niumo1_C",
+      "4": "45",
+      "5": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_hys_niumo_01_atk_09_loop1_Montage.AS_hys_niumo_01_atk_09_loop1_Montage'",
+      "6": "990400010"
+    },
+    {
+      "1": "2",
+      "2": "201701",
+      "3": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_HFM_HuanWuZhe_01a1.TAMER_HFM_HuanWuZhe_01a1_C",
+      "4": "46",
+      "5": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_HFM_HuanWuZhe_01a_Atk_Fast_06_Montage.AS_HFM_HuanWuZhe_01a_Atk_Fast_06_Montage'",
+      "6": "990400020"
+    },
+    {
+      "1": "3",
+      "2": "100801",
+      "3": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_gycy_baiyi_06.TAMER_gycy_baiyi_06_C",
+      "4": "47",
+      "5": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_GYCY_BaiYi_01_Atk_Fast_12_Montage.AS_GYCY_BaiYi_01_Atk_Fast_12_Montage'",
+      "6": "990400001"
+    },
+    {
+      "1": "4",
+      "2": "201901",
+      "3": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_hfm_huangpaozhu1.TAMER_hfm_huangpaozhu1_C",
+      "4": "48",
+      "5": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_HFM_HuangPaoZhu_Atk_12_Montage.AS_HFM_HuangPaoZhu_Atk_12_Montage'",
+      "6": "990400022"
+    },
+    {
+      "1": "5",
+      "2": "500101",
+      "3": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_psd_wulong1.TAMER_psd_wulong1_C",
+      "4": "49",
+      "5": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_PSD_WuLong_Atk_05_Montage.AS_PSD_WuLong_Atk_05_Montage'",
+      "6": "990400017"
+    },
+    {
+      "1": "6",
+      "2": "201501",
+      "3": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_hfm_shuangtoushu_01a1.TAMER_hfm_shuangtoushu_01a1_C",
+      "4": "50",
+      "5": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_HFM_ShuangTouShu_01a_Atk_Fast_12_Montage.AS_HFM_ShuangTouShu_01a_Atk_Fast_12_Montage'",
+      "6": "990400015"
+    },
+    {
+      "1": "7",
+      "2": "101101",
+      "3": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_gycy_lang_07.TAMER_gycy_lang_07_C",
+      "4": "51",
+      "5": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_GYCY_Lang_04_Atk_Fast_11_Montage.AS_GYCY_Lang_04_Atk_Fast_11_Montage'",
+      "6": "990400007"
+    },
+    {
+      "1": "8",
+      "2": "301301",
+      "3": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_lys_xuehou1.TAMER_lys_xuehou1_C",
+      "4": "66",
+      "5": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_LYS_XueHou_Atk_07_Montage.AS_LYS_XueHou_Atk_07_Montage'",
+      "6": "990400019"
+    },
+    {
+      "1": "9",
+      "2": "202801",
+      "3": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_hfm_hu_wind_02.TAMER_hfm_hu_wind_02_C",
+      "4": "52",
+      "5": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_HFM_Hu_Wind_01_Atk_Fast_22_Montage.AS_HFM_Hu_Wind_01_Atk_Fast_22_Montage'",
+      "6": "990400002"
+    },
+    {
+      "1": "10",
+      "2": "200201",
+      "3": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_hfm_mamian_01a1.TAMER_hfm_mamian_01a1_C",
+      "4": "53",
+      "5": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_HFM_MaMian_01a_Atk_Fast_10_Montage.AS_HFM_MaMian_01a_Atk_Fast_10_Montage'",
+      "6": "990400011"
+    },
+    {
+      "1": "11",
+      "2": "499802",
+      "3": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_psd_xiezijing_02a1.TAMER_psd_xiezijing_02a1_C",
+      "4": "65",
+      "5": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_psd_xiezijing_01a_atk_16_Montage.AS_psd_xiezijing_01a_atk_16_Montage'",
+      "6": "990400018"
+    },
+    {
+      "1": "12",
+      "2": "540301",
+      "3": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_psd_jiachongzongbing_03.TAMER_psd_jiachongzongbing_03_C",
+      "4": "54",
+      "5": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_PSD_jiachongzongbing_02_Atk_32_Montage.AS_PSD_jiachongzongbing_02_Atk_32_Montage'",
+      "6": "990400008"
+    },
+    {
+      "1": "13",
+      "2": "471301",
+      "3": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_szlc_tanglang02.TAMER_szlc_tanglang02_C",
+      "4": "55",
+      "5": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_SZLC_tanglang_atk_27_Montage.AS_SZLC_tanglang_atk_27_Montage'",
+      "6": "990400004"
+    },
+    {
+      "1": "14",
+      "2": "505401",
+      "3": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_psd_wa_02.TAMER_psd_wa_02_C",
+      "4": "56",
+      "5": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_gycy_wa_01_atk_43_Montage.AS_gycy_wa_01_atk_43_Montage'",
+      "6": "990400006"
+    },
+    {
+      "1": "15",
+      "2": "301201",
+      "3": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_LYS_SengMian_02.TAMER_LYS_SengMian_02_C",
+      "4": "57",
+      "5": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_LYS_SengMian_02_Atk_Fast_11_Montage.AS_LYS_SengMian_02_Atk_Fast_11_Montage'",
+      "6": "990400014"
+    },
+    {
+      "1": "16",
+      "2": "300501",
+      "3": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_lys_tuiseng_p3.TAMER_lys_tuiseng_p3_C",
+      "4": "58",
+      "5": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_LYS_TuiSeng_02_Atk_Fast_09_Montage.AS_LYS_TuiSeng_02_Atk_Fast_09_Montage'",
+      "6": "990400016"
+    },
+    {
+      "1": "17",
+      "2": "102101",
+      "3": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_gycy_seng_05.TAMER_gycy_seng_05_C",
+      "4": "59",
+      "5": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_GYCY_Seng_04_V2_Atk_14_Montage.AS_GYCY_Seng_04_V2_Atk_14_Montage'",
+      "6": "990400009"
+    },
+    {
+      "1": "18",
+      "2": "200501",
+      "3": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_hfm_shawuliang_01a1.TAMER_hfm_shawuliang_01a1_C",
+      "4": "60",
+      "5": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_HFM_ShaWuLiang_01_Atk_Fast_08_Montage.AS_HFM_ShaWuLiang_01_Atk_Fast_08_Montage'",
+      "6": "990400005"
+    },
+    {
+      "1": "19",
+      "2": "405301",
+      "3": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_hys_zhanche_01d1.TAMER_hys_zhanche_01d1_C",
+      "4": "61",
+      "5": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_hys_zhanche_01a_atk_16_Montage.AS_hys_zhanche_01a_atk_16_Montage'",
+      "6": "990400021",
+      "7": "-600"
+    },
+    {
+      "1": "20",
+      "2": "401101",
+      "3": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_hys_hms1.TAMER_hys_hms1_C",
+      "4": "62",
+      "5": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_HYS_HMS_P2_Atk_11_Montage.AS_HYS_HMS_P2_Atk_11_Montage'",
+      "6": "990400003",
+      "7": "-300"
+    },
+    {
+      "1": "21",
+      "2": "302102",
+      "3": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_lys_mo3_chaoshengzhilu1.TAMER_lys_mo3_chaoshengzhilu1_C",
+      "4": "63",
+      "5": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_LYS_Mo3_Atk_Fast_12_Montage.AS_LYS_Mo3_Atk_Fast_12_Montage'",
+      "6": "990400012"
+    },
+    {
+      "1": "22",
+      "2": "405501",
+      "3": "/Game/00Main/Maps/2024NianHui/Monster/TAMER_hys_niaozui1.TAMER_hys_niaozui1_C",
+      "4": "64",
+      "5": "AnimMontage'/Game/00Main/Maps/2024NianHui/BeginAM/AS_HYS_NiaoZui_Atk_12_Montage.AS_HYS_NiaoZui_Atk_12_Montage'",
+      "6": "990400013"
+    }
+  ]
+}

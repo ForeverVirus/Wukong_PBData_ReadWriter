@@ -1,0 +1,64 @@
+{
+  "1": [
+    {
+      "1": "10",
+      "3": "BGWBeCatchThrowPhysAnimDataAsset'/Game/00MainHZ/Characters/Sunwukong/PhysAnimConfig_Wukong_BeCatchThrow.PhysAnimConfig_Wukong_BeCatchThrow'",
+      "5": "Guard"
+    },
+    {
+      "1": "1017",
+      "2": "BGWBasePhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_Normal.PhysAnimConfig_Normal'",
+      "5": "Guard"
+    },
+    {
+      "1": "2027",
+      "2": "BGWBasePhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_Normal.PhysAnimConfig_Normal'",
+      "5": "Guard"
+    },
+    {
+      "1": "2102",
+      "2": "BGWBasePhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_Normal.PhysAnimConfig_Normal'",
+      "5": "Guard"
+    },
+    {
+      "1": "3003",
+      "2": "BGWBasePhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_Normal.PhysAnimConfig_Normal'",
+      "5": "Guard"
+    },
+    {
+      "1": "3013",
+      "2": "BGWBasePhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_Normal.PhysAnimConfig_Normal'",
+      "5": "Guard"
+    },
+    {
+      "1": "3014",
+      "2": "BGWBasePhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_Normal.PhysAnimConfig_Normal'",
+      "5": "Guard"
+    },
+    {
+      "1": "3015",
+      "2": "BGWBasePhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_Normal.PhysAnimConfig_Normal'",
+      "5": "Guard"
+    },
+    {
+      "1": "4001",
+      "4": "BGWPhysMoveAnimDataAsset'/Game/00MainHZ/Characters/Enemy/HYS/HYS_JiRuHuo/PhysAnimConfig_HYS_JiRuHuo_PhysMove.PhysAnimConfig_HYS_JiRuHuo_PhysMove'",
+      "5": "Guard"
+    },
+    {
+      "1": "4056",
+      "2": "BGWBasePhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_Normal.PhysAnimConfig_Normal'",
+      "5": "Guard"
+    },
+    {
+      "1": "4058",
+      "2": "BGWBasePhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_Normal.PhysAnimConfig_Normal'",
+      "5": "Guard"
+    },
+    {
+      "1": "5019",
+      "2": "BGWBasePhysAnimDataAsset'/Game/00Main/BPLibrary/PhysAnim/PhysAnimConfig_Normal.PhysAnimConfig_Normal'",
+      "5": "Guard"
+    }
+  ]
+}

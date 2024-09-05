@@ -1,0 +1,2353 @@
+{
+  "1": [
+    {
+      "1": "124",
+      "2": "124",
+      "3": "4",
+      "11": "1",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/XiuHuaZhen/C_wukong_xiuhuazhen_end_speeddistancecurve.C_wukong_xiuhuazhen_end_speeddistancecurve",
+      "15": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/XiuHuaZhen/C_wukong_xiuhuazhen_rotcurveperform.C_wukong_xiuhuazhen_rotcurveperform"
+    },
+    {
+      "1": "125",
+      "2": "126",
+      "3": "4",
+      "4": "XiuHuaZhen_1",
+      "11": "1",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/XiuHuaZhen/C_wukong_xiuhuazhen_speedcurvestart.C_wukong_xiuhuazhen_speedcurvestart",
+      "15": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/XiuHuaZhen/C_wukong_xiuhuazhen_rotcurvestart.C_wukong_xiuhuazhen_rotcurvestart"
+    },
+    {
+      "1": "126",
+      "2": "126",
+      "3": "9",
+      "11": "1",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/XiuHuaZhen/C_wukong_xiuhuazhen_speedcurve.C_wukong_xiuhuazhen_speedcurve",
+      "15": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/XiuHuaZhen/C_wukong_xiuhuazhen_rotcurve.C_wukong_xiuhuazhen_rotcurve"
+    },
+    {
+      "1": "128",
+      "2": "128",
+      "3": "10",
+      "5": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/EQ_XiuHuaZhen_FreeMove.EQ_XiuHuaZhen_FreeMove",
+      "11": "1",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/XiuHuaZhen/C_wukong_xiuhuazhen_speedcurveperform.C_wukong_xiuhuazhen_speedcurveperform",
+      "15": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/XiuHuaZhen/C_wukong_xiuhuazhen_rotcurveperform.C_wukong_xiuhuazhen_rotcurveperform"
+    },
+    {
+      "1": "137",
+      "2": "137",
+      "3": "5",
+      "6": "1"
+    },
+    {
+      "1": "138",
+      "2": "138",
+      "11": "1",
+      "13": "/Game/00Main/Design/Bullets/PlayerBullets/Wukong/FaBao/Curve/XiuHuaZhen/C_wukong_xiuhuazhen_speed_bymj.C_wukong_xiuhuazhen_speed_bymj"
+    },
+    {
+      "1": "101001",
+      "2": "101001",
+      "3": "4",
+      "7": "5",
+      "11": "1",
+      "12": {
+        "0": [
+          "1138048",
+          "1138048",
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "1": "101002",
+      "2": "101002",
+      "3": "4",
+      "4": "head",
+      "7": "4",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "8826",
+          "0",
+          "0"
+        ],
+        "1103": {}
+      }
+    },
+    {
+      "1": "1029401",
+      "2": "1029401",
+      "7": "1",
+      "12": {
+        "0": [
+          "1138048",
+          "1138048",
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "1": "1085202",
+      "2": "1085202",
+      "3": "4",
+      "7": "5",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "1": "1085603",
+      "2": "1085603",
+      "3": "4",
+      "7": "5",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "1": "1085998",
+      "2": "1085998",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "1": "10030603",
+      "2": "10030603",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "1": "10070302",
+      "2": "10070302",
+      "3": "4",
+      "7": "5",
+      "11": "1",
+      "14": "\u0000\u0000aE\u0000\u0000aE\u0000\u0000\u0000\u0000"
+    },
+    {
+      "1": "10070402",
+      "2": "10070402",
+      "3": "4",
+      "7": "5",
+      "11": "1",
+      "14": "\u0000\u0000aE\u0000\u0000aE\u0000\u0000\u0000\u0000"
+    },
+    {
+      "1": "10070502",
+      "2": "10070502",
+      "11": "1",
+      "14": "\u0000\u0000aE\u0000\u0000aE\u0000\u0000\u0000\u0000"
+    },
+    {
+      "1": "10070602",
+      "2": "10070602",
+      "3": "4",
+      "7": "5",
+      "11": "1",
+      "14": "\u0000\u0000aE\u0000\u0000aE\u0000\u0000\u0000\u0000"
+    },
+    {
+      "1": "10070702",
+      "2": "10070702",
+      "3": "4",
+      "7": "5",
+      "11": "1",
+      "14": "\u0000\u0000aE\u0000\u0000aE\u0000\u0000\u0000\u0000"
+    },
+    {
+      "1": "10230000",
+      "2": "10230000",
+      "12": {
+        "0": [
+          "1138048",
+          "1138048",
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "1": "10230102",
+      "2": "10230102",
+      "3": "4",
+      "7": "5",
+      "11": "1",
+      "12": {
+        "0": [
+          "1138048",
+          "1138048",
+          "0",
+          "0"
+        ]
+      },
+      "16": "\\x9d\\x9f\u0006"
+    },
+    {
+      "1": "10230202",
+      "2": "10230202",
+      "3": "4",
+      "7": "5",
+      "11": "1",
+      "12": {
+        "0": [
+          "1138048",
+          "1138048",
+          "0",
+          "0"
+        ]
+      },
+      "16": "\\x9d\\x9f\u0006"
+    },
+    {
+      "1": "10230602",
+      "2": "10230602",
+      "3": "4",
+      "7": "5",
+      "11": "1",
+      "12": {
+        "0": [
+          "1138048",
+          "1138048",
+          "0",
+          "0"
+        ]
+      },
+      "16": "\\x9d\\x9f\u0006"
+    },
+    {
+      "1": "10230702",
+      "2": "10230702",
+      "3": "4",
+      "7": "5",
+      "11": "1",
+      "12": {
+        "0": [
+          "1138048",
+          "1138048",
+          "0",
+          "0"
+        ]
+      },
+      "16": "\\x9d\\x9f\u0006"
+    },
+    {
+      "1": "10230901",
+      "2": "10230101",
+      "3": "4",
+      "7": "5",
+      "11": "1",
+      "16": "\\xa5\\x9f\u0006"
+    },
+    {
+      "1": "10230903",
+      "2": "10230903",
+      "3": "4",
+      "7": "5",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/Curve/C_Merge_YanjianxiBullet.C_Merge_YanjianxiBullet'",
+      "14": "\u0000\\x80;E\u0000\\x80;E\u0000\u0000\u0000\u0000",
+      "16": "\\xa5\\x9f\u0006"
+    },
+    {
+      "1": "10230905",
+      "2": "10230905",
+      "3": "4",
+      "7": "5",
+      "11": "1",
+      "12": {
+        "0": [
+          "1138048",
+          "1138048",
+          "0",
+          "0"
+        ]
+      },
+      "16": "\\xa6\\x9f\u0006\\xa8\\x9f\u0006"
+    },
+    {
+      "1": "10231102",
+      "2": "10231102",
+      "3": "4",
+      "7": "5",
+      "11": "1",
+      "16": "\\xa7\\x9f\u0006"
+    },
+    {
+      "1": "10231103",
+      "2": "10231103",
+      "3": "4",
+      "7": "5",
+      "11": "1",
+      "12": {
+        "0": [
+          "1138048",
+          "1138048",
+          "0",
+          "0"
+        ]
+      },
+      "16": "\\x9d\\x9f\u0006"
+    },
+    {
+      "1": "10231202",
+      "2": "10231202",
+      "7": "1",
+      "10": "1119092736",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "8064"
+        ],
+        "1087": {}
+      }
+    },
+    {
+      "1": "10231203",
+      "2": "10231203",
+      "3": "4",
+      "7": "5",
+      "11": "1",
+      "12": {
+        "0": [
+          "1138048",
+          "1138048",
+          "0",
+          "0"
+        ]
+      },
+      "16": "\\x9d\\x9f\u0006"
+    },
+    {
+      "1": "10295103",
+      "2": "10295103",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "1": "10295104",
+      "2": "10295104",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "1": "11113602",
+      "2": "11113602",
+      "11": "1",
+      "12": {
+        "0": [
+          "7552",
+          "0",
+          "0"
+        ],
+        "8": "1161527296"
+      },
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/HYS/HYS_HongHaiEr_01A/Curve/C_TraceSpd.C_TraceSpd'",
+      "14": "\u0000\u0000\\xc8B\u0000\u0000\\xc8B\u0000\u0000\u0000\u0000",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/HYS/HYS_HongHaiEr_01A/Curve/C_TraceRot.C_TraceRot'"
+    },
+    {
+      "1": "19920120",
+      "2": "19920120",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/HGS/hgs_chiguo/C_hgs_chiguo_atk01_spine_speed.C_hgs_chiguo_atk01_spine_speed'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/HGS/hgs_chiguo/C_hgs_chiguo_atk01_spine_rot.C_hgs_chiguo_atk01_spine_rot'"
+    },
+    {
+      "1": "20111002",
+      "2": "20111003",
+      "3": "4",
+      "7": "1",
+      "10": "3262050323",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      "14": "\u0000\u0000\u0000\u0000\u0000\u0000\\xfaC\u0000\u0000\\xa0@"
+    },
+    {
+      "1": "20111004",
+      "2": "20111004",
+      "3": "4",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      "14": "\u0000\u0000\\xfaC\u0000\u0000\\xfaC\u0000\u0000\u0000\u0000"
+    },
+    {
+      "1": "20171603",
+      "2": "20171603",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/HFM/HFM_HuanWuZhe_01a/Curve/C_HFM_HuanWuZhe_01a_Bullet1602_Speed.C_HFM_HuanWuZhe_01a_Bullet1602_Speed'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/HFM/HFM_HuanWuZhe_01a/Curve/C_HFM_HuanWuZhe_01a_Bullet1602_Rot.C_HFM_HuanWuZhe_01a_Bullet1602_Rot'"
+    },
+    {
+      "1": "20179002",
+      "2": "20179002",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      "14": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+      "1": "20220704",
+      "2": "20220704",
+      "3": "4"
+    },
+    {
+      "1": "20230102",
+      "2": "20230102",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "1": "20230303",
+      "2": "20230303",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "1": "20230304",
+      "2": "20230304",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "1": "20249902",
+      "2": "20249902",
+      "16": "\\xa1\\xad\f"
+    },
+    {
+      "1": "20480103",
+      "2": "20480103",
+      "3": "5",
+      "6": "20480101",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_BaiYanMoJun_01/Curve/FSC_PSD_BaiYanMoJun_01_BulletRound.FSC_PSD_BaiYanMoJun_01_BulletRound'"
+    },
+    {
+      "1": "20480104",
+      "2": "20480104",
+      "3": "4",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      "14": "\u0000\u0000\\xa0A\u0000\u0000\\xc8B\u0000\u0000\\xc0?",
+      "16": "\\x81\\xc0\f"
+    },
+    {
+      "1": "20480302",
+      "2": "20480302",
+      "3": "5",
+      "6": "20480302",
+      "7": "5",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/Curve/C_Merge_YanjianxiBullet.C_Merge_YanjianxiBullet'",
+      "14": "\u0000\\x80;E\u0000\\x80;E\u0000\u0000\u0000\u0000"
+    },
+    {
+      "1": "20480303",
+      "2": "20480303",
+      "3": "4",
+      "7": "5",
+      "11": "1",
+      "12": {
+        "0": [
+          "7552",
+          "0",
+          "0"
+        ],
+        "8": "1161527296"
+      }
+    },
+    {
+      "1": "20480304",
+      "2": "20480304",
+      "3": "5",
+      "6": "20480304",
+      "7": "5",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/Curve/C_Merge_YanjianxiBullet.C_Merge_YanjianxiBullet'",
+      "14": "\u0000\\x80;E\u0000\\x80;E\u0000\u0000\u0000\u0000",
+      "16": "\\x82\\xc0\f"
+    },
+    {
+      "1": "22050711",
+      "2": "22050711"
+    },
+    {
+      "1": "22104052",
+      "2": "22104052",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_RuYiLong_01/Curve/P1/C_LYS_RuYiLong_01_Bullet8102_Speed.C_LYS_RuYiLong_01_Bullet8102_Speed'",
+      "14": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_foshouchong_02a/C_psd_foshouchong_02a_bugs_rot.C_psd_foshouchong_02a_bugs_rot'"
+    },
+    {
+      "1": "30020202",
+      "2": "30020202",
+      "3": "4",
+      "7": "5",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Animation/LYS/LYS_TuiSeng/AnimCurve/C_LYS_TuiSeng_Bullet_0202.C_LYS_TuiSeng_Bullet_0202'"
+    },
+    {
+      "1": "30139902",
+      "2": "30139902",
+      "11": "1"
+    },
+    {
+      "1": "30140302",
+      "2": "30140302",
+      "7": "1",
+      "9": "1119092736",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_RuYiLong_01/Curve/C_LYS_RuYiLong_01_Bullet04_Up.C_LYS_RuYiLong_01_Bullet04_Up'"
+    },
+    {
+      "1": "30140303",
+      "2": "30140303",
+      "3": "4",
+      "7": "5",
+      "11": "1",
+      "12": {
+        "0": [
+          "1138048",
+          "1142080",
+          "0",
+          "63"
+        ]
+      },
+      "14": "\u0000\u0000\\x96D\u0000\u0000\\x96D\u0000\u0000\u0000?"
+    },
+    {
+      "1": "30148103",
+      "2": "30148103",
+      "3": "4",
+      "4": "root",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_RuYiLong_01/Curve/P1/C_LYS_RuYiLong_01_Bullet8102_Speed.C_LYS_RuYiLong_01_Bullet8102_Speed'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_RuYiLong_01/Curve/P1/C_LYS_RuYiLong_01_Bullet8102_Rot.C_LYS_RuYiLong_01_Bullet8102_Rot'"
+    },
+    {
+      "1": "30180702",
+      "2": "30180702",
+      "3": "4",
+      "7": "5",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "9": [
+          "67",
+          "67"
+        ]
+      },
+      "14": "\u0000\u0000\\xfaC\u0000\u0000\u0000\u0000\u0000\u0000\u0000@"
+    },
+    {
+      "1": "30200602",
+      "2": "30200602",
+      "7": "1",
+      "9": "3266576384",
+      "11": "1",
+      "12": {
+        "0": [
+          "1121664",
+          "1121664",
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "1": "30202009",
+      "2": "30202009",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "1": "30220399",
+      "2": "30220302",
+      "3": "4",
+      "4": "Bullet_Atk04_1",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "63"
+        ],
+        "9": "67"
+      },
+      "14": "\u0000\u0000pB\u0000\u0000pB\u0000\u0000\u0000\u0000"
+    },
+    {
+      "1": "30220402",
+      "2": "30220403",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "14": "\u0000\u0000\u0000\u0000\u0000\u00004C\u0000\u0000\u0000?"
+    },
+    {
+      "1": "30220799",
+      "2": "30220702",
+      "3": "4",
+      "4": "root",
+      "11": "1",
+      "13": "/Game/00Main/Design/Bullets/LYS/LYS_Mo4/Curve/C_lys_mo4_atk07_bullet_speed.C_lys_mo4_atk07_bullet_speed",
+      "15": "/Game/00Main/Design/Bullets/LYS/LYS_Mo4/Curve/C_lys_mo4_atk07_bullet_rotation.C_lys_mo4_atk07_bullet_rotation"
+    },
+    {
+      "1": "30221097",
+      "2": "30221004",
+      "3": "1",
+      "4": "Bullet_Atk04_1",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "7552"
+        ],
+        "8": "1065353216"
+      },
+      "14": "\u0000\u00004C\u0000\u00004C\u0000\u0000\u0000\u0000"
+    },
+    {
+      "1": "30221299",
+      "2": "30221202",
+      "3": "1",
+      "4": "Laser_Atk12_2",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "63"
+        ],
+        "9": "67"
+      },
+      "14": "\u0000\u0000\\x96C\u0000\u0000\\x96C\u0000\u0000\u0000\u0000"
+    },
+    {
+      "1": "30221599",
+      "2": "30221502",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "13": "/Game/00Main/Design/Bullets/LYS/LYS_Mo4/Curve/C_lys_mo4_atk15_bullet_speed.C_lys_mo4_atk15_bullet_speed",
+      "15": "/Game/00Main/Design/Bullets/LYS/LYS_Mo4/Curve/C_lys_mo4_atk20_bullet_rotation_explode.C_lys_mo4_atk20_bullet_rotation_explode"
+    },
+    {
+      "1": "30280103",
+      "2": "30280103",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "1": "30512702",
+      "2": "30512702",
+      "11": "1"
+    },
+    {
+      "1": "34011101",
+      "2": "34011101",
+      "3": "4",
+      "4": "head",
+      "7": "5",
+      "11": "1",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_KJLWoman/Curve/C_lys_KJLWoman_Laser_rot.C_lys_KJLWoman_Laser_rot'"
+    },
+    {
+      "1": "34013021",
+      "2": "34013021",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      "14": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+      "1": "34014001",
+      "2": "34014001",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_KJLWoman/Curve/C_lys_KJLWoman_Magic_Spine_spd.C_lys_KJLWoman_Magic_Spine_spd'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_KJLWoman/Curve/C_lys_KJLWoman_Magic_Spine_rot.C_lys_KJLWoman_Magic_Spine_rot'"
+    },
+    {
+      "1": "34014002",
+      "2": "34014002",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_KJLWoman/Curve/C_lys_KJLWoman_Magic_spd.C_lys_KJLWoman_Magic_spd'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_KJLWoman/Curve/C_lys_KJLWoman_Magic_rot.C_lys_KJLWoman_Magic_rot'"
+    },
+    {
+      "1": "34014004",
+      "2": "34014004",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_KJLWoman/Curve/C_lys_KJLWoman_Magic_Spine_spd.C_lys_KJLWoman_Magic_Spine_spd'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_KJLWoman/Curve/C_lys_KJLWoman_Magic_Spine_rot.C_lys_KJLWoman_Magic_Spine_rot'"
+    },
+    {
+      "1": "34014005",
+      "2": "34014005",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_KJLWoman/Curve/C_lys_KJLWoman_Magic_spd.C_lys_KJLWoman_Magic_spd'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_KJLWoman/Curve/C_lys_KJLWoman_Magic_rot.C_lys_KJLWoman_Magic_rot'"
+    },
+    {
+      "1": "34014007",
+      "2": "34014007",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_KJLWoman/Curve/C_lys_KJLWoman_Magic_Spine_spd.C_lys_KJLWoman_Magic_Spine_spd'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_KJLWoman/Curve/C_lys_KJLWoman_Magic_Spine_rot.C_lys_KJLWoman_Magic_Spine_rot'"
+    },
+    {
+      "1": "34014008",
+      "2": "34014008",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_KJLWoman/Curve/C_lys_KJLWoman_Magic_spd.C_lys_KJLWoman_Magic_spd'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_KJLWoman/Curve/C_lys_KJLWoman_Magic_rot.C_lys_KJLWoman_Magic_rot'"
+    },
+    {
+      "1": "34014010",
+      "2": "34014010",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_KJLWoman/Curve/C_lys_KJLWoman_Magic_Spine_spd.C_lys_KJLWoman_Magic_Spine_spd'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_KJLWoman/Curve/C_lys_KJLWoman_Magic_Spine_rot.C_lys_KJLWoman_Magic_Spine_rot'"
+    },
+    {
+      "1": "34014011",
+      "2": "34014011",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_KJLWoman/Curve/C_lys_KJLWoman_Magic_spd.C_lys_KJLWoman_Magic_spd'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_KJLWoman/Curve/C_lys_KJLWoman_Magic_rot.C_lys_KJLWoman_Magic_rot'"
+    },
+    {
+      "1": "34016001",
+      "2": "34016001",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_KJLWoman/Curve/C_lys_KJLWoman_Loong_spd.C_lys_KJLWoman_Loong_spd'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_KJLWoman/Curve/C_lys_KJLWoman_Loong_rot.C_lys_KJLWoman_Loong_rot'"
+    },
+    {
+      "1": "34016003",
+      "2": "34016003",
+      "7": "1",
+      "9": "3266576384",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_KJLWoman/Curve/C_lys_KJLWoman_Loong_spd.C_lys_KJLWoman_Loong_spd'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_KJLWoman/Curve/C_lys_KJLWoman_Loong_rot.C_lys_KJLWoman_Loong_rot'"
+    },
+    {
+      "1": "34016006",
+      "2": "34016006",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_KJLWoman/Curve/C_lys_KJLWoman_Loong_spd.C_lys_KJLWoman_Loong_spd'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_KJLWoman/Curve/C_lys_KJLWoman_Loong_rot.C_lys_KJLWoman_Loong_rot'"
+    },
+    {
+      "1": "38001801",
+      "2": "38001802",
+      "11": "1",
+      "13": "/Game/00Main/Design/Bullets/LYS/LYS_HuangMei_03/C_LYS_HuangMei_03_B1801.C_LYS_HuangMei_03_B1801"
+    },
+    {
+      "1": "38009901",
+      "2": "38009904",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "13": "/Game/00Main/Design/Bullets/LYS/LYS_HuangMei_02/C_LYS_HuangMei_02_B9904_Speed.C_LYS_HuangMei_02_B9904_Speed",
+      "15": "/Game/00Main/Design/Bullets/LYS/LYS_HuangMei_02/C_LYS_HuangMei_02_B9904_Rot.C_LYS_HuangMei_02_B9904_Rot"
+    },
+    {
+      "1": "38009907",
+      "2": "38009907",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      "14": "\u0000\u0000\\xc0@\u0000\u0000\\xc0@\u0000\u0000\u0000\u0000"
+    },
+    {
+      "1": "38009908",
+      "2": "38009908",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      "14": "\u0000\u0000pB\u0000\u0000pB\u0000\u0000\u0000\u0000"
+    },
+    {
+      "1": "39001301",
+      "2": "38001302",
+      "3": "1",
+      "4": "Hit_LYB_7",
+      "11": "1",
+      "14": "\u0000\u0000\\xb4C\u0000\u0000\\xf0C\u0000\u0000\u0000?"
+    },
+    {
+      "1": "39010111",
+      "2": "39010111"
+    },
+    {
+      "1": "39010131",
+      "2": "39010131"
+    },
+    {
+      "1": "39010151",
+      "2": "39010151"
+    },
+    {
+      "1": "40050204",
+      "2": "40050204",
+      "3": "4",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      "14": "\u0000\u0000\\xb4C\u0000\u0000\\xfaD\\x9a\\x99\u0019?"
+    },
+    {
+      "1": "40050681",
+      "2": "40050681",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_KJLWoman/Curve/C_lys_KJLWoman_Magic_Spine_spd.C_lys_KJLWoman_Magic_Spine_spd'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_KJLWoman/Curve/C_lys_KJLWoman_Magic_Spine_rot.C_lys_KJLWoman_Magic_Spine_rot'"
+    },
+    {
+      "1": "40050682",
+      "2": "40050682",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_KJLWoman/Curve/C_lys_KJLWoman_Magic_spd.C_lys_KJLWoman_Magic_spd'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_KJLWoman/Curve/C_lys_KJLWoman_Magic_rot.C_lys_KJLWoman_Magic_rot'"
+    },
+    {
+      "1": "40050684",
+      "2": "40050684",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_KJLWoman/Curve/C_lys_KJLWoman_Magic_Spine_spd.C_lys_KJLWoman_Magic_Spine_spd'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_KJLWoman/Curve/C_lys_KJLWoman_Magic_Spine_rot.C_lys_KJLWoman_Magic_Spine_rot'"
+    },
+    {
+      "1": "40050685",
+      "2": "40050685",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_KJLWoman/Curve/C_lys_KJLWoman_Magic_spd.C_lys_KJLWoman_Magic_spd'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_KJLWoman/Curve/C_lys_KJLWoman_Magic_rot.C_lys_KJLWoman_Magic_rot'"
+    },
+    {
+      "1": "40050691",
+      "2": "40050691",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_KJLWoman/Curve/C_lys_KJLWoman_Magic_Spine_spd.C_lys_KJLWoman_Magic_Spine_spd'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_KJLWoman/Curve/C_lys_KJLWoman_Magic_Spine_rot.C_lys_KJLWoman_Magic_Spine_rot'"
+    },
+    {
+      "1": "40050692",
+      "2": "40050692",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_KJLWoman/Curve/C_lys_KJLWoman_Magic_spd.C_lys_KJLWoman_Magic_spd'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_KJLWoman/Curve/C_lys_KJLWoman_Magic_rot.C_lys_KJLWoman_Magic_rot'"
+    },
+    {
+      "1": "40050694",
+      "2": "40050694",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_KJLWoman/Curve/C_lys_KJLWoman_Magic_Spine_spd.C_lys_KJLWoman_Magic_Spine_spd'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_KJLWoman/Curve/C_lys_KJLWoman_Magic_Spine_rot.C_lys_KJLWoman_Magic_Spine_rot'"
+    },
+    {
+      "1": "40050695",
+      "2": "40050695",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_KJLWoman/Curve/C_lys_KJLWoman_Magic_spd.C_lys_KJLWoman_Magic_spd'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_KJLWoman/Curve/C_lys_KJLWoman_Magic_rot.C_lys_KJLWoman_Magic_rot'"
+    },
+    {
+      "1": "40051003",
+      "2": "40051001",
+      "3": "4",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      "14": "\u0000\u0000\\xb4C\u0000\u0000\\xfaD\\x9a\\x99\u0019?"
+    },
+    {
+      "1": "40110202",
+      "2": "40110202",
+      "3": "4",
+      "11": "1",
+      "12": {
+        "0": [
+          "11584",
+          "0",
+          "0"
+        ],
+        "8": "1163575296"
+      },
+      "14": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+      "1": "40190402",
+      "2": "40190402",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      "14": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+      "1": "41101314",
+      "2": "41101904",
+      "3": "4",
+      "11": "1",
+      "12": {
+        "0": [
+          "11584",
+          "0",
+          "0"
+        ],
+        "8": "1163575296"
+      },
+      "14": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+      "1": "41210104",
+      "2": "41210114",
+      "3": "4",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/Online/SL/SL_SGD_01/C_sl_sgd_feifotou_02.C_sl_sgd_feifotou_02'",
+      "14": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/HYS/HYS_HongHaiEr_01A/Curve/C_TraceRot.C_TraceRot'"
+    },
+    {
+      "1": "41211901",
+      "2": "41210112",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/Online/SL/SL_SGD_01/C_sl_sgd_fotou_01_spd_4.C_sl_sgd_fotou_01_spd_4'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/Online/SL/SL_SGD_01/C_sl_sgd_fotou_01_rot_x.C_sl_sgd_fotou_01_rot_x'",
+      "16": "\\x9c\\x94\u0019"
+    },
+    {
+      "1": "41211902",
+      "2": "41210112",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/Online/SL/SL_SGD_01/C_sl_sgd_fotou_01_spd_4.C_sl_sgd_fotou_01_spd_4'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/Online/SL/SL_SGD_01/C_sl_sgd_fotou_01_rot_x.C_sl_sgd_fotou_01_rot_x'",
+      "16": "\\x9d\\x94\u0019"
+    },
+    {
+      "1": "41211903",
+      "2": "41210112",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/Online/SL/SL_SGD_01/C_sl_sgd_fotou_01_spd_4.C_sl_sgd_fotou_01_spd_4'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/Online/SL/SL_SGD_01/C_sl_sgd_fotou_01_rot_x.C_sl_sgd_fotou_01_rot_x'",
+      "16": "\\x9e\\x94\u0019"
+    },
+    {
+      "1": "41211904",
+      "2": "41210112",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/Online/SL/SL_SGD_01/C_sl_sgd_fotou_01_spd_4.C_sl_sgd_fotou_01_spd_4'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/Online/SL/SL_SGD_01/C_sl_sgd_fotou_01_rot_x.C_sl_sgd_fotou_01_rot_x'",
+      "16": "\\x9f\\x94\u0019"
+    },
+    {
+      "1": "41211905",
+      "2": "41210112",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/Online/SL/SL_SGD_01/C_sl_sgd_fotou_01_spd_4.C_sl_sgd_fotou_01_spd_4'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/Online/SL/SL_SGD_01/C_sl_sgd_fotou_01_rot_x.C_sl_sgd_fotou_01_rot_x'",
+      "16": "\\xa0\\x94\u0019"
+    },
+    {
+      "1": "41211906",
+      "2": "41210112",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/Online/SL/SL_SGD_01/C_sl_sgd_fotou_01_spd_4.C_sl_sgd_fotou_01_spd_4'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/Online/SL/SL_SGD_01/C_sl_sgd_fotou_01_rot_x.C_sl_sgd_fotou_01_rot_x'",
+      "16": "\\xa1\\x94\u0019"
+    },
+    {
+      "1": "41211907",
+      "2": "41210112",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/Online/SL/SL_SGD_01/C_sl_sgd_fotou_01_spd_4.C_sl_sgd_fotou_01_spd_4'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/Online/SL/SL_SGD_01/C_sl_sgd_fotou_01_rot_x.C_sl_sgd_fotou_01_rot_x'",
+      "16": "\\xa2\\x94\u0019"
+    },
+    {
+      "1": "41211908",
+      "2": "41210112",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/Online/SL/SL_SGD_01/C_sl_sgd_fotou_01_spd_4.C_sl_sgd_fotou_01_spd_4'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/Online/SL/SL_SGD_01/C_sl_sgd_fotou_01_rot_x.C_sl_sgd_fotou_01_rot_x'",
+      "16": "\\xa3\\x94\u0019"
+    },
+    {
+      "1": "41211909",
+      "2": "41211909",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "1": "41212901",
+      "2": "41212900",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "12": {
+        "0": [
+          "7552",
+          "0",
+          "64"
+        ],
+        "8": "1161527296"
+      },
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/Online/SL/SL_SGD_01/C_sl_sgd_atk_15_bullet_02_spd.C_sl_sgd_atk_15_bullet_02_spd'",
+      "14": "\u0000\u0000\\xfaE\u0000\u0000\\xfaE\u0000\u0000\u0000\u0000",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/Online/SL/SL_SGD_01/C_sl_sgd_atk_15_bullet_02_rot.C_sl_sgd_atk_15_bullet_02_rot'"
+    },
+    {
+      "1": "41630110",
+      "2": "41630110"
+    },
+    {
+      "1": "44011020",
+      "2": "44011020",
+      "3": "5",
+      "6": "44011001",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "8336",
+          "0",
+          "0"
+        ],
+        "1042": "0"
+      },
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/HYS/HYS_HongHaiEr_01A/Curve/C_SelfRot_FS.C_SelfRot_FS'",
+      "14": "\u0000\u0000@@\u0000\u00004C\u0000\u00004C"
+    },
+    {
+      "1": "44011040",
+      "2": "44011040",
+      "3": "4",
+      "7": "5",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      "14": "\u0000\u0000HB\u0000\u0000HB\u0000\u0000\u0000\u0000"
+    },
+    {
+      "1": "44019198",
+      "2": "44019198",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "8826",
+          "0",
+          "0"
+        ],
+        "1103": {}
+      },
+      "14": "\u0000\u0000HB\u0000\u0000HB\u0000\u0000\u0000\u0000"
+    },
+    {
+      "1": "44019199",
+      "2": "44019199",
+      "3": "4",
+      "11": "1",
+      "12": {
+        "0": [
+          "7552",
+          "0",
+          "0"
+        ],
+        "8": "1161527296"
+      },
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/HYS/HYS_HongHaiEr_01A/Curve/C_TraceSpd.C_TraceSpd'",
+      "14": "\u0000\u0000\\xc8B\u0000\u0000\\xc8B\u0000\u0000\u0000\u0000",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/HYS/HYS_HongHaiEr_01A/Curve/C_TraceRot.C_TraceRot'"
+    },
+    {
+      "1": "44420102",
+      "2": "44420102",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "1": "47050110",
+      "2": "47050110",
+      "3": "4",
+      "4": "head",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/Online/SZLC/SZLC_yingzuilu_01/C_szlc_yingzuilu_01_atk14_spd_x.C_szlc_yingzuilu_01_atk14_spd_x'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/Online/SZLC/SZLC_yingzuilu_01/C_szlc_yingzuilu_01_atk14_rot_x.C_szlc_yingzuilu_01_atk14_rot_x'"
+    },
+    {
+      "1": "48882001",
+      "2": "48880603",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "8954",
+          "0",
+          "0"
+        ],
+        "1119": {}
+      },
+      "14": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+      "1": "48889902",
+      "2": "48889902",
+      "3": "4",
+      "4": "head",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_RuYiLong_01/Curve/P1/C_LYS_RuYiLong_01_Bullet8102_Speed.C_LYS_RuYiLong_01_Bullet8102_Speed'",
+      "14": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_foshouchong_02a/C_psd_foshouchong_02a_bugs_rot.C_psd_foshouchong_02a_bugs_rot'"
+    },
+    {
+      "1": "49981302",
+      "2": "49981302",
+      "3": "4"
+    },
+    {
+      "1": "49991302",
+      "2": "49991302",
+      "3": "4"
+    },
+    {
+      "1": "50031001",
+      "2": "50031001",
+      "3": "4",
+      "4": "head",
+      "7": "5"
+    },
+    {
+      "1": "50031101",
+      "2": "50031101",
+      "3": "4",
+      "4": "head",
+      "7": "5",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_ZhuBaJie_01B/C_psd_zhubajie_01b_Bullet_line_speed.C_psd_zhubajie_01b_Bullet_line_speed'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_ZhuBaJie_01B/C_psd_zhubajie_01b_Bullet_line_Rot.C_psd_zhubajie_01b_Bullet_line_Rot'"
+    },
+    {
+      "1": "50031103",
+      "2": "50031103",
+      "3": "4",
+      "4": "head",
+      "7": "5",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_ZhuBaJie_01B/C_psd_zhubajie_01b_Bullet_line_speed.C_psd_zhubajie_01b_Bullet_line_speed'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_ZhuBaJie_01B/C_psd_zhubajie_01b_Bullet_line_Rot.C_psd_zhubajie_01b_Bullet_line_Rot'"
+    },
+    {
+      "1": "50031105",
+      "2": "50031105",
+      "3": "4",
+      "4": "head",
+      "7": "5",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_ZhuBaJie_01B/C_psd_zhubajie_01b_Bullet_line_speed.C_psd_zhubajie_01b_Bullet_line_speed'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_ZhuBaJie_01B/C_psd_zhubajie_01b_Bullet_line_Rot.C_psd_zhubajie_01b_Bullet_line_Rot'"
+    },
+    {
+      "1": "50031107",
+      "2": "50031107",
+      "3": "4",
+      "4": "head",
+      "7": "5",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_ZhuBaJie_01B/C_psd_zhubajie_01b_Bullet_line_speed.C_psd_zhubajie_01b_Bullet_line_speed'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_ZhuBaJie_01B/C_psd_zhubajie_01b_Bullet_line_Rot.C_psd_zhubajie_01b_Bullet_line_Rot'"
+    },
+    {
+      "1": "50031109",
+      "2": "50031109",
+      "3": "4",
+      "4": "head",
+      "7": "5",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_ZhuBaJie_01B/C_psd_zhubajie_01b_Bullet_line_speed.C_psd_zhubajie_01b_Bullet_line_speed'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_ZhuBaJie_01B/C_psd_zhubajie_01b_Bullet_line_Rot.C_psd_zhubajie_01b_Bullet_line_Rot'"
+    },
+    {
+      "1": "50031111",
+      "2": "50031111",
+      "3": "4",
+      "4": "head",
+      "7": "5",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_ZhuBaJie_01B/C_psd_zhubajie_01b_Bullet_line_speed.C_psd_zhubajie_01b_Bullet_line_speed'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_ZhuBaJie_01B/C_psd_zhubajie_01b_Bullet_line_Rot.C_psd_zhubajie_01b_Bullet_line_Rot'"
+    },
+    {
+      "1": "50031113",
+      "2": "50031113",
+      "3": "4",
+      "4": "head",
+      "7": "5",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_ZhuBaJie_01B/C_psd_zhubajie_01b_Bullet_line_speed_7.C_psd_zhubajie_01b_Bullet_line_speed_7'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_ZhuBaJie_01B/C_psd_zhubajie_01b_Bullet_line_Rot_7.C_psd_zhubajie_01b_Bullet_line_Rot_7'"
+    },
+    {
+      "1": "50051001",
+      "2": "50051022",
+      "3": "5",
+      "6": "50051001",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_BaiYanMoJun_01/Curve/FSC_PSD_BaiYanMoJun_01_BulletRound02.FSC_PSD_BaiYanMoJun_01_BulletRound02'"
+    },
+    {
+      "1": "50051002",
+      "2": "50051023",
+      "3": "5",
+      "6": "50051001",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_BaiYanMoJun_01/Curve/FSC_PSD_BaiYanMoJun_01_BulletRound02.FSC_PSD_BaiYanMoJun_01_BulletRound02'"
+    },
+    {
+      "1": "50051003",
+      "2": "50051003",
+      "3": "5",
+      "6": "50051001",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_BaiYanMoJun_01/Curve/FSC_PSD_BaiYanMoJun_01_BulletRound.FSC_PSD_BaiYanMoJun_01_BulletRound'"
+    },
+    {
+      "1": "50051004",
+      "2": "50051004",
+      "3": "4",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      "14": "\u0000\u0000pB\u0000\u0000\u0016C\u0000\u0000\\x80?"
+    },
+    {
+      "1": "50051012",
+      "2": "50051012",
+      "3": "4",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      "14": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+      "1": "50051024",
+      "2": "50051024",
+      "3": "4",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      "14": "\u0000\u0000pB\u0000\u0000\u0016C\u0000\u0000\\x80?"
+    },
+    {
+      "1": "50051202",
+      "2": "50051202",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_BaiYanMoJun_01/Curve/FSC_PSD_BaiYanMoJun_01_Bullet1202_Speed.FSC_PSD_BaiYanMoJun_01_Bullet1202_Speed'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_BaiYanMoJun_01/Curve/RSC_PSD_BaiYanMoJun_01_Bullet1202_Rotation.RSC_PSD_BaiYanMoJun_01_Bullet1202_Rotation'"
+    },
+    {
+      "1": "50051204",
+      "2": "50051204",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_BaiYanMoJun_01/Curve/FSC_PSD_BaiYanMoJun_01_Bullet1202_Speed.FSC_PSD_BaiYanMoJun_01_Bullet1202_Speed'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_BaiYanMoJun_01/Curve/RSC_PSD_BaiYanMoJun_01_Bullet1202_Rotation.RSC_PSD_BaiYanMoJun_01_Bullet1202_Rotation'"
+    },
+    {
+      "1": "50070302",
+      "2": "50070302"
+    },
+    {
+      "1": "50990012",
+      "2": "50990012",
+      "3": "4",
+      "4": "head",
+      "7": "5"
+    },
+    {
+      "1": "50990021",
+      "2": "50990021",
+      "3": "4",
+      "4": "head",
+      "7": "5",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_ZhuBaJie_01B/C_psd_zhubajie_01b_Bullet_line_speed.C_psd_zhubajie_01b_Bullet_line_speed'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_ZhuBaJie_01B/C_psd_zhubajie_01b_Bullet_line_Rot.C_psd_zhubajie_01b_Bullet_line_Rot'"
+    },
+    {
+      "1": "50990023",
+      "2": "50990023",
+      "3": "4",
+      "4": "head",
+      "7": "5",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_ZhuBaJie_01B/C_psd_zhubajie_01b_Bullet_line_speed.C_psd_zhubajie_01b_Bullet_line_speed'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_ZhuBaJie_01B/C_psd_zhubajie_01b_Bullet_line_Rot.C_psd_zhubajie_01b_Bullet_line_Rot'"
+    },
+    {
+      "1": "50990025",
+      "2": "50990025",
+      "3": "4",
+      "4": "head",
+      "7": "5",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_ZhuBaJie_01B/C_psd_zhubajie_01b_Bullet_line_speed.C_psd_zhubajie_01b_Bullet_line_speed'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_ZhuBaJie_01B/C_psd_zhubajie_01b_Bullet_line_Rot.C_psd_zhubajie_01b_Bullet_line_Rot'"
+    },
+    {
+      "1": "50990027",
+      "2": "50990027",
+      "3": "4",
+      "4": "head",
+      "7": "5",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_ZhuBaJie_01B/C_psd_zhubajie_01b_Bullet_line_speed.C_psd_zhubajie_01b_Bullet_line_speed'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_ZhuBaJie_01B/C_psd_zhubajie_01b_Bullet_line_Rot.C_psd_zhubajie_01b_Bullet_line_Rot'"
+    },
+    {
+      "1": "50990029",
+      "2": "50990029",
+      "3": "4",
+      "4": "head",
+      "7": "5",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_ZhuBaJie_01B/C_psd_zhubajie_01b_Bullet_line_speed.C_psd_zhubajie_01b_Bullet_line_speed'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_ZhuBaJie_01B/C_psd_zhubajie_01b_Bullet_line_Rot.C_psd_zhubajie_01b_Bullet_line_Rot'"
+    },
+    {
+      "1": "50990031",
+      "2": "50990031",
+      "3": "4",
+      "4": "head",
+      "7": "5",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_ZhuBaJie_01B/C_psd_zhubajie_01b_Bullet_line_speed.C_psd_zhubajie_01b_Bullet_line_speed'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_ZhuBaJie_01B/C_psd_zhubajie_01b_Bullet_line_Rot.C_psd_zhubajie_01b_Bullet_line_Rot'"
+    },
+    {
+      "1": "50990033",
+      "2": "50990033",
+      "3": "4",
+      "4": "head",
+      "7": "5",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_ZhuBaJie_01B/C_psd_zhubajie_01b_Bullet_line_speed_7.C_psd_zhubajie_01b_Bullet_line_speed_7'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_ZhuBaJie_01B/C_psd_zhubajie_01b_Bullet_line_Rot_7.C_psd_zhubajie_01b_Bullet_line_Rot_7'"
+    },
+    {
+      "1": "51003003",
+      "2": "51003003",
+      "3": "10",
+      "5": "EnvQuery'/Game/00Main/Design/AI/EQS/EQ_PlayerJiaoXiaZhouWei.EQ_PlayerJiaoXiaZhouWei'",
+      "7": "1",
+      "9": "1119092736",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_zhubajie_02a/Curve/C_psd_zhubajie_02a_Star_Speed_Fly.C_psd_zhubajie_02a_Star_Speed_Fly'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_zhubajie_02a/Curve/C_psd_zhubajie_02a_Star_Rotate_Fly.C_psd_zhubajie_02a_Star_Rotate_Fly'"
+    },
+    {
+      "1": "51003004",
+      "2": "51003004",
+      "3": "1",
+      "7": "1",
+      "9": "1119092736",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_zhubajie_02a/Curve/C_psd_zhubajie_02a_StarBack_Speed_Fly.C_psd_zhubajie_02a_StarBack_Speed_Fly'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/PSD/PSD_zhubajie_02a/Curve/C_psd_zhubajie_02a_StarBack_Rotate_Fly.C_psd_zhubajie_02a_StarBack_Rotate_Fly'"
+    },
+    {
+      "1": "70010102",
+      "2": "70010102",
+      "3": "4",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "1": "70010103",
+      "2": "70010103",
+      "3": "1",
+      "7": "5",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "63"
+        ],
+        "1103": {},
+        "944": "69"
+      },
+      "14": "\u0000\u0000\u0016D\u0000\u0000\u0016D\u0000\u0000\u0000\u0000"
+    },
+    {
+      "1": "70010104",
+      "2": "70010104",
+      "3": "1",
+      "7": "5",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "63"
+        ],
+        "1103": {},
+        "944": "69"
+      },
+      "14": "\u0000\u0000\u0016D\u0000\u0000\u0016D\u0000\u0000\u0000\u0000"
+    },
+    {
+      "1": "74010202",
+      "2": "74010202",
+      "3": "4"
+    },
+    {
+      "1": "74011102",
+      "2": "74011102",
+      "3": "4",
+      "4": "pelvis",
+      "7": "5",
+      "11": "1",
+      "12": {
+        "0": [
+          "1142080",
+          "1142080",
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "1": "80001309",
+      "2": "80009913",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/MGD/MGD_yangjian_01/Curve/C_mgd_yangjian_01_atk13_spd.C_mgd_yangjian_01_atk13_spd'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/MGD/MGD_yangjian_01/Curve/C_mgd_yangjian_01_atk_13_rot.C_mgd_yangjian_01_atk_13_rot'"
+    },
+    {
+      "1": "80008302",
+      "2": "80009907",
+      "3": "4",
+      "4": "pelvis",
+      "7": "5",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/MGD/MGD_yangjian_01/Curve/C_mgd_yangjian_01_atk_25_SPD.C_mgd_yangjian_01_atk_25_SPD'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/MGD/MGD_yangjian_01/Curve/C_mgd_yangjian_01_atk_25_ROT.C_mgd_yangjian_01_atk_25_ROT'"
+    },
+    {
+      "1": "80008303",
+      "2": "80009914",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/MGD/MGD_yangjian_01/Curve/C_mgd_yangjian_01_SwordAim_SPD_atk83.C_mgd_yangjian_01_SwordAim_SPD_atk83'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/MGD/MGD_yangjian_01/Curve/C_mgd_yangjian_01_SwordAim_ROT_atk83.C_mgd_yangjian_01_SwordAim_ROT_atk83'"
+    },
+    {
+      "1": "80009901",
+      "2": "80009901",
+      "3": "4",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      "14": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+      "1": "80009903",
+      "2": "80009903",
+      "3": "4",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/MGD/MGD_yangjian_01/Curve/C_mgd_yangjian_01_atk_25_SPD.C_mgd_yangjian_01_atk_25_SPD'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/MGD/MGD_yangjian_01/Curve/C_mgd_yangjian_01_atk_25_ROT.C_mgd_yangjian_01_atk_25_ROT'"
+    },
+    {
+      "1": "80009909",
+      "2": "80009914",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/MGD/MGD_yangjian_01/Curve/C_mgd_yangjian_01_SwordAim_SPD.C_mgd_yangjian_01_SwordAim_SPD'",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/MGD/MGD_yangjian_01/Curve/C_mgd_yangjian_01_SwordAim_ROT.C_mgd_yangjian_01_SwordAim_ROT'"
+    },
+    {
+      "1": "80009911",
+      "2": "80009912",
+      "3": "4",
+      "4": "spine_03",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      "14": "\u0000\u0000HC\u0000\u0000HC\u0000\u0000\u0000\u0000"
+    },
+    {
+      "1": "99679902",
+      "2": "99679902",
+      "11": "1",
+      "12": {
+        "0": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "1": "99810502",
+      "2": "99810502",
+      "11": "1"
+    },
+    {
+      "1": "99810503",
+      "2": "99810503",
+      "11": "1"
+    },
+    {
+      "1": "20310102",
+      "2": "20310103",
+      "3": "4",
+      "7": "5",
+      "11": "1",
+      "12": {
+        "0": [
+          "1121664",
+          "1121664",
+          "0",
+          "0"
+        ]
+      },
+      "14": "\u0000@\u001cF\u0000\u0000HB\\x9a\\x99\\x99>"
+    }
+  ],
+  "1-1": [
+    {
+      "1": "1014102",
+      "2": "1014102",
+      "3": "1",
+      "4": "pelvis",
+      "7": "5",
+      "11": "1",
+      "12": "\u0000\\x80\\xbbD\u0000\u0000\\xfaD\u0000\u0000\u0000?",
+      "14": "\u0000\u0000\\xb4C\u0000\u0000\\xf0C\u0000\u0000\u0000?"
+    },
+    {
+      "1": "1085401",
+      "2": "1085401",
+      "3": "4",
+      "7": "5",
+      "11": "1",
+      "12": "\u0000\u0000\\xfaD\u0000\\x80;E\u0000\u0000\\x80?",
+      "14": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000@@"
+    },
+    {
+      "1": "1085602",
+      "2": "1085602",
+      "7": "5",
+      "11": "1",
+      "12": "\u0000\u0000\\xfaD\u0000\\x80;E\u0000\u0000\\x80?",
+      "14": "\u0000\u0000\\x96D\u0000\u0000\\x96D\u0000\u0000@@"
+    },
+    {
+      "1": "10030601",
+      "2": "10030601",
+      "3": "4",
+      "7": "5",
+      "11": "1",
+      "12": "\u0000\u0000HD\u0000\u0000zD\u0000\u0000@@",
+      "14": "\u0000\u0000HB\u0000\u0000\\x96B\u0000\u0000\\xa0@"
+    },
+    {
+      "1": "11113603",
+      "2": "11113603",
+      "11": "1",
+      "12": "\u0000\\x80;E\u0000\u0000\\xfaD\u0000\u0000\\x80?",
+      "14": "\u0000\u0000\\xc8B\u0000\u0000\\xc8B\u0000\u0000\u0000\u0000"
+    },
+    {
+      "1": "11113604",
+      "2": "11113604",
+      "11": "1",
+      "12": "\u0000\u0000\\xfaD\u0000\u0000\\xe1D\u0000\u0000\\x80?",
+      "14": "\u0000\u0000\\xf0B\u0000\u0000\\xb4C\u0000\u0000\\x80?"
+    },
+    {
+      "1": "19991203",
+      "2": "19991203",
+      "3": "4",
+      "7": "5",
+      "11": "1",
+      "12": "\u0000\u0000zF\u0000\u0000zF\u0000\u0000\u0000\u0000",
+      "14": "\u0000@\u001cF\u0000\u0000\u0000\u0000\\xcd\\xcc\\xcc="
+    },
+    {
+      "1": "20170802",
+      "2": "20170802",
+      "11": "1",
+      "12": "\u0000@\\x9cE\u0000@\\x9cE\u0000\u0000\u0000\u0000",
+      "14": "\u0000\u0000\\xf0C\u0000\u0000\\xf0C\u0000\u0000\u0000\u0000"
+    },
+    {
+      "1": "20189102",
+      "2": "20189102",
+      "3": "1",
+      "4": "hand_r",
+      "11": "1",
+      "12": "\u0000\u0000zE\u0000\u0000zE\u0000\u0000\u0000\u0000",
+      "14": "\u0000\u0000\u0016D\u0000\u00004C\\xcd\\xccL>"
+    },
+    {
+      "1": "20480305",
+      "2": "20480305",
+      "3": "9",
+      "4": "head",
+      "7": "5",
+      "11": "1",
+      "12": "\u0000\\x80;E\u0000\\x80;E\u0000\u0000\\x80?"
+    },
+    {
+      "1": "20480501",
+      "2": "20480501",
+      "3": "4",
+      "7": "5",
+      "12": "\u0000\\x80;E\u0000\\x80;E\u0000\u0000\\x80?"
+    },
+    {
+      "1": "20480502",
+      "2": "20480502",
+      "3": "4",
+      "12": "\u0000\\x80;E\u0000\\x80;E\u0000\u0000\\x80?"
+    },
+    {
+      "1": "21020702",
+      "2": "21020702",
+      "3": "4",
+      "7": "5",
+      "11": "1",
+      "12": "\u0000 \\xb2E\u0000 \\xb2E\\xcd\\xcc\\xcc="
+    },
+    {
+      "1": "30130101",
+      "2": "30130102",
+      "3": "4",
+      "11": "1",
+      "12": "\u0000\\xd0\u0004F\u0000\\xd0\u0004F\u0000\u0000\u0000\u0000",
+      "14": "\u0000\u0000\\xc8B\u0000\u0000\\xc8B\u0000\u0000\u0000\u0000",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_XueHou/C_LYS_XueHou_Bullet_01_ROT.C_LYS_XueHou_Bullet_01_ROT'"
+    },
+    {
+      "1": "30140304",
+      "2": "30140304",
+      "3": "4",
+      "7": "5",
+      "11": "1",
+      "12": "\u0000\u0000zD\u0000\u0000zD\u0000\u0000\u0000\u0000",
+      "14": "\u0000\u0000\\x96D\u0000\u0000\\x96D\u0000\u0000\u0000?"
+    },
+    {
+      "1": "30190099",
+      "2": "30190099",
+      "7": "5",
+      "11": "1",
+      "12": "\u0000`jF\u0000`jF\u0000\u0000\u0000\u0000",
+      "14": "\u0000\u0000\\xf0A\u0000\u0000\\xf0A\u0000\u0000\u0000\u0000"
+    },
+    {
+      "1": "30280102",
+      "2": "30280102",
+      "3": "4",
+      "4": "head",
+      "7": "5",
+      "11": "1",
+      "12": "\u0000\u0000\\x96D\u0000@\u001cE\u0000\u0000@@",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_LaoSeng_01/C_LYS_LaoSeng_01_Bullet0102_Speed.C_LYS_LaoSeng_01_Bullet0102_Speed'",
+      "14": "\u0000\u0000\u0016C\u0000\u0000HC\u0000\u0000\\x80?",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/LYS/LYS_LaoSeng_01/C_LYS_LaoSeng_01_Bullet0102_Rotate.C_LYS_LaoSeng_01_Bullet0102_Rotate'"
+    },
+    {
+      "1": "30300402",
+      "2": "30300402",
+      "11": "1",
+      "12": "\u0000\u0000\\xfaD\u0000\u0000\u0000\u0000\u0000\u0000\u0000?",
+      "14": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+      "1": "30512402",
+      "2": "30512402",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "12": "\u0000\u0000\u0000\u0000\u0000\\xe0\\xabE\\x9a\\x99\\x99>",
+      "14": "\u0000@\\x9cE\u0000\u0000\u0000\u0000\\x9a\\x99\\x99>"
+    },
+    {
+      "1": "39002400",
+      "2": "39002402",
+      "3": "1",
+      "4": "Hit_LYB_7",
+      "11": "1",
+      "12": "\u0000\u0000zE\u0000\u0000\\xfaE\u0000\u0000\\x80?",
+      "14": "\u0000\u0000\\xb4C\u0000\u0000aD\\xcd\\xccL>"
+    },
+    {
+      "1": "40050402",
+      "2": "40050401",
+      "3": "4",
+      "7": "5",
+      "11": "1",
+      "12": "\u0000\u0000\\x96D\u0000\u0000\\x96D\u0000\u0000\u0000\u0000",
+      "14": "\u0000\u0000\u0016D\u0000\u0000\u0000\u0000\u0000\u0000\u0000@"
+    },
+    {
+      "1": "41210101",
+      "2": "41210110",
+      "3": "4",
+      "4": "pelvis",
+      "7": "5",
+      "11": "1",
+      "12": "\u0000@\\x9cE\u0000\\x80\\xbbE\u0000\u0000\u0000?",
+      "14": "\u0000\u0000\\xb4C\u0000\u0000\\xfaD\\x9a\\x99\u0019?"
+    },
+    {
+      "1": "41210102",
+      "2": "41210112",
+      "3": "4",
+      "11": "1",
+      "12": "\u0000@\u001cF\u0000@\u001cF\u0000\u0000\u0000\u0000",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/Online/SL/SL_SGD_01/C_sl_sgd_feifotou_03_spd.C_sl_sgd_feifotou_03_spd'",
+      "14": "\u0000\u0000\\xc8B\u0000\u0000\\xc8B\u0000\u0000\u0000\u0000",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/Online/SL/SL_SGD_01/C_sl_sgd_feifotou_03_rot.C_sl_sgd_feifotou_03_rot'",
+      "16": "\\xe1\\x93\u0019"
+    },
+    {
+      "1": "41210103",
+      "2": "41210113",
+      "11": "1",
+      "12": "\u0000\\x80;E\u0000\u0000zD\u0000\u0000\\x80?",
+      "14": "\u0000\u0000\\xc8B\u0000\u0000\\xc8B\u0000\u0000\u0000\u0000"
+    },
+    {
+      "1": "44011030",
+      "2": "44011030",
+      "3": "4",
+      "11": "1",
+      "12": "\u0000\u0000zE\u0000\u0000zE\u0000\u0000\u0000\u0000",
+      "13": "CurveFloat'/Game/00Main/Design/Bullets/HYS/HYS_HongHaiEr_01A/C_HYS_HHEFS_FlySpd.C_HYS_HHEFS_FlySpd'",
+      "14": "\u0000\u0000\\xb4C\u0000\u0000\\xb4C\u0000\u0000\u0000\u0000",
+      "15": "CurveFloat'/Game/00Main/Design/Bullets/HYS/HYS_HongHaiEr_01A/C_HYS_HHEFS_RotSpd.C_HYS_HHEFS_RotSpd'"
+    },
+    {
+      "1": "44011097",
+      "2": "44011097",
+      "11": "1",
+      "12": "\u0000\u0000\\xfaD\u0000\u0000\\xe1D\u0000\u0000\\x80?",
+      "14": "\u0000\u0000\\xf0B\u0000\u0000\\xb4C\u0000\u0000\\x80?"
+    },
+    {
+      "1": "44019197",
+      "2": "44019197",
+      "11": "1",
+      "12": "\u0000\u0000\\xfaD\u0000\u0000\\xe1D\u0000\u0000\\x80?",
+      "14": "\u0000\u0000\\xf0B\u0000\u0000\\xb4C\u0000\u0000\\x80?"
+    },
+    {
+      "1": "44070702",
+      "2": "44070702",
+      "3": "4",
+      "4": "pelvis",
+      "7": "5",
+      "11": "1",
+      "12": "\u0000\u0000\u0000\u0000\u0000\\xc0\\xdaE\\xcd\\xccL>"
+    },
+    {
+      "1": "44072702",
+      "2": "44072702",
+      "3": "4",
+      "4": "pelvis",
+      "7": "5",
+      "11": "1",
+      "12": "\u0000\u0000\u0000\u0000\u0000\\xc0\\xdaE\\xcd\\xccL>"
+    },
+    {
+      "1": "44430201",
+      "2": "44430201",
+      "3": "4",
+      "4": "pelvis",
+      "7": "5",
+      "11": "1",
+      "12": "\u0000@\\x9cE\u0000\\x80\\xbbE\u0000\u0000\u0000?"
+    },
+    {
+      "1": "44430202",
+      "2": "44430202",
+      "3": "4",
+      "4": "pelvis",
+      "7": "5",
+      "11": "1",
+      "12": "\u0000@\\x9cE\u0000\\x80\\xbbE\u0000\u0000\u0000?"
+    },
+    {
+      "1": "47054402",
+      "2": "47054402",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "12": "\u0000\u0000\u0000\u0000\u0000\\xe0\\xabE\\x9a\\x99\\x99>",
+      "14": "\u0000@\\x9cE\u0000\u0000\u0000\u0000\\x9a\\x99\\x99>"
+    },
+    {
+      "1": "47054409",
+      "2": "47054406",
+      "3": "4",
+      "4": "pelvis",
+      "11": "1",
+      "12": "\u0000\u0000\u0000\u0000\u0000\\xe0\\xabE\\x9a\\x99\\x99>",
+      "14": "\u0000@\\x9cE\u0000\u0000\u0000\u0000\\x9a\\x99\\x99>"
+    },
+    {
+      "1": "47055102",
+      "2": "47055102",
+      "3": "9",
+      "4": "head",
+      "7": "5",
+      "11": "1",
+      "12": "\u0000\u0000\\xfaE\u0000\u0000\\xfaE\u0000\u0000\\x80?"
+    },
+    {
+      "1": "47061001",
+      "2": "47061001",
+      "3": "4",
+      "4": "pelvis",
+      "7": "5",
+      "11": "1",
+      "12": "\u0000@\\x9cE\u0000\\xc0\\xdaE\u0000\u0000\\x80?",
+      "14": "\u0000\u0000\\xfaC\u0000\u0000\\xfaC\u0000\u0000\u0000\u0000"
+    },
+    {
+      "1": "47123201",
+      "2": "47123202",
+      "3": "4",
+      "4": "root",
+      "11": "1",
+      "12": "\u0000\u0000\\xfaD\u0000@\u001cE\u0000\u0000\u0000?",
+      "14": "\u0000\u0000HB\u0000\u0000 A\\x9a\\x99\u0019?"
+    },
+    {
+      "1": "50110203",
+      "2": "50110203",
+      "11": "1",
+      "12": "\u0000\\x80\\xbbD\u0000\u0000\\xfaD\u0000\u0000\u0000?",
+      "14": "\u0000\u0000\\xb4C\u0000\u0000\\xf0C\u0000\u0000\u0000?"
+    },
+    {
+      "1": "50121002",
+      "2": "50121002",
+      "11": "1",
+      "12": "\u0000\u0000\\x96C\u0000\u0000\u0000\u0000\u0000\u0000\u0000?",
+      "14": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+      "1": "50201091",
+      "2": "50201091",
+      "3": "4",
+      "7": "5",
+      "11": "1",
+      "12": "\u0000\u0000aD\u0000\\x80\\x89D\u0000\u0000\u0000?",
+      "14": "\u0000\u00004B\u0000\u0000\\B\u0000\u0000\\x80?"
+    },
+    {
+      "1": "51009901",
+      "2": "20119902",
+      "11": "1",
+      "12": "\u0000\\x80\\xbbD\u0000\u0000\\xfaD\u0000\u0000\u0000?",
+      "14": "\u0000\u0000\\xb4C\u0000\u0000\\xf0C\u0000\u0000\u0000?"
+    },
+    {
+      "1": "74010402",
+      "2": "74010402",
+      "3": "4",
+      "4": "pelvis",
+      "7": "5",
+      "11": "1",
+      "12": "\u0000\u0000zE\u0000\u0000zE\u0000\u0000\u0000\u0000"
+    },
+    {
+      "1": "80008301",
+      "2": "80000007",
+      "3": "1",
+      "4": "pelvis",
+      "11": "1",
+      "12": "\u0000\u0000zE\u0000\u0000\\xfaD\u0000\u0000\\x80@",
+      "14": "\u0000\u0000\\xb4C\u0000\u0000\\xf0C\u0000\u0000\u0000?"
+    },
+    {
+      "1": "80008304",
+      "2": "80000014",
+      "11": "1",
+      "12": "\u0000\u0000\\xfaD\u0000\u0000\u0000\u0000\u0000\u0000\u0000?",
+      "14": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+      "1": "80009902",
+      "2": "80009902",
+      "3": "4",
+      "7": "1",
+      "9": "1119092736",
+      "11": "1",
+      "12": "\u0000\u0000\\xc8C\u0000\u0000\u0000\u0000\u0000\u0000\u0000@",
+      "14": "\u0000@\u001cF\u0000\u0000\u0000\u0000\\xcd\\xcc\\xcc="
+    },
+    {
+      "1": "80009906",
+      "2": "80009906",
+      "3": "4",
+      "11": "1",
+      "12": "\u0000\u0000zF\u0000\u0000zF\u0000\u0000\u0000\u0000",
+      "14": "\u0000\u0000\u0016D\u0000\u0000\u0016D\u0000\u0000\u0000\u0000"
+    },
+    {
+      "1": "80009912",
+      "2": "80009903",
+      "11": "1",
+      "12": "\u0000\u0000zF\u0000\u0000zF\u0000\u0000\u0000\u0000"
+    }
+  ]
+}

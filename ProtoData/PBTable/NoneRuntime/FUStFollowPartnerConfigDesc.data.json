@@ -1,0 +1,153 @@
+{
+  "1": [
+    {
+      "1": "1",
+      "4": "509905",
+      "5": "BGWDataAsset_FollowPartnerDisplayConfig'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/DA_npc_zhubajie_disp.DA_npc_zhubajie_disp'",
+      "6": "1",
+      "8": "50000",
+      "9": "5",
+      "12": {
+        "1": "907",
+        "2": "1"
+      }
+    },
+    {
+      "1": "2",
+      "2": "40",
+      "3": "UGuid.PSD.ZhuBaJie.Follow.Box",
+      "4": "509906",
+      "5": "BGWDataAsset_FollowPartnerDisplayConfig'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/DA_npc_zhubajie_disp.DA_npc_zhubajie_disp'",
+      "8": "50000",
+      "9": "5",
+      "12": {
+        "1": "4901001",
+        "2": "1"
+      }
+    },
+    {
+      "1": "3",
+      "2": "40",
+      "3": "UGuid.PSD.ZhuBaJie.Follow.Box",
+      "4": "509906",
+      "5": "BGWDataAsset_FollowPartnerDisplayConfig'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/DA_npc_zhubajie_disp.DA_npc_zhubajie_disp'",
+      "6": "1",
+      "7": "1",
+      "8": "50000",
+      "11": "1",
+      "12": [
+        {
+          "1": "4901002",
+          "2": "1"
+        },
+        {
+          "1": "4901003",
+          "2": "1"
+        },
+        {
+          "1": "4901004",
+          "2": "1"
+        }
+      ]
+    },
+    {
+      "1": "6",
+      "2": "30",
+      "3": "UGuid.LYS.ZhuBaJie.Follow.Box",
+      "4": "509930",
+      "5": "BGWDataAsset_FollowPartnerDisplayConfig'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/DA_npc_zhubajie_disp.DA_npc_zhubajie_disp'",
+      "6": "1",
+      "7": "1",
+      "8": "15000",
+      "9": "5",
+      "12": {
+        "1": "3901002",
+        "2": "1"
+      }
+    },
+    {
+      "1": "7",
+      "2": "40",
+      "4": "509999",
+      "5": "BGWDataAsset_FollowPartnerDisplayConfig'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/DA_npc_zhubajie_disp.DA_npc_zhubajie_disp'",
+      "6": "1",
+      "7": "1",
+      "8": "50000",
+      "9": "5",
+      "12": {
+        "1": "907",
+        "2": "1"
+      }
+    },
+    {
+      "1": "8",
+      "2": "98",
+      "3": "UGuid.HGS.ZhuBaJie.Follow.Box",
+      "4": "509942",
+      "5": "BGWDataAsset_FollowPartnerDisplayConfig'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/DA_npc_zhubajie_disp.DA_npc_zhubajie_disp'",
+      "8": "50000",
+      "9": "5",
+      "12": {
+        "1": "9810001",
+        "2": "1"
+      }
+    },
+    {
+      "1": "9",
+      "2": "98",
+      "3": "UGuid.HGS.ZhuBaJie.Follow.Box",
+      "4": "509942",
+      "5": "BGWDataAsset_FollowPartnerDisplayConfig'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/DA_npc_zhubajie_disp.DA_npc_zhubajie_disp'",
+      "6": "1",
+      "7": "1",
+      "8": "50000",
+      "9": "5",
+      "12": {
+        "1": "9810002",
+        "2": "1"
+      }
+    },
+    {
+      "1": "10",
+      "2": "98",
+      "3": "UGuid.Shiluan.ZhuBaJie.Follow.Box",
+      "4": "509943",
+      "5": "BGWDataAsset_FollowPartnerDisplayConfig'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/DA_npc_zhubajie_disp.DA_npc_zhubajie_disp'",
+      "7": "1",
+      "8": "50000",
+      "9": "5",
+      "12": {
+        "1": "9812001",
+        "2": "1"
+      }
+    },
+    {
+      "1": "11",
+      "2": "98",
+      "3": "UGuid.Shiluan.ZhuBaJie.Follow.Box",
+      "4": "509943",
+      "5": "BGWDataAsset_FollowPartnerDisplayConfig'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/DA_npc_zhubajie_disp.DA_npc_zhubajie_disp'",
+      "6": "1",
+      "7": "1",
+      "8": "50000",
+      "9": "5",
+      "12": {
+        "1": "9812002",
+        "2": "1"
+      }
+    },
+    {
+      "1": "12",
+      "4": "509931",
+      "5": "BGWDataAsset_FollowPartnerDisplayConfig'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/DA_npc_zhubajie_disp.DA_npc_zhubajie_disp'",
+      "6": "1",
+      "7": "1",
+      "8": "15000",
+      "9": "5",
+      "12": {
+        "1": "9599001",
+        "2": "1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,4414 @@
+{
+  "1": [
+    {
+      "1": "10",
+      "2": "1120403456",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_Circle"
+        }
+      ]
+    },
+    {
+      "1": "11",
+      "2": "1120403456",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "1": "12",
+      "2": "1140457472",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "1": "13",
+      "2": "1195593728",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_Head"
+        },
+        {
+          "1": "Collision_Left"
+        },
+        {
+          "1": "Collision_Right"
+        }
+      ]
+    },
+    {
+      "1": "14",
+      "2": "1176256512",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_Defend"
+        }
+      ]
+    },
+    {
+      "1": "15",
+      "2": "1148846080",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "1": "16",
+      "2": "1140457472",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "1": "17",
+      "2": "1148846080",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "18",
+      "2": "1120403456",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "19",
+      "2": "1140457472",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "1": "23",
+      "2": "1167867904",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "1": "24",
+      "2": "1167867904",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_ArmL"
+        },
+        {
+          "1": "Collision_ArmR"
+        },
+        {
+          "1": "Collision_LegL"
+        },
+        {
+          "1": "Collision_LegR"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "25",
+      "2": "1203982336",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_ArmL"
+        },
+        {
+          "1": "Collision_ArmR"
+        },
+        {
+          "1": "Collision_LegL"
+        },
+        {
+          "1": "Collision_LegR"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "29",
+      "2": "1120403456",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "30",
+      "2": "1120403456",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "31",
+      "2": "1120403456",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "32",
+      "2": "1120403456",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "33",
+      "2": "1120403456",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "34",
+      "2": "1120403456",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "35",
+      "2": "1120403456",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "36",
+      "2": "1120403456",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "37",
+      "2": "1120403456",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "38",
+      "2": "1120403456",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "39",
+      "2": "1120403456",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Body"
+        }
+      ]
+    },
+    {
+      "1": "40",
+      "2": "1120403456",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "50",
+      "2": "1148846080",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_Circle"
+        }
+      ]
+    },
+    {
+      "1": "1001",
+      "2": "1148846080",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "1002",
+      "2": "1148846080",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "1003",
+      "2": "1176256512",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Jump"
+        }
+      ]
+    },
+    {
+      "1": "1004",
+      "2": "1176256512",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "1": "1005",
+      "2": "1148846080",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "1006",
+      "2": "1176256512",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Jump"
+        }
+      ]
+    },
+    {
+      "1": "1007",
+      "2": "1120403456",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "1008",
+      "2": "1120403456",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "1009",
+      "2": "1120403456",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Jump"
+        }
+      ]
+    },
+    {
+      "1": "1010",
+      "2": "1259902592",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "1011",
+      "2": "1176256512",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_Jump"
+        }
+      ]
+    },
+    {
+      "1": "1012",
+      "2": "1148846080",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "1013",
+      "2": "1232348160",
+      "4": [
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_HandL"
+        },
+        {
+          "1": "Collision_LegL"
+        },
+        {
+          "1": "Collision_ThighL"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_HandR"
+        },
+        {
+          "1": "Collision_LegR"
+        },
+        {
+          "1": "Collision_ThighR"
+        }
+      ]
+    },
+    {
+      "1": "1014",
+      "2": "1148846080",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "1015",
+      "2": "1148846080",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "1016",
+      "2": "1148846080",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "1017",
+      "2": "1148846080",
+      "4": {
+        "1": "Collision_Body"
+      }
+    },
+    {
+      "1": "1018",
+      "2": "1148846080",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "1019",
+      "2": "1161527296",
+      "4": {
+        "1": "Collision_Body"
+      }
+    },
+    {
+      "1": "1020",
+      "2": "1148846080",
+      "4": {
+        "1": "Collision_Body"
+      }
+    },
+    {
+      "1": "1021",
+      "2": "1176256512",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "1023",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Foot"
+        },
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "1": "1024",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Foot"
+        },
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "1": "1025",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Arm_L"
+        },
+        {
+          "1": "Collision_Arm_R"
+        },
+        {
+          "1": "Collision_Foot_L"
+        },
+        {
+          "1": "Collision_Foot_R"
+        },
+        {
+          "1": "Collision_Hand_L"
+        },
+        {
+          "1": "Collision_Hand_R"
+        },
+        {
+          "1": "Collision_Body_1"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "1027",
+      "2": "1259902592",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "1028",
+      "2": "1203982336",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "1029",
+      "2": "1148846080",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "1030",
+      "2": "1148846080",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "1": "1031",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Arm"
+        },
+        {
+          "1": "Collision_Foot"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "1": "1035",
+      "2": "1203982336",
+      "4": [
+        {
+          "1": "Collision_Leg"
+        },
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Head"
+        },
+        {
+          "1": "Collision_spine"
+        },
+        {
+          "1": "Collision_tail"
+        }
+      ]
+    },
+    {
+      "1": "1036",
+      "2": "1140457472",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Arm_L"
+        },
+        {
+          "1": "Collision_Arm_R"
+        },
+        {
+          "1": "Collision_Foot_L"
+        },
+        {
+          "1": "Collision_Foot_R"
+        },
+        {
+          "1": "Collision_Hand_L"
+        },
+        {
+          "1": "Collision_Hand_R"
+        },
+        {
+          "1": "Collision_Body_1"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "1037",
+      "2": "1148846080",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "1": "1038",
+      "2": "1203982336",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "1039",
+      "2": "1092616192",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "1101",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "1110",
+      "2": "1092616192",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "1111",
+      "2": "1176256512",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "1114",
+      "2": "1176256512",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "1119",
+      "2": "1148846080",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "1124",
+      "2": "1203982336",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "1": "1126",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Sculpture"
+        },
+        {
+          "1": "Collision_Horn"
+        },
+        {
+          "1": "Collision_Arm_L"
+        },
+        {
+          "1": "Collision_Arm_R"
+        },
+        {
+          "1": "Collision_Foot_L"
+        },
+        {
+          "1": "Collision_Foot_R"
+        },
+        {
+          "1": "Collision_Leg_L"
+        },
+        {
+          "1": "Collision_Leg_R"
+        },
+        {
+          "1": "Collision_Horn2"
+        }
+      ]
+    },
+    {
+      "1": "1127",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_LHand"
+        },
+        {
+          "1": "Collision_RHand"
+        },
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_LLeg"
+        },
+        {
+          "1": "Collision_RLeg"
+        },
+        {
+          "1": "Collision_LFoot"
+        },
+        {
+          "1": "Collision_RFoot"
+        },
+        {
+          "1": "Collision_LThigh"
+        },
+        {
+          "1": "Collision_RThigh"
+        }
+      ]
+    },
+    {
+      "1": "1401",
+      "2": "1232348160",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "1402",
+      "2": "1232348160",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "1888",
+      "2": "1092616192",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "1889",
+      "2": "1120403456",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "1990",
+      "2": "1259902592",
+      "3": "1",
+      "4": {
+        "1": "Collision_body_01"
+      }
+    },
+    {
+      "1": "1991",
+      "2": "1259902592",
+      "3": "1",
+      "4": {
+        "1": "Collision_body_01"
+      }
+    },
+    {
+      "1": "1992",
+      "2": "1259902592",
+      "3": "1",
+      "4": {
+        "1": "Collision_body_01"
+      }
+    },
+    {
+      "1": "1993",
+      "2": "1259902592",
+      "3": "1",
+      "4": {
+        "1": "Collision_body_01"
+      }
+    },
+    {
+      "1": "1996",
+      "2": "1092616192",
+      "3": "1",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "1999",
+      "2": "1259902592",
+      "3": "1",
+      "4": [
+        {
+          "1": "Collision_Torso"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "2001",
+      "2": "1203982336",
+      "4": [
+        {
+          "1": "Collision_Torso"
+        },
+        {
+          "1": "Collision_Atk"
+        },
+        {
+          "1": "Collision_Hand"
+        }
+      ]
+    },
+    {
+      "1": "2002",
+      "2": "1203982336",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Head"
+        },
+        {
+          "1": "Collision_LegL"
+        },
+        {
+          "1": "Collision_LegR"
+        },
+        {
+          "1": "Collision_HandR"
+        },
+        {
+          "1": "Collision_HandL"
+        }
+      ]
+    },
+    {
+      "1": "2003",
+      "2": "1148846080",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "2004",
+      "2": "1140457472",
+      "4": [
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "1": "2005",
+      "2": "1161527296",
+      "4": {
+        "1": "Collision_Body"
+      }
+    },
+    {
+      "1": "2006",
+      "2": "1140457472",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "1": "2007",
+      "2": "1148846080",
+      "4": [
+        {
+          "1": "Collision_Torso"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "2008",
+      "2": "1148846080",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "2009",
+      "2": "1148846080",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "2010",
+      "2": "1140457472",
+      "4": {
+        "1": "Collision_Body"
+      }
+    },
+    {
+      "1": "2011",
+      "2": "1203982336",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Foot"
+        },
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Head"
+        },
+        {
+          "1": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "1": "2012",
+      "2": "1232348160",
+      "4": [
+        {
+          "1": "Collision_LFoot"
+        },
+        {
+          "1": "Collision_LHand"
+        },
+        {
+          "1": "Collision_RHand"
+        },
+        {
+          "1": "Collision_Rfoot"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_Head"
+        },
+        {
+          "1": "Collision_Ass"
+        }
+      ]
+    },
+    {
+      "1": "2013",
+      "2": "1148846080",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "1": "2014",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Arm_L"
+        },
+        {
+          "1": "Collision_Arm_R"
+        },
+        {
+          "1": "Collision_Foot_L"
+        },
+        {
+          "1": "Collision_Foot_R"
+        },
+        {
+          "1": "Collision_Hand_L"
+        },
+        {
+          "1": "Collision_Hand_R"
+        },
+        {
+          "1": "Collision_Head"
+        },
+        {
+          "1": "Collision_Leg_L"
+        },
+        {
+          "1": "Collision_Leg_R"
+        }
+      ]
+    },
+    {
+      "1": "2015",
+      "2": "1176256512",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "2016",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Head"
+        },
+        {
+          "1": "Collision_LHand"
+        },
+        {
+          "1": "Collision_RHand"
+        },
+        {
+          "1": "Collision_LArm"
+        },
+        {
+          "1": "Collision_RArm"
+        },
+        {
+          "1": "Collision_LFoot"
+        },
+        {
+          "1": "Collision_RFoot"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "1": "2017",
+      "2": "1176256512",
+      "4": [
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "1": "2018",
+      "2": "1148846080",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Circle"
+        }
+      ]
+    },
+    {
+      "1": "2019",
+      "2": "1176256512",
+      "4": [
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Head"
+        },
+        {
+          "1": "Collision_ArmL"
+        },
+        {
+          "1": "Collision_ArmR"
+        }
+      ]
+    },
+    {
+      "1": "2020",
+      "2": "1140457472",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Circle"
+        }
+      ]
+    },
+    {
+      "1": "2022",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_ArmR"
+        }
+      ]
+    },
+    {
+      "1": "2023",
+      "2": "1259902592",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "2024",
+      "2": "1176256512",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "2025",
+      "2": "1203982336",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "2027",
+      "2": "1148846080",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Fly"
+        }
+      ]
+    },
+    {
+      "1": "2028",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_LegL"
+        },
+        {
+          "1": "Collision_Arm"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "2029",
+      "2": "1161527296",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Dun"
+        },
+        {
+          "1": "Collision_Dash"
+        }
+      ]
+    },
+    {
+      "1": "2030",
+      "2": "1120403456",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "2102",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_hand"
+        },
+        {
+          "1": "Collision_Leg"
+        },
+        {
+          "1": "Collision_Torso"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "2201",
+      "2": "1148846080",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "2202",
+      "2": "1176256512",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "2203",
+      "2": "1167867904",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "2204",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "2205",
+      "2": "1243125376",
+      "4": [
+        {
+          "1": "Collision_Arm"
+        },
+        {
+          "1": "Collision_Head"
+        },
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Leg"
+        },
+        {
+          "1": "Collision_Back"
+        }
+      ]
+    },
+    {
+      "1": "2210",
+      "2": "1232348160",
+      "4": [
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_HandL"
+        },
+        {
+          "1": "Collision_LegL"
+        },
+        {
+          "1": "Collision_ThighL"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_HandR"
+        },
+        {
+          "1": "Collision_LegR"
+        },
+        {
+          "1": "Collision_ThighR"
+        }
+      ]
+    },
+    {
+      "1": "2211",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Pelvis"
+        },
+        {
+          "1": "Collision_Foot"
+        },
+        {
+          "1": "Collision_Calf"
+        },
+        {
+          "1": "Collision_Hand"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "2501",
+      "2": "1176256512",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "2503",
+      "2": "1148846080",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "2504",
+      "2": "1259902592",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "2505",
+      "2": "1259902592",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "2601",
+      "2": "1162346496",
+      "4": [
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Head"
+        },
+        {
+          "1": "Collision_calf_fanzu_r"
+        },
+        {
+          "1": "Collision_thigh_l"
+        },
+        {
+          "1": "Collision_thigh_r"
+        },
+        {
+          "1": "Collision_upperarm_r"
+        },
+        {
+          "1": "Collision_upperarm_l"
+        },
+        {
+          "1": "Collision_lowerarm_r"
+        },
+        {
+          "1": "Collision_lowerarm_l"
+        },
+        {
+          "1": "Collision_calf_fanzu_l"
+        }
+      ]
+    },
+    {
+      "1": "3001",
+      "2": "1140457472",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Jump"
+        }
+      ]
+    },
+    {
+      "1": "3002",
+      "2": "1176256512",
+      "4": [
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "1": "3003",
+      "2": "1120403456",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "3004",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_foot_1"
+        },
+        {
+          "1": "Collision_foot_2"
+        },
+        {
+          "1": "Collision_foot_3"
+        },
+        {
+          "1": "Collision_foot_4"
+        }
+      ]
+    },
+    {
+      "1": "3005",
+      "2": "1176256512",
+      "4": [
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "1": "3006",
+      "2": "1148846080",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "3007",
+      "2": "1150681088",
+      "4": {
+        "1": "Collision_Body"
+      }
+    },
+    {
+      "1": "3008",
+      "2": "1176256512",
+      "4": {
+        "1": "Collision_Body"
+      }
+    },
+    {
+      "1": "3009",
+      "2": "1140457472",
+      "4": {
+        "1": "Collision_Body"
+      }
+    },
+    {
+      "1": "3010",
+      "2": "1209170944",
+      "4": {
+        "1": "Collision_Body"
+      }
+    },
+    {
+      "1": "3011",
+      "2": "1140457472",
+      "4": {
+        "1": "Collision_Body"
+      }
+    },
+    {
+      "1": "3012",
+      "2": "1176256512",
+      "4": [
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "1": "3013",
+      "2": "1176256512",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "3014",
+      "2": "1176256512",
+      "4": [
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Tail"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "3016",
+      "2": "1176256512",
+      "4": [
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Circle"
+        }
+      ]
+    },
+    {
+      "1": "3017",
+      "2": "1120403456",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "3018",
+      "2": "1140457472",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "3019",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Arm"
+        },
+        {
+          "1": "Collision_Foot"
+        },
+        {
+          "1": "Collision_Hand"
+        },
+        {
+          "1": "Collision_Foot"
+        },
+        {
+          "1": "Collision_head"
+        }
+      ]
+    },
+    {
+      "1": "3020",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Leg_L"
+        },
+        {
+          "1": "Collision_Leg_R"
+        },
+        {
+          "1": "Collision_Foot_L"
+        },
+        {
+          "1": "Collision_Foot_R"
+        },
+        {
+          "1": "Collision_Thigh_L"
+        },
+        {
+          "1": "Collision_Thigh_R"
+        },
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "1": "3021",
+      "2": "1259902592",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "3022",
+      "2": "1176256512",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "3023",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Head"
+        },
+        {
+          "1": "Collision_Neck"
+        },
+        {
+          "1": "Collision_Spine"
+        },
+        {
+          "1": "Collision_Tail"
+        },
+        {
+          "1": "Collision_Arm"
+        },
+        {
+          "1": "Collision_Leg"
+        }
+      ]
+    },
+    {
+      "1": "3024",
+      "2": "1176256512",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "1": "3025",
+      "2": "1232348160",
+      "4": [
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Arm"
+        },
+        {
+          "1": "Collision_Tail"
+        },
+        {
+          "1": "Collision_Weapon"
+        },
+        {
+          "1": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "1": "3026",
+      "2": "1176256512",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Hit"
+        }
+      ]
+    },
+    {
+      "1": "3027",
+      "2": "1259902592",
+      "4": {
+        "1": "Collision_Body"
+      }
+    },
+    {
+      "1": "3028",
+      "2": "1176256512",
+      "4": {
+        "1": "Collision_Body"
+      }
+    },
+    {
+      "1": "3029",
+      "2": "1176256512",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "3030",
+      "2": "1176256512",
+      "4": [
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "3031",
+      "2": "1259902592",
+      "4": {
+        "1": "Collision_Body"
+      }
+    },
+    {
+      "1": "3051",
+      "2": "1232348160",
+      "4": [
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_HandL"
+        },
+        {
+          "1": "Collision_LegL"
+        },
+        {
+          "1": "Collision_ThighL"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_HandR"
+        },
+        {
+          "1": "Collision_LegR"
+        },
+        {
+          "1": "Collision_ThighR"
+        }
+      ]
+    },
+    {
+      "1": "3056",
+      "2": "1176256512",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "3057",
+      "2": "1176256512",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "3058",
+      "2": "1176256512",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "3060",
+      "2": "1150681088",
+      "4": {
+        "1": "Collision_Body"
+      }
+    },
+    {
+      "1": "3070",
+      "2": "1259902592",
+      "4": {
+        "1": "Collision_Body"
+      }
+    },
+    {
+      "1": "3103",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_HandL"
+        },
+        {
+          "1": "Collision_HandR"
+        },
+        {
+          "1": "Collision_LegL"
+        },
+        {
+          "1": "Collision_LegR"
+        }
+      ]
+    },
+    {
+      "1": "3108",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Head"
+        },
+        {
+          "1": "Collision_HandL"
+        },
+        {
+          "1": "Collision_HandR"
+        },
+        {
+          "1": "Collision_FootL"
+        },
+        {
+          "1": "Collision_FootR"
+        }
+      ]
+    },
+    {
+      "1": "3333",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Head"
+        },
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Neck"
+        }
+      ]
+    },
+    {
+      "1": "3401",
+      "2": "1184645120",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "3402",
+      "2": "1232348160",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "3800",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Foot_L"
+        },
+        {
+          "1": "Collision_Foot_R"
+        }
+      ]
+    },
+    {
+      "1": "3900",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Foot_L"
+        },
+        {
+          "1": "Collision_Foot_R"
+        }
+      ]
+    },
+    {
+      "1": "3901",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Head"
+        },
+        {
+          "1": "Collision_ArmL"
+        },
+        {
+          "1": "Collision_ArmR"
+        },
+        {
+          "1": "Collision_LegL"
+        },
+        {
+          "1": "Collision_LegR"
+        },
+        {
+          "1": "Collision_Tail"
+        },
+        {
+          "1": "Collision_Pod"
+        },
+        {
+          "1": "Collision_Torso"
+        },
+        {
+          "1": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "1": "3991",
+      "2": "1150681088",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "3992",
+      "2": "1150681088",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "4001",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Jaw"
+        }
+      ]
+    },
+    {
+      "1": "4002",
+      "2": "1120403456",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "4003",
+      "2": "1232348160",
+      "4": [
+        {
+          "1": "Collision_LFoot"
+        },
+        {
+          "1": "Collision_LHand"
+        },
+        {
+          "1": "Collision_RHand"
+        },
+        {
+          "1": "Collision_Rfoot"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_Head"
+        },
+        {
+          "1": "Collision_Ass"
+        }
+      ]
+    },
+    {
+      "1": "4004",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_LHand"
+        },
+        {
+          "1": "Collision_RHand"
+        },
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_LLeg"
+        },
+        {
+          "1": "Collision_RLeg"
+        },
+        {
+          "1": "Collision_LFoot"
+        },
+        {
+          "1": "Collision_RFoot"
+        },
+        {
+          "1": "Collision_LThigh"
+        },
+        {
+          "1": "Collision_RThigh"
+        }
+      ]
+    },
+    {
+      "1": "4005",
+      "2": "1176256512",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "4006",
+      "2": "1176256512",
+      "4": [
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Tail"
+        },
+        {
+          "1": "Collision_Weapon"
+        },
+        {
+          "1": "Collision_Head"
+        },
+        {
+          "1": "Collision_Arm"
+        },
+        {
+          "1": "Collision_Leg"
+        }
+      ]
+    },
+    {
+      "1": "4007",
+      "2": "1176256512",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "4008",
+      "2": "1176256512",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "4009",
+      "2": "1176256512",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "4010",
+      "2": "1176256512",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "1": "4011",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Pelvis"
+        },
+        {
+          "1": "Collision_Foot_L"
+        },
+        {
+          "1": "Collision_Foot_R"
+        },
+        {
+          "1": "Collision_Calf_L"
+        },
+        {
+          "1": "Collision_Calf_R"
+        },
+        {
+          "1": "Collision_Hand_L"
+        },
+        {
+          "1": "Collision_Hand_R"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "4012",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_Hand"
+        },
+        {
+          "1": "Collision_Foot"
+        },
+        {
+          "1": "Collision_Leg"
+        },
+        {
+          "1": "Collision_Arm"
+        },
+        {
+          "1": "Collision_Spine"
+        }
+      ]
+    },
+    {
+      "1": "4013",
+      "2": "1148846080",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "4014",
+      "2": "1148846080",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "1": "4015",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Head"
+        },
+        {
+          "1": "Collision_LHand"
+        },
+        {
+          "1": "Collision_RHand"
+        },
+        {
+          "1": "Collision_LArm"
+        },
+        {
+          "1": "Collision_RArm"
+        },
+        {
+          "1": "Collision_LFoot"
+        },
+        {
+          "1": "Collision_RFoot"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_NHRoot"
+        }
+      ]
+    },
+    {
+      "1": "4017",
+      "2": "1120403456",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "4018",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "4019",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_JiaoL"
+        },
+        {
+          "1": "Collision_JiaoR"
+        },
+        {
+          "1": "Collision_ToothL"
+        },
+        {
+          "1": "Collision_ToothR"
+        }
+      ]
+    },
+    {
+      "1": "4020",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "4021",
+      "2": "1259902592",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "4022",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "1": "4023",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_Head"
+        },
+        {
+          "1": "Collision_tail_03"
+        },
+        {
+          "1": "Collision_tail_06"
+        }
+      ]
+    },
+    {
+      "1": "4024",
+      "2": "1259902592",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "4025",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "4026",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_Spine"
+        },
+        {
+          "1": "Collision_Neck"
+        },
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Push"
+        }
+      ]
+    },
+    {
+      "1": "4050",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Arm_L"
+        },
+        {
+          "1": "Collision_Arm_R"
+        },
+        {
+          "1": "Collision_Hand_L"
+        },
+        {
+          "1": "Collision_Hand_R"
+        },
+        {
+          "1": "Collision_Root_2"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "4051",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Arm_L"
+        },
+        {
+          "1": "Collision_Arm_R"
+        },
+        {
+          "1": "Collision_Hand_L"
+        },
+        {
+          "1": "Collision_Hand_R"
+        },
+        {
+          "1": "Collision_Root_2"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "4052",
+      "2": "1315859240",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Arm_L"
+        },
+        {
+          "1": "Collision_Arm_R"
+        },
+        {
+          "1": "Collision_Hand_L"
+        },
+        {
+          "1": "Collision_Hand_R"
+        },
+        {
+          "1": "Collision_Root_2"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "4053",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Arm_L"
+        },
+        {
+          "1": "Collision_Arm_R"
+        },
+        {
+          "1": "Collision_Hand_L"
+        },
+        {
+          "1": "Collision_Hand_R"
+        },
+        {
+          "1": "Collision_Root_2"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "4055",
+      "2": "1232348160",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "4056",
+      "2": "1148846080",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Fly"
+        }
+      ]
+    },
+    {
+      "1": "4057",
+      "2": "1232348160",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "4099",
+      "2": "1259902592",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "4110",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Hand_L"
+        },
+        {
+          "1": "Collision_Hand_R"
+        },
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Foot_L"
+        },
+        {
+          "1": "Collision_Foot_R"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "4114",
+      "2": "1232348160",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "4116",
+      "2": "1140457472",
+      "4": {
+        "1": "Collision_Body"
+      }
+    },
+    {
+      "1": "4117",
+      "2": "1148846080",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "4118",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Arm_L"
+        },
+        {
+          "1": "Collision_Arm_R"
+        },
+        {
+          "1": "Collision_Leg_L"
+        },
+        {
+          "1": "Collision_Leg_R"
+        },
+        {
+          "1": "Collision_Hand_R"
+        },
+        {
+          "1": "Collision_Hand_L"
+        },
+        {
+          "1": "Collision_Foot_R"
+        },
+        {
+          "1": "Collision_Foot_L"
+        }
+      ]
+    },
+    {
+      "1": "4119",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Leg_L"
+        },
+        {
+          "1": "Collision_Leg_R"
+        },
+        {
+          "1": "Collision_Foot_L"
+        },
+        {
+          "1": "Collision_Foot_R"
+        },
+        {
+          "1": "Collision_Thigh_L"
+        },
+        {
+          "1": "Collision_Thigh_R"
+        },
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "1": "4120",
+      "2": "1161527296",
+      "4": {
+        "1": "Collision_Body"
+      }
+    },
+    {
+      "1": "4121",
+      "2": "1243125376",
+      "4": [
+        {
+          "1": "Collision_Arm"
+        },
+        {
+          "1": "Collision_Head"
+        },
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_atk08_L"
+        },
+        {
+          "1": "Collision_atk08_R"
+        }
+      ]
+    },
+    {
+      "1": "4123",
+      "2": "1167867904",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "4124",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_Hand"
+        },
+        {
+          "1": "Collision_Foot"
+        },
+        {
+          "1": "Collision_Spine"
+        },
+        {
+          "1": "Collision_Neck"
+        },
+        {
+          "1": "Collision_Body"
+        }
+      ]
+    },
+    {
+      "1": "4126",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Head"
+        },
+        {
+          "1": "Collision_LHand"
+        },
+        {
+          "1": "Collision_RHand"
+        },
+        {
+          "1": "Collision_LArm"
+        },
+        {
+          "1": "Collision_RArm"
+        },
+        {
+          "1": "Collision_LFoot"
+        },
+        {
+          "1": "Collision_RFoot"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "1": "4127",
+      "2": "1259902592",
+      "4": {
+        "1": "Collision_Body"
+      }
+    },
+    {
+      "1": "4128",
+      "2": "1176256512",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "4129",
+      "2": "1203982336",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Head"
+        },
+        {
+          "1": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "1": "4132",
+      "2": "1259902592",
+      "4": {
+        "1": "Collision_Body"
+      }
+    },
+    {
+      "1": "4133",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Pelvis"
+        },
+        {
+          "1": "Collision_Foot_L"
+        },
+        {
+          "1": "Collision_Foot_R"
+        },
+        {
+          "1": "Collision_Calf_L"
+        },
+        {
+          "1": "Collision_Calf_R"
+        },
+        {
+          "1": "Collision_Hand_L"
+        },
+        {
+          "1": "Collision_Hand_R"
+        },
+        {
+          "1": "Collision_Head"
+        },
+        {
+          "1": "Collision_Bodyblock"
+        }
+      ]
+    },
+    {
+      "1": "4134",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Shield"
+        },
+        {
+          "1": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "1": "4163",
+      "2": "1232348160",
+      "4": [
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_LegL"
+        },
+        {
+          "1": "Collision_LegR"
+        },
+        {
+          "1": "Collision_HandR"
+        },
+        {
+          "1": "Collision_HandL"
+        },
+        {
+          "1": "Collision_ThighL"
+        },
+        {
+          "1": "Collision_ThighR"
+        }
+      ]
+    },
+    {
+      "1": "4164",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Upper"
+        },
+        {
+          "1": "Collision_Hand"
+        },
+        {
+          "1": "Collision_Leg"
+        },
+        {
+          "1": "Collision_Tail"
+        },
+        {
+          "1": "Collision_Fly"
+        }
+      ]
+    },
+    {
+      "1": "4166",
+      "2": "1176256512",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "4167",
+      "2": "1137180672",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "4168",
+      "2": "1141473280",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "4169",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Upper"
+        },
+        {
+          "1": "Collision_Hand"
+        },
+        {
+          "1": "Collision_Leg"
+        },
+        {
+          "1": "Collision_Tail"
+        },
+        {
+          "1": "Collision_Fly"
+        }
+      ]
+    },
+    {
+      "1": "4171",
+      "2": "1137180672",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "4172",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "4180",
+      "2": "1120403456",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "4181",
+      "2": "1148846080",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Rfleg"
+        },
+        {
+          "1": "Collision_Head"
+        },
+        {
+          "1": "Collision_Rbleg"
+        },
+        {
+          "1": "Collision_Lfleg"
+        },
+        {
+          "1": "Collision_Lbleg"
+        }
+      ]
+    },
+    {
+      "1": "4182",
+      "2": "1120403456",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "4183",
+      "2": "1120403456",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "4184",
+      "2": "1148846080",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Head"
+        },
+        {
+          "1": "Collision_Pelvis"
+        }
+      ]
+    },
+    {
+      "1": "4185",
+      "2": "1120403456",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "4301",
+      "2": "1120403456",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "4309",
+      "2": "1137180672",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "4310",
+      "2": "1137180672",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "4311",
+      "2": "1141473280",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "4401",
+      "2": "1232348160",
+      "4": {
+        "1": "Collision_Body"
+      }
+    },
+    {
+      "1": "4402",
+      "2": "1176256512",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Shield"
+        }
+      ]
+    },
+    {
+      "1": "4403",
+      "2": "1176256512",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Shield"
+        }
+      ]
+    },
+    {
+      "1": "4404",
+      "2": "1232348160",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "4405",
+      "2": "1232348160",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "4406",
+      "2": "1232348160",
+      "4": [
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Head"
+        },
+        {
+          "1": "Collision_Tail"
+        }
+      ]
+    },
+    {
+      "1": "4407",
+      "2": "1259902592",
+      "4": {
+        "1": "Collision_Body"
+      }
+    },
+    {
+      "1": "4441",
+      "2": "1232348160",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "4442",
+      "2": "1232348160",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "4443",
+      "2": "1232348160",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "4444",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Shield"
+        }
+      ]
+    },
+    {
+      "1": "4450",
+      "2": "1232348160",
+      "4": [
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_HandL"
+        },
+        {
+          "1": "Collision_LegL"
+        },
+        {
+          "1": "Collision_ThighL"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_HandR"
+        },
+        {
+          "1": "Collision_LegR"
+        },
+        {
+          "1": "Collision_ThighR"
+        }
+      ]
+    },
+    {
+      "1": "4499",
+      "2": "1232348160",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "4701",
+      "2": "1259902592",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "4705",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_LHand"
+        },
+        {
+          "1": "Collision_RHand"
+        },
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_LLeg"
+        },
+        {
+          "1": "Collision_RLeg"
+        },
+        {
+          "1": "Collision_LFoot"
+        },
+        {
+          "1": "Collision_RFoot"
+        },
+        {
+          "1": "Collision_LThigh"
+        },
+        {
+          "1": "Collision_RThigh"
+        }
+      ]
+    },
+    {
+      "1": "4706",
+      "2": "1203982336",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_LHand"
+        },
+        {
+          "1": "Collision_RHand"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_Head"
+        },
+        {
+          "1": "Collision_RLeg"
+        },
+        {
+          "1": "Collision_LFoot"
+        },
+        {
+          "1": "Collision_RFoot"
+        },
+        {
+          "1": "Collision_Fly"
+        }
+      ]
+    },
+    {
+      "1": "4707",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Hand_L"
+        },
+        {
+          "1": "Collision_Hand_R"
+        },
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Foot_L"
+        },
+        {
+          "1": "Collision_Foot_R"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "4708",
+      "2": "1120403456",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "4709",
+      "2": "1120403456",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "4711",
+      "2": "1243125376",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_ArmL1"
+        },
+        {
+          "1": "Collision_ArmL2"
+        },
+        {
+          "1": "Collision_ArmL3"
+        },
+        {
+          "1": "Collision_ArmR1"
+        },
+        {
+          "1": "Collision_ArmR2"
+        },
+        {
+          "1": "Collision_ArmR3"
+        }
+      ]
+    },
+    {
+      "1": "4712",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Body"
+        },
+        {}
+      ]
+    },
+    {
+      "1": "4713",
+      "2": "1176256512",
+      "4": [
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Tail"
+        },
+        {
+          "1": "Collision_Head"
+        },
+        {
+          "1": "Collision_HandR"
+        },
+        {
+          "1": "Collision_HandL"
+        },
+        {
+          "1": "Collision_FootR"
+        },
+        {
+          "1": "Collision_FootL"
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "1": "4714",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Hand_L"
+        },
+        {
+          "1": "Collision_Hand_R"
+        },
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Foot_L"
+        },
+        {
+          "1": "Collision_Foot_R"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "4888",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Tail"
+        },
+        {
+          "1": "Collision_hand"
+        },
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Leg_L"
+        },
+        {
+          "1": "Collision_Head"
+        },
+        {
+          "1": "Collision_Leg_R"
+        },
+        {
+          "1": "Collision_Bug"
+        }
+      ]
+    },
+    {
+      "1": "4997",
+      "2": "1203982336",
+      "4": [
+        {
+          "1": "Collision_Head"
+        },
+        {
+          "1": "Collision_Torso"
+        },
+        {
+          "1": "Collision_Arm"
+        },
+        {
+          "1": "Collision_Tail"
+        },
+        {
+          "1": "Collision_Leg"
+        },
+        {
+          "1": "Collision_AtkHitmove"
+        }
+      ]
+    },
+    {
+      "1": "4998",
+      "2": "1203982336",
+      "4": [
+        {
+          "1": "Collision_Head"
+        },
+        {
+          "1": "Collision_Torso"
+        },
+        {
+          "1": "Collision_Arm"
+        },
+        {
+          "1": "Collision_Tail"
+        },
+        {
+          "1": "Collision_Leg"
+        },
+        {
+          "1": "Collision_AtkHitmove"
+        }
+      ]
+    },
+    {
+      "1": "4999",
+      "2": "1203982336",
+      "4": [
+        {
+          "1": "Collision_Head"
+        },
+        {
+          "1": "Collision_Torso"
+        },
+        {
+          "1": "Collision_Arm"
+        },
+        {
+          "1": "Collision_Tail"
+        },
+        {
+          "1": "Collision_Leg"
+        },
+        {
+          "1": "Collision_AtkHitmove"
+        }
+      ]
+    },
+    {
+      "1": "5001",
+      "2": "1176256512",
+      "4": {
+        "1": "Collision_Body"
+      }
+    },
+    {
+      "1": "5002",
+      "2": "1140457472",
+      "4": {
+        "1": "Collision_Body"
+      }
+    },
+    {
+      "1": "5003",
+      "2": "1176256512",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "5005",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Upper"
+        },
+        {
+          "1": "Collision_Hand"
+        },
+        {
+          "1": "Collision_Leg"
+        },
+        {
+          "1": "Collision_Tail"
+        },
+        {
+          "1": "Collision_Fly"
+        }
+      ]
+    },
+    {
+      "1": "5006",
+      "2": "1128792064",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "5007",
+      "2": "1176256512",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "5008",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "5009",
+      "2": "1148846080",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "5010",
+      "2": "1176256512",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "5011",
+      "2": "1176256512",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "5012",
+      "2": "1148846080",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "5013",
+      "2": "1176256512",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "5014",
+      "2": "1259902592",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "5015",
+      "2": "1176256512",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "5016",
+      "2": "1176256512",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "5017",
+      "2": "1176256512",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "5018",
+      "2": "1176256512",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "5019",
+      "2": "1176256512",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Head"
+        },
+        {
+          "1": "Collision_Repel"
+        }
+      ]
+    },
+    {
+      "1": "5020",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Arm_L"
+        },
+        {
+          "1": "Collision_Arm_R"
+        },
+        {
+          "1": "Collision_Foot_R"
+        },
+        {
+          "1": "Collision_Foot_L"
+        },
+        {
+          "1": "Collision_Skill"
+        },
+        {
+          "1": "Collision_Roll"
+        }
+      ]
+    },
+    {
+      "1": "5021",
+      "2": "1176256512",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "5054",
+      "2": "1232348160",
+      "4": [
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_HandL"
+        },
+        {
+          "1": "Collision_LegL"
+        },
+        {
+          "1": "Collision_ThighL"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_HandR"
+        },
+        {
+          "1": "Collision_LegR"
+        },
+        {
+          "1": "Collision_ThighR"
+        }
+      ]
+    },
+    {
+      "1": "5099",
+      "2": "1092616192",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "5100",
+      "2": "1203982336",
+      "4": [
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Hand_L"
+        },
+        {
+          "1": "Collision_Hand_R"
+        },
+        {
+          "1": "Collision_Foot_L"
+        },
+        {
+          "1": "Collision_Foot_R"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "5401",
+      "2": "1176256512",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Arm"
+        }
+      ]
+    },
+    {
+      "1": "5402",
+      "2": "1176256512",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "5403",
+      "2": "1203982336",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "5404",
+      "2": "1176256512",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "5405",
+      "2": "1176256512",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {}
+      ]
+    },
+    {
+      "1": "5406",
+      "2": "1287568416",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "5407",
+      "2": "1287568416",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "5408",
+      "2": "1203982336",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "1": "5555",
+      "2": "1287568416",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Root_L"
+        },
+        {
+          "1": "Collision_Root_R"
+        }
+      ]
+    },
+    {
+      "1": "5801",
+      "2": "1176256512",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "5802",
+      "2": "1167867904",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "5803",
+      "2": "1176256512",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "5810",
+      "2": "1176256512",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Dun"
+        },
+        {
+          "1": "Collision_Dash"
+        }
+      ]
+    },
+    {
+      "1": "5811",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Dun"
+        },
+        {
+          "1": "Collision_Dash"
+        },
+        {
+          "1": "Collision_feet"
+        },
+        {
+          "1": "Collision_head"
+        }
+      ]
+    },
+    {
+      "1": "6001",
+      "2": "1259902592",
+      "3": "1",
+      "4": [
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Sculpture"
+        },
+        {
+          "1": "Collision_Horn"
+        },
+        {
+          "1": "Collision_Arm_L"
+        },
+        {
+          "1": "Collision_Arm_R"
+        },
+        {
+          "1": "Collision_Foot_L"
+        },
+        {
+          "1": "Collision_Foot_R"
+        },
+        {
+          "1": "Collision_Leg_L"
+        },
+        {
+          "1": "Collision_Leg_R"
+        },
+        {
+          "1": "Collision_Horn2"
+        }
+      ]
+    },
+    {
+      "1": "6006",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Thigh_L"
+        },
+        {
+          "1": "Collision_Thigh_R"
+        },
+        {
+          "1": "Collision_Calf_L"
+        },
+        {
+          "1": "Collision_Calf_R"
+        },
+        {
+          "1": "Collision_Foot_L"
+        },
+        {
+          "1": "Collision_Foot_R"
+        },
+        {
+          "1": "Collision_Head"
+        },
+        {
+          "1": "Collision_Root"
+        }
+      ]
+    },
+    {
+      "1": "6008",
+      "2": "1203982336",
+      "3": "1",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Leg_R"
+        },
+        {
+          "1": "Collision_Foot_L"
+        },
+        {
+          "1": "Collision_Foot_R"
+        },
+        {
+          "1": "Collision_Leg_L"
+        }
+      ]
+    },
+    {
+      "1": "7001",
+      "2": "1167867904",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_Circle"
+        }
+      ]
+    },
+    {
+      "1": "7002",
+      "2": "1167867904",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_Circle"
+        }
+      ]
+    },
+    {
+      "1": "7401",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Leg"
+        },
+        {
+          "1": "Collision_Stone"
+        },
+        {
+          "1": "Collision_ArmL"
+        },
+        {
+          "1": "Collision_ArmR"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    },
+    {
+      "1": "7402",
+      "2": "1259902592",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "7777",
+      "2": "1176256512",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "8000",
+      "2": "1176256512",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "8888",
+      "2": "1176256512",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Hit"
+        }
+      ]
+    },
+    {
+      "1": "8899",
+      "2": "1176256512",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "9001",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_Arm_L"
+        },
+        {
+          "1": "Collision_Arm_R"
+        },
+        {
+          "1": "Collision_Foot_L"
+        },
+        {
+          "1": "Collision_Foot_R"
+        },
+        {
+          "1": "Collision_Hand_L"
+        },
+        {
+          "1": "Collision_Hand_R"
+        },
+        {
+          "1": "Collision_Head"
+        },
+        {
+          "1": "Collision_Leg_L"
+        },
+        {
+          "1": "Collision_Leg_R"
+        }
+      ]
+    },
+    {
+      "1": "9991",
+      "2": "1120403456",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "9994",
+      "2": "1120403456",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "9995",
+      "2": "1120403456",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "9996",
+      "2": "1120403456",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "9997",
+      "2": "1120403456",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "9998",
+      "2": "1120403456",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "9999",
+      "2": "1120403456",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "10006",
+      "2": "1092616192",
+      "4": {
+        "1": "Collision_Root"
+      }
+    },
+    {
+      "1": "10011",
+      "2": "1120403456",
+      "3": "1",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_Circle"
+        }
+      ]
+    },
+    {
+      "1": "202202",
+      "2": "1259902592",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Body"
+        },
+        {
+          "1": "Collision_ArmL"
+        },
+        {
+          "1": "Collision_ArmR"
+        },
+        {
+          "1": "Collision_LegR"
+        }
+      ]
+    },
+    {
+      "1": "302001",
+      "2": "1259902592",
+      "4": {
+        "1": "Collision_Body"
+      }
+    },
+    {
+      "1": "302002",
+      "2": "1259902592"
+    },
+    {
+      "1": "24010",
+      "2": "1167867904",
+      "4": [
+        {
+          "1": "Collision_Root"
+        },
+        {
+          "1": "Collision_Repel"
+        },
+        {
+          "1": "Collision_ArmL"
+        },
+        {
+          "1": "Collision_ArmR"
+        },
+        {
+          "1": "Collision_LegL"
+        },
+        {
+          "1": "Collision_LegR"
+        },
+        {
+          "1": "Collision_Head"
+        }
+      ]
+    }
+  ]
+}

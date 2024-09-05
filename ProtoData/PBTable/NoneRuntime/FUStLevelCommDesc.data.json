@@ -1,0 +1,57 @@
+{
+  "1": [
+    {
+      "1": "10",
+      "2": "1",
+      "3": "黑风山",
+      "4": "HFS01_PersistentLevel",
+      "5": "BED_QuestAsset'/Game/00Main/Maps/HFS01/QuestAssets/CQG_HFS_Root.CQG_HFS_Root'"
+    },
+    {
+      "1": "11",
+      "2": "1",
+      "3": "旧观音禅院",
+      "4": "HFS01_Old_GYCY_YKX_PersistentLevel",
+      "5": "BED_QuestAsset'/Game/00Main/Maps/HFS01_OldGYCY_YKX/CQG_HFS_Old_GYCY_YKX.CQG_HFS_Old_GYCY_YKX'"
+    },
+    {
+      "1": "20",
+      "2": "1",
+      "3": "黄风岭",
+      "4": "HFM02_PersistentLevel",
+      "5": "BED_QuestAsset'/Game/00Main/Maps/HFM02/QuestAssets/CQG_HFM_Root.CQG_HFM_Root'"
+    },
+    {
+      "1": "21",
+      "2": "1",
+      "3": "须弥间",
+      "4": "HFM_XiaoXuMi_01",
+      "5": "BED_QuestAsset'/Game/00Main/Maps/HFM02/QuestAssets/CQG_HFM_XiaoXuMi.CQG_HFM_XiaoXuMi'"
+    },
+    {
+      "1": "22",
+      "2": "1",
+      "3": "业缘洞天",
+      "4": "HFM_HouHu_Cave01",
+      "5": "BED_QuestAsset'/Game/00Main/Maps/HFM02/QuestAssets/CQG_HFM_HouHu_Cave.CQG_HFM_HouHu_Cave'"
+    },
+    {
+      "1": "23",
+      "2": "1",
+      "3": "斯哈哩国遗迹",
+      "4": "HFM_SHLG_Persistent"
+    },
+    {
+      "1": "30",
+      "2": "1",
+      "3": "雷音寺",
+      "4": "LYS_PersistentLevel"
+    },
+    {
+      "1": "40",
+      "2": "1",
+      "3": "火焰山",
+      "4": "HYS_PersistentLevel"
+    }
+  ]
+}

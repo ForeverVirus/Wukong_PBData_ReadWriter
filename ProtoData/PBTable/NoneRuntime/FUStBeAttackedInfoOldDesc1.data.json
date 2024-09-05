@@ -1,0 +1,120 @@
+{
+  "1": [
+    {
+      "1": "998301",
+      "6": "AnimMontage'/Game/02_X2Main/Animation/TianJiang_01/Montage/AM_HGS_TianJiang_01_hit01.AM_HGS_TianJiang_01_hit01'",
+      "7": "AnimMontage'/Game/02_X2Main/Animation/TianJiang_01/Montage/AM_HGS_TianJiang_01_hit01.AM_HGS_TianJiang_01_hit01'",
+      "8": "AnimMontage'/Game/02_X2Main/Animation/TianJiang_01/Montage/AM_HGS_TianJiang_01_hit01.AM_HGS_TianJiang_01_hit01'",
+      "9": "AnimMontage'/Game/02_X2Main/Animation/TianJiang_01/Montage/AM_HGS_TianJiang_01_hit02.AM_HGS_TianJiang_01_hit02'",
+      "10": "AnimMontage'/Game/02_X2Main/Animation/TianJiang_01/Montage/AM_HGS_TianJiang_01_hit02.AM_HGS_TianJiang_01_hit02'",
+      "11": "AnimMontage'/Game/02_X2Main/Animation/TianJiang_01/Montage/X2_TianJiang_0_flyhit02.X2_TianJiang_0_flyhit02'",
+      "45": "Guard"
+    },
+    {
+      "1": "998401",
+      "6": "AnimMontage'/Game/02_X2Main/Animation/TianBing_02/Montage/X2_TianBing_02_hit01.X2_TianBing_02_hit01'",
+      "7": "AnimMontage'/Game/02_X2Main/Animation/TianBing_02/Montage/X2_TianBing_02_hit01.X2_TianBing_02_hit01'",
+      "8": "AnimMontage'/Game/02_X2Main/Animation/TianBing_02/Montage/X2_TianBing_02_hit01.X2_TianBing_02_hit01'",
+      "9": "AnimMontage'/Game/02_X2Main/Animation/TianBing_02/Montage/X2_TianBing_02_hit02.X2_TianBing_02_hit02'",
+      "10": "AnimMontage'/Game/02_X2Main/Animation/TianBing_02/Montage/X2_TianBing_02_hit02.X2_TianBing_02_hit02'",
+      "11": "AnimMontage'/Game/02_X2Main/Animation/TianBing_02/Montage/X2_TianBing_02_flyhit.X2_TianBing_02_flyhit'",
+      "39": "/Game/02_X2Main/Animation/TianBing_02/Montage/X2_TianBing_02_Hit_Fast_Torso_F_02.X2_TianBing_02_Hit_Fast_Torso_F_02",
+      "45": "Guard"
+    },
+    {
+      "1": "998501",
+      "6": "AnimMontage'/Game/02_X2Main/Animation/TianBing_01/Montage/X2_tianbing_01_hit01.X2_tianbing_01_hit01'",
+      "7": "AnimMontage'/Game/02_X2Main/Animation/TianBing_01/Montage/X2_tianbing_01_hit01.X2_tianbing_01_hit01'",
+      "8": "AnimMontage'/Game/02_X2Main/Animation/TianBing_01/Montage/X2_tianbing_01_hit01.X2_tianbing_01_hit01'",
+      "9": "AnimMontage'/Game/02_X2Main/Animation/TianBing_01/Montage/X2_tianbing_01_hit02.X2_tianbing_01_hit02'",
+      "10": "AnimMontage'/Game/02_X2Main/Animation/TianBing_01/Montage/X2_tianbing_01_hit02.X2_tianbing_01_hit02'",
+      "11": "AnimMontage'/Game/02_X2Main/Animation/TianBing_01/Montage/X2_tianbing_01_flyhit.X2_tianbing_01_flyhit'",
+      "39": "/Game/02_X2Main/Animation/TianBing_01/Montage/X2_tianbing_01_hit_fast_torso_front_02.X2_tianbing_01_hit_fast_torso_front_02",
+      "45": "Guard"
+    },
+    {
+      "1": "998601",
+      "6": "AnimMontage'/Game/02_X2Main/Animation/GuiShiWei/Montage/X2_GuiShiWei_01_Hit_Slow_Torso_R_01.X2_GuiShiWei_01_Hit_Slow_Torso_R_01'",
+      "7": "AnimMontage'/Game/02_X2Main/Animation/GuiShiWei/Montage/X2_GuiShiWei_01_Hit_Slow_Torso_R_01.X2_GuiShiWei_01_Hit_Slow_Torso_R_01'",
+      "8": "AnimMontage'/Game/02_X2Main/Animation/GuiShiWei/Montage/X2_GuiShiWei_01_Hit_Slow_Torso_R_01.X2_GuiShiWei_01_Hit_Slow_Torso_R_01'",
+      "9": "AnimMontage'/Game/02_X2Main/Animation/GuiShiWei/Montage/X2_GuiShiWei_01_Hit_yun.X2_GuiShiWei_01_Hit_yun'",
+      "10": "AnimMontage'/Game/02_X2Main/Animation/GuiShiWei/Montage/X2_GuiShiWei_01_Hit_yun.X2_GuiShiWei_01_Hit_yun'",
+      "14": "AnimMontage'/Game/02_X2Main/Animation/GuiShiWei/Montage/X2_GuiShiWei_01_flyhit01.X2_GuiShiWei_01_flyhit01'",
+      "15": "AnimMontage'/Game/02_X2Main/Animation/GuiShiWei/Montage/X2_GuiShiWei_01_flyhit02.X2_GuiShiWei_01_flyhit02'",
+      "16": "AnimMontage'/Game/02_X2Main/Animation/GuiShiWei/Montage/X2_GuiShiWei_01_hit_FlyCombo01.X2_GuiShiWei_01_hit_FlyCombo01'",
+      "17": "AnimMontage'/Game/02_X2Main/Animation/GuiShiWei/Montage/X2_GuiShiWei_01_hit_FlyCombo02.X2_GuiShiWei_01_hit_FlyCombo02'",
+      "20": "AnimMontage'/Game/02_X2Main/Animation/GuiShiWei/Montage/X2_GuiShiWei_01_lighthit_l.X2_GuiShiWei_01_lighthit_l'",
+      "22": "AnimMontage'/Game/02_X2Main/Animation/GuiShiWei/Montage/X2_GuiShiWei_01_lighthit_l.X2_GuiShiWei_01_lighthit_l'",
+      "41": "AnimMontage'/Game/02_X2Main/Animation/GuiShiWei/Montage/X2_GuiShiWei_01_lighthit_l.X2_GuiShiWei_01_lighthit_l'",
+      "42": "AnimMontage'/Game/02_X2Main/Animation/GuiShiWei/Montage/X2_GuiShiWei_01_lighthit_l.X2_GuiShiWei_01_lighthit_l'",
+      "43": "AnimMontage'/Game/02_X2Main/Animation/GuiShiWei/Montage/X2_GuiShiWei_01_lighthit_l.X2_GuiShiWei_01_lighthit_l'",
+      "44": "AnimMontage'/Game/02_X2Main/Animation/GuiShiWei/Montage/X2_GuiShiWei_01_lighthit_l.X2_GuiShiWei_01_lighthit_l'",
+      "45": "Guard"
+    },
+    {
+      "1": "998101",
+      "9": "AnimMontage'/Game/02_X2Main/Animation/Heroes/ZhangLiao/Montage/AM_ZhangLiao_HitBack01_yun.AM_ZhangLiao_HitBack01_yun'",
+      "10": "AnimMontage'/Game/02_X2Main/Animation/Heroes/ZhangLiao/Montage/AM_ZhangLiao_HitBack01_yun.AM_ZhangLiao_HitBack01_yun'",
+      "14": "AnimMontage'/Game/02_X2Main/Animation/Heroes/ZhangLiao/Montage/AM_ZhangLiao_hit_fly_01.AM_ZhangLiao_hit_fly_01'",
+      "15": "AnimMontage'/Game/02_X2Main/Animation/Heroes/ZhangLiao/Montage/AM_ZhangLiao_hit_fly_02.AM_ZhangLiao_hit_fly_02'",
+      "16": "AnimMontage'/Game/02_X2Main/Animation/Heroes/ZhangLiao/Montage/AM_ZhangLiao_hit_fly_combo_01.AM_ZhangLiao_hit_fly_combo_01'",
+      "17": "AnimMontage'/Game/02_X2Main/Animation/Heroes/ZhangLiao/Montage/AM_ZhangLiao_hit_fly_combo_02.AM_ZhangLiao_hit_fly_combo_02'",
+      "45": "Guard"
+    },
+    {
+      "1": "996101",
+      "45": "Guard"
+    },
+    {
+      "1": "996201",
+      "45": "Guard"
+    },
+    {
+      "1": "996301",
+      "45": "Guard"
+    },
+    {
+      "1": "996401",
+      "45": "Guard"
+    },
+    {
+      "1": "996501",
+      "45": "Guard"
+    },
+    {
+      "1": "996601",
+      "45": "Guard"
+    },
+    {
+      "1": "996701",
+      "45": "Guard"
+    },
+    {
+      "1": "998701",
+      "6": "AnimMontage'/Game/02_X2Main/Animation/Heroes/Taishici/Montage/AM_Taishici_hit_EX_Fly01.AM_Taishici_hit_EX_Fly01'",
+      "7": "AnimMontage'/Game/02_X2Main/Animation/Heroes/Taishici/Montage/AM_Taishici_hit_EX_Fly01.AM_Taishici_hit_EX_Fly01'",
+      "8": "AnimMontage'/Game/02_X2Main/Animation/Heroes/Taishici/Montage/AM_Taishici_hit_EX_Fly01.AM_Taishici_hit_EX_Fly01'",
+      "12": "AnimMontage'/Game/02_X2Main/Animation/Heroes/Taishici/Montage/AM_Taishici_icehit.AM_Taishici_icehit'",
+      "13": "AnimMontage'/Game/02_X2Main/Animation/Heroes/Taishici/Montage/AM_Taishici_icehit.AM_Taishici_icehit'",
+      "45": "Guard"
+    },
+    {
+      "1": "998201",
+      "6": "AnimMontage'/Game/02_X2Main/Animation/Heroes/SunQuan/Montage/AM_sunquan_EX_flyhit01.AM_sunquan_EX_flyhit01'",
+      "7": "AnimMontage'/Game/02_X2Main/Animation/Heroes/SunQuan/Montage/AM_sunquan_EX_flyhit01.AM_sunquan_EX_flyhit01'",
+      "8": "AnimMontage'/Game/02_X2Main/Animation/Heroes/SunQuan/Montage/AM_sunquan_EX_flyhit01.AM_sunquan_EX_flyhit01'",
+      "12": "AnimMontage'/Game/02_X2Main/Animation/Heroes/SunQuan/Montage/AM_sunquan_icehit.AM_sunquan_icehit'",
+      "13": "AnimMontage'/Game/02_X2Main/Animation/Heroes/SunQuan/Montage/AM_sunquan_icehit.AM_sunquan_icehit'",
+      "45": "Guard"
+    },
+    {
+      "1": "996801",
+      "6": "AnimMontage'/Game/02_X2Main/Animation/Heroes/LiuBei/Montage/AM_liubei_hit.AM_liubei_hit'",
+      "7": "AnimMontage'/Game/02_X2Main/Animation/Heroes/LiuBei/Montage/AM_liubei_hit.AM_liubei_hit'",
+      "8": "AnimMontage'/Game/02_X2Main/Animation/Heroes/LiuBei/Montage/AM_liubei_hit.AM_liubei_hit'",
+      "12": "AnimMontage'/Game/02_X2Main/Animation/Heroes/LiuBei/Montage/AM_liubei_icehit.AM_liubei_icehit'",
+      "13": "AnimMontage'/Game/02_X2Main/Animation/Heroes/LiuBei/Montage/AM_liubei_icehit.AM_liubei_icehit'",
+      "45": "Guard"
+    }
+  ]
+}

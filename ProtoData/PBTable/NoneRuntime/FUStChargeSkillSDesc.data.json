@@ -1,0 +1,2232 @@
+{
+  "1": [
+    {
+      "1": "10505",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/Fashu/TTTB/AM_Wukong_TTTB_02.AM_Wukong_TTTB_02",
+      "6": "1065353216",
+      "9": "10506",
+      "10": "10506",
+      "12": [
+        {
+          "1": "228"
+        },
+        {
+          "1": "229"
+        },
+        {
+          "1": "230"
+        }
+      ],
+      "13": {}
+    },
+    {
+      "1": "10507",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/Fashu/TTTB/AM_Wukong_TTTB_L_02.AM_Wukong_TTTB_L_02",
+      "6": "1065353216",
+      "9": "10508",
+      "10": "10508",
+      "12": [
+        {
+          "1": "228"
+        },
+        {
+          "1": "229"
+        },
+        {
+          "1": "230"
+        }
+      ],
+      "13": {}
+    },
+    {
+      "1": "10509",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/Fashu/TTTB/AM_Wukong_TTTB_R_02.AM_Wukong_TTTB_R_02",
+      "6": "1065353216",
+      "9": "10510",
+      "10": "10510",
+      "12": [
+        {
+          "1": "228"
+        },
+        {
+          "1": "229"
+        },
+        {
+          "1": "230"
+        }
+      ],
+      "13": {}
+    },
+    {
+      "1": "10605",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/Attack/Air/AM_wukong_atk_air_heavy_loop.AM_wukong_atk_air_heavy_loop",
+      "6": "1073741824",
+      "7": "1",
+      "8": "1",
+      "9": "10610",
+      "13": {}
+    },
+    {
+      "1": "10606",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/Attack/Air/AM_wukong_atk_air_heavy_loop.AM_wukong_atk_air_heavy_loop",
+      "6": "1073741824",
+      "7": "1",
+      "8": "1",
+      "9": "10611",
+      "12": {
+        "1": "10821",
+        "3": "1036831949"
+      },
+      "13": {}
+    },
+    {
+      "1": "10607",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/Attack/Air/AM_wukong_atk_air_heavy_loop.AM_wukong_atk_air_heavy_loop",
+      "6": "1073741824",
+      "7": "1",
+      "8": "1",
+      "9": "10612",
+      "12": {
+        "1": "10822",
+        "3": "1036831949"
+      },
+      "13": {}
+    },
+    {
+      "1": "10608",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/Attack/Air/AM_wukong_atk_air_heavy_loop.AM_wukong_atk_air_heavy_loop",
+      "6": "1073741824",
+      "7": "1",
+      "8": "1",
+      "9": "10613",
+      "12": {
+        "1": "10823",
+        "3": "1036831949"
+      },
+      "13": {}
+    },
+    {
+      "1": "10609",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/Attack/Air/AM_wukong_atk_air_heavy_loop.AM_wukong_atk_air_heavy_loop",
+      "6": "1073741824",
+      "7": "1",
+      "8": "1",
+      "9": "10614",
+      "12": {
+        "1": "10824",
+        "3": "1036831949"
+      },
+      "13": {}
+    },
+    {
+      "1": "10711",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/Attack/ComboB/AM_wukong_combob_z_01_loop.AM_wukong_combob_z_01_loop",
+      "6": "3212836864",
+      "8": "1",
+      "12": {
+        "1": "273",
+        "2": "1036831949"
+      },
+      "13": {}
+    },
+    {
+      "1": "10720",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/Attack/ComboC/AM_wukong_comboc_z_01_loop_weak.AM_wukong_comboc_z_01_loop_weak",
+      "6": "3212836864",
+      "8": "1",
+      "12": {
+        "1": "271",
+        "3": "1053609165"
+      },
+      "13": {}
+    },
+    {
+      "1": "10721",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/Attack/ComboC/AM_wukong_comboc_z_01_loop.AM_wukong_comboc_z_01_loop",
+      "6": "3212836864",
+      "8": "1",
+      "12": {
+        "1": "271",
+        "3": "1053609165"
+      },
+      "13": {}
+    },
+    {
+      "1": "10811",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli_C/AM_Wukong_Xuli_C_loop_0.AM_Wukong_Xuli_C_loop_0",
+      "6": "3212836864",
+      "8": "1",
+      "12": [
+        {
+          "1": "269"
+        },
+        {
+          "1": "285",
+          "2": "3211662459"
+        },
+        {
+          "1": "2017",
+          "2": "1065353216"
+        },
+        {
+          "1": "268",
+          "3": "1056964608"
+        },
+        {
+          "1": "275"
+        }
+      ],
+      "13": {}
+    },
+    {
+      "1": "10812",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli_C/AM_Wukong_Xuli_C_loop_1.AM_Wukong_Xuli_C_loop_1",
+      "6": "3212836864",
+      "8": "1",
+      "12": [
+        {
+          "1": "269",
+          "3": "1036831949"
+        },
+        {
+          "1": "285",
+          "2": "3213927383"
+        },
+        {
+          "1": "10841"
+        },
+        {
+          "1": "2017",
+          "2": "1065353216"
+        },
+        {
+          "1": "268",
+          "3": "1065353216"
+        },
+        {
+          "1": "275"
+        }
+      ],
+      "13": {}
+    },
+    {
+      "1": "10813",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli_C/AM_Wukong_Xuli_C_loop_2.AM_Wukong_Xuli_C_loop_2",
+      "6": "3212836864",
+      "8": "1",
+      "12": [
+        {
+          "1": "269",
+          "3": "1036831949"
+        },
+        {
+          "1": "285",
+          "2": "3214095155"
+        },
+        {
+          "1": "10842"
+        },
+        {
+          "1": "2017",
+          "2": "1065353216"
+        },
+        {
+          "1": "268",
+          "3": "1065353216"
+        },
+        {
+          "1": "275"
+        }
+      ],
+      "13": {}
+    },
+    {
+      "1": "10814",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli_C/AM_Wukong_Xuli_C_loop_3.AM_Wukong_Xuli_C_loop_3",
+      "6": "3212836864",
+      "8": "1",
+      "12": [
+        {
+          "1": "269",
+          "3": "1036831949"
+        },
+        {
+          "1": "285",
+          "2": "3214934016"
+        },
+        {
+          "1": "10843"
+        },
+        {
+          "1": "2017",
+          "2": "1065353216"
+        },
+        {
+          "1": "268",
+          "3": "1065353216"
+        },
+        {
+          "1": "275"
+        }
+      ],
+      "13": {}
+    },
+    {
+      "1": "10815",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli_C/AM_Wukong_Xuli_C_loop_4.AM_Wukong_Xuli_C_loop_4",
+      "6": "3212836864",
+      "8": "1",
+      "12": [
+        {
+          "1": "269",
+          "3": "1036831949"
+        },
+        {
+          "1": "285",
+          "2": "3214934016"
+        },
+        {
+          "1": "10844"
+        },
+        {
+          "1": "2017",
+          "2": "1065353216"
+        },
+        {
+          "1": "268",
+          "3": "1065353216"
+        },
+        {
+          "1": "275"
+        }
+      ],
+      "13": {}
+    },
+    {
+      "1": "10865",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli_C/AM_Wukong_Xuli_C_loop_1.AM_Wukong_Xuli_C_loop_1",
+      "6": "3212836864",
+      "8": "1",
+      "12": [
+        {
+          "1": "269"
+        },
+        {
+          "1": "285",
+          "2": "3204951572"
+        },
+        {
+          "1": "10841"
+        },
+        {
+          "1": "2017"
+        },
+        {
+          "1": "268",
+          "3": "1065353216"
+        },
+        {
+          "1": "275"
+        }
+      ],
+      "13": {}
+    },
+    {
+      "1": "10866",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli_C/AM_Wukong_Xuli_C_loop_2.AM_Wukong_Xuli_C_loop_2",
+      "6": "3212836864",
+      "8": "1",
+      "12": [
+        {
+          "1": "269"
+        },
+        {
+          "1": "285",
+          "2": "3205287117"
+        },
+        {
+          "1": "10842"
+        },
+        {
+          "1": "2017"
+        },
+        {
+          "1": "268",
+          "3": "1065353216"
+        },
+        {
+          "1": "275"
+        }
+      ],
+      "13": {}
+    },
+    {
+      "1": "10867",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli_C/AM_Wukong_Xuli_C_loop_3.AM_Wukong_Xuli_C_loop_3",
+      "6": "3212836864",
+      "8": "1",
+      "12": [
+        {
+          "1": "269"
+        },
+        {
+          "1": "285",
+          "2": "3207300383"
+        },
+        {
+          "1": "10843"
+        },
+        {
+          "1": "2017"
+        },
+        {
+          "1": "268",
+          "3": "1065353216"
+        },
+        {
+          "1": "275"
+        }
+      ],
+      "13": {}
+    },
+    {
+      "1": "10835",
+      "2": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli/AM_Wukong_xuli_loop.AM_Wukong_xuli_loop'",
+      "3": "1",
+      "5": "1",
+      "6": "3212836864",
+      "8": "1",
+      "12": [
+        {
+          "1": "249"
+        },
+        {
+          "1": "246",
+          "2": "1060320051"
+        },
+        {
+          "1": "250",
+          "2": "1045220557"
+        },
+        {
+          "1": "2017",
+          "2": "1063675494"
+        }
+      ],
+      "13": {},
+      "14": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_xuli.CLC_xuli'"
+    },
+    {
+      "1": "10836",
+      "2": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli/AM_Wukong_xuli_loop.AM_Wukong_xuli_loop'",
+      "3": "1",
+      "5": "1",
+      "6": "3212836864",
+      "8": "1",
+      "12": [
+        {
+          "1": "249"
+        },
+        {
+          "1": "246",
+          "2": "1060320051"
+        },
+        {
+          "1": "250",
+          "2": "1045220557"
+        },
+        {
+          "1": "2017",
+          "2": "1063675494"
+        }
+      ],
+      "13": {},
+      "14": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_xuli.CLC_xuli'"
+    },
+    {
+      "1": "10837",
+      "2": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli/AM_Wukong_xuli_loop.AM_Wukong_xuli_loop'",
+      "3": "1",
+      "5": "1",
+      "6": "3212836864",
+      "8": "1",
+      "12": [
+        {
+          "1": "249"
+        },
+        {
+          "1": "246",
+          "2": "1060320051"
+        },
+        {
+          "1": "250",
+          "2": "1045220557"
+        },
+        {
+          "1": "2017",
+          "2": "1063675494"
+        }
+      ],
+      "13": {},
+      "14": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_xuli.CLC_xuli'"
+    },
+    {
+      "1": "10838",
+      "2": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli/AM_Wukong_xuli_loop.AM_Wukong_xuli_loop'",
+      "3": "1",
+      "5": "1",
+      "6": "3212836864",
+      "8": "1",
+      "12": [
+        {
+          "1": "249"
+        },
+        {
+          "1": "246",
+          "2": "1060320051"
+        },
+        {
+          "1": "250",
+          "2": "1045220557"
+        },
+        {
+          "1": "2017",
+          "2": "1063675494"
+        }
+      ],
+      "13": {},
+      "14": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_xuli.CLC_xuli'"
+    },
+    {
+      "1": "10839",
+      "2": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli/AM_Wukong_xuli_loop.AM_Wukong_xuli_loop'",
+      "3": "1",
+      "5": "1",
+      "6": "1036831949",
+      "8": "1",
+      "12": [
+        {
+          "1": "249"
+        },
+        {
+          "1": "246",
+          "2": "1060320051"
+        },
+        {
+          "1": "250",
+          "2": "1045220557"
+        },
+        {
+          "1": "2017",
+          "2": "1063675494"
+        }
+      ],
+      "13": {},
+      "14": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_xuli.CLC_xuli'"
+    },
+    {
+      "1": "10840",
+      "2": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli/AM_Wukong_xuli_loop.AM_Wukong_xuli_loop'",
+      "3": "1",
+      "5": "1",
+      "6": "1036831949",
+      "8": "1",
+      "12": [
+        {
+          "1": "249"
+        },
+        {
+          "1": "246",
+          "2": "1060320051"
+        },
+        {
+          "1": "250",
+          "2": "1045220557"
+        },
+        {
+          "1": "2017",
+          "2": "1063675494"
+        }
+      ],
+      "13": {},
+      "14": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_xuli_wugong.CLC_xuli_wugong'"
+    },
+    {
+      "1": "10842",
+      "2": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/ComboC/AM_Wukong_ComboC_q_loop.AM_Wukong_ComboC_q_loop'",
+      "4": "1",
+      "6": "3212836864",
+      "8": "1",
+      "12": {
+        "1": "234"
+      },
+      "13": {}
+    },
+    {
+      "1": "10843",
+      "2": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/ComboC/AM_Wukong_ComboC_z_loop.AM_Wukong_ComboC_z_loop'",
+      "4": "1",
+      "5": "1",
+      "6": "3212836864",
+      "8": "1",
+      "12": {
+        "1": "235"
+      },
+      "13": {}
+    },
+    {
+      "1": "10846",
+      "2": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/ComboC/AM_Wukong_ComboC_z_loop.AM_Wukong_ComboC_z_loop'",
+      "4": "1",
+      "5": "1",
+      "6": "3212836864",
+      "8": "1",
+      "12": {
+        "1": "235"
+      },
+      "13": {}
+    },
+    {
+      "1": "10847",
+      "2": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/ComboC/AM_Wukong_ComboC_z_loop.AM_Wukong_ComboC_z_loop'",
+      "4": "1",
+      "5": "1",
+      "6": "3212836864",
+      "8": "1",
+      "12": {
+        "1": "235"
+      },
+      "13": {}
+    },
+    {
+      "1": "10848",
+      "2": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/ComboC/AM_Wukong_ComboC_q_loop.AM_Wukong_ComboC_q_loop'",
+      "4": "1",
+      "6": "3212836864",
+      "8": "1",
+      "12": {
+        "1": "234"
+      },
+      "13": {}
+    },
+    {
+      "1": "10849",
+      "2": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/ComboC/AM_Wukong_ComboC_q_loop.AM_Wukong_ComboC_q_loop'",
+      "4": "1",
+      "6": "3212836864",
+      "8": "1",
+      "12": {
+        "1": "234"
+      },
+      "13": {}
+    },
+    {
+      "1": "10870",
+      "2": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli_B/AM_Wukong_xuli_B_loop_0.AM_Wukong_xuli_B_loop_0'",
+      "6": "3212836864",
+      "8": "1",
+      "12": [
+        {
+          "1": "286",
+          "2": "1065353216"
+        },
+        {
+          "1": "248",
+          "2": "1053609165"
+        },
+        {
+          "1": "2017",
+          "2": "1068708659"
+        }
+      ],
+      "13": {},
+      "14": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_Xuli_B.CLC_Xuli_B'"
+    },
+    {
+      "1": "10871",
+      "2": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli_B/AM_Wukong_xuli_B_loop_0.AM_Wukong_xuli_B_loop_0'",
+      "6": "3212836864",
+      "8": "1",
+      "12": [
+        {
+          "1": "286",
+          "2": "1065353216"
+        },
+        {
+          "1": "248",
+          "2": "1053609165"
+        },
+        {
+          "1": "2017",
+          "2": "1068708659"
+        }
+      ],
+      "13": {},
+      "14": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_Xuli_B.CLC_Xuli_B'"
+    },
+    {
+      "1": "10872",
+      "2": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli_B/AM_Wukong_xuli_B_loop_0.AM_Wukong_xuli_B_loop_0'",
+      "6": "3212836864",
+      "8": "1",
+      "12": [
+        {
+          "1": "286",
+          "2": "1065353216"
+        },
+        {
+          "1": "248",
+          "2": "1053609165"
+        },
+        {
+          "1": "2017",
+          "2": "1068708659"
+        }
+      ],
+      "13": {},
+      "14": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_Xuli_B.CLC_Xuli_B'"
+    },
+    {
+      "1": "10873",
+      "2": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli_B/AM_Wukong_xuli_B_loop_0.AM_Wukong_xuli_B_loop_0'",
+      "6": "3212836864",
+      "8": "1",
+      "12": [
+        {
+          "1": "286",
+          "2": "1065353216"
+        },
+        {
+          "1": "248",
+          "2": "1053609165"
+        },
+        {
+          "1": "2017",
+          "2": "1068708659"
+        }
+      ],
+      "13": {},
+      "14": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_Xuli_B.CLC_Xuli_B'"
+    },
+    {
+      "1": "10874",
+      "2": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli_B/AM_Wukong_xuli_B_loop_0.AM_Wukong_xuli_B_loop_0'",
+      "6": "3212836864",
+      "8": "1",
+      "12": [
+        {
+          "1": "286",
+          "2": "1065353216"
+        },
+        {
+          "1": "248",
+          "2": "1053609165"
+        },
+        {
+          "1": "2017",
+          "2": "1068708659"
+        }
+      ],
+      "13": {},
+      "14": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_Xuli_B.CLC_Xuli_B'"
+    },
+    {
+      "1": "10875",
+      "2": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli_B_Qiang/AM_wukong_qiang_xuli_b_loop_0.AM_wukong_qiang_xuli_b_loop_0'",
+      "6": "3212836864",
+      "8": "1",
+      "12": [
+        {
+          "1": "286",
+          "2": "1065353216"
+        },
+        {
+          "1": "248",
+          "2": "1053609165"
+        }
+      ],
+      "13": {},
+      "14": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_Xuli_B.CLC_Xuli_B'"
+    },
+    {
+      "1": "10876",
+      "2": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli_B_Qiang/AM_wukong_qiang_xuli_b_loop_0.AM_wukong_qiang_xuli_b_loop_0'",
+      "6": "3212836864",
+      "8": "1",
+      "12": [
+        {
+          "1": "286",
+          "2": "1065353216"
+        },
+        {
+          "1": "248",
+          "2": "1053609165"
+        }
+      ],
+      "13": {},
+      "14": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_Xuli_B.CLC_Xuli_B'"
+    },
+    {
+      "1": "10877",
+      "2": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli_B_Qiang/AM_wukong_qiang_xuli_b_loop_0.AM_wukong_qiang_xuli_b_loop_0'",
+      "6": "3212836864",
+      "8": "1",
+      "12": [
+        {
+          "1": "286",
+          "2": "1065353216"
+        },
+        {
+          "1": "248",
+          "2": "1053609165"
+        }
+      ],
+      "13": {},
+      "14": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_Xuli_B.CLC_Xuli_B'"
+    },
+    {
+      "1": "10878",
+      "2": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli_B_Qiang/AM_wukong_qiang_xuli_b_loop_0.AM_wukong_qiang_xuli_b_loop_0'",
+      "6": "3212836864",
+      "8": "1",
+      "12": [
+        {
+          "1": "286",
+          "2": "1065353216"
+        },
+        {
+          "1": "248",
+          "2": "1053609165"
+        }
+      ],
+      "13": {},
+      "14": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_Xuli_B.CLC_Xuli_B'"
+    },
+    {
+      "1": "10879",
+      "2": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/Attack/Xuli_B_Qiang/AM_wukong_qiang_xuli_b_loop_0.AM_wukong_qiang_xuli_b_loop_0'",
+      "6": "3212836864",
+      "8": "1",
+      "12": [
+        {
+          "1": "286",
+          "2": "1065353216"
+        },
+        {
+          "1": "248",
+          "2": "1053609165"
+        }
+      ],
+      "13": {},
+      "14": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_Xuli_B.CLC_Xuli_B'"
+    },
+    {
+      "1": "13030",
+      "2": "AnimMontage'/Game/00Main/Animation/Player/Transform/Player_hfm_shi/Montage/Attack/01/AM_player_hfm_shi_R2_loop.AM_player_hfm_shi_R2_loop'",
+      "6": "1073741824",
+      "8": "1",
+      "13": {},
+      "14": "BGWDataAsset_ChargeLevelConfig'/Game/00MainHZ/Characters/Transform/Player_hfm_shi/CLC_player_hfm_shi_R1.CLC_player_hfm_shi_R1'"
+    },
+    {
+      "1": "14030",
+      "2": "AnimMontage'/Game/00Main/Animation/Player/Transform/Player_hfm_hu/Montage/Attack/AM_player_hfm_hu_R2_Loop.AM_player_hfm_hu_R2_Loop'",
+      "6": "1106247680",
+      "8": "1",
+      "12": {
+        "1": "14030",
+        "2": "1058642330"
+      },
+      "13": {},
+      "14": "BGWDataAsset_ChargeLevelConfig'/Game/00MainHZ/Characters/Transform/Player_hfm_hu/CLC_player_hfm_hu_R2.CLC_player_hfm_hu_R2'"
+    },
+    {
+      "1": "14031",
+      "2": "AnimMontage'/Game/00Main/Animation/Player/Transform/Player_hfm_hu/Montage/Attack/AM_player_hfm_hu_R2_Loop_01.AM_player_hfm_hu_R2_Loop_01'",
+      "6": "1106247680",
+      "8": "1",
+      "12": {
+        "1": "14030",
+        "2": "1058642330"
+      },
+      "13": {},
+      "14": "BGWDataAsset_ChargeLevelConfig'/Game/00MainHZ/Characters/Transform/Player_hfm_hu/CLC_player_hfm_hu_R2.CLC_player_hfm_hu_R2'",
+      "15": "1"
+    },
+    {
+      "1": "14034",
+      "2": "AnimMontage'/Game/00Main/Animation/Player/Transform/Player_hfm_hu/Montage/Attack/AM_player_hfm_hu_R2_Loop_01.AM_player_hfm_hu_R2_Loop_01'",
+      "6": "1106247680",
+      "8": "1",
+      "12": {
+        "1": "14030"
+      },
+      "13": {},
+      "14": "BGWDataAsset_ChargeLevelConfig'/Game/00MainHZ/Characters/Transform/Player_hfm_hu/CLC_player_hfm_hu_R2.CLC_player_hfm_hu_R2'",
+      "15": "1"
+    },
+    {
+      "1": "14050",
+      "2": "AnimMontage'/Game/00Main/Animation/Player/Transform/Player_hfm_hu/Montage/Attack/AM_player_hfm_hu_L2_Loop.AM_player_hfm_hu_L2_Loop'",
+      "6": "1106247680",
+      "8": "1",
+      "13": {},
+      "14": "BGWDataAsset_ChargeLevelConfig'/Game/00MainHZ/Characters/Transform/Player_hfm_hu/CLC_player_hfm_hu_L2.CLC_player_hfm_hu_L2'"
+    },
+    {
+      "1": "14051",
+      "2": "AnimMontage'/Game/00Main/Animation/Player/Transform/Player_hfm_hu/Montage/Attack/AM_player_hfm_hu_L2_Loop_01.AM_player_hfm_hu_L2_Loop_01'",
+      "6": "1106247680",
+      "8": "1",
+      "13": {},
+      "14": "BGWDataAsset_ChargeLevelConfig'/Game/00MainHZ/Characters/Transform/Player_hfm_hu/CLC_player_hfm_hu_L2.CLC_player_hfm_hu_L2'",
+      "15": "1"
+    },
+    {
+      "1": "14052",
+      "2": "AnimMontage'/Game/00Main/Animation/Player/Transform/Player_hfm_hu/Montage/Attack/AM_player_hfm_hu_L2_Loop_02.AM_player_hfm_hu_L2_Loop_02'",
+      "6": "1106247680",
+      "8": "1",
+      "13": {},
+      "14": "BGWDataAsset_ChargeLevelConfig'/Game/00MainHZ/Characters/Transform/Player_hfm_hu/CLC_player_hfm_hu_L2.CLC_player_hfm_hu_L2'",
+      "15": "2"
+    },
+    {
+      "1": "14053",
+      "2": "AnimMontage'/Game/00Main/Animation/Player/Transform/Player_hfm_hu/Montage/Attack/AM_player_hfm_hu_L2_Loop_03.AM_player_hfm_hu_L2_Loop_03'",
+      "6": "1106247680",
+      "8": "1",
+      "13": {},
+      "14": "BGWDataAsset_ChargeLevelConfig'/Game/00MainHZ/Characters/Transform/Player_hfm_hu/CLC_player_hfm_hu_L2.CLC_player_hfm_hu_L2'",
+      "15": "3"
+    },
+    {
+      "1": "15030",
+      "2": "AnimMontage'/Game/00Main/Animation/Player/Transform/Player_lys_shu/Montage/Attack/AM_player_lys_shu_R2_loop_Lv1.AM_player_lys_shu_R2_loop_Lv1'",
+      "6": "1072064102",
+      "8": "1",
+      "12": {
+        "1": "15030",
+        "2": "1061997773"
+      },
+      "13": {}
+    },
+    {
+      "1": "15032",
+      "2": "AnimMontage'/Game/00Main/Animation/Player/Transform/Player_lys_shu/Montage/Attack/AM_player_lys_shu_R2_loop_Lv2.AM_player_lys_shu_R2_loop_Lv2'",
+      "6": "1073741824",
+      "8": "1",
+      "12": {
+        "1": "15030"
+      },
+      "13": {}
+    },
+    {
+      "1": "15033",
+      "2": "AnimMontage'/Game/00Main/Animation/Player/Transform/Player_lys_shu/Montage/Attack/AM_player_lys_shu_R2_loop_Lv3.AM_player_lys_shu_R2_loop_Lv3'",
+      "6": "1073741824",
+      "8": "1",
+      "12": {
+        "1": "15030"
+      },
+      "13": {}
+    },
+    {
+      "1": "15040",
+      "2": "AnimMontage'/Game/00Main/Animation/Player/Transform/Player_lys_shu/Montage/Attack/AM_player_lys_shu_R2_loop_Lv3.AM_player_lys_shu_R2_loop_Lv3'",
+      "6": "1085905306",
+      "8": "1",
+      "12": {
+        "1": "15030",
+        "2": "1061997773"
+      },
+      "13": {}
+    },
+    {
+      "1": "18030",
+      "2": "AnimMontage'/Game/00Main/Animation/Player/Transform/Player_psd_chong/Montage/Attack/AM_player_psd_chong_R2_loop.AM_player_psd_chong_R2_loop'",
+      "6": "1084227584",
+      "8": "1",
+      "13": {}
+    },
+    {
+      "1": "24030",
+      "2": "AnimMontage'/Game/00Main/Animation/Player/Transform/Player_mgd_yuan/Montage/Attack/AM_player_mgd_yuan_R2_loop_Lv0.AM_player_mgd_yuan_R2_loop_Lv0'",
+      "6": "1091148186",
+      "8": "1",
+      "13": {},
+      "14": "BGWDataAsset_ChargeLevelConfig'/Game/00MainHZ/Characters/Transform/Player_mgd_yuan/CLC_player_mgd_yuan_R2.CLC_player_mgd_yuan_R2'"
+    },
+    {
+      "1": "24031",
+      "2": "AnimMontage'/Game/00Main/Animation/Player/Transform/Player_mgd_yuan/Montage/Attack/AM_player_mgd_yuan_R2_loop_Lv1.AM_player_mgd_yuan_R2_loop_Lv1'",
+      "6": "1088500531",
+      "8": "1",
+      "13": {},
+      "14": "BGWDataAsset_ChargeLevelConfig'/Game/00MainHZ/Characters/Transform/Player_mgd_yuan/CLC_player_mgd_yuan_R2.CLC_player_mgd_yuan_R2'"
+    },
+    {
+      "1": "24032",
+      "2": "AnimMontage'/Game/00Main/Animation/Player/Transform/Player_mgd_yuan/Montage/Attack/AM_player_mgd_yuan_R2_loop_Lv2.AM_player_mgd_yuan_R2_loop_Lv2'",
+      "6": "1084896051",
+      "8": "1",
+      "13": {},
+      "14": "BGWDataAsset_ChargeLevelConfig'/Game/00MainHZ/Characters/Transform/Player_mgd_yuan/CLC_player_mgd_yuan_R2.CLC_player_mgd_yuan_R2'"
+    },
+    {
+      "1": "24033",
+      "2": "AnimMontage'/Game/00Main/Animation/Player/Transform/Player_mgd_yuan/Montage/Attack/AM_player_mgd_yuan_R2_loop_Lv3.AM_player_mgd_yuan_R2_loop_Lv3'",
+      "6": "1079797350",
+      "8": "1",
+      "13": {},
+      "14": "BGWDataAsset_ChargeLevelConfig'/Game/00MainHZ/Characters/Transform/Player_mgd_yuan/CLC_player_mgd_yuan_R2.CLC_player_mgd_yuan_R2'"
+    },
+    {
+      "1": "100907",
+      "2": "AnimMontage'/Game/00Main/Animation/GYCY/GYCY_Wa_02/Montage/AM_GYCY_Wa_02_Run_Start.AM_GYCY_Wa_02_Run_Start'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1103626240",
+      "9": "100908",
+      "10": "100908",
+      "13": {}
+    },
+    {
+      "1": "101705",
+      "2": "AnimMontage'/Game/00Main/Animation/GYCY/GYCY_Seng_01/Montage/AM_GYCY_Seng_01_Run_loop.AM_GYCY_Seng_01_Run_loop'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1088421888",
+      "9": "101707",
+      "10": "101706",
+      "13": {}
+    },
+    {
+      "1": "102607",
+      "2": "AnimMontage'/Game/00Main/Animation/PSD/PSD_YouYan_01/Montage/AM_PSD_YouYan_01_Atk07_Loop.AM_PSD_YouYan_01_Atk07_Loop'",
+      "4": "1",
+      "5": "2",
+      "6": "1084227584",
+      "9": "102610",
+      "10": "102610",
+      "13": {}
+    },
+    {
+      "1": "103921",
+      "2": "AnimMontage'/Game/00Main/Animation/GYCY/GYCY_YouHun/Montage/AM_GYCY_YouHun_Run_loop.AM_GYCY_YouHun_Run_loop'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1088421888",
+      "9": "103922",
+      "10": "103922",
+      "13": {}
+    },
+    {
+      "1": "103923",
+      "2": "AnimMontage'/Game/00Main/Animation/GYCY/GYCY_YouHun/Montage/AM_GYCY_YouHun_Run_loop.AM_GYCY_YouHun_Run_loop'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1094713344",
+      "9": "103924",
+      "10": "103924",
+      "13": {}
+    },
+    {
+      "1": "103931",
+      "2": "AnimMontage'/Game/00Main/Animation/GYCY/GYCY_YouHun/Montage/AM_GYCY_YouHun_Sacrifice_loop.AM_GYCY_YouHun_Sacrifice_loop'",
+      "3": "1",
+      "4": "1",
+      "5": "1",
+      "6": "1120272384",
+      "9": "103932",
+      "10": "103932",
+      "13": {}
+    },
+    {
+      "1": "112404",
+      "2": "AnimMontage'/Game/3rd/guansitest/Player_TianJiang/Montage/AM_Player_TianJiang_01_SU_loop.AM_Player_TianJiang_01_SU_loop'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1176255488",
+      "9": "112405",
+      "10": "112405",
+      "12": [
+        {
+          "1": "216",
+          "2": "1056964608",
+          "3": "1036831949"
+        },
+        {
+          "1": "112403",
+          "2": "1056964608",
+          "3": "1036831949"
+        },
+        {
+          "1": "112405",
+          "2": "1056964608",
+          "3": "1036831949"
+        }
+      ],
+      "13": {}
+    },
+    {
+      "1": "200331",
+      "2": "/Game/00Main/Animation/HFM/HFM_Shu_04a/Montage/AM_HFM_Shu_04_Atk_Fast_03_Loop.AM_HFM_Shu_04_Atk_Fast_03_Loop",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1077936128",
+      "9": "200332",
+      "10": "200332",
+      "13": {}
+    },
+    {
+      "1": "200361",
+      "2": "/Game/00Main/Animation/HFM/HFM_Shu_04a/Montage/AM_HFM_Shu_04_Atk_Fast_01_Loop.AM_HFM_Shu_04_Atk_Fast_01_Loop",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1077936128",
+      "9": "200362",
+      "10": "200362",
+      "13": {}
+    },
+    {
+      "1": "200371",
+      "2": "/Game/00Main/Animation/HFM/HFM_Shu_04a/Montage/AM_HFM_Shu_04_Atk_Fast_02_Loop.AM_HFM_Shu_04_Atk_Fast_02_Loop",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1077936128",
+      "9": "200372",
+      "10": "200372",
+      "13": {}
+    },
+    {
+      "1": "200381",
+      "2": "/Game/00Main/Animation/HFM/HFM_Shu_04a/Montage/AM_HFM_Shu_04_Atk_Fast_03_Loop.AM_HFM_Shu_04_Atk_Fast_03_Loop",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1077936128",
+      "9": "200382",
+      "10": "200382",
+      "13": {}
+    },
+    {
+      "1": "201003",
+      "2": "AnimMontage'/Game/00Main/Animation/HFM/HFM_LunZi/AM_HFM_LunZi_01a_Back_Loop.AM_HFM_LunZi_01a_Back_Loop'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1086324736",
+      "9": "201004",
+      "10": "201004",
+      "13": {}
+    },
+    {
+      "1": "201616",
+      "2": "AnimMontage'/Game/00Main/Animation/HFM/HFM_ShiTongLing/Montage/AM_HFM_ShiTongLing_Atk_Fast_16_Loop.AM_HFM_ShiTongLing_Atk_Fast_16_Loop'",
+      "6": "1097859072",
+      "9": "2016161",
+      "10": "2016161",
+      "13": {}
+    },
+    {
+      "1": "201761",
+      "2": "AnimMontage'/Game/00Main/Animation/HFM/HFM_HuanWuZhe_01a/Montage/AM_HFM_HuanWuZhe_01a_Atk_Fast_06_loop.AM_HFM_HuanWuZhe_01a_Atk_Fast_06_loop'",
+      "4": "1",
+      "5": "2",
+      "6": "1088421888",
+      "9": "201762",
+      "10": "201762",
+      "13": {}
+    },
+    {
+      "1": "201771",
+      "2": "AnimMontage'/Game/00Main/Animation/HFM/HFM_HuanWuZhe_01a/Montage/AM_HFM_HuanWuZhe_01a_Atk_Fast_07_loop.AM_HFM_HuanWuZhe_01a_Atk_Fast_07_loop'",
+      "4": "1",
+      "5": "2",
+      "6": "1088421888",
+      "9": "201772",
+      "10": "201772",
+      "13": {}
+    },
+    {
+      "1": "201903",
+      "2": "/Game/00Main/Animation/HFM/HFM_HuangPaoZhu/Montage/AM_HFM_HuangPaoZhu_Atk_03_Loop.AM_HFM_HuangPaoZhu_Atk_03_Loop",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1082130432",
+      "9": "201993",
+      "10": "201993",
+      "13": {
+        "4": "1092616192",
+        "5": "AnimMontage'/Game/00Main/Animation/HFM/HFM_HuangPaoZhu/Montage/AM_HFM_HuangPaoZhu_ArmorBreak.AM_HFM_HuangPaoZhu_ArmorBreak'"
+      }
+    },
+    {
+      "1": "202914",
+      "2": "AnimMontage'/Game/00Main/Animation/HFM/HFM_MaGu_01A/Montage/AM_HFM_MaGu_01A_Atk_Fast_05_Loop.AM_HFM_MaGu_01A_Atk_Fast_05_Loop'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1090519040",
+      "9": "202915",
+      "10": "202915",
+      "13": {}
+    },
+    {
+      "1": "202951",
+      "2": "AnimMontage'/Game/00Main/Animation/HFM/HFM_MaGu_01A/Montage/AM_HFM_MaGu_01A_Atk_Fast_05_Loop.AM_HFM_MaGu_01A_Atk_Fast_05_Loop'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1090519040",
+      "9": "202952",
+      "10": "202952",
+      "13": {}
+    },
+    {
+      "1": "220302",
+      "2": "AnimMontage'/Game/00Main/Animation/HFM/HFM_ShanZhen_03/Montage/AM_HFM_ShanZhen_03_Atk_Fast_02_Loop.AM_HFM_ShanZhen_03_Atk_Fast_02_Loop'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1086324736",
+      "9": "220361",
+      "10": "220320",
+      "13": {}
+    },
+    {
+      "1": "220306",
+      "2": "AnimMontage'/Game/00Main/Animation/HFM/HFM_ShanZhen_03/Montage/AM_HFM_ShanZhen_03_Atk_Fast_02_Loop.AM_HFM_ShanZhen_03_Atk_Fast_02_Loop'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1086324736",
+      "9": "220361",
+      "10": "220361",
+      "13": {}
+    },
+    {
+      "1": "220324",
+      "2": "AnimMontage'/Game/00Main/Animation/HFM/HFM_ShanZhen_03/Montage/AM_HFM_ShanZhen_03_Atk_Fast_02_Loop.AM_HFM_ShanZhen_03_Atk_Fast_02_Loop'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1086324736",
+      "9": "220325",
+      "10": "220325",
+      "13": {}
+    },
+    {
+      "1": "220376",
+      "2": "AnimMontage'/Game/00Main/Animation/HFM/HFM_ShanZhen_03/Montage/AM_HFM_ShanZhen_03_Atk_Fast_02_Loop.AM_HFM_ShanZhen_03_Atk_Fast_02_Loop'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1086324736",
+      "9": "220361",
+      "10": "220361",
+      "13": {}
+    },
+    {
+      "1": "300255",
+      "2": "AnimMontage'/Game/00Main/Animation/LYS/LYS_TuiSeng/Montage/NewAM/AM_LYS_TuiSeng_01_Atk_Fast_05_02.AM_LYS_TuiSeng_01_Atk_Fast_05_02'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1082130432",
+      "9": "300256",
+      "10": "300256",
+      "13": {}
+    },
+    {
+      "1": "300307",
+      "2": "AnimMontage'/Game/00Main/Animation/LYS/LYS_4ChiFu/Montage/AM_lys_4chifu_fly_loop.AM_lys_4chifu_fly_loop'",
+      "3": "1",
+      "4": "1",
+      "6": "1084227584",
+      "9": "300308",
+      "10": "300308",
+      "13": {}
+    },
+    {
+      "1": "301061",
+      "2": "AnimMontage'/Game/00Main/Animation/LYS/LYS_JieDaoSeng/Montage/AM_LYS_JieDaoSeng_Charge_loop.AM_LYS_JieDaoSeng_Charge_loop'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1092616192",
+      "9": "301001",
+      "10": "301002",
+      "13": {}
+    },
+    {
+      "1": "301461",
+      "2": "AnimMontage'/Game/00Main/Animation/LYS/LYS_ShenLong_01a/Montage/AM_LYS_ShenLong_01A_Atk_06_Loop.AM_LYS_ShenLong_01A_Atk_06_Loop'",
+      "6": "1114636288",
+      "9": "301462",
+      "10": "301462",
+      "13": {}
+    },
+    {
+      "1": "301471",
+      "2": "AnimMontage'/Game/00Main/Animation/LYS/LYS_ShenLong_01a/Montage/AM_LYS_ShenLong_01A_Atk_07_Loop.AM_LYS_ShenLong_01A_Atk_07_Loop'",
+      "6": "1090519040",
+      "9": "301472",
+      "10": "301472",
+      "13": {}
+    },
+    {
+      "1": "301491",
+      "2": "AnimMontage'/Game/00Main/Animation/LYS/LYS_ShenLong_01a/Montage/AM_LYS_ShenLong_01A_Run_Loop.AM_LYS_ShenLong_01A_Run_Loop'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1120272384",
+      "9": "301492",
+      "10": "301492",
+      "13": {}
+    },
+    {
+      "1": "301591",
+      "2": "AnimMontage'/Game/00Main/Animation/LYS/LYS_ShenLong_01a/Montage/AM_LYS_ShenLong_01A_Run_Loop.AM_LYS_ShenLong_01A_Run_Loop'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1120272384",
+      "9": "301492",
+      "10": "301492",
+      "13": {}
+    },
+    {
+      "1": "301733",
+      "2": "AnimMontage'/Game/00Main/Animation/LYS/LYS_Xiaohou/Montage/AM_LYS_XiaoHou_Run_Loop.AM_LYS_XiaoHou_Run_Loop'",
+      "3": "1",
+      "5": "2",
+      "6": "1084227584",
+      "8": "1",
+      "9": "301703",
+      "10": "301703",
+      "13": {}
+    },
+    {
+      "1": "301734",
+      "2": "AnimMontage'/Game/00Main/Animation/LYS/LYS_Xiaohou/Montage/AM_LYS_XiaoHou_Run_Loop.AM_LYS_XiaoHou_Run_Loop'",
+      "3": "1",
+      "5": "2",
+      "6": "1084227584",
+      "8": "1",
+      "9": "301703",
+      "10": "301703",
+      "13": {}
+    },
+    {
+      "1": "301735",
+      "2": "AnimMontage'/Game/00Main/Animation/LYS/LYS_Xiaohou/Montage/AM_LYS_XiaoHou_Run_Loop.AM_LYS_XiaoHou_Run_Loop'",
+      "3": "1",
+      "5": "2",
+      "6": "1084227584",
+      "8": "1",
+      "9": "301703",
+      "10": "301703",
+      "13": {}
+    },
+    {
+      "1": "301736",
+      "2": "AnimMontage'/Game/00Main/Animation/LYS/LYS_Xiaohou/Montage/AM_LYS_XiaoHou_Run_Loop.AM_LYS_XiaoHou_Run_Loop'",
+      "3": "1",
+      "5": "2",
+      "6": "1084227584",
+      "8": "1",
+      "9": "301703",
+      "10": "301703",
+      "13": {}
+    },
+    {
+      "1": "301761",
+      "2": "AnimMontage'/Game/00Main/Animation/LYS/LYS_Xiaohou/Montage/AM_LYS_XiaoHou_Run_Loop.AM_LYS_XiaoHou_Run_Loop'",
+      "3": "1",
+      "5": "2",
+      "6": "1084227584",
+      "8": "1",
+      "9": "301702",
+      "10": "301702",
+      "13": {}
+    },
+    {
+      "1": "301762",
+      "2": "AnimMontage'/Game/00Main/Animation/LYS/LYS_Xiaohou/Montage/AM_LYS_XiaoHou_Run_Loop.AM_LYS_XiaoHou_Run_Loop'",
+      "3": "1",
+      "5": "2",
+      "6": "1084227584",
+      "8": "1",
+      "9": "301702",
+      "10": "301702",
+      "13": {}
+    },
+    {
+      "1": "301763",
+      "2": "AnimMontage'/Game/00Main/Animation/LYS/LYS_Xiaohou/Montage/AM_LYS_XiaoHou_Run_Loop.AM_LYS_XiaoHou_Run_Loop'",
+      "3": "1",
+      "5": "2",
+      "6": "1084227584",
+      "8": "1",
+      "9": "301702",
+      "10": "301702",
+      "13": {}
+    },
+    {
+      "1": "302555",
+      "2": "AnimMontage'/Game/00Main/Animation/LYS/LYS_chuilong_01a_new/montage/AM_lys_chuilong_01a_attack_05_02.AM_lys_chuilong_01a_attack_05_02'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1084227584",
+      "9": "302556",
+      "10": "302556",
+      "13": {}
+    },
+    {
+      "1": "302606",
+      "2": "AnimMontage'/Game/00Main/Animation/LYS/LYS_ChiFaGui_01A/Montage/AM_LYS_ChiFaGui_01A_Atk_06_loop.AM_LYS_ChiFaGui_01A_Atk_06_loop'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1092616192",
+      "9": "302633",
+      "10": "302633",
+      "13": {}
+    },
+    {
+      "1": "305604",
+      "2": "AnimMontage'/Game/00Main/Animation/LYS/PDS_lingzhijing_01a/Montage/AM_pds_lingzhijing_01a_atk04_loop.AM_pds_lingzhijing_01a_atk04_loop'",
+      "6": "1086324736",
+      "9": "305641",
+      "10": "305641",
+      "13": {}
+    },
+    {
+      "1": "305704",
+      "2": "AnimMontage'/Game/00Main/Animation/LYS/PSD_lingzhijing_02a/Montage/AM_pds_lingzhijing_02a_atk04_loop.AM_pds_lingzhijing_02a_atk04_loop'",
+      "6": "1086324736",
+      "9": "305741",
+      "10": "305741",
+      "13": {}
+    },
+    {
+      "1": "305804",
+      "2": "AnimMontage'/Game/00Main/Animation/LYS/PDS_lingzhijing_03a/Montage/AM_pds_lingzhijing_03a_atk04_loop.AM_pds_lingzhijing_03a_atk04_loop'",
+      "6": "1086324736",
+      "9": "305841",
+      "10": "305841",
+      "13": {}
+    },
+    {
+      "1": "305820",
+      "2": "AnimMontage'/Game/00Main/Animation/LYS/PDS_lingzhijing_03a/Montage/AM_pds_lingzhijing_03a_atk10_loop.AM_pds_lingzhijing_03a_atk10_loop'",
+      "6": "1084227584",
+      "9": "305811",
+      "10": "305812",
+      "13": {}
+    },
+    {
+      "1": "400208",
+      "2": "AnimMontage'/Game/00Main/Animation/HYS/HYS_HuiJing/Montage/AM_HYS_HuiJing_Atk_08_loop.AM_HYS_HuiJing_Atk_08_loop'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1082130432",
+      "9": "400218",
+      "10": "400218",
+      "13": {}
+    },
+    {
+      "1": "401974",
+      "2": "AnimMontage'/Game/00Main/Animation/HYS/HYS_KuaiRuFeng_01/Montage/AM_HYS_KuaiRuFeng_Atk_04_Loop.AM_HYS_KuaiRuFeng_Atk_04_Loop'",
+      "3": "1",
+      "4": "1",
+      "5": "1",
+      "6": "1099956224",
+      "9": "401975",
+      "10": "401975",
+      "12": {
+        "1": "401915"
+      },
+      "13": {
+        "1": "1",
+        "4": "1140457472",
+        "5": "AnimMontage'/Game/00Main/Animation/HYS/HYS_KuaiRuFeng_01/Montage/AM_HYS_KuaiRuFeng_KnockDown.AM_HYS_KuaiRuFeng_KnockDown'"
+      }
+    },
+    {
+      "1": "401985",
+      "2": "AnimMontage'/Game/00Main/Animation/HYS/HYS_KuaiRuFeng_01/Montage/AM_HYS_KuaiRuFeng_Atk_05_Loop.AM_HYS_KuaiRuFeng_Atk_05_Loop'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1090519040",
+      "9": "401986",
+      "10": "401986",
+      "12": [
+        {
+          "1": "401915"
+        },
+        {
+          "1": "401913"
+        }
+      ],
+      "13": {
+        "1": "1",
+        "4": "1176256512",
+        "5": "AnimMontage'/Game/00Main/Animation/HYS/HYS_KuaiRuFeng_01/Montage/AM_HYS_KuaiRuFeng_KnockDown.AM_HYS_KuaiRuFeng_KnockDown'"
+      }
+    },
+    {
+      "1": "401991",
+      "2": "AnimMontage'/Game/00Main/Animation/HYS/HYS_KuaiRuFeng_01/Montage/AM_HYS_KuaiRuFeng_Fly_Loop.AM_HYS_KuaiRuFeng_Fly_Loop'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1090519040",
+      "9": "401992",
+      "10": "401992",
+      "12": [
+        {
+          "1": "401915"
+        },
+        {
+          "1": "401913"
+        },
+        {
+          "1": "401914"
+        }
+      ],
+      "13": {
+        "1": "1",
+        "4": "1176256512",
+        "5": "AnimMontage'/Game/00Main/Animation/HYS/HYS_KuaiRuFeng_01/Montage/AM_HYS_KuaiRuFeng_KnockDown.AM_HYS_KuaiRuFeng_KnockDown'"
+      }
+    },
+    {
+      "1": "402261",
+      "2": "AnimMontage'/Game/00Main/Animation/HYS/HYS_huolingsha_01/Montage/AM_hys_huolingsha_01_ct_loop.AM_hys_huolingsha_01_ct_loop'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1084227584",
+      "9": "402262",
+      "10": "402262",
+      "13": {
+        "1": "1"
+      }
+    },
+    {
+      "1": "402510",
+      "2": "AnimMontage'/Game/00Main/Animation/HYS/HYS_yinbingniumo_01/Montage/AM_hys_yinbingniumo_01_atk10_loop.AM_hys_yinbingniumo_01_atk10_loop'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1077936128",
+      "9": "402511",
+      "10": "402511",
+      "13": {
+        "1": "1"
+      }
+    },
+    {
+      "1": "405708",
+      "2": "AnimMontage'/Game/00Main/Animation/HYS/HYS_huijin_b/Montage/AM_hys_huijin_b_atk_08_loop.AM_hys_huijin_b_atk_08_loop'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1088421888",
+      "9": "405718",
+      "10": "405718",
+      "13": {}
+    },
+    {
+      "1": "412302",
+      "2": "AnimMontage'/Game/00Main/Animation/Online/SL/SZLC_shujing_02/Montage/AM_szlc_shujing_02_atk_02_Loop.AM_szlc_shujing_02_atk_02_Loop'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1086324736",
+      "9": "412320",
+      "10": "412320",
+      "13": {}
+    },
+    {
+      "1": "412306",
+      "2": "AnimMontage'/Game/00Main/Animation/Online/SL/SZLC_shujing_02/Montage/AM_szlc_shujing_02_atk_02_Loop.AM_szlc_shujing_02_atk_02_Loop'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1086324736",
+      "9": "412320",
+      "10": "412320",
+      "13": {}
+    },
+    {
+      "1": "431061",
+      "2": "AnimMontage'/Game/00Main/Animation/PSD/PSD_daoshi_02/Montage/AM_psd_daoshi_02_atk20_loop.AM_psd_daoshi_02_atk20_loop'",
+      "3": "1",
+      "5": "2",
+      "6": "1080033280",
+      "9": "431031",
+      "10": "431031",
+      "13": {}
+    },
+    {
+      "1": "431062",
+      "2": "AnimMontage'/Game/00Main/Animation/PSD/PSD_daoshi_02/Montage/AM_psd_daoshi_02_atk20_loop.AM_psd_daoshi_02_atk20_loop'",
+      "3": "1",
+      "5": "2",
+      "6": "1080033280",
+      "9": "431042",
+      "10": "431042",
+      "13": {}
+    },
+    {
+      "1": "431115",
+      "2": "AnimMontage'/Game/00Main/Animation/PSD/PSD_daoshi_04/ZiYunShanVersion/Montage/AM_psd_daoshi_04_atk_15_loop.AM_psd_daoshi_04_atk_15_loop'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1084227584",
+      "9": "431110",
+      "10": "431116",
+      "13": {}
+    },
+    {
+      "1": "440110",
+      "2": "AnimMontage'/Game/00Main/Animation/HYS/HYS_HongHaiEr_01A/Montage/AM_HYS_HongHaiEr_01A_Atk_10_02.AM_HYS_HongHaiEr_01A_Atk_10_02'",
+      "6": "1107296256",
+      "9": "440111",
+      "13": {}
+    },
+    {
+      "1": "440112",
+      "2": "AnimMontage'/Game/00Main/Animation/HYS/HYS_HongHaiEr_01A/Montage/AM_HYS_HongHaiEr_01A_Atk_09_03.AM_HYS_HongHaiEr_01A_Atk_09_03'",
+      "4": "1",
+      "6": "1114636288",
+      "9": "440113",
+      "13": {}
+    },
+    {
+      "1": "440114",
+      "2": "AnimMontage'/Game/00Main/Animation/HYS/HYS_HongHaiEr_01A/Montage/AM_HYS_HongHaiEr_01A_Atk_12_02.AM_HYS_HongHaiEr_01A_Atk_12_02'",
+      "4": "1",
+      "6": "1114636288",
+      "12": {
+        "2": "1073741824"
+      },
+      "13": {}
+    },
+    {
+      "1": "440191",
+      "2": "AnimMontage'/Game/00Main/Animation/HYS/HYS_HongHaiEr_01A/Montage/AM_HYS_HongHaiEr_01A_Atk_09_03.AM_HYS_HongHaiEr_01A_Atk_09_03'",
+      "4": "1",
+      "6": "1101004800",
+      "9": "440192",
+      "13": {}
+    },
+    {
+      "1": "440502",
+      "2": "AnimMontage'/Game/00Main/Animation/HYS/HYS_HongHaiEr_02A/Montage/AM_HYS_HongHaiEr_02A_Atk_02_02.AM_HYS_HongHaiEr_02A_Atk_02_02'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1084227584",
+      "9": "440522",
+      "10": "440522",
+      "13": {}
+    },
+    {
+      "1": "440798",
+      "2": "AnimMontage'/Game/00Main/Animation/HYS/HYS_TuDiGong_01A/fly/Montage/AM_hys_tudigong_01_bstd_fly.AM_hys_tudigong_01_bstd_fly'",
+      "4": "1",
+      "6": "1148829696",
+      "9": "440796",
+      "13": {}
+    },
+    {
+      "1": "440799",
+      "2": "AnimMontage'/Game/00Main/Animation/HYS/HYS_TuDiGong_01A/fly/Montage/AM_hys_tudigong_01_bstd_fly.AM_hys_tudigong_01_bstd_fly'",
+      "4": "1",
+      "6": "1148829696",
+      "9": "440796",
+      "13": {}
+    },
+    {
+      "1": "444106",
+      "2": "AnimMontage'/Game/00Main/Animation/HYS/HYS_TuDiGong_01A/YinBing/Montage/AM_HYS_HuiJing_Atk_08_loop_yang.AM_HYS_HuiJing_Atk_08_loop_yang'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1101004800",
+      "9": "444107",
+      "10": "444107",
+      "13": {}
+    },
+    {
+      "1": "488842",
+      "2": "AnimMontage'/Game/00Main/Animation/PSD/PSD_foshouchong_02a/montage/AM_psd_foshouchong_02a_atk_42_loop.AM_psd_foshouchong_02a_atk_42_loop'",
+      "3": "1",
+      "5": "2",
+      "6": "1086324736",
+      "9": "488844",
+      "10": "488844",
+      "13": {}
+    },
+    {
+      "1": "500605",
+      "2": "/Game/00Main/Animation/PSD/PSD_RenShenJing_01A/Montage/AM_PSD_RenShenJing_01A_Atk_05_Loop.AM_PSD_RenShenJing_01A_Atk_05_Loop",
+      "6": "1084227584",
+      "9": "500606",
+      "10": "500607",
+      "13": {}
+    },
+    {
+      "1": "502112",
+      "2": "/Game/00Main/Animation/PSD/PSD_renshenjing_02a/Montage/AM_pds_renshenjing_02a_atk_12_loop.AM_pds_renshenjing_02a_atk_12_loop",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1092616192",
+      "9": "502113",
+      "10": "502113",
+      "13": {}
+    },
+    {
+      "1": "500824",
+      "2": "/Game/00Main/Animation/PSD/PSD_ZiZhuEr_01/Montage/AM_psd_zizhuer_01_walk_loop.AM_psd_zizhuer_01_walk_loop",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1084227584",
+      "9": "500825",
+      "10": "500825",
+      "13": {}
+    },
+    {
+      "1": "540441",
+      "2": "AnimMontage'/Game/00Main/Animation/PSD/PSD_daoshi_03/ZYS/Montage/AM_PSD_daoshi_03_zys_atk_09_loop.AM_PSD_daoshi_03_zys_atk_09_loop'",
+      "3": "1",
+      "5": "2",
+      "6": "1109393408",
+      "9": "540442",
+      "10": "540442",
+      "13": {}
+    },
+    {
+      "1": "540461",
+      "2": "AnimMontage'/Game/00Main/Animation/PSD/PSD_daoshi_03/ZYS/Montage/AM_PSD_daoshi_03_zys_atk_09_loop.AM_PSD_daoshi_03_zys_atk_09_loop'",
+      "3": "1",
+      "5": "2",
+      "6": "1109393408",
+      "9": "540462",
+      "10": "540462",
+      "13": {}
+    },
+    {
+      "1": "580202",
+      "2": "AnimMontage'/Game/00Main/Animation/HYS/HYS_Shanzhen_02/Montage/AM_hys_shanzhen_02_atk_fast_02_loop.AM_hys_shanzhen_02_atk_fast_02_loop'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1086324736",
+      "9": "580261",
+      "10": "580220",
+      "13": {}
+    },
+    {
+      "1": "580206",
+      "2": "AnimMontage'/Game/00Main/Animation/HYS/HYS_Shanzhen_02/Montage/AM_hys_shanzhen_02_atk_fast_02_loop.AM_hys_shanzhen_02_atk_fast_02_loop'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1086324736",
+      "9": "580261",
+      "10": "580261",
+      "13": {}
+    },
+    {
+      "1": "581051",
+      "2": "AnimMontage'/Game/00Main/Animation/HYS/HYS_huijingrenou_03/Montage/Dual/AM_hys_huijingrenou_03_atk_fast_05_loop.AM_hys_huijingrenou_03_atk_fast_05_loop'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1086324736",
+      "9": "581052",
+      "10": "581052",
+      "13": {}
+    },
+    {
+      "1": "600141",
+      "2": "AnimMontage'/Game/00Main/Animation/HFM/HFM_DuJiaoXian/Montage/AM_HFM_DuJiaoXian_Zuandi_chase_Loop.AM_HFM_DuJiaoXian_Zuandi_chase_Loop'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1176255488",
+      "9": "600131",
+      "10": "600131",
+      "13": {}
+    },
+    {
+      "1": "600181",
+      "2": "AnimMontage'/Game/00Main/Animation/HFM/HFM_DuJiaoXian/Montage/AM_HFM_DuJiaoXian_Zuandi_chase_Loop.AM_HFM_DuJiaoXian_Zuandi_chase_Loop'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1176255488",
+      "9": "600182",
+      "10": "600182",
+      "13": {}
+    },
+    {
+      "1": "600142",
+      "2": "AnimMontage'/Game/00Main/Animation/HFM/HFM_DuJiaoXian/Montage/AM_HFM_DuJiaoXian_Zuandi_chase_Loop.AM_HFM_DuJiaoXian_Zuandi_chase_Loop'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1176255488",
+      "9": "600132",
+      "10": "600132",
+      "13": {}
+    },
+    {
+      "1": "600143",
+      "2": "AnimMontage'/Game/00Main/Animation/HFM/HFM_DuJiaoXian/Montage/AM_HFM_DuJiaoXian_Zuandi_chase_Loop.AM_HFM_DuJiaoXian_Zuandi_chase_Loop'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1176255488",
+      "9": "600133",
+      "10": "600133",
+      "13": {}
+    },
+    {
+      "1": "600144",
+      "2": "AnimMontage'/Game/00Main/Animation/HFM/HFM_DuJiaoXian/Montage/AM_HFM_DuJiaoXian_Zuandi_chase_Loop.AM_HFM_DuJiaoXian_Zuandi_chase_Loop'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1176255488",
+      "9": "600134",
+      "10": "600134",
+      "13": {}
+    },
+    {
+      "1": "600145",
+      "2": "AnimMontage'/Game/00Main/Animation/HFM/HFM_DuJiaoXian/Montage/AM_HFM_DuJiaoXian_Zuandi_chase_Loop.AM_HFM_DuJiaoXian_Zuandi_chase_Loop'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1176255488",
+      "9": "600131",
+      "10": "600131",
+      "13": {}
+    },
+    {
+      "1": "600146",
+      "2": "AnimMontage'/Game/00Main/Animation/HFM/HFM_DuJiaoXian/Montage/AM_HFM_DuJiaoXian_Zuandi_chase_Loop.AM_HFM_DuJiaoXian_Zuandi_chase_Loop'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1176255488",
+      "9": "600136",
+      "10": "600136",
+      "13": {}
+    },
+    {
+      "1": "600147",
+      "2": "AnimMontage'/Game/00Main/Animation/HFM/HFM_DuJiaoXian/Montage/AM_HFM_DuJiaoXian_Zuandi_chase_Loop.AM_HFM_DuJiaoXian_Zuandi_chase_Loop'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1176255488",
+      "9": "600137",
+      "10": "600137",
+      "13": {}
+    },
+    {
+      "1": "600148",
+      "2": "AnimMontage'/Game/00Main/Animation/HFM/HFM_DuJiaoXian/Montage/AM_HFM_DuJiaoXian_Zuandi_chase_Loop.AM_HFM_DuJiaoXian_Zuandi_chase_Loop'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1176255488",
+      "9": "600138",
+      "10": "600138",
+      "13": {}
+    },
+    {
+      "1": "600150",
+      "2": "AnimMontage'/Game/00Main/Animation/HFM/HFM_DuJiaoXian/Montage/AM_HFM_DuJiaoXian_Zuandi_chase_Loop.AM_HFM_DuJiaoXian_Zuandi_chase_Loop'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1176255488",
+      "9": "600140",
+      "10": "600140",
+      "13": {}
+    },
+    {
+      "1": "609901",
+      "2": "AnimMontage'/Game/00Main/Animation/Player/Wukong/AM/EnvInteract/Online/AM_Wukong_JiGu_01_loop.AM_Wukong_JiGu_01_loop'",
+      "6": "1086324736",
+      "9": "609902",
+      "10": "609902",
+      "13": {}
+    },
+    {
+      "1": "700193",
+      "2": "/Game/00Main/Animation/MGD/MGD_JSDS/Montage/AM_mgd_jsds_tttb_loop.AM_mgd_jsds_tttb_loop",
+      "6": "1072902963",
+      "9": "700194",
+      "10": "700195",
+      "12": [
+        {
+          "1": "700104"
+        },
+        {
+          "1": "700103",
+          "2": "1041865114"
+        },
+        {
+          "1": "700113"
+        }
+      ],
+      "13": {
+        "1": "1"
+      }
+    },
+    {
+      "1": "1001191",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/SummonUnit/Fashu/TTTB/AM_Wukong_TTTB_02_FS.AM_Wukong_TTTB_02_FS",
+      "6": "1065353216",
+      "9": "1001194",
+      "10": "1001197",
+      "12": [
+        {
+          "1": "1001102"
+        },
+        {
+          "1": "230"
+        },
+        {
+          "1": "1001103"
+        }
+      ],
+      "13": {
+        "1": "1"
+      }
+    },
+    {
+      "1": "1001192",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/SummonUnit/Fashu/TTTB/AM_Wukong_TTTB_L_02_FS.AM_Wukong_TTTB_L_02_FS",
+      "6": "1065353216",
+      "9": "1001195",
+      "10": "1001197",
+      "12": [
+        {
+          "1": "1001102"
+        },
+        {
+          "1": "230"
+        },
+        {
+          "1": "1001103"
+        }
+      ],
+      "13": {
+        "1": "1"
+      }
+    },
+    {
+      "1": "1001193",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/SummonUnit/Fashu/TTTB/AM_Wukong_TTTB_R_02_FS.AM_Wukong_TTTB_R_02_FS",
+      "6": "1065353216",
+      "9": "1001196",
+      "10": "1001197",
+      "12": [
+        {
+          "1": "1001102"
+        },
+        {
+          "1": "230"
+        },
+        {
+          "1": "1001103"
+        }
+      ],
+      "13": {
+        "1": "1"
+      }
+    },
+    {
+      "1": "3058100",
+      "2": "AnimMontage'/Game/00Main/Animation/LYS/PDS_lingzhijing_03a/Montage/AM_pds_lingzhijing_03a_atk10_loop.AM_pds_lingzhijing_03a_atk10_loop'",
+      "6": "1075000115",
+      "9": "305811",
+      "10": "305812",
+      "13": {}
+    },
+    {
+      "1": "412807",
+      "2": "AnimMontage'/Game/00Main/Animation/Online/SL/SZLC_shijing_01a/Montage/AM_szlc_shijing_01a_heal_loop.AM_szlc_shijing_01a_heal_loop'",
+      "6": "1092616192",
+      "9": "412808",
+      "10": "412808",
+      "13": {}
+    },
+    {
+      "1": "740136",
+      "2": "AnimMontage'/Game/00Main/Animation/MGD/MGD_yuan/Montage/AM_mgd_yuan_fashu_04_Loop.AM_mgd_yuan_fashu_04_Loop'",
+      "6": "1073741824",
+      "9": "740137",
+      "13": {}
+    },
+    {
+      "1": "50025",
+      "2": "/Game/00Main/Animation/Player/Transform/Player_dasheng/Montage/Xuli_A/AM_dasheng_xuli_loop.AM_dasheng_xuli_loop",
+      "3": "1",
+      "5": "1",
+      "6": "3212836864",
+      "8": "1",
+      "12": [
+        {
+          "1": "50092"
+        },
+        {
+          "1": "50091",
+          "2": "1060320051"
+        },
+        {
+          "1": "248",
+          "2": "1045220557"
+        }
+      ],
+      "13": {},
+      "14": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_xuli.CLC_xuli'"
+    },
+    {
+      "1": "50026",
+      "2": "/Game/00Main/Animation/Player/Transform/Player_dasheng/Montage/Xuli_A/AM_dasheng_xuli_loop.AM_dasheng_xuli_loop",
+      "3": "1",
+      "5": "1",
+      "6": "3212836864",
+      "8": "1",
+      "12": [
+        {
+          "1": "50092"
+        },
+        {
+          "1": "50091",
+          "2": "1060320051"
+        },
+        {
+          "1": "248",
+          "2": "1045220557"
+        }
+      ],
+      "13": {},
+      "14": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_xuli.CLC_xuli'"
+    },
+    {
+      "1": "50027",
+      "2": "/Game/00Main/Animation/Player/Transform/Player_dasheng/Montage/Xuli_A/AM_dasheng_xuli_loop.AM_dasheng_xuli_loop",
+      "3": "1",
+      "5": "1",
+      "6": "3212836864",
+      "8": "1",
+      "12": [
+        {
+          "1": "50092"
+        },
+        {
+          "1": "50091",
+          "2": "1060320051"
+        },
+        {
+          "1": "248",
+          "2": "1045220557"
+        }
+      ],
+      "13": {},
+      "14": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_xuli.CLC_xuli'"
+    },
+    {
+      "1": "50028",
+      "2": "/Game/00Main/Animation/Player/Transform/Player_dasheng/Montage/Xuli_A/AM_dasheng_xuli_loop.AM_dasheng_xuli_loop",
+      "3": "1",
+      "5": "1",
+      "6": "3212836864",
+      "8": "1",
+      "12": [
+        {
+          "1": "50092"
+        },
+        {
+          "1": "50091",
+          "2": "1060320051"
+        },
+        {
+          "1": "248",
+          "2": "1045220557"
+        }
+      ],
+      "13": {},
+      "14": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_xuli.CLC_xuli'"
+    },
+    {
+      "1": "50029",
+      "2": "/Game/00Main/Animation/Player/Transform/Player_dasheng/Montage/Xuli_A/AM_dasheng_xuli_loop.AM_dasheng_xuli_loop",
+      "3": "1",
+      "5": "1",
+      "6": "1036831949",
+      "8": "1",
+      "12": [
+        {
+          "1": "50092"
+        },
+        {
+          "1": "50091",
+          "2": "1060320051"
+        },
+        {
+          "1": "248",
+          "2": "1045220557"
+        }
+      ],
+      "13": {},
+      "14": "BGWDataAsset_ChargeLevelConfig'/Game/00Main/DataAsset/Player/Wukong/CLC_xuli.CLC_xuli'"
+    },
+    {
+      "1": "50030",
+      "2": "/Game/00Main/Animation/Player/Transform/Player_dasheng/Montage/Attack/Air/AM_dasheng_atk_air_heavy_loop.AM_dasheng_atk_air_heavy_loop",
+      "6": "3212836864",
+      "7": "1",
+      "8": "1",
+      "9": "50034",
+      "13": {}
+    },
+    {
+      "1": "50031",
+      "2": "/Game/00Main/Animation/Player/Transform/Player_dasheng/Montage/Attack/Air/AM_dasheng_atk_air_heavy_loop.AM_dasheng_atk_air_heavy_loop",
+      "6": "3212836864",
+      "7": "1",
+      "8": "1",
+      "9": "50035",
+      "12": {
+        "1": "10821",
+        "3": "1036831949"
+      },
+      "13": {}
+    },
+    {
+      "1": "50032",
+      "2": "/Game/00Main/Animation/Player/Transform/Player_dasheng/Montage/Attack/Air/AM_dasheng_atk_air_heavy_loop.AM_dasheng_atk_air_heavy_loop",
+      "6": "3212836864",
+      "7": "1",
+      "8": "1",
+      "9": "50036",
+      "12": {
+        "1": "10822",
+        "3": "1036831949"
+      },
+      "13": {}
+    },
+    {
+      "1": "50033",
+      "2": "/Game/00Main/Animation/Player/Transform/Player_dasheng/Montage/Attack/Air/AM_dasheng_atk_air_heavy_loop.AM_dasheng_atk_air_heavy_loop",
+      "6": "3212836864",
+      "7": "1",
+      "8": "1",
+      "9": "50037",
+      "12": {
+        "1": "10823",
+        "3": "1036831949"
+      },
+      "13": {}
+    },
+    {
+      "1": "50103",
+      "2": "/Game/00Main/Animation/Player/Transform/Player_dasheng/Montage/Fashu/AM_dasheng_tttb_loop.AM_dasheng_tttb_loop",
+      "6": "1073741824",
+      "9": "50104",
+      "10": "50104",
+      "12": [
+        {
+          "1": "50005"
+        },
+        {
+          "1": "50006",
+          "2": "1041865114",
+          "3": "1036831949"
+        },
+        {
+          "1": "224",
+          "2": "1056964608"
+        }
+      ],
+      "13": {
+        "1": "1"
+      }
+    },
+    {
+      "1": "199361",
+      "2": "AnimMontage'/Game/00Main/Animation/HGS01/HGS_guangmu/Montage/AM_hgs_guangmu_run_loop.AM_hgs_guangmu_run_loop'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1090519040",
+      "8": "1",
+      "9": "199368",
+      "10": "199368",
+      "12": {
+        "1": "199316"
+      },
+      "13": {}
+    },
+    {
+      "1": "199160",
+      "2": "AnimMontage'/Game/00Main/Animation/HGS01/HGS_duowen/Montage/AM_HGS_duowen_run_loop.AM_HGS_duowen_run_loop'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1090519040",
+      "8": "1",
+      "9": "199162",
+      "10": "199162",
+      "12": {
+        "1": "199129"
+      },
+      "13": {}
+    },
+    {
+      "1": "199060",
+      "2": "AnimMontage'/Game/00Main/Animation/HGS01/HGS_zengzhang/Montage/AM_hgs_zengzhang_run_loop.AM_hgs_zengzhang_run_loop'",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1090519040",
+      "8": "1",
+      "9": "199062",
+      "10": "199062",
+      "12": {
+        "1": "199037"
+      },
+      "13": {}
+    }
+  ]
+}

@@ -1,0 +1,913 @@
+{
+  "1": [
+    {
+      "1": "11240101",
+      "2": "112401",
+      "6": {
+        "1": "ParticleSystem'/Game/00Main/VFX/Characters/TianJiang/Particles/PS_TianJiang_Weapong_light_xunhuan.PS_TianJiang_Weapong_light_xunhuan'",
+        "2": "1065353216",
+        "3": "1",
+        "4": "FX_Sword_Top"
+      }
+    },
+    {
+      "1": "11240601",
+      "2": "112406",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/3rd/guansitest/Player_TianJiang/DBC_Player_TianJiang_01_loop.DBC_Player_TianJiang_01_loop'"
+      }
+    },
+    {
+      "1": "11240901",
+      "2": "112409",
+      "6": {
+        "1": "ParticleSystem'/Game/00Main/VFX/Characters/TianJiang/Particles/PS_TianJiang_Atk_Fast_06.PS_TianJiang_Atk_Fast_06'",
+        "2": "1065353216",
+        "3": "1",
+        "4": "weapon_l"
+      }
+    },
+    {
+      "1": "11290101",
+      "2": "112901",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/BSD/DBC/DBC_BSD_NuMuJingGang_L_1.DBC_BSD_NuMuJingGang_L_1'",
+        "2": "1065353216",
+        "9": "1",
+        "10": "VertSurfaceActor"
+      }
+    },
+    {
+      "1": "11290201",
+      "2": "112902",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/BSD/DBC/DBC_BSD_NuMuJingGang_L_2.DBC_BSD_NuMuJingGang_L_2'",
+        "2": "1065353216",
+        "9": "1",
+        "10": "VertSurfaceActor"
+      }
+    },
+    {
+      "1": "11290301",
+      "2": "112903",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/BSD/DBC/DBC_BSD_NuMuJingGang_R_1.DBC_BSD_NuMuJingGang_R_1'",
+        "2": "1065353216",
+        "9": "1",
+        "10": "VertSurfaceActor"
+      }
+    },
+    {
+      "1": "11290401",
+      "2": "112904",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/BSD/DBC/DBC_BSD_NuMuJingGang_R_2.DBC_BSD_NuMuJingGang_R_2'",
+        "2": "1065353216",
+        "9": "1",
+        "10": "VertSurfaceActor"
+      }
+    },
+    {
+      "1": "11290501",
+      "2": "112905",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/AbnormalState/DBC_Player_ICE_Accum_Lv1.DBC_Player_ICE_Accum_Lv1'",
+        "2": "1065353216",
+        "9": "1",
+        "10": "VertSurfaceActor"
+      }
+    },
+    {
+      "1": "41101001",
+      "2": "411010",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/BSD/DBC/DBC_BSD_JJS_Fire.DBC_BSD_JJS_Fire'",
+        "2": "1065353216",
+        "9": "1",
+        "10": "VertSurfaceActor"
+      }
+    },
+    {
+      "1": "41101101",
+      "2": "411011",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/BSD/DBC/DBC_BSD_JJS_Fire.DBC_BSD_JJS_Fire'",
+        "2": "1065353216",
+        "9": "1",
+        "10": "VertSurfaceActor"
+      }
+    },
+    {
+      "1": "41101201",
+      "2": "411012",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/BSD/DBC/DBC_BSD_JJS_Fire.DBC_BSD_JJS_Fire'",
+        "2": "1065353216",
+        "9": "1",
+        "10": "VertSurfaceActor"
+      }
+    },
+    {
+      "1": "41101301",
+      "2": "411013",
+      "5": "1"
+    },
+    {
+      "1": "41101401",
+      "2": "411014",
+      "5": "1"
+    },
+    {
+      "1": "41101501",
+      "2": "411015",
+      "5": "1"
+    },
+    {
+      "1": "41103201",
+      "2": "411032",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/3rd/cd9Test/VFX/DBC/DBC_sl_sgd_atk_13_bullet_switch.DBC_sl_sgd_atk_13_bullet_switch'"
+      }
+    },
+    {
+      "1": "41105401",
+      "2": "411054"
+    },
+    {
+      "1": "41105501",
+      "2": "411055"
+    },
+    {
+      "1": "41106201",
+      "2": "411062",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/BSD/DBC/DBC_BSD_JJS_Ice.DBC_BSD_JJS_Ice'"
+      }
+    },
+    {
+      "1": "41105001",
+      "2": "411050",
+      "5": "1"
+    },
+    {
+      "1": "41105101",
+      "2": "411051",
+      "5": "1"
+    },
+    {
+      "1": "41105201",
+      "2": "411052",
+      "5": "1"
+    },
+    {
+      "1": "41110501",
+      "2": "411105",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/3rd/cd9Test/VFX/DBC/DBC_sl_sgd_02.DBC_sl_sgd_02'"
+      }
+    },
+    {
+      "1": "41191001",
+      "2": "411910",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/3rd/cd9Test/VFX/DBC/DBC_CD9_test.DBC_CD9_test'",
+        "2": "1065353216",
+        "3": "1",
+        "4": "FX_HeadTop"
+      },
+      "7": {
+        "1": "CurveFloat'/Game/00Main/Animation/Player/Sunwukong/AnimCurve/C_Wukong_You.C_Wukong_You'",
+        "2": "Liquid_MaskIntensity",
+        "4": "1",
+        "5": "1",
+        "6": "1"
+      }
+    },
+    {
+      "1": "41210501",
+      "2": "412105",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/BSD/DBC/DBC_BSD_NuMuJingGang_L_1.DBC_BSD_NuMuJingGang_L_1'",
+        "2": "1065353216",
+        "9": "1",
+        "10": "VertSurfaceActor"
+      }
+    },
+    {
+      "1": "41210601",
+      "2": "412106",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/BSD/DBC/DBC_BSD_NuMuJingGang_L_2.DBC_BSD_NuMuJingGang_L_2'",
+        "2": "1065353216",
+        "9": "1",
+        "10": "VertSurfaceActor"
+      }
+    },
+    {
+      "1": "41212901",
+      "2": "412129",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/BSD/DBC/DBC_BSD_NuMuJingGang_L_1.DBC_BSD_NuMuJingGang_L_1'"
+      }
+    },
+    {
+      "1": "41218801",
+      "2": "412188",
+      "5": "1"
+    },
+    {
+      "1": "41218901",
+      "2": "412189",
+      "5": "1"
+    },
+    {
+      "1": "41219001",
+      "2": "412190",
+      "5": "1"
+    },
+    {
+      "1": "41219101",
+      "2": "412191",
+      "5": "1"
+    },
+    {
+      "1": "41219201",
+      "2": "412192",
+      "5": "1"
+    },
+    {
+      "1": "41219301",
+      "2": "412193",
+      "5": "1"
+    },
+    {
+      "1": "41219401",
+      "2": "412194",
+      "5": "1"
+    },
+    {
+      "1": "41219501",
+      "2": "412195",
+      "5": "1"
+    },
+    {
+      "1": "41212201",
+      "2": "412122",
+      "5": "1",
+      "9": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_SGD/DBC/DBC_MGD_SGD_ruodian_die.DBC_MGD_SGD_ruodian_die'"
+      }
+    },
+    {
+      "1": "41212301",
+      "2": "412123",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_SGD/DBC/DBC_MGD_SGD_ruodian_hit.DBC_MGD_SGD_ruodian_hit'"
+      }
+    },
+    {
+      "1": "412310",
+      "2": "412310",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/AbnormalState/DBC_Player_Fire_Trigger_Lv1.DBC_Player_Fire_Trigger_Lv1'",
+        "2": "1065353216",
+        "9": "1",
+        "10": "VertSurfaceActor"
+      }
+    },
+    {
+      "1": "41259801",
+      "2": "412598",
+      "5": "1",
+      "6": {}
+    },
+    {
+      "1": "41256501",
+      "2": "412565",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SZLC/SZLC_shujing_03/DBC_szlc_shujing_03_warning.DBC_szlc_shujing_03_warning'",
+        "2": "1065353216",
+        "9": "1",
+        "10": "VertSurfaceActor"
+      }
+    },
+    {
+      "1": "41280201",
+      "2": "412802",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/Design/AI/BTs/Online/SL_shixianfeng/SL_mini_sxf/DBC_shuwang_test.DBC_shuwang_test'",
+        "2": "1065353216",
+        "9": "1",
+        "10": "VertSurfaceActor"
+      }
+    },
+    {
+      "1": "41287001",
+      "2": "412870",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/Design/Bullets/Online/SL/SZLC_shijing_01a/DBC_szlc_shijing_01a_benti_buff.DBC_szlc_shijing_01a_benti_buff'"
+      }
+    },
+    {
+      "1": "41287101",
+      "2": "412871",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/Design/Bullets/Online/SL/SZLC_shijing_01a/DBC_szlc_shijing_01a_fenshen_buff.DBC_szlc_shijing_01a_fenshen_buff'"
+      }
+    },
+    {
+      "1": "41288601",
+      "2": "412886",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/Talent/DBC_wukong_recoverblood_anshenshu.DBC_wukong_recoverblood_anshenshu'"
+      }
+    },
+    {
+      "1": "41289301",
+      "2": "412893",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/3rd/guansitest/Maps/Quest/DBC_challenge_test01.DBC_challenge_test01'"
+      }
+    },
+    {
+      "1": "41289401",
+      "2": "412894",
+      "5": "1",
+      "6": {
+        "1": "/Game/00Main/VFX/Characters/sunwukong/Niagara/HuiFu/BackBlood/DBC_WuKong_HeYao_BackBlood.DBC_WuKong_HeYao_BackBlood"
+      }
+    },
+    {
+      "1": "41289701",
+      "2": "412897",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/3rd/guansitest/Maps/Quest/DBC_challenge_test01.DBC_challenge_test01'"
+      }
+    },
+    {
+      "1": "41289901",
+      "2": "412899",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/3rd/guansitest/Maps/Quest/DBC_challenge_test01.DBC_challenge_test01'"
+      }
+    },
+    {
+      "1": "41285301",
+      "2": "412853",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/Design/Bullets/Online/SL/SZLC_shijing_01a/DBC_szlc_shijing_01a_enter.DBC_szlc_shijing_01a_enter'",
+        "2": "1065353216",
+        "9": "1",
+        "10": "VertSurfaceActor"
+      }
+    },
+    {
+      "1": "41281001",
+      "2": "412810",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/Design/Bullets/Online/SL/SZLC_shijing_01a/DBC_szlc_shijing_01a_benti.DBC_szlc_shijing_01a_benti'",
+        "2": "1065353216",
+        "9": "1",
+        "10": "VertSurfaceActor"
+      }
+    },
+    {
+      "1": "41281101",
+      "2": "412811",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/Design/Bullets/Online/SL/SZLC_shijing_01a/DBC_szlc_shijing_01a_fenshen.DBC_szlc_shijing_01a_fenshen'",
+        "2": "1065353216",
+        "9": "1",
+        "10": "VertSurfaceActor"
+      }
+    },
+    {
+      "1": "41301101",
+      "2": "413011",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/AbnormalState/DBC_Player_Fire_Trigger_Lv1.DBC_Player_Fire_Trigger_Lv1'",
+        "2": "1065353216",
+        "9": "1",
+        "10": "VertSurfaceActor"
+      }
+    },
+    {
+      "1": "41303101",
+      "2": "413031",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/AbnormalState/DBC_Player_Fire_Trigger_Lv1.DBC_Player_Fire_Trigger_Lv1'",
+        "2": "1065353216",
+        "9": "1",
+        "10": "VertSurfaceActor"
+      }
+    },
+    {
+      "1": "41305101",
+      "2": "413051",
+      "5": "1",
+      "6": {
+        "1": "/Game/00Main/VFX/Characters/sunwukong/Niagara/HuiFu/BackBlood/DBC_WuKong_HeYao_BackBlood.DBC_WuKong_HeYao_BackBlood"
+      }
+    },
+    {
+      "1": "41306101",
+      "2": "413061",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/Design/Bullets/Online/SL/SL_suolian/DBC_sl_suolian.DBC_sl_suolian'",
+        "2": "1065353216",
+        "9": "1",
+        "10": "VertSurfaceActor"
+      }
+    },
+    {
+      "1": "41308101",
+      "2": "413081",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/Design/Bullets/Online/SL/SL_suolian/DBC_sl_suolian_02.DBC_sl_suolian_02'",
+        "2": "1065353216",
+        "9": "1",
+        "10": "VertSurfaceActor"
+      }
+    },
+    {
+      "1": "41311101",
+      "2": "413111",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/AbnormalState/DBC_Player_Fire_Trigger_Lv1.DBC_Player_Fire_Trigger_Lv1'",
+        "2": "1065353216",
+        "9": "1",
+        "10": "VertSurfaceActor"
+      }
+    },
+    {
+      "1": "41313101",
+      "2": "413131",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/AbnormalState/DBC_Player_Fire_Trigger_Lv1.DBC_Player_Fire_Trigger_Lv1'",
+        "2": "1065353216",
+        "9": "1",
+        "10": "VertSurfaceActor"
+      }
+    },
+    {
+      "1": "41330501",
+      "2": "413305",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SL/SL_heimoshou/DBC_wa_hfm_snowman.DBC_wa_hfm_snowman'"
+      }
+    },
+    {
+      "1": "47050101",
+      "2": "470501",
+      "5": "1"
+    },
+    {
+      "1": "47050501",
+      "2": "470505",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/Common/DBC_yinshen_common.DBC_yinshen_common'"
+      }
+    },
+    {
+      "1": "47050601",
+      "2": "470506",
+      "5": "1"
+    },
+    {
+      "1": "47050701",
+      "2": "470507",
+      "5": "1"
+    },
+    {
+      "1": "47050801",
+      "2": "470508",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SZLC/SZLC_yingzuilu_01/DBC_szlc_yingzuilu_01_change_23.DBC_szlc_yingzuilu_01_change_23'"
+      }
+    },
+    {
+      "1": "47052101",
+      "2": "470521",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SZLC/SZLC_yingzuilu_01/DBC_slcz_yingzuilu_02_Invisible.DBC_slcz_yingzuilu_02_Invisible'"
+      }
+    },
+    {
+      "1": "47060001",
+      "2": "470600",
+      "5": "1"
+    },
+    {
+      "1": "47061101",
+      "2": "470611",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/BHL/BHL_gushoufsq_01/DBC/DBC_bhl_gushoufsq_01_xy_01.DBC_bhl_gushoufsq_01_xy_01'"
+      }
+    },
+    {
+      "1": "41659001",
+      "2": "416590",
+      "4": "4165",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SZLC/SZLC_baiyanmojun_01/DBC_szlc_baiyanmojun_01_human_invisible.DBC_szlc_baiyanmojun_01_human_invisible'"
+      }
+    },
+    {
+      "1": "41669901",
+      "2": "416699",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/Design/Bullets/Online/SL/SZLC_baiyanmojun_01/DBC_szlc_baiyanmojun_chong_ocean_debuff.DBC_szlc_baiyanmojun_chong_ocean_debuff'"
+      }
+    },
+    {
+      "1": "41699001",
+      "2": "416990",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SZLC/SZLC_baiyanmojun_01/DBC_szlc_baiyanmojun_01_demon_invisible.DBC_szlc_baiyanmojun_01_demon_invisible'"
+      }
+    },
+    {
+      "1": "41699501",
+      "2": "416995",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/Design/Bullets/Online/SL/SZLC_baiyanmojun_01/DBC_szlc_baiyanmojun_chong_ocean_enter.DBC_szlc_baiyanmojun_chong_ocean_enter'"
+      }
+    },
+    {
+      "1": "41699601",
+      "2": "416996",
+      "4": "4169",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/Design/Bullets/Online/SL/SZLC_baiyanmojun_01/DBC_szlc_baiyanmojun_01_demon_leechocean.DBC_szlc_baiyanmojun_01_demon_leechocean'"
+      }
+    },
+    {
+      "1": "41690101",
+      "2": "416901",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/Design/Bullets/Online/SL/SZLC_baiyanmojun_01/DBC_szlc_baiyanmojun_chong_ocean_debuff.DBC_szlc_baiyanmojun_chong_ocean_debuff'"
+      }
+    },
+    {
+      "1": "41719901",
+      "2": "417199",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/Design/Bullets/Online/SL/SZLC_baiyanmojun_01/DBC_szlc_baiyanmojun_chong_ocean_ball_debuff.DBC_szlc_baiyanmojun_chong_ocean_ball_debuff'"
+      }
+    },
+    {
+      "1": "41720101",
+      "2": "417201",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SL/SL_tianjiang_01/DBC_tianbing_opacity.DBC_tianbing_opacity'"
+      }
+    },
+    {
+      "1": "91204706",
+      "2": "912000",
+      "4": "4706",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/BHL/BHL_gushoufsq_01/DBC/DBC_bhl_gushoufsq_01_debuff_fire.DBC_bhl_gushoufsq_01_debuff_fire'",
+        "2": "1065353216",
+        "9": "1",
+        "10": "VertSurfaceActor"
+      }
+    },
+    {
+      "1": "47070001",
+      "2": "470700",
+      "5": "1"
+    },
+    {
+      "1": "47070101",
+      "2": "470701",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SZLC/SZLC_xiniu_01/DBC_szlc_xiniu_01_shorthorn.DBC_szlc_xiniu_01_shorthorn'"
+      }
+    },
+    {
+      "1": "47070201",
+      "2": "470702",
+      "5": "1"
+    },
+    {
+      "1": "47070901",
+      "2": "470709",
+      "5": "1"
+    },
+    {
+      "1": "47071001",
+      "2": "470710",
+      "4": "10",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SZLC/SZLC_xiniu_01/DBC_szlc_xiniu_01_fullhorn_td_d.DBC_szlc_xiniu_01_fullhorn_td_d'"
+      }
+    },
+    {
+      "1": "47071201",
+      "2": "470712",
+      "4": "4707",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SZLC/SZLC_xiniu_01/DBC_szlc_xiniu_01_fullhorn_td_j.DBC_szlc_xiniu_01_fullhorn_td_j'"
+      }
+    },
+    {
+      "1": "47122001",
+      "2": "471220",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SZLC/SZLC_wagnlingguan_01/DBC_szlc_wanglingguan_block_l.DBC_szlc_wanglingguan_block_l'"
+      }
+    },
+    {
+      "1": "47122201",
+      "2": "471222",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SZLC/SZLC_wagnlingguan_01/DBC_szlc_wanglingguan_block_r.DBC_szlc_wanglingguan_block_r'"
+      }
+    },
+    {
+      "1": "47130201",
+      "2": "471302",
+      "4": "4713",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SZLC/SZLC_tanglang_01/DBC_SZLC_tanglang_P2.DBC_SZLC_tanglang_P2'",
+        "2": "1065353216"
+      }
+    },
+    {
+      "1": "47130301",
+      "2": "471303",
+      "4": "4713",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SZLC/SZLC_tanglang_01/DBC_SZLC_tanglang_WeaponDamage.DBC_SZLC_tanglang_WeaponDamage'",
+        "2": "1065353216"
+      }
+    },
+    {
+      "1": "47090201",
+      "2": "470902",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SZLC/SZLC_yingzuilu_01/DBC_slcz_yingzuilu_01_Invisible.DBC_slcz_yingzuilu_01_Invisible'"
+      }
+    },
+    {
+      "1": "1029801",
+      "2": "10298",
+      "4": "10",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/Cloud/DBC_wukong_cloud.DBC_wukong_cloud'"
+      }
+    },
+    {
+      "1": "1029301",
+      "2": "10293",
+      "4": "10",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/Cloud/DBC_wukong_cloud_rush_camerashake.DBC_wukong_cloud_rush_camerashake'"
+      }
+    },
+    {
+      "1": "1029201",
+      "2": "10292",
+      "4": "10",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/Cloud/DBC_wukong_cloud_rush_camerashake.DBC_wukong_cloud_rush_camerashake'"
+      }
+    },
+    {
+      "1": "1029001",
+      "2": "10290",
+      "4": "10",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/Cloud/DBC_wukong_cloud_rush.DBC_wukong_cloud_rush'"
+      }
+    },
+    {
+      "1": "1028701",
+      "2": "10287",
+      "4": "10",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/Cloud/DBC_wukong_cloud_run_camerashake.DBC_wukong_cloud_run_camerashake'"
+      }
+    },
+    {
+      "1": "1028601",
+      "2": "10286",
+      "4": "10",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/Cloud/DBC_wukong_cloud_run_camerashake.DBC_wukong_cloud_run_camerashake'"
+      }
+    },
+    {
+      "1": "47120201",
+      "2": "471202",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SZLC/SZLC_wagnlingguan_01/DBC_szlc_wanglingguan_01_weapon_01.DBC_szlc_wanglingguan_01_weapon_01'"
+      }
+    },
+    {
+      "1": "41340501",
+      "2": "413405",
+      "4": "4134",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_tianjiang/DBC/DBC_MGD_tianjian_weapon_Lightning.DBC_MGD_tianjian_weapon_Lightning'"
+      }
+    },
+    {
+      "1": "50541001",
+      "2": "505410",
+      "4": "5054",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/PSD/PSD_wa_01/DBC_psd_wa_01_p2_buff.DBC_psd_wa_01_p2_buff'"
+      }
+    },
+    {
+      "1": "44500201",
+      "2": "445002",
+      "4": "4450",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HYS/HYS_wa_01/DBC_hys_wa_01_p2_buff.DBC_hys_wa_01_p2_buff'"
+      }
+    },
+    {
+      "1": "22100201",
+      "2": "221002",
+      "4": "2210",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HFM/HFM_wa_01/DBC_hfm_wa_01_p2_buff.DBC_hfm_wa_01_p2_buff'"
+      }
+    },
+    {
+      "1": "41630801",
+      "2": "416308",
+      "4": "4163",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_Wa/DBC/DBC_HGS_Wa_TurnStone.DBC_HGS_Wa_TurnStone'"
+      }
+    },
+    {
+      "1": "41638001",
+      "2": "416380",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SL/SZLC_wa_01/DBC/DBC_szlc_wa_01_shetou.DBC_szlc_wa_01_shetou'"
+      }
+    },
+    {
+      "1": "41631701",
+      "2": "416317",
+      "4": "4163",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_Wa/DBC/DBC_HGS_Wa_OutStone.DBC_HGS_Wa_OutStone'"
+      }
+    },
+    {
+      "1": "41637301",
+      "2": "416373",
+      "4": "4163",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_Wa/DBC/DBC_HGS_Wa_TurnStone_Enter.DBC_HGS_Wa_TurnStone_Enter'"
+      }
+    },
+    {
+      "1": "47098001",
+      "2": "470980",
+      "4": "3011",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_FSYS/DBC/DBC_LYS_FSYS_vfx_buff.DBC_LYS_FSYS_vfx_buff'"
+      }
+    },
+    {
+      "1": "50102",
+      "2": "501",
+      "4": "1888",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Refresh/DBC/DBC_Refresh_for_mgd_tianbing_01.DBC_Refresh_for_mgd_tianbing_01'"
+      }
+    },
+    {
+      "1": "50103",
+      "2": "501",
+      "4": "1889",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Refresh/DBC/DBC_Refresh_for_mgd_tianbing_03.DBC_Refresh_for_mgd_tianbing_03'"
+      }
+    },
+    {
+      "1": "50104",
+      "2": "501",
+      "4": "4134",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Refresh/DBC/DBC_Refresh_for_sl_tianjiang_01.DBC_Refresh_for_sl_tianjiang_01'"
+      }
+    },
+    {
+      "1": "48100501",
+      "2": "481005",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Cutscenes/HGS/DBC/DBC_HGS_SEQ_Upwear_USE_Dissolve.DBC_HGS_SEQ_Upwear_USE_Dissolve'"
+      }
+    },
+    {
+      "1": "48100601",
+      "2": "481006",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SL/SL_xishuai/DBC/DBC_SEQ_Opacity.DBC_SEQ_Opacity'"
+      }
+    },
+    {
+      "1": "48100701",
+      "2": "481007",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SL/SL_xishuai/DBC/DBC_sl_xishuai_fire.DBC_sl_xishuai_fire'"
+      }
+    },
+    {
+      "1": "50105",
+      "2": "501",
+      "4": "4133",
+      "5": "1",
+      "6": {
+        "1": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Refresh/DBC/DBC_Refresh_for_szlc_hms.DBC_Refresh_for_szlc_hms'"
+      }
+    }
+  ]
+}

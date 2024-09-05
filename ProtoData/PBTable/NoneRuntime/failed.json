@@ -1,0 +1,11 @@
+{
+    "failed": [
+        "FUStBuffDesc-rd.data",
+        "FUStBulletCommDesc.data",
+        "FUStSkillEffectDesc-hs.data",
+        "FUStSkillEffectDesc-SZ.data",
+        "FUStSkillEffectDesc-SZ02.data",
+        "FUStSkillEffectDesc-zh.data",
+        "FUStSummonCommDesc.data"
+    ]
+}

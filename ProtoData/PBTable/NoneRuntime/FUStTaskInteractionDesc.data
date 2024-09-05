@@ -1,0 +1,62 @@
+
+$„Êã"	NPCæŠ€èƒ½(:éJŞ
+„Êã"ç©å®¶æŠ€èƒ½(:–U
+"„Êã"ç»„åˆæŠ€èƒ½(0:–Ué
+„Êã"	NPCæŠ€èƒ½(:ê
+„Êã"ç©å®¶æŠ€èƒ½(:–U
+„Êã" Seq(:
+„Êã"å¯¹è¯(:Áš
+$…Êã"	äº¤äº’2-1(:éJŞ
+	†Êã"	äº¤äº’3-1(:é
+
+†Êã"	äº¤äº’3-2(:é
+‡Êã"	äº¤äº’4-1(:é
+‡Êã"	äº¤äº’4-2(:é
+‡Êã"	äº¤äº’4-3(:é
+‡Êã"	äº¤äº’4-4(:é
+e"æ”€è°ˆ(:õ¡
+f"æ”€è°ˆ(:ö¡
+g"æ”€è°ˆ(:÷¡
+h"æ”€è°ˆ(:ø¡
+©œ¡z"æ”€è°ˆ(B”AnimMontage'/Game/00Main/Animation/HFM/Quest/HFM_ZhuXingNanYi/Montage/ValleyDrunk/AM_HFM_HuangPaoZhu_Quest_Talk_01.AM_HFM_HuangPaoZhu_Quest_Talk_01'
+¹¡z"æ”€è°ˆ(0B¢AnimMontage'/Game/00Main/Animation/HFM/Quest/HFM_ZhuXingNanYi/Montage/ValleyDrunk/AM_HFM_HuangPaoZhu_Quest_Std_01_idle_01.AM_HFM_HuangPaoZhu_Quest_Std_01_idle_01'
+¡¡z"æ”€è°ˆ(BŒAnimMontage'/Game/00Main/Animation/HFM/Quest/HFM_ZhuXingNanYi/Montage/ValleyDrunk/AM_HFM_HuangPaoZhu_ThrowUp01.AM_HFM_HuangPaoZhu_ThrowUp01'
+¡¡z"æ”€è°ˆ(BŒAnimMontage'/Game/00Main/Animation/HFM/Quest/HFM_ZhuXingNanYi/Montage/ValleyDrunk/AM_HFM_HuangPaoZhu_ThrowUp02.AM_HFM_HuangPaoZhu_ThrowUp02'
+¸¡z"ç»™è§£é…’æ±¤(B”AnimMontage'/Game/00Main/Animation/HFM/Quest/HFM_ZhuXingNanYi/Montage/ValleyDrunk/AM_HFM_HuangPaoZhu_Quest_Talk_02.AM_HFM_HuangPaoZhu_Quest_Talk_02'J£
+·Ÿ¡z"æ”€è°ˆ(B¢AnimMontage'/Game/00Main/Animation/HFM/Quest/HFM_ZhuXingNanYi/Montage/ValleyDrunk/AM_HFM_HuangPaoZhu_Quest_Std_02_idle_01.AM_HFM_HuangPaoZhu_Quest_Std_02_idle_01'
+§ ¡z"æ”€è°ˆ(B’AnimMontage'/Game/00Main/Animation/HFM/Quest/HFM_ZhuXingNanYi/Montage/TempleEat/AM_HFM_HuangPaoZhu_Quest_Talk_06.AM_HFM_HuangPaoZhu_Quest_Talk_06'
+¡¡z"æ”€è°ˆ(:¸©
+¶¢¡z"èµ äºˆé»‘æ£(B’AnimMontage'/Game/00Main/Animation/HFM/Quest/HFM_ZhuXingNanYi/Montage/TempleEat/AM_HFM_HuangPaoZhu_Quest_Talk_03.AM_HFM_HuangPaoZhu_Quest_Talk_03'J¤
+£¡z"æ”€è°ˆ(:¼©
+ª¤¡z"æ”€è°ˆ(B•AnimMontage'/Game/00Main/Animation/HFM/Quest/HFM_ZhuXingNanYi/Montage/VillageScout/AM_HFM_HuangPaoZhu_Quest_Talk_04.AM_HFM_HuangPaoZhu_Quest_Talk_04'
+¥¡z"æ”€è°ˆ(:¿©
+¨¦¡z"æ”€è°ˆ(B“AnimMontage'/Game/00Main/Animation/HFM/Quest/HFM_ZhuXingNanYi/Montage/ValleyGold/AM_HFM_HuangPaoZhu_Quest_Talk_05.AM_HFM_HuangPaoZhu_Quest_Talk_05'
+· §¡z"ç‚«è€€é‡‘ç ¾(B•AnimMontage'/Game/00Main/Animation/HFM/Quest/HFM_ZhuXingNanYi/Montage/ValleyGold/AM_HFM_HuangPaoZhu_Quest_Trans_01.AM_HFM_HuangPaoZhu_Quest_Trans_01'J¦
+!Õ¸z"è°ƒæŸ¥(:Õº
+"Ö¸z"è°ƒæŸ¥(:Öº
+#×¸z"è°ƒæŸ¥(:×º
+$Ø¸z"è°ƒæŸ¥(:Øº
+%Ù¸z"è°ƒæŸ¥(:Ùº
+&Ú¸z"è°ƒæŸ¥(:Úº
+'Û¸z"è°ƒæŸ¥(:Ûº
+(Ü¸z"è°ƒæŸ¥(:Üº
+ )¨«"äº¤ä»˜(:–UJÂ
+*Ì‘z"æ”€è°ˆ(:õ¡
++Í‘z"æ”€è°ˆ(:ø¡
+,±’z"æ”€è°ˆ(:‰¢
+-»’z"æ”€è°ˆ(:“¢
+.•“z"æ”€è°ˆ(:ÿ¡
+/Ÿ“z"æ”€è°ˆ(:¢
+0ù“z"æ”€è°ˆ(:„¢
+1ú“z"æ”€è°ˆ(B{/Game/00Main/Animation/HFM/Quest/HFM_MaoShuTongMian/AM_HFM_ShuangTouShu_01a_Quest_Enter.AM_HFM_ShuangTouShu_01a_Quest_Enter
+2İ”z"æ”€è°ˆ(:¢
+3„©z"æ”€è°ˆ(Bm/Game/00Main/Animation/HFM/Quest/HFM_HuoZhongQuLi/AM_NPC_HuYao_01_Quest_Talk_01.AM_NPC_HuYao_01_Quest_Talk_01
+4…©z"æ”€è°ˆ(:¤¤
+5†©z"æ”€è°ˆ(Bm/Game/00Main/Animation/HFM/Quest/HFM_HuoZhongQuLi/AM_NPC_HuYao_01_Quest_Talk_02.AM_NPC_HuYao_01_Quest_Talk_02
+6‡©z"æ”€è°ˆ(:¦¤
+7ˆ©z:§¤
+8é©z"æ”€è°ˆ(
+9Íªz"æ”€è°ˆ(
+:‰©z"æ”€è°ˆ(
+<‰œ"è°ƒæŸ¥(:¿£
+=Šœ"è°ƒæŸ¥(:Ã£

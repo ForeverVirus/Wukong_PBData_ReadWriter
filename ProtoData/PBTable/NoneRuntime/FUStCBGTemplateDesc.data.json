@@ -1,0 +1,1048 @@
+{
+  "1": [
+    {
+      "1": "1001",
+      "2": "/Game/00MainHZ/Characters/Wukong/CBG_Wukong.CBG_Wukong"
+    },
+    {
+      "1": "1701",
+      "2": "BED_BehaviorAsset'/Game/00MainHZ/Characters/Transform/Player_lys_hou/CBG_player_lys_hou.CBG_player_lys_hou'"
+    },
+    {
+      "1": "1901",
+      "2": "BED_BehaviorAsset'/Game/00MainHZ/Characters/Transform/Player_psd_long/CBG_player_psd_long.CBG_player_psd_long'"
+    },
+    {
+      "1": "2401",
+      "2": "BED_BehaviorAsset'/Game/00MainHZ/Characters/Transform/Player_mgd_yuan/CBG_player_mgd_yuan.CBG_player_mgd_yuan'"
+    },
+    {
+      "1": "2501",
+      "2": "BED_BehaviorAsset'/Game/00MainHZ/Characters/Transform/Player_ftxd/CBG_player_ftxd.CBG_player_ftxd'"
+    },
+    {
+      "1": "5001",
+      "2": "/Game/00MainHZ/Characters/Dasheng/CBG_Dasheng.CBG_Dasheng"
+    },
+    {
+      "1": "100201",
+      "2": "/Game/00Main/Design/AI/BTs/HYS/HYS_Rhino/CBG_HYS_Rhino.CBG_HYS_Rhino"
+    },
+    {
+      "1": "100301",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/GYCY/GYCY_She_01/CBG_GYCY_She_01.CBG_GYCY_She_01'"
+    },
+    {
+      "1": "100801",
+      "2": "/Game/00Main/Design/AI/BTs/GYCY/GYCY_BaiYi_03/CBG_GYCY_BaiYi_03_Ren.CBG_GYCY_BaiYi_03_Ren"
+    },
+    {
+      "1": "101101",
+      "2": "/Game/00Main/Design/AI/BTs/GYCY/GYCY_Lang_04/CBG_GYCY_Lang_04.CBG_GYCY_Lang_04"
+    },
+    {
+      "1": "101301",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/GYCY/GYCY_Wa_01/CBG_gycy_wa_01.CBG_gycy_wa_01'"
+    },
+    {
+      "1": "102001",
+      "2": "BED_BehaviorAsset'/Game/00MainHZ/Characters/Enemy/GYCY/GYCY_Seng_02/CBG_gycy_seng_02.CBG_gycy_seng_02'"
+    },
+    {
+      "1": "102101",
+      "2": "/Game/00Main/Design/AI/BTs/GYCY/GYCY_Seng_04/CBG_gycy_seng_04.CBG_gycy_seng_04"
+    },
+    {
+      "1": "102301",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/GYCY/GYCY_YanJianXi_01b/CBG/CBG_GYCY_YanJianXi_01.CBG_GYCY_YanJianXi_01'"
+    },
+    {
+      "1": "102401",
+      "2": "/Game/00Main/Design/AI/BTs/GYCY/GYCY_YanJianXi_01/CBG/CBG_GYCY_YKX.CBG_GYCY_YKX"
+    },
+    {
+      "1": "102402",
+      "2": "/Game/00Main/Design/AI/BTs/GYCY/GYCY_YanJianXi_01b/CBG/CBG_GYCY_YanJianXi_01b.CBG_GYCY_YanJianXi_01b"
+    },
+    {
+      "1": "102501",
+      "2": "/Game/00Main/Design/AI/BTs/GYCY/GYCY_DBL_01/CBG_GYCY_DBL_01.CBG_GYCY_DBL_01"
+    },
+    {
+      "1": "102801",
+      "2": "/Game/00Main/Design/AI/BTs/GYCY/GYCY_BaiYi_03/CBG_GYCY_BaiYi_03_She.CBG_GYCY_BaiYi_03_She"
+    },
+    {
+      "1": "103101",
+      "2": "/Game/00Main/Design/AI/BTs/GYCY/GYCY_Xiong_02/CBG_GYCY_Xiong_02.CBG_GYCY_Xiong_02"
+    },
+    {
+      "1": "103501",
+      "2": "/Game/00Main/Design/AI/BTs/GYCY/GYCY_BaiYi_04/CBG_GYCY_BaiYi_04.CBG_GYCY_BaiYi_04"
+    },
+    {
+      "1": "103701",
+      "2": "/Game/00Main/Design/AI/BTs/GYCY/GYCY_HFDW_01a/CBG/CBG_HFDW_01a.CBG_HFDW_01a"
+    },
+    {
+      "1": "103901",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/GYCY/GYCY_YouHun/CBG_GYCY_YouHun.CBG_GYCY_YouHun'"
+    },
+    {
+      "1": "110101",
+      "2": "/Game/00Main/Design/AI/BTs/HFM/HFM_Niu_01/CBG_HFM_Niu_01.CBG_HFM_Niu_01"
+    },
+    {
+      "1": "112501",
+      "2": "/Game/00Main/Design/AI/BTs/HFM/HFM_Niu_01/CBG_HFM_Niu_01.CBG_HFM_Niu_01"
+    },
+    {
+      "1": "140101",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/Online/BYS_Baishe/CBG_BYS_Baishe.CBG_BYS_Baishe'"
+    },
+    {
+      "1": "199001",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/HGS/hgs_zengzhang/CBG_hgs_zengzhang.CBG_hgs_zengzhang'"
+    },
+    {
+      "1": "199101",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/HGS/hgs_duowen/CBG_hgs_duowen.CBG_hgs_duowen'"
+    },
+    {
+      "1": "199201",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/HGS/hgs_chiguo/CBG_hgs_chiguo.CBG_hgs_chiguo'"
+    },
+    {
+      "1": "199301",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/HGS/hgs_guangmu/CBG_hgs_guangmu.CBG_hgs_guangmu'"
+    },
+    {
+      "1": "199401",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/HGS/hgs_guangmu/CBG_hgs_long.CBG_hgs_long'"
+    },
+    {
+      "1": "199901",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/MGD/MGD_erlangshen_01/CBG_mgd_erlangshen_02.CBG_mgd_erlangshen_02'"
+    },
+    {
+      "1": "200101",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/HFM/HFM_Hu_01/CBG_HFM_Hu_01.CBG_HFM_Hu_01'"
+    },
+    {
+      "1": "200201",
+      "2": "/Game/00Main/Design/AI/BTs/HFM/HFM_MaMian_01a/CBG_hfm_mamian_01a.CBG_hfm_mamian_01a"
+    },
+    {
+      "1": "200202",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/NPC/NPC_MaMian/CBG_NPC_MaMian_01a.CBG_NPC_MaMian_01a'"
+    },
+    {
+      "1": "200301",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/HFM/HFM_HuangPaoZhu_01/CBG_HFM_HuangPaoZhu_01.CBG_HFM_HuangPaoZhu_01'"
+    },
+    {
+      "1": "200501",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/HFM/HFM_ShaWuLiang_01a/CBG_HFM_ShaWuLiang_01a.CBG_HFM_ShaWuLiang_01a'"
+    },
+    {
+      "1": "200601",
+      "2": "/Game/00Main/Design/AI/BTs/HFM/HFM_Hou_01/CBG_HFM_Hou_01a.CBG_HFM_Hou_01a"
+    },
+    {
+      "1": "200901",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/HFM/HFM_Shu_05a/CBG_HFM_Shu_05a.CBG_HFM_Shu_05a'"
+    },
+    {
+      "1": "201001",
+      "2": "/Game/00Main/Design/AI/BTs/HFM/HFM_LunZi/CBG_HFM_LunZi.CBG_HFM_LunZi"
+    },
+    {
+      "1": "201002",
+      "2": "/Game/00Main/Design/AI/BTs/HFM/HFM_LunZi/CBG_HFM_LunZi_01.CBG_HFM_LunZi_01"
+    },
+    {
+      "1": "201003",
+      "2": "/Game/00Main/Design/AI/BTs/HFM/HFM_LunZi/CBG_HFM_LunZi_02.CBG_HFM_LunZi_02"
+    },
+    {
+      "1": "201101",
+      "2": "/Game/00Main/Design/AI/BTs/HFM/HFM_HFDS_01/CBG_HFM_HFDS_01.CBG_HFM_HFDS_01"
+    },
+    {
+      "1": "201201",
+      "2": "/Game/00Main/Design/AI/BTs/HFM/HFM_ShiXianFeng_01a/CBG_HFM_ShiXianFeng_01.CBG_HFM_ShiXianFeng_01"
+    },
+    {
+      "1": "201401",
+      "2": "/Game/00Main/Design/AI/BTs/HFM/HFM_ShuWang_01a/CBG_HFM_ShuWang_01a.CBG_HFM_ShuWang_01a"
+    },
+    {
+      "1": "201701",
+      "2": "/Game/00Main/Design/AI/BTs/HFM/HFM_HuanWuZhe_01a/CBG_HFM_HuanWuZhe_01a.CBG_HFM_HuanWuZhe_01a"
+    },
+    {
+      "1": "201702",
+      "2": "/Game/00Main/Design/AI/BTs/HFM/HFM_HuanWuZhe_01a/CBG_HFM_HuanWuZhe_01a_phantomusha.CBG_HFM_HuanWuZhe_01a_phantomusha"
+    },
+    {
+      "1": "202201",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/HFM/HFM_Hu_Stone_01/CBG_hfm_hu_stone_01.CBG_hfm_hu_stone_01'"
+    },
+    {
+      "1": "202401",
+      "2": "/Game/00Main/Design/AI/BTs/HFM/HFM_FuShu/CBG_hfm_fushu.CBG_hfm_fushu"
+    },
+    {
+      "1": "202410",
+      "2": "BED_DialogueAsset'/Game/00Main/Design/AI/BTs/HFM/HFM_FuShu/CDG_HFM_Fushu.CDG_HFM_Fushu'"
+    },
+    {
+      "1": "202501",
+      "2": "/Game/00Main/Design/AI/BTs/HFM/HFM_FuZiShu/CBG_HFM_FuZiShu.CBG_HFM_FuZiShu"
+    },
+    {
+      "1": "202510",
+      "2": "BED_DialogueAsset'/Game/00Main/Design/AI/BTs/HFM/HFM_FuZiShu/CDG_HFM_FuZiShu.CDG_HFM_FuZiShu'"
+    },
+    {
+      "1": "202801",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/HFM/HFM_Hu_Wind/CBG_hfm_hu_wind.CBG_hfm_hu_wind'"
+    },
+    {
+      "1": "202802",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/HFM/HFM_Hu_Wind/CBG_hfm_hu_wind_Summon.CBG_hfm_hu_wind_Summon'"
+    },
+    {
+      "1": "202901",
+      "2": "/Game/00Main/Design/AI/BTs/HFM/HFM_MaGu/CBG_HFM_MaGu_01A.CBG_HFM_MaGu_01A"
+    },
+    {
+      "1": "203101",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/HFM/HFM_Wind/CBG_HFM_Wind.CBG_HFM_Wind'"
+    },
+    {
+      "1": "210201",
+      "2": "BED_BehaviorAsset'/Game/00MainHZ/Characters/Enemy/HFM/HFM_Hu_Stone_01/CBG_hfm_bashanhu_01.CBG_hfm_bashanhu_01'"
+    },
+    {
+      "1": "220101",
+      "2": "/Game/00Main/Design/AI/BTs/HFM/HFM_HJBow_01A/EasyMode/CBG_HFM_HJBow_01A_START.CBG_HFM_HJBow_01A_START"
+    },
+    {
+      "1": "220201",
+      "2": "/Game/00Main/Design/AI/BTs/HFM/HFM_ShanZhen_02/CBG_HFM_ShanZhen_02_Summon.CBG_HFM_ShanZhen_02_Summon"
+    },
+    {
+      "1": "220202",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/HFM/HFM_ShanZhen_03/la_papasse/CBG_HFM_ShanZhen_02_Slave1.CBG_HFM_ShanZhen_02_Slave1'"
+    },
+    {
+      "1": "220301",
+      "2": "/Game/00Main/Design/AI/BTs/HFM/HFM_ShanZhen_03/CBG_HFM_ShanZhen_03_real.CBG_HFM_ShanZhen_03_real"
+    },
+    {
+      "1": "220302",
+      "2": "/Game/00Main/Design/AI/BTs/HFM/HFM_ShanZhen_03/CBG_hfm_shanzhen_03_caveparty.CBG_hfm_shanzhen_03_caveparty"
+    },
+    {
+      "1": "220303",
+      "2": "/Game/00Main/Design/AI/BTs/HFM/HFM_ShanZhen_03/CBG_HFM_ShanZhen_03_crazy.CBG_HFM_ShanZhen_03_crazy"
+    },
+    {
+      "1": "220304",
+      "2": "/Game/00Main/Design/AI/BTs/HFM/HFM_ShanZhen_03/la_papasse/CBG_HFM_ShanZhen_02_Slave1.CBG_HFM_ShanZhen_02_Slave1"
+    },
+    {
+      "1": "220305",
+      "2": "/Game/00Main/Design/AI/BTs/HFM/HFM_ShanZhen_03/la_papasse/CBG_HFM_ShanZhen_02_Slave2.CBG_HFM_ShanZhen_02_Slave2"
+    },
+    {
+      "1": "220306",
+      "2": "/Game/00Main/Design/AI/BTs/HFM/HFM_ShanZhen_03/la_papasse/CBG_HFM_ShanZhen_02_Slave3.CBG_HFM_ShanZhen_02_Slave3"
+    },
+    {
+      "1": "220501",
+      "2": "/Game/00Main/TaskAssets/HFM/ShiGanDang/CBG_HFM_ShiGanDang_01.CBG_HFM_ShiGanDang_01"
+    },
+    {
+      "1": "221001",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/HFM/HFM_wa_01/CBG_hfm_wa_01.CBG_hfm_wa_01'"
+    },
+    {
+      "1": "221101",
+      "2": "/Game/00Main/Design/AI/BTs/HFM/HFM_shigong_01/CBG_hfm_shanzhen_03_caveparty1.CBG_hfm_shanzhen_03_caveparty1'"
+    },
+    {
+      "1": "250301",
+      "2": "/Game/00Main/TaskAssets/HFM/ShiZhongSheng/CBG_HFM_StoneMan.CBG_HFM_StoneMan"
+    },
+    {
+      "1": "260101",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/HFM/HFM_Suoyang_01a/CBG_HFM_Suoyang_01a.CBG_HFM_Suoyang_01a'"
+    },
+    {
+      "1": "300101",
+      "2": "/Game/00Main/Design/AI/BTs/LYS/LYS_HongPaoShu/CBG_LYS_HongPaoShu.CBG_LYS_HongPaoShu"
+    },
+    {
+      "1": "300201",
+      "2": "/Game/00MainHZ/Characters/Enemy/LYS/LYS_TuiSeng/CBG_LYS_TuiSeng_01.CBG_LYS_TuiSeng_01"
+    },
+    {
+      "1": "300301",
+      "2": "/Game/00MainHZ/Characters/Enemy/LYS/LYS_4ChiFu/CBG_lys_4chifu.CBG_lys_4chifu"
+    },
+    {
+      "1": "300302",
+      "2": "/Game/00MainHZ/Characters/Enemy/LYS/LYS_4ChiFu/CBG_psd_4chifu.CBG_psd_4chifu"
+    },
+    {
+      "1": "300401",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/LYS/LYS_NuMuJinGang/CBG_LYS_NuMuJingang.CBG_LYS_NuMuJingang'"
+    },
+    {
+      "1": "300501",
+      "2": "/Game/00MainHZ/Characters/Enemy/LYS/LYS_TuiSeng_P2/CBG_TuiSeng_02.CBG_TuiSeng_02"
+    },
+    {
+      "1": "300801",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/LYS/LYS_FrozenMon/CBG_lys_frozenmon.CBG_lys_frozenmon'"
+    },
+    {
+      "1": "301001",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/LYS/LYS_JieDaoSeng/CBG_lys_jiedaoseng.CBG_lys_jiedaoseng'"
+    },
+    {
+      "1": "301102",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/LYS/LYS_FSYS/CBG_lys_fsys_elite.CBG_lys_fsys_elite'"
+    },
+    {
+      "1": "301201",
+      "2": "/Game/00Main/Design/AI/BTs/LYS/LYS_SengMian/CBG_LYS_SengMian_01.CBG_LYS_SengMian_01"
+    },
+    {
+      "1": "301202",
+      "2": "/Game/00Main/Design/AI/BTs/LYS/LYS_SengMian/P1Only/CBG_LYS_SengMian_01_P1Only.CBG_LYS_SengMian_01_P1Only"
+    },
+    {
+      "1": "301301",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/LYS/LYS_XueHou/ForRZD/CBG_XueHou_RZD.CBG_XueHou_RZD'"
+    },
+    {
+      "1": "301302",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/LYS/LYS_XueHou/For_Phantom/CBG_LYS_XueHou_Phantom.CBG_LYS_XueHou_Phantom'"
+    },
+    {
+      "1": "301303",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/LYS/LYS_XueHou/ForNM/CBG_XueHou_ForNM.CBG_XueHou_ForNM'"
+    },
+    {
+      "1": "301304",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/LYS/LYS_XueHou/ForASS/CBG_XueHou_ForASS.CBG_XueHou_ForASS'"
+    },
+    {
+      "1": "301314",
+      "2": "BED_DialogueAsset'/Game/00Main/Design/AI/BTs/LYS/LYS_XueHou/ForASS/CBG_XueHou_ForAnShenSi.CBG_XueHou_ForAnShenSi'"
+    },
+    {
+      "1": "301401",
+      "2": "/Game/00Main/Design/AI/BTs/LYS/LYS_RuYiLong_01/CBG_LYS_RuYiLong_01.CBG_LYS_RuYiLong_01"
+    },
+    {
+      "1": "301601",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/LYS/LYS_Dage/CBG_LYS_dage.CBG_LYS_dage'"
+    },
+    {
+      "1": "301801",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/LYS/LYS_ShuaHouSeng/CBG_lys_shuahouseng.CBG_lys_shuahouseng'"
+    },
+    {
+      "1": "301901",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/LYS/LYS_Mo1/CBG_lys_mo1.CBG_lys_mo1'"
+    },
+    {
+      "1": "302001",
+      "2": "/Game/00Main/Design/AI/BTs/LYS/LYS_Mo2/CBG_LYS_Mo2.CBG_LYS_Mo2"
+    },
+    {
+      "1": "302101",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/LYS/LYS_Mo3/CBG_LYS_Mo3.CBG_LYS_Mo3'"
+    },
+    {
+      "1": "302201",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/LYS/LYS_Mo4/CBG_lys_mo4.CBG_lys_mo4'"
+    },
+    {
+      "1": "302301",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/LYS/LYS_KJLDragon/CBG_LYS_KJLDragon.CBG_LYS_KJLDragon'"
+    },
+    {
+      "1": "302501",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/LYS/LYS_ChuiLong_01A/CBG_lys_chuilong_01a.CBG_lys_chuilong_01a'"
+    },
+    {
+      "1": "302801",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/LYS/LYS_LaoSeng_01/CBG_LYS_LaoSeng_01.CBG_LYS_LaoSeng_01'"
+    },
+    {
+      "1": "302901",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/LYS/LYS_WuDuLong_03A/CBG_lys_wudulong_03a.CBG_lys_wudulong_03a'"
+    },
+    {
+      "1": "303001",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/LYS/LYS_baitouweng_01/CBG_lys_baitouweng_01.CBG_lys_baitouweng_01'"
+    },
+    {
+      "1": "303201",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/LYS/LYS_Mo4/CBG_lys_mo4_eyeball.CBG_lys_mo4_eyeball'"
+    },
+    {
+      "1": "305101",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/LYS/LYS_xuewa/CBG_lys_xuewa.CBG_lys_xuewa'"
+    },
+    {
+      "1": "305601",
+      "2": "/Game/00Main/Design/AI/BTs/LYS/PDS_lingzhijing_01a/CBG_pds_lingzhijing_01a.CBG_pds_lingzhijing_01a"
+    },
+    {
+      "1": "305701",
+      "2": "/Game/00Main/Design/AI/BTs/LYS/PDS_lingzhijing_02a/CBG_pds_lingzhijing_02a.CBG_pds_lingzhijing_02a"
+    },
+    {
+      "1": "305801",
+      "2": "/Game/00Main/Design/AI/BTs/LYS/PDS_lingzhijing_03a/CBG_pds_lingzhijing_03a.CBG_pds_lingzhijing_03a"
+    },
+    {
+      "1": "306001",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/LYS/LYS_mangseng_02a/CBG_LYS_mangseng_02a.CBG_LYS_mangseng_02a'"
+    },
+    {
+      "1": "310801",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/LYS/LYS_frozenmon_02/CBG_lys_frozenmon_02.CBG_lys_frozenmon_02'"
+    },
+    {
+      "1": "311401",
+      "2": "/Game/00MainHZ/Characters/Enemy/LYS/LYS_RuYiLong_01/Mesh/Tail/CBG_LYS_RuYiLong_01a_Tail.CBG_LYS_RuYiLong_01a_Tail"
+    },
+    {
+      "1": "340101",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/LYS/LYS_KJLWoman/CBG_LYS_KJLWoman.CBG_LYS_KJLWoman'"
+    },
+    {
+      "1": "380001",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/LYS/LYS_HuangMei_03/CBG_LYS_HuangMei_03.CBG_LYS_HuangMei_03'"
+    },
+    {
+      "1": "380011",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/LYS/LYS_HuangMei_03/summonCBG/CBG_LYS_HuangMei_03_mo11.CBG_LYS_HuangMei_03_mo11'"
+    },
+    {
+      "1": "380022",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/LYS/LYS_HuangMei_03/summonCBG/CBG_LYS_HuangMei_03_mo22.CBG_LYS_HuangMei_03_mo22'"
+    },
+    {
+      "1": "380033",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/LYS/LYS_HuangMei_03/summonCBG/CBG_LYS_HuangMei_03_mo33.CBG_LYS_HuangMei_03_mo33'"
+    },
+    {
+      "1": "380034",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/LYS/LYS_HuangMei_03/summonCBG/CBG_LYS_HuangMei_03_mo3_HMZT3.CBG_LYS_HuangMei_03_mo3_HMZT3'"
+    },
+    {
+      "1": "390001",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/LYS/LYS_HuangMei_02/CBG_LYS_HuangMei_02.CBG_LYS_HuangMei_02'"
+    },
+    {
+      "1": "390101",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/LYS/LYS_WuDuLong_02A/CBG_LYS_WuDuLong_02A.CBG_LYS_WuDuLong_02A'"
+    },
+    {
+      "1": "400101",
+      "2": "/Game/00Main/Design/AI/BTs/HYS/HYS_JiRuHuo/CBG_HYS_JiRuHuo.CBG_HYS_JiRuHuo"
+    },
+    {
+      "1": "400201",
+      "2": "/Game/00Main/Design/AI/BTs/HYS/HYS_HuiJing/CBG_HYS_HuiJing_Start.CBG_HYS_HuiJing_Start"
+    },
+    {
+      "1": "400301",
+      "2": "/Game/00Main/Design/AI/BTs/HYS/HYS_ShiXianFeng_02/Fire/CBG_HYS_ShiXianFeng_02.CBG_HYS_ShiXianFeng_02"
+    },
+    {
+      "1": "400501",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/HYS/HYS_YunLiWu/CBG_HYS_YunLiWu_new.CBG_HYS_YunLiWu_new'"
+    },
+    {
+      "1": "400601",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/HYS/HYS_WuLiYun/CBG_HYS_WuLiYun_new.CBG_HYS_WuLiYun_new'"
+    },
+    {
+      "1": "400801",
+      "2": "/Game/00MainHZ/Characters/Enemy/HYS/HYS_TeChuShi_01/CBG_HYS_TeChuShi_01.CBG_HYS_TeChuShi_01"
+    },
+    {
+      "1": "401101",
+      "2": "/Game/00Main/Design/AI/BTs/HYS/HYS_HMS/CBG_hys_hms.CBG_hys_hms"
+    },
+    {
+      "1": "401201",
+      "2": "/Game/00Main/Design/AI/BTs/HYS/HYS_LuoChaGui_01/CBG_HYS_LuoChaGui_01.CBG_HYS_LuoChaGui_01"
+    },
+    {
+      "1": "401501",
+      "2": "/Game/00Main/Design/AI/BTs/HYS/HYS_ShiTongLing_02/CBG_HYS_ShiTongLing_02.CBG_HYS_ShiTongLing_02"
+    },
+    {
+      "1": "401901",
+      "2": "/Game/00Main/Design/AI/BTs/HYS/HYS_KuaiRuFeng_01/CBG_HYS_KuaiRuFeng_01.CBG_HYS_KuaiRuFeng_01"
+    },
+    {
+      "1": "402001",
+      "2": "/Game/00MainHZ/Characters/Enemy/HYS/HYS_NiuMo/CBG_hys_niumo_01.CBG_hys_niumo_01"
+    },
+    {
+      "1": "402002",
+      "2": "/Game/00MainHZ/Characters/Enemy/HYS/HYS_NiuMo/CBG_hys_niumo_02.CBG_hys_niumo_02"
+    },
+    {
+      "1": "402003",
+      "2": "Game/00MainHZ/Characters/Enemy/HYS/HYS_NiuMo/CBG_bys_JDS_03.CBG_bys_JDS_03"
+    },
+    {
+      "1": "402201",
+      "2": "BED_BehaviorAsset'/Game/00MainHZ/Characters/Enemy/HYS/HYS_huolingsha_02/CBG_hys_huolingsha_02.CBG_hys_huolingsha_02'"
+    },
+    {
+      "1": "402301",
+      "2": "BED_BehaviorAsset'/Game/00MainHZ/Characters/Enemy/HYS/HYS_huolingsha_01/CBG_hys_huolingsha_01.CBG_hys_huolingsha_01'"
+    },
+    {
+      "1": "402601",
+      "2": "/Game/00Main/Design/AI/BTs/HYS/HYS_huijin_02b/CBG_hys_huijin_02b.CBG_hys_huijin_02b"
+    },
+    {
+      "1": "402602",
+      "2": "/Game/00Main/Design/AI/BTs/HYS/HYS_huijin_02b/CBG_hys_huijin_02b_NoTewaza.CBG_hys_huijin_02b_NoTewaza"
+    },
+    {
+      "1": "402603",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/HYS/HYS_huijin_02b/CBG_hys_huijin_02b_invisible.CBG_hys_huijin_02b_invisible'"
+    },
+    {
+      "1": "402604",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/HYS/HYS_huijin_02b/CBG_hys_huijin_02b_invisible_BOSS.CBG_hys_huijin_02b_invisible_BOSS'"
+    },
+    {
+      "1": "405001",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/HYS/HYS_zhanche_01a/CBG_hys_zhanche_01a.CBG_hys_zhanche_01a'"
+    },
+    {
+      "1": "405301",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/HYS/HYS_zhanche_01d/CBG_hys_zhanche_01d.CBG_hys_zhanche_01d'"
+    },
+    {
+      "1": "405501",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/HYS/HYS_NiaoZui/CBG_HYS_NiaoZui.CBG_HYS_NiaoZui'"
+    },
+    {
+      "1": "411001",
+      "2": "/Game/3rd/cd9Test/CBG/CBG_BSD_JJS.CBG_BSD_JJS"
+    },
+    {
+      "1": "411002",
+      "2": "/Game/00Main/Design/AI/BTs/Online/BSD_JJShou_01/CBG_BSD_JJShou_02.CBG_BSD_JJShou_02"
+    },
+    {
+      "1": "412101",
+      "2": "/Game/00Main/Design/AI/BTs/Online/SL_sgd/CBG_sl_sgd.CBG_sl_sgd"
+    },
+    {
+      "1": "412201",
+      "2": "/Game/00Main/Design/AI/BTs/Online/SL_sgd/CBG_sl_ddxg.CBG_sl_ddxg"
+    },
+    {
+      "1": "412301",
+      "2": "/Game/00Main/Design/AI/BTs/Online/SZLC_shujing_02/CBG_szlc_shujing_02.CBG_szlc_shujing_02"
+    },
+    {
+      "1": "412302",
+      "2": "/Game/00Main/Design/AI/BTs/Online/SZLC_shujing_02/CBG_szlc_shujing_02_summon.CBG_szlc_shujing_02_summon"
+    },
+    {
+      "1": "412303",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/Online/SZLC_shujing_02/CBG_szlc_shujing_02_summon_blind.CBG_szlc_shujing_02_summon_blind'"
+    },
+    {
+      "1": "412401",
+      "2": "/Game/00Main/Design/AI/BTs/HFM/HFM_ShiXianFeng_01a/CBG_HFM_ShiXianFeng_01.CBG_HFM_ShiXianFeng_01"
+    },
+    {
+      "1": "412501",
+      "2": "/Game/00Main/Design/AI/BTs/Online/SZLC_shujing_03/CBG_sl_combination.CBG_sl_combination"
+    },
+    {
+      "1": "412502",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/Online/SZLC_shujing_03/CBG_szlc_shujing_03.CBG_szlc_shujing_03'"
+    },
+    {
+      "1": "412503",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/Online/SZLC_shujing_03/CBG_szlc_shujing_03_blind.CBG_szlc_shujing_03_blind'"
+    },
+    {
+      "1": "412601",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/Online/SL_shitongling/CBG_sl_shitongling.CBG_sl_shitongling'"
+    },
+    {
+      "1": "412801",
+      "2": "/Game/00Main/Design/AI/BTs/Online/SL_shanzhen_01/CBG_sl_phantomstone.CBG_sl_phantomstone"
+    },
+    {
+      "1": "412802",
+      "2": "/Game/3rd/guansitest/Maps/Trials/CBG_trials_test.CBG_trials_test"
+    },
+    {
+      "1": "412901",
+      "2": "/Game/00Main/Design/Bullets/Online/SL/SL_shanzhen_01/CBG_sl_shanzhen_01_true.CBG_sl_shanzhen_01_true"
+    },
+    {
+      "1": "412902",
+      "2": "/Game/00Main/Design/Bullets/Online/SL/SL_shanzhen_01/CBG_sl_shanzhen_01_summon.CBG_sl_shanzhen_01_summon"
+    },
+    {
+      "1": "412903",
+      "2": "/Game/00Main/Design/Bullets/Online/SL/SL_shanzhen_01/CBG_szlc_shujing_01_blind.CBG_szlc_shujing_01_blind"
+    },
+    {
+      "1": "412904",
+      "2": "/Game/00Main/Design/Bullets/Online/SL/SL_shanzhen_01/CBG_sl_shanzhen_01_big.CBG_sl_shanzhen_01_big"
+    },
+    {
+      "1": "413001",
+      "2": "/Game/00Main/Design/AI/BTs/Online/SL_suolian/CBG_sl_suolian_01.CBG_sl_suolian_01"
+    },
+    {
+      "1": "413002",
+      "2": "/Game/00Main/Design/AI/BTs/Online/SL_suolian/CBG_sl_suolian_01_01.CBG_sl_suolian_01_01"
+    },
+    {
+      "1": "413101",
+      "2": "/Game/00Main/Design/AI/BTs/Online/SL_suolian/CBG_sl_suolian_02.CBG_sl_suolian_02"
+    },
+    {
+      "1": "413102",
+      "2": "/Game/00Main/Design/AI/BTs/Online/SL_suolian/CBG_sl_suolian_02_01.CBG_sl_suolian_02_01"
+    },
+    {
+      "1": "413301",
+      "2": "/Game/00Main/Design/AI/BTs/Online/SL_hms/CBG_sl_hms.CBG_sl_hms"
+    },
+    {
+      "1": "413401",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/Online/SL_tianjiang_01/CBG_sl_tianjiang_01.CBG_sl_tianjiang_01'"
+    },
+    {
+      "1": "416401",
+      "2": "/Game/00Main/Design/AI/BTs/PSD/PSD_BaiYanMoJun_01/CBG_PSD_BaiYanMoJun_01.CBG_PSD_BaiYanMoJun_01"
+    },
+    {
+      "1": "416301",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/Online/SZLC_wa_01/CBG_szlc_wa_01.CBG_szlc_wa_01'"
+    },
+    {
+      "1": "416501",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/Online/SZLC_baiyanmojun_01/CBG_szlc_baiyanmojun_01_human.CBG_szlc_baiyanmojun_01_human'"
+    },
+    {
+      "1": "417201",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/Online/SZLC_zizhuer_01/CBG_szlc_zizhuer_01.CBG_szlc_zizhuer_01'"
+    },
+    {
+      "1": "418001",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/Online/SZLC_chicken_01/CBG_szlc_chicken_01.CBG_szlc_chicken_01'"
+    },
+    {
+      "1": "418401",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/Online/SZLC_deer_01/CBG_szlc_deer_01.CBG_szlc_deer_01'"
+    },
+    {
+      "1": "418501",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/Online/SZLC_Mouse/CBG_szlc_turtle_01.CBG_szlc_turtle_01'"
+    },
+    {
+      "1": "420101",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/PSD/PSD_chong_03/CBG_psd_chong_03.CBG_psd_chong_03'"
+    },
+    {
+      "1": "430101",
+      "2": "/Game/00Main/Design/AI/BTs/PSD/PSD_xiaozhizhu_01/CBG_psd_xiaozhizhu_01.CBG_psd_xiaozhizhu_01"
+    },
+    {
+      "1": "430901",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/PSD/PSD_daoshi_01/CBG_psd_daoshi_01.CBG_psd_daoshi_01'"
+    },
+    {
+      "1": "431001",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/PSD/PSD_daoshi_02/CBG_psd_daoshi_02.CBG_psd_daoshi_02'"
+    },
+    {
+      "1": "431101",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/PSD/PSD_daoshi_04/CBG_psd_daoshi_04.CBG_psd_daoshi_04'"
+    },
+    {
+      "1": "440101",
+      "2": "/Game/00Main/Design/AI/BTs/HYS/HYS_HongHaiEr_01A/CBG_HYS_HongHaiEr_01A.CBG_HYS_HongHaiEr_01A"
+    },
+    {
+      "1": "440201",
+      "2": "/Game/00MainHZ/Characters/Enemy/HYS/HYS_XingGongXian_01/CBG_HYS_XingGongXian_01.CBG_HYS_XingGongXian_01"
+    },
+    {
+      "1": "440301",
+      "2": "/Game/00MainHZ/Characters/Enemy/HYS/HYS_XianGongXing_01/CBG_HYS_XianGongXing_01.CBG_HYS_XianGongXing_01"
+    },
+    {
+      "1": "440401",
+      "2": "/Game/00MainHZ/Characters/Enemy/HYS/HYS_Ball/CBG_HYS_Ball_01.CBG_HYS_Ball_01"
+    },
+    {
+      "1": "440501",
+      "2": "/Game/00Main/Design/AI/BTs/HYS/HYS_HongHaiEr_02A/CBG_HYS_HongHaiEr_02A.CBG_HYS_HongHaiEr_02A"
+    },
+    {
+      "1": "440601",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/HYS/HYS_YuSaiGui/CBG_HYS_YuSaiGui_01A.CBG_HYS_YuSaiGui_01A'"
+    },
+    {
+      "1": "440701",
+      "2": "/Game/00Main/Design/AI/BTs/HYS/HYS_TuDiGong_01A/CBG_HYS_TuDiGong_01A.CBG_HYS_TuDiGong_01A"
+    },
+    {
+      "1": "445001",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/HYS/HYS_wa_01/CBG_hys_wa_01.CBG_hys_wa_01'"
+    },
+    {
+      "1": "470001",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/Online/SL_sgd/CBG_sl_hama.CBG_sl_hama'"
+    },
+    {
+      "1": "470101",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/Online/SL_ruodian/CBG_sl_ruodian.CBG_sl_ruodian'"
+    },
+    {
+      "1": "470201",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/Online/SL_sgd/CBG_sl_hls_l.CBG_sl_hls_l'"
+    },
+    {
+      "1": "470501",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/Online/SZLC/SZLC_yingzuilu_01/CBG_szlc_yingzuilu_01.CBG_szlc_yingzuilu_01'"
+    },
+    {
+      "1": "470601",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/Online/BHL/BHL_gushoufsq_01/CBG_bhl_gushoufsq_01.CBG_bhl_gushoufsq_01'"
+    },
+    {
+      "1": "470701",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/Online/SZLC/SZLC_xiniu_01/CBG_szlc_xiniu_01.CBG_szlc_xiniu_01'"
+    },
+    {
+      "1": "471201",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/Online/SZLC/SZLC_wanglingguan_01/CBG_szlc_wanglingguan_01.CBG_szlc_wanglingguan_01'"
+    },
+    {
+      "1": "471301",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/Online/SZLC/SZLC_tanglang_01/CBG_SZLC_tanglang01.CBG_SZLC_tanglang01'"
+    },
+    {
+      "1": "471310",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/Online/SZLC/SZLC_tanglang_01/CBG_SZLC_tanglang_Dialog.CBG_SZLC_tanglang_Dialog'"
+    },
+    {
+      "1": "488801",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/PSD/PSD_foshouchong_02a/CBG_psd_foshouchong_02a.CBG_psd_foshouchong_02a'"
+    },
+    {
+      "1": "499801",
+      "2": "BED_BehaviorAsset'/Game/00MainHZ/Characters/Enemy/PSD/PSD_xiezijing_01/CBG_psd_xiezijing_01a.CBG_psd_xiezijing_01a'"
+    },
+    {
+      "1": "499901",
+      "2": "BED_BehaviorAsset'/Game/00MainHZ/Characters/Enemy/PSD/PSD_xiezijing_01/CBG_psd_xiezijing_og.CBG_psd_xiezijing_og'"
+    },
+    {
+      "1": "500101",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/PSD/PSD_WuLong/CBG_psd_wulong_weakversion.CBG_psd_wulong_weakversion'"
+    },
+    {
+      "1": "500102",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/PSD/PSD_WuLong/CBG_psd_wulong.CBG_psd_wulong'"
+    },
+    {
+      "1": "500201",
+      "2": "/Game/00Main/Design/AI/BTs/PSD/PSD_FeiTianChong_01/CBG_PSD_FeiTianChong_01.CBG_PSD_FeiTianChong_01"
+    },
+    {
+      "1": "500301",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/PSD/PSD_ZhuBaJie_01B/CBG_psd_zhubajie_01b.CBG_psd_zhubajie_01b'"
+    },
+    {
+      "1": "500302",
+      "2": "BED_DialogueAsset'/Game/00Main/Design/AI/BTs/PSD/PSD_ZhuBaJie_01B/CDG_PSD_Zhubajie_01b.CDG_PSD_Zhubajie_01b'"
+    },
+    {
+      "1": "500501",
+      "2": "/Game/00Main/Design/AI/BTs/PSD/PSD_BaiYanMoJun_01/CBG_PSD_BaiYanMoJun_01.CBG_PSD_BaiYanMoJun_01"
+    },
+    {
+      "1": "500601",
+      "2": "/Game/00Main/Design/AI/BTs/PSD/PSD_RenShenJing_01A/CBG_PSD_RenShenJing_01A.CBG_PSD_RenShenJing_01A"
+    },
+    {
+      "1": "500602",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/PSD/PSD_RenShenJing_01A/CBG_PSD_RenShenJing_01A_Summon.CBG_PSD_RenShenJing_01A_Summon'"
+    },
+    {
+      "1": "500801",
+      "2": "/Game/00MainHZ/Characters/Enemy/PSD/PSD_ZiZhuEr_01/CBG_psd_zizhuer_01.CBG_psd_zizhuer_01"
+    },
+    {
+      "1": "500901",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/PSD/PSD_duchongsishi/CBG_psd_duchongsishi_nongrab.CBG_psd_duchongsishi_nongrab'"
+    },
+    {
+      "1": "500902",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/PSD/PSD_duchongsishi/CBG_psd_duchongsishi.CBG_psd_duchongsishi'"
+    },
+    {
+      "1": "501101",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/PSD/PSD_ZhuSun_03/CBG_PSD_Zhusun_03.CBG_PSD_Zhusun_03'"
+    },
+    {
+      "1": "501201",
+      "2": "/Game/00Main/Design/AI/BTs/PSD/PSD_leibishi_01/CBG_psd_leibishi_01.CBG_psd_leibishi_01"
+    },
+    {
+      "1": "501301",
+      "2": "/Game/00Main/Design/AI/BTs/PSD/PSD_ZhiZhuJing_01/CBG_PSD_ZhiZhuJing_01.CBG_PSD_ZhiZhuJing_01"
+    },
+    {
+      "1": "501401",
+      "2": "/Game/00Main/Design/AI/BTs/PSD/PSD_ZhiZhuJing_02/CBG_psd_zhizhujing_02.CBG_psd_zhizhujing_02"
+    },
+    {
+      "1": "501402",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/PSD/PSD_ZhiZhuJing_02/CBG_PSD_ZhiZhuJing_02_bossbattle.CBG_PSD_ZhiZhuJing_02_bossbattle'"
+    },
+    {
+      "1": "501501",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/PSD/PSD_ZhiZhuJing_03/CBG_PSD_ZhiZhuJing_03.CBG_PSD_ZhiZhuJing_03'"
+    },
+    {
+      "1": "501701",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/PSD/PSD_ZhiZhuJing_05/CBG_PSD_ZhiZhuJing_05.CBG_PSD_ZhiZhuJing_05'"
+    },
+    {
+      "1": "501901",
+      "2": "/Game/00Main/Design/AI/BTs/PSD/PSD_hutoushe_01/CBG_PSD_Hutoushe_01.CBG_PSD_Hutoushe_01"
+    },
+    {
+      "1": "502001",
+      "2": "BED_BehaviorAsset'/Game/00MainHZ/Characters/Enemy/PSD/PSD_YouYan_02/CBG_psd_youyan_02.CBG_psd_youyan_02'"
+    },
+    {
+      "1": "502101",
+      "2": "BED_BehaviorAsset'/Game/00MainHZ/Characters/Enemy/PSD/PDS_renshenjing_02a/CBG_pds_renshenjing_02a.CBG_pds_renshenjing_02a'"
+    },
+    {
+      "1": "505401",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/PSD/PSD_wa_01/CBG_psd_wa_01.CBG_psd_wa_01'"
+    },
+    {
+      "1": "509900",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/CBG_npc_zhubajie_BattleOnly.CBG_npc_zhubajie_BattleOnly'"
+    },
+    {
+      "1": "509901",
+      "2": "/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/CBG_npc_zhubajie_yechawang_01.CBG_npc_zhubajie_yechawang_01"
+    },
+    {
+      "1": "509902",
+      "2": "/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/CBG_npc_zhubajie_psd_startvillage.CBG_npc_zhubajie_psd_startvillage"
+    },
+    {
+      "1": "509903",
+      "2": "/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/CBG_npc_zhubajie_hystudi_01.CBG_npc_zhubajie_hystudi_01"
+    },
+    {
+      "1": "509904",
+      "2": "/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/CBG_npc_zhubajie_general.CBG_npc_zhubajie_general"
+    },
+    {
+      "1": "509905",
+      "2": "/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/CBG_npc_zhubajie_zizhuer.CBG_npc_zhubajie_zizhuer"
+    },
+    {
+      "1": "509906",
+      "2": "BED_DialogueAsset'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/CDG_NPC_Zhubajie_Zizhuer.CDG_NPC_Zhubajie_Zizhuer'"
+    },
+    {
+      "1": "509909",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/CBG_npc_zhubajie_lys_rzd.CBG_npc_zhubajie_lys_rzd'"
+    },
+    {
+      "1": "509920",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/CBG_npc_zhubajie_lys_guibei.CBG_npc_zhubajie_lys_guibei'"
+    },
+    {
+      "1": "509921",
+      "2": "BED_DialogueAsset'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/CDG_NPC_Zhubajie_Guibei.CDG_NPC_Zhubajie_Guibei'"
+    },
+    {
+      "1": "509930",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/CBG_npc_zhubajie_psd_FrontMountain.CBG_npc_zhubajie_psd_FrontMountain'"
+    },
+    {
+      "1": "509942",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/CBG_npc_zhubajie_wanglingguan.CBG_npc_zhubajie_wanglingguan'"
+    },
+    {
+      "1": "509943",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/CBG_npc_zhubajie_houshan.CBG_npc_zhubajie_houshan'"
+    },
+    {
+      "1": "509991",
+      "2": "BED_DialogueAsset'/Game/00Main/Design/AI/BTs/NPC/NPC_ZhuBaJie01B/CDG_NPC_Zhubajie_Follow.CDG_NPC_Zhubajie_Follow'"
+    },
+    {
+      "1": "510001",
+      "2": "/Game/00Main/Design/AI/BTs/PSD/PSD_zhubajie_02a/CBG_psd_zhubajie_02a.CBG_psd_zhubajie_02a"
+    },
+    {
+      "1": "540301",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/PSD/PSD_jiachongzongbing_02/CBG_psd_jiachongzongbing_02.CBG_psd_jiachongzongbing_02'"
+    },
+    {
+      "1": "540602",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/PSD/psd_chongjian_01a/CBG_psd_chongjian_wulong.CBG_psd_chongjian_wulong'"
+    },
+    {
+      "1": "540801",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/PSD/psd_baijiangcan_02/CBG_psd_baijiangcan_02.CBG_psd_baijiangcan_02'"
+    },
+    {
+      "1": "540802",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/PSD/psd_baijiangcan_02/CBG_psd_baijiangcan_01.CBG_psd_baijiangcan_01'"
+    },
+    {
+      "1": "580201",
+      "2": "/Game/00Main/Design/AI/BTs/HYS/HYS_Shanzhen_02/CBG_HYS_Shanzhen_02_GetUp.CBG_HYS_Shanzhen_02_GetUp"
+    },
+    {
+      "1": "600101",
+      "2": "/Game/00Main/Design/AI/BTs/HFM/HFM_DuJiaoXian/CBG_LSH_DuJiaoXian.CBG_LSH_DuJiaoXian"
+    },
+    {
+      "1": "600601",
+      "2": "/Game/00Main/Design/AI/BTs/GYCY/GYCY_YanJianXi_01/CBG/CBG_GYCY_YKX.CBG_GYCY_YKX"
+    },
+    {
+      "1": "700101",
+      "2": "/Game/00MainHZ/Characters/Enemy/MGD/MGD_JSDS/CBG_mgd_jsds.CBG_mgd_jsds"
+    },
+    {
+      "1": "700102",
+      "2": "/Game/00MainHZ/Characters/Enemy/MGD/MGD_JSDS/CBG_mgd_jsds_p2.CBG_mgd_jsds_p2"
+    },
+    {
+      "1": "740101",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/MGD/mgd_yuan/CBG_mgd_yuan.CBG_mgd_yuan'"
+    },
+    {
+      "1": "740102",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/MGD/mgd_yuan/CBG_mgd_yuan_fenshen.CBG_mgd_yuan_fenshen'"
+    },
+    {
+      "1": "800001",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/MGD/MGD_yangjian_01/CBG_mgd_yangjian_01_final.CBG_mgd_yangjian_01_final'"
+    },
+    {
+      "1": "800011",
+      "2": "BED_DialogueAsset'/Game/00Main/Design/AI/BTs/MGD/MGD_yangjian_01/CDG_mgd_yangjian_01_final.CDG_mgd_yangjian_01_final'"
+    },
+    {
+      "1": "800002",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/MGD/MGD_yangjian_01/CBG_mgd_yangjian_01_start.CBG_mgd_yangjian_01_start'"
+    },
+    {
+      "1": "800012",
+      "2": "BED_DialogueAsset'/Game/00Main/Design/AI/BTs/MGD/MGD_yangjian_01/CDG_mgd_yangjian_01_start.CDG_mgd_yangjian_01_start'"
+    },
+    {
+      "1": "800003",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/MGD/MGD_yangjian_01/CBG_mgd_yangjian_01_test.CBG_mgd_yangjian_01_test'"
+    },
+    {
+      "1": "800009",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/MGD/MGD_yangjian_01/Summon/CBG_mgd_yangjian_01_p.CBG_mgd_yangjian_01_p'"
+    },
+    {
+      "1": "900101",
+      "2": "/Game/00Main/Design/AI/BTs/Online/GYCY_Xiong_02_Online/CBG_GYCY_Xiong_02_Online_Daodi.CBG_GYCY_Xiong_02_Online_Daodi"
+    },
+    {
+      "1": "999901",
+      "2": "BED_DialogueAsset'/Game/TestMaps/oceantest/Calliope/CDG/CDG_Test.CDG_Test'"
+    },
+    {
+      "1": "1001101",
+      "2": "/Game/00MainHZ/Characters/Wukong/CBG_Wukong_Summon.CBG_Wukong_Summon"
+    },
+    {
+      "1": "1001102",
+      "2": "/Game/00MainHZ/Characters/Wukong/CBG_Wukong_Summon.CBG_Wukong_Summon"
+    },
+    {
+      "1": "1030001",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/Test/Lang_03_circus_chris/CBG_lang03_circus_test.CBG_lang03_circus_test'"
+    },
+    {
+      "1": "2401001",
+      "2": "BED_BehaviorAsset'/Game/00MainHZ/Characters/Transform/Player_mgd_yuan/CBG_player_mgd_yuan_summon.CBG_player_mgd_yuan_summon'"
+    },
+    {
+      "1": "10370101",
+      "2": "/Game/00MainHZ/Characters/Wukong/CBG_Wukong_Summon.CBG_Wukong_Summon"
+    },
+    {
+      "1": "300701",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/LYS/LYS_YaXiangKe/CBG_lys_yaxiangke.CBG_lys_yaxiangke'"
+    },
+    {
+      "1": "471401",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/Online/SZLC/SZLC_hema_01/CBG_szlc_hema_01.CBG_szlc_hema_01'"
+    },
+    {
+      "1": "581001",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/HYS/HYS_huijingrenou_03/CBG_hys_huijingrenou_03.CBG_hys_huijingrenou_03'"
+    },
+    {
+      "1": "302601",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/LYS/LYS_ChiFaGui_01A/CBG_LYS_ChiFaGui_01A.CBG_LYS_ChiFaGui_01A'"
+    },
+    {
+      "1": "600801",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/HFM/HFM_HFDS_01/CBG_HFM_HFDS_dujiaoxian.CBG_HFM_HFDS_dujiaoxian'"
+    },
+    {
+      "1": "600810",
+      "2": "BED_DialogueAsset'/Game/00Main/Design/AI/BTs/HFM/HFM_HFDS_01/CDG_hfm_hfds_dujiaoxain.CDG_hfm_hfds_dujiaoxain'"
+    },
+    {
+      "1": "471402",
+      "2": "BED_BehaviorAsset'/Game/00Main/Design/AI/BTs/Online/SZLC/SZLC_hema_01/CBG_szlc_hema_01.CBG_szlc_hema_01'"
+    },
+    {
+      "1": "581101",
+      "2": "BED_BehaviorAsset'/Game/00MainHZ/Characters/Enemy/HYS/HYS_huijingtitan_01/CBG_hys_huijingtitan_01.CBG_hys_huijingtitan_01'"
+    }
+  ]
+}

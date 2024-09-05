@@ -1,0 +1,1143 @@
+{
+  "1": [
+    {
+      "1": "10",
+      "2": {},
+      "3": {},
+      "4": {},
+      "5": {},
+      "6": {},
+      "7": {},
+      "8": {}
+    },
+    {
+      "1": "100",
+      "2": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Big.DBC_Modify_debuff_Frozen_Scale_Big'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Big.DBC_Modify_debuff_Frozen_Scale_Big'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Big.DBC_Modify_debuff_Frozen_Scale_Big'"
+      },
+      "3": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Big.DBC_Modify_debuff_fire_Scale_Big'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Big.DBC_Modify_debuff_fire_Scale_Big'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Big.DBC_Modify_debuff_fire_Scale_Big'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Big.DBC_Modify_debuff_fire_Scale_Big'"
+      },
+      "4": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Big.DBC_Modify_debuff_Poisoning_Scale_Big'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Big.DBC_Modify_debuff_Poisoning_Scale_Big'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Big.DBC_Modify_debuff_Poisoning_Scale_Big'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Big.DBC_Modify_debuff_Poisoning_Scale_Big'"
+      },
+      "5": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Scale/DBC_Modify_debuff_Lightning_Scale_Big.DBC_Modify_debuff_Lightning_Scale_Big'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Scale/DBC_Modify_debuff_Lightning_Scale_Big.DBC_Modify_debuff_Lightning_Scale_Big'",
+        "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Hit/Scale/DBC_Modify_debuff_Lightning_Scale_Big_Hit.DBC_Modify_debuff_Lightning_Scale_Big_Hit'"
+      },
+      "6": {},
+      "7": {},
+      "8": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Big.DBC_Modify_debuff_Frozen_Scale_Big'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Big.DBC_Modify_debuff_Frozen_Scale_Big'"
+      }
+    },
+    {
+      "1": "101",
+      "2": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'"
+      },
+      "3": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Huge.DBC_Modify_debuff_fire_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Huge.DBC_Modify_debuff_fire_Scale_Huge'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Huge.DBC_Modify_debuff_fire_Scale_Huge'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Huge.DBC_Modify_debuff_fire_Scale_Huge'"
+      },
+      "4": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'"
+      },
+      "5": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Scale/DBC_Modify_debuff_Lightning_Scale_Huge.DBC_Modify_debuff_Lightning_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Scale/DBC_Modify_debuff_Lightning_Scale_Huge.DBC_Modify_debuff_Lightning_Scale_Huge'",
+        "7": "2",
+        "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Hit/Scale/DBC_Modify_debuff_Lightning_Scale_Huge_Hit.DBC_Modify_debuff_Lightning_Scale_Huge_Hit'"
+      },
+      "6": {},
+      "7": {},
+      "8": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'"
+      }
+    },
+    {
+      "1": "102",
+      "2": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Titan.DBC_Modify_debuff_Frozen_Scale_Titan'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Titan.DBC_Modify_debuff_Frozen_Scale_Titan'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Titan.DBC_Modify_debuff_Frozen_Scale_Titan'"
+      },
+      "3": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Titan.DBC_Modify_debuff_fire_Scale_Titan'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Titan.DBC_Modify_debuff_fire_Scale_Titan'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Titan.DBC_Modify_debuff_fire_Scale_Titan'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Titan.DBC_Modify_debuff_fire_Scale_Titan'"
+      },
+      "4": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Titan.DBC_Modify_debuff_Poisoning_Scale_Titan'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Titan.DBC_Modify_debuff_Poisoning_Scale_Titan'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Titan.DBC_Modify_debuff_Poisoning_Scale_Titan'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Titan.DBC_Modify_debuff_Poisoning_Scale_Titan'"
+      },
+      "5": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Scale/DBC_Modify_debuff_Lightning_Scale_Titan.DBC_Modify_debuff_Lightning_Scale_Titan'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Scale/DBC_Modify_debuff_Lightning_Scale_Titan.DBC_Modify_debuff_Lightning_Scale_Titan'",
+        "7": "2",
+        "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Hit/Scale/DBC_Modify_debuff_Lightning_Scale_Titan_Hit.DBC_Modify_debuff_Lightning_Scale_Titan_Hit'"
+      },
+      "6": {},
+      "7": {},
+      "8": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Titan.DBC_Modify_debuff_Frozen_Scale_Titan'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Titan.DBC_Modify_debuff_Frozen_Scale_Titan'"
+      }
+    },
+    {
+      "1": "1002",
+      "2": {},
+      "3": {
+        "9": "1",
+        "11": "1"
+      },
+      "4": {
+        "9": "1",
+        "11": "1"
+      },
+      "5": {},
+      "6": {},
+      "7": {},
+      "8": {}
+    },
+    {
+      "1": "1003",
+      "2": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Big.DBC_Modify_debuff_Frozen_Scale_Big'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Big.DBC_Modify_debuff_Frozen_Scale_Big'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Big.DBC_Modify_debuff_Frozen_Scale_Big'"
+      },
+      "3": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_baijiangca.DBC_Modify_debuff_fire_baijiangca'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_baijiangca.DBC_Modify_debuff_fire_baijiangca'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Big.DBC_Modify_debuff_fire_Scale_Big'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Big.DBC_Modify_debuff_fire_Scale_Big'"
+      },
+      "4": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Big.DBC_Modify_debuff_Poisoning_Scale_Big'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Big.DBC_Modify_debuff_Poisoning_Scale_Big'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Big.DBC_Modify_debuff_Poisoning_Scale_Big'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Big.DBC_Modify_debuff_Poisoning_Scale_Big'"
+      },
+      "5": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Scale/DBC_Modify_debuff_Lightning_Scale_Big.DBC_Modify_debuff_Lightning_Scale_Big'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Scale/DBC_Modify_debuff_Lightning_Scale_Big.DBC_Modify_debuff_Lightning_Scale_Big'",
+        "7": "2",
+        "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Hit/Scale/DBC_Modify_debuff_Lightning_Scale_Big_Hit.DBC_Modify_debuff_Lightning_Scale_Big_Hit'"
+      },
+      "6": {},
+      "7": {},
+      "8": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Big.DBC_Modify_debuff_Frozen_Scale_Big'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Big.DBC_Modify_debuff_Frozen_Scale_Big'"
+      }
+    },
+    {
+      "1": "1004",
+      "2": {},
+      "3": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_baijiangca_small.DBC_Modify_debuff_fire_baijiangca_small'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_baijiangca_small.DBC_Modify_debuff_fire_baijiangca_small'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Big.DBC_Modify_debuff_fire_Scale_Big'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Big.DBC_Modify_debuff_fire_Scale_Big'"
+      },
+      "4": {},
+      "5": {},
+      "6": {},
+      "7": {},
+      "8": {}
+    },
+    {
+      "1": "1005",
+      "2": {},
+      "3": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_xiaozhizhu_01.DBC_Modify_debuff_fire_xiaozhizhu_01'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_xiaozhizhu_01.DBC_Modify_debuff_fire_xiaozhizhu_01'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_xiaozhizhu_01.DBC_Modify_debuff_fire_xiaozhizhu_01'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_xiaozhizhu_01.DBC_Modify_debuff_fire_xiaozhizhu_01'"
+      },
+      "4": {},
+      "5": {},
+      "6": {},
+      "7": {},
+      "8": {}
+    },
+    {
+      "1": "1006",
+      "2": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'"
+      },
+      "3": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_DBL_01.DBC_Modify_debuff_fire_DBL_01'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_DBL_01.DBC_Modify_debuff_fire_DBL_01'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Big.DBC_Modify_debuff_fire_Scale_Big'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Big.DBC_Modify_debuff_fire_Scale_Big'"
+      },
+      "4": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'"
+      },
+      "5": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Scale/DBC_Modify_debuff_Lightning_Scale_Huge.DBC_Modify_debuff_Lightning_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Scale/DBC_Modify_debuff_Lightning_Scale_Huge.DBC_Modify_debuff_Lightning_Scale_Huge'",
+        "7": "2",
+        "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Hit/Scale/DBC_Modify_debuff_Lightning_Scale_Huge_Hit.DBC_Modify_debuff_Lightning_Scale_Huge_Hit'"
+      },
+      "6": {},
+      "7": {},
+      "8": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'"
+      }
+    },
+    {
+      "1": "1007",
+      "2": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'"
+      },
+      "3": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_zizhuer_01.DBC_Modify_debuff_fire_zizhuer_01'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_zizhuer_01.DBC_Modify_debuff_fire_zizhuer_01'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Big.DBC_Modify_debuff_fire_Scale_Big'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Big.DBC_Modify_debuff_fire_Scale_Big'"
+      },
+      "4": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'"
+      },
+      "5": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Scale/DBC_Modify_debuff_Lightning_Scale_Huge.DBC_Modify_debuff_Lightning_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Scale/DBC_Modify_debuff_Lightning_Scale_Huge.DBC_Modify_debuff_Lightning_Scale_Huge'",
+        "7": "2",
+        "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Hit/Scale/DBC_Modify_debuff_Lightning_Scale_Huge_Hit.DBC_Modify_debuff_Lightning_Scale_Huge_Hit'"
+      },
+      "6": {},
+      "7": {},
+      "8": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'"
+      }
+    },
+    {
+      "1": "1008",
+      "2": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'"
+      },
+      "3": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_heixiongjing_01.DBC_Modify_debuff_fire_heixiongjing_01'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_heixiongjing_01.DBC_Modify_debuff_fire_heixiongjing_01'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Big.DBC_Modify_debuff_fire_Scale_Big'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Big.DBC_Modify_debuff_fire_Scale_Big'"
+      },
+      "4": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'"
+      },
+      "5": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Scale/DBC_Modify_debuff_Lightning_Scale_Huge.DBC_Modify_debuff_Lightning_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Scale/DBC_Modify_debuff_Lightning_Scale_Huge.DBC_Modify_debuff_Lightning_Scale_Huge'",
+        "7": "2",
+        "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Hit/Scale/DBC_Modify_debuff_Lightning_Scale_Huge_Hit.DBC_Modify_debuff_Lightning_Scale_Huge_Hit'"
+      },
+      "6": {},
+      "7": {},
+      "8": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'"
+      }
+    },
+    {
+      "1": "1009",
+      "2": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'"
+      },
+      "3": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_Baiyanmojun_01.DBC_Modify_debuff_fire_Baiyanmojun_01'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_Baiyanmojun_01.DBC_Modify_debuff_fire_Baiyanmojun_01'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Big.DBC_Modify_debuff_fire_Scale_Big'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Big.DBC_Modify_debuff_fire_Scale_Big'"
+      },
+      "4": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'"
+      },
+      "5": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Scale/DBC_Modify_debuff_Lightning_Scale_Huge.DBC_Modify_debuff_Lightning_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Scale/DBC_Modify_debuff_Lightning_Scale_Huge.DBC_Modify_debuff_Lightning_Scale_Huge'",
+        "7": "2",
+        "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Hit/Scale/DBC_Modify_debuff_Lightning_Scale_Huge_Hit.DBC_Modify_debuff_Lightning_Scale_Huge_Hit'"
+      },
+      "6": {},
+      "7": {},
+      "8": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'"
+      }
+    },
+    {
+      "1": "1010",
+      "2": {},
+      "3": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_chongjian_01.DBC_Modify_debuff_fire_chongjian_01'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_chongjian_01.DBC_Modify_debuff_fire_chongjian_01'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_chongjian_01.DBC_Modify_debuff_fire_chongjian_01'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_chongjian_01.DBC_Modify_debuff_fire_chongjian_01'"
+      },
+      "4": {},
+      "5": {},
+      "6": {},
+      "7": {},
+      "8": {}
+    },
+    {
+      "1": "1011",
+      "2": {},
+      "3": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_chongluan_01.DBC_Modify_debuff_fire_chongluan_01'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_chongluan_01.DBC_Modify_debuff_fire_chongluan_01'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_chongluan_01.DBC_Modify_debuff_fire_chongluan_01'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_chongluan_01.DBC_Modify_debuff_fire_chongluan_01'"
+      },
+      "4": {},
+      "5": {},
+      "6": {},
+      "7": {},
+      "8": {}
+    },
+    {
+      "1": "1012",
+      "2": {},
+      "3": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_chongluan_02.DBC_Modify_debuff_fire_chongluan_02'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_chongluan_02.DBC_Modify_debuff_fire_chongluan_02'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_chongluan_02.DBC_Modify_debuff_fire_chongluan_02'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_chongluan_02.DBC_Modify_debuff_fire_chongluan_02'"
+      },
+      "4": {},
+      "5": {},
+      "6": {},
+      "7": {},
+      "8": {}
+    },
+    {
+      "1": "1013",
+      "2": {},
+      "3": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_chongluan_03.DBC_Modify_debuff_fire_chongluan_03'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_chongluan_03.DBC_Modify_debuff_fire_chongluan_03'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_chongluan_03.DBC_Modify_debuff_fire_chongluan_03'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_chongluan_03.DBC_Modify_debuff_fire_chongluan_03'"
+      },
+      "4": {},
+      "5": {},
+      "6": {},
+      "7": {},
+      "8": {}
+    },
+    {
+      "1": "1014",
+      "2": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'"
+      },
+      "3": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_foshouchong_01.DBC_Modify_debuff_fire_foshouchong_01'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_foshouchong_01.DBC_Modify_debuff_fire_foshouchong_01'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Big.DBC_Modify_debuff_fire_Scale_Big'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Big.DBC_Modify_debuff_fire_Scale_Big'"
+      },
+      "4": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'"
+      },
+      "5": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Scale/DBC_Modify_debuff_Lightning_Scale_Huge.DBC_Modify_debuff_Lightning_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Scale/DBC_Modify_debuff_Lightning_Scale_Huge.DBC_Modify_debuff_Lightning_Scale_Huge'",
+        "7": "2",
+        "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Hit/Scale/DBC_Modify_debuff_Lightning_Scale_Huge_Hit.DBC_Modify_debuff_Lightning_Scale_Huge_Hit'"
+      },
+      "6": {},
+      "7": {},
+      "8": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'"
+      }
+    },
+    {
+      "1": "1015",
+      "2": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'"
+      },
+      "3": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_zhubajie_02a.DBC_Modify_debuff_fire_zhubajie_02a'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_zhubajie_02a.DBC_Modify_debuff_fire_zhubajie_02a'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Big.DBC_Modify_debuff_fire_Scale_Big'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Big.DBC_Modify_debuff_fire_Scale_Big'"
+      },
+      "4": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'"
+      },
+      "5": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Scale/DBC_Modify_debuff_Lightning_Scale_Huge.DBC_Modify_debuff_Lightning_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Scale/DBC_Modify_debuff_Lightning_Scale_Huge.DBC_Modify_debuff_Lightning_Scale_Huge'",
+        "7": "2",
+        "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Hit/Scale/DBC_Modify_debuff_Lightning_Scale_Huge_Hit.DBC_Modify_debuff_Lightning_Scale_Huge_Hit'"
+      },
+      "6": {},
+      "7": {},
+      "8": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'"
+      }
+    },
+    {
+      "1": "1016",
+      "2": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'"
+      },
+      "3": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_ShuWang_01a.DBC_Modify_debuff_fire_ShuWang_01a'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_ShuWang_01a.DBC_Modify_debuff_fire_ShuWang_01a'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Big.DBC_Modify_debuff_fire_Scale_Big'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Big.DBC_Modify_debuff_fire_Scale_Big'"
+      },
+      "4": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'"
+      },
+      "5": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Scale/DBC_Modify_debuff_Lightning_Scale_Huge.DBC_Modify_debuff_Lightning_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Scale/DBC_Modify_debuff_Lightning_Scale_Huge.DBC_Modify_debuff_Lightning_Scale_Huge'",
+        "7": "2",
+        "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Hit/Scale/DBC_Modify_debuff_Lightning_Scale_Huge_Hit.DBC_Modify_debuff_Lightning_Scale_Huge_Hit'"
+      },
+      "6": {},
+      "7": {},
+      "8": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'"
+      }
+    },
+    {
+      "1": "1017",
+      "2": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'"
+      },
+      "3": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_kuairufeng_01.DBC_Modify_debuff_fire_kuairufeng_01'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_kuairufeng_01.DBC_Modify_debuff_fire_kuairufeng_01'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Big.DBC_Modify_debuff_fire_Scale_Big'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Big.DBC_Modify_debuff_fire_Scale_Big'"
+      },
+      "4": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'"
+      },
+      "5": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Scale/DBC_Modify_debuff_Lightning_Scale_Huge.DBC_Modify_debuff_Lightning_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Scale/DBC_Modify_debuff_Lightning_Scale_Huge.DBC_Modify_debuff_Lightning_Scale_Huge'",
+        "7": "2",
+        "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Hit/Scale/DBC_Modify_debuff_Lightning_Scale_Huge_Hit.DBC_Modify_debuff_Lightning_Scale_Huge_Hit'"
+      },
+      "6": {},
+      "7": {},
+      "8": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'"
+      }
+    },
+    {
+      "1": "1018",
+      "2": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'"
+      },
+      "3": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_mo1_01.DBC_Modify_debuff_fire_mo1_01'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_mo1_01.DBC_Modify_debuff_fire_mo1_01'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Big.DBC_Modify_debuff_fire_Scale_Big'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Big.DBC_Modify_debuff_fire_Scale_Big'"
+      },
+      "4": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Titan.DBC_Modify_debuff_Poisoning_Scale_Titan'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Titan.DBC_Modify_debuff_Poisoning_Scale_Titan'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Titan.DBC_Modify_debuff_Poisoning_Scale_Titan'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Titan.DBC_Modify_debuff_Poisoning_Scale_Titan'"
+      },
+      "5": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Scale/DBC_Modify_debuff_Lightning_Scale_Titan.DBC_Modify_debuff_Lightning_Scale_Titan'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Scale/DBC_Modify_debuff_Lightning_Scale_Titan.DBC_Modify_debuff_Lightning_Scale_Titan'",
+        "7": "2",
+        "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Hit/Scale/DBC_Modify_debuff_Lightning_Scale_Titan_Hit.DBC_Modify_debuff_Lightning_Scale_Titan_Hit'"
+      },
+      "6": {},
+      "7": {},
+      "8": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Titan.DBC_Modify_debuff_Frozen_Scale_Titan'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Titan.DBC_Modify_debuff_Frozen_Scale_Titan'"
+      }
+    },
+    {
+      "1": "1019",
+      "2": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Titan.DBC_Modify_debuff_Frozen_Scale_Titan'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Titan.DBC_Modify_debuff_Frozen_Scale_Titan'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Titan.DBC_Modify_debuff_Frozen_Scale_Titan'"
+      },
+      "3": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_xuelu_01.DBC_Modify_debuff_fire_xuelu_01'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_xuelu_01.DBC_Modify_debuff_fire_xuelu_01'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Big.DBC_Modify_debuff_fire_Scale_Big'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Big.DBC_Modify_debuff_fire_Scale_Big'"
+      },
+      "4": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'"
+      },
+      "5": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Scale/DBC_Modify_debuff_Lightning_Scale_Huge.DBC_Modify_debuff_Lightning_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Scale/DBC_Modify_debuff_Lightning_Scale_Huge.DBC_Modify_debuff_Lightning_Scale_Huge'",
+        "7": "2",
+        "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Hit/Scale/DBC_Modify_debuff_Lightning_Scale_Huge_Hit.DBC_Modify_debuff_Lightning_Scale_Huge_Hit'"
+      },
+      "6": {},
+      "7": {},
+      "8": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'"
+      }
+    },
+    {
+      "1": "1020",
+      "2": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'"
+      },
+      "3": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_xiniu_01.DBC_Modify_debuff_fire_xiniu_01'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_xiniu_01.DBC_Modify_debuff_fire_xiniu_01'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Big.DBC_Modify_debuff_fire_Scale_Big'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Big.DBC_Modify_debuff_fire_Scale_Big'"
+      },
+      "4": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'"
+      },
+      "5": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Scale/DBC_Modify_debuff_Lightning_Scale_Huge.DBC_Modify_debuff_Lightning_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Scale/DBC_Modify_debuff_Lightning_Scale_Huge.DBC_Modify_debuff_Lightning_Scale_Huge'",
+        "7": "2",
+        "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Hit/Scale/DBC_Modify_debuff_Lightning_Scale_Huge_Hit.DBC_Modify_debuff_Lightning_Scale_Huge_Hit'"
+      },
+      "6": {},
+      "7": {},
+      "8": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'"
+      }
+    },
+    {
+      "1": "1021",
+      "2": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'"
+      },
+      "3": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_mo2_01.DBC_Modify_debuff_fire_mo2_01'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_mo2_01.DBC_Modify_debuff_fire_mo2_01'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Big.DBC_Modify_debuff_fire_Scale_Big'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Big.DBC_Modify_debuff_fire_Scale_Big'"
+      },
+      "4": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'"
+      },
+      "5": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Scale/DBC_Modify_debuff_Lightning_Scale_Huge.DBC_Modify_debuff_Lightning_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Scale/DBC_Modify_debuff_Lightning_Scale_Huge.DBC_Modify_debuff_Lightning_Scale_Huge'",
+        "7": "2",
+        "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Hit/Scale/DBC_Modify_debuff_Lightning_Scale_Huge_Hit.DBC_Modify_debuff_Lightning_Scale_Huge_Hit'"
+      },
+      "6": {},
+      "7": {},
+      "8": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'"
+      }
+    },
+    {
+      "1": "1022",
+      "2": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'"
+      },
+      "3": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_yusaigui_01.DBC_Modify_debuff_fire_yusaigui_01'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_yusaigui_01.DBC_Modify_debuff_fire_yusaigui_01'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Big.DBC_Modify_debuff_fire_Scale_Big'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Big.DBC_Modify_debuff_fire_Scale_Big'"
+      },
+      "4": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'"
+      },
+      "5": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Scale/DBC_Modify_debuff_Lightning_Scale_Huge.DBC_Modify_debuff_Lightning_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Scale/DBC_Modify_debuff_Lightning_Scale_Huge.DBC_Modify_debuff_Lightning_Scale_Huge'",
+        "7": "2",
+        "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Hit/Scale/DBC_Modify_debuff_Lightning_Scale_Huge_Hit.DBC_Modify_debuff_Lightning_Scale_Huge_Hit'"
+      },
+      "6": {},
+      "7": {},
+      "8": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'"
+      }
+    },
+    {
+      "1": "1023",
+      "2": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Big.DBC_Modify_debuff_Frozen_Scale_Big'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Big.DBC_Modify_debuff_Frozen_Scale_Big'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Big.DBC_Modify_debuff_Frozen_Scale_Big'"
+      },
+      "3": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_hema_01.DBC_Modify_debuff_fire_hema_01'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_hema_01.DBC_Modify_debuff_fire_hema_01'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Big.DBC_Modify_debuff_fire_Scale_Big'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Scale/DBC_Modify_debuff_fire_Scale_Big.DBC_Modify_debuff_fire_Scale_Big'"
+      },
+      "4": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Huge.DBC_Modify_debuff_Poisoning_Scale_Huge'"
+      },
+      "5": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Scale/DBC_Modify_debuff_Lightning_Scale_Huge.DBC_Modify_debuff_Lightning_Scale_Huge'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Scale/DBC_Modify_debuff_Lightning_Scale_Huge.DBC_Modify_debuff_Lightning_Scale_Huge'",
+        "7": "2",
+        "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Hit/Scale/DBC_Modify_debuff_Lightning_Scale_Huge_Hit.DBC_Modify_debuff_Lightning_Scale_Huge_Hit'"
+      },
+      "6": {},
+      "7": {},
+      "8": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Huge.DBC_Modify_debuff_Frozen_Scale_Huge'"
+      }
+    },
+    {
+      "1": "1024",
+      "2": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Special/DBC_Modify_debuff_frozen_xuehou_player.DBC_Modify_debuff_frozen_xuehou_player'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Special/DBC_Modify_debuff_frozen_xuehou_player.DBC_Modify_debuff_frozen_xuehou_player'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Special/DBC_Modify_debuff_frozen_xuehou_player.DBC_Modify_debuff_frozen_xuehou_player'"
+      },
+      "3": {},
+      "4": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Special/DBC_Modify_debuff_Poisoning_xuehou_player.DBC_Modify_debuff_Poisoning_xuehou_player'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Special/DBC_Modify_debuff_Poisoning_xuehou_player.DBC_Modify_debuff_Poisoning_xuehou_player'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Special/DBC_Modify_debuff_Poisoning_xuehou_player.DBC_Modify_debuff_Poisoning_xuehou_player'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Special/DBC_Modify_debuff_Poisoning_xuehou_player.DBC_Modify_debuff_Poisoning_xuehou_player'"
+      },
+      "5": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Special/DBC_Modify_debuff_Lightining_xuehou_player.DBC_Modify_debuff_Lightining_xuehou_player'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Special/DBC_Modify_debuff_Lightining_xuehou_player.DBC_Modify_debuff_Lightining_xuehou_player'",
+        "7": "2",
+        "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Special/DBC_Modify_debuff_Lightining_xuehou_player.DBC_Modify_debuff_Lightining_xuehou_player'"
+      },
+      "6": {},
+      "7": {},
+      "8": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Special/DBC_Modify_debuff_frozen_xuehou_player.DBC_Modify_debuff_frozen_xuehou_player'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Special/DBC_Modify_debuff_frozen_xuehou_player.DBC_Modify_debuff_frozen_xuehou_player'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Special/DBC_Modify_debuff_frozen_xuehou_player.DBC_Modify_debuff_frozen_xuehou_player'"
+      }
+    },
+    {
+      "1": "1025",
+      "2": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Special/DBC_Modify_debuff_frozen_dage_player.DBC_Modify_debuff_frozen_dage_player'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Special/DBC_Modify_debuff_frozen_dage_player.DBC_Modify_debuff_frozen_dage_player'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Special/DBC_Modify_debuff_frozen_dage_player.DBC_Modify_debuff_frozen_dage_player'"
+      },
+      "3": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_dage_BS.DBC_Modify_debuff_fire_dage_BS'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_dage_BS.DBC_Modify_debuff_fire_dage_BS'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_dage_BS.DBC_Modify_debuff_fire_dage_BS'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_dage_BS.DBC_Modify_debuff_fire_dage_BS'"
+      },
+      "4": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Special/DBC_Modify_debuff_Poisoning_dage_player.DBC_Modify_debuff_Poisoning_dage_player'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Special/DBC_Modify_debuff_Poisoning_dage_player.DBC_Modify_debuff_Poisoning_dage_player'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Special/DBC_Modify_debuff_Poisoning_dage_player.DBC_Modify_debuff_Poisoning_dage_player'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Special/DBC_Modify_debuff_Poisoning_dage_player.DBC_Modify_debuff_Poisoning_dage_player'"
+      },
+      "5": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Special/DBC_Modify_debuff_Lightining_dage_player.DBC_Modify_debuff_Lightining_dage_player'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Special/DBC_Modify_debuff_Lightining_dage_player.DBC_Modify_debuff_Lightining_dage_player'",
+        "7": "2",
+        "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Special/DBC_Modify_debuff_Lightining_dage_player.DBC_Modify_debuff_Lightining_dage_player'"
+      },
+      "6": {},
+      "7": {},
+      "8": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Special/DBC_Modify_debuff_frozen_dage_player.DBC_Modify_debuff_frozen_dage_player'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Special/DBC_Modify_debuff_frozen_dage_player.DBC_Modify_debuff_frozen_dage_player'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Special/DBC_Modify_debuff_frozen_dage_player.DBC_Modify_debuff_frozen_dage_player'"
+      }
+    },
+    {
+      "1": "1026",
+      "2": {},
+      "3": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_HS_Tree.DBC_Modify_debuff_fire_HS_Tree'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_HS_Tree.DBC_Modify_debuff_fire_HS_Tree'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_HS_Tree.DBC_Modify_debuff_fire_HS_Tree'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_HS_Tree.DBC_Modify_debuff_fire_HS_Tree'"
+      },
+      "4": {},
+      "5": {},
+      "6": {},
+      "7": {},
+      "8": {}
+    },
+    {
+      "1": "1027",
+      "2": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Big.DBC_Modify_debuff_Frozen_Scale_Big'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Big.DBC_Modify_debuff_Frozen_Scale_Big'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Big.DBC_Modify_debuff_Frozen_Scale_Big'"
+      },
+      "3": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_xiezijing.DBC_Modify_debuff_fire_xiezijing'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_xiezijing.DBC_Modify_debuff_fire_xiezijing'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_xiezijing.DBC_Modify_debuff_fire_xiezijing'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Fire/Sepcial/DBC_Modify_debuff_fire_xiezijing.DBC_Modify_debuff_fire_xiezijing'"
+      },
+      "4": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Big.DBC_Modify_debuff_Poisoning_Scale_Big'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Big.DBC_Modify_debuff_Poisoning_Scale_Big'",
+        "9": "2",
+        "10": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Big.DBC_Modify_debuff_Poisoning_Scale_Big'",
+        "11": "2",
+        "12": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Poisoning/Scale/DBC_Modify_debuff_Poisoning_Scale_Big.DBC_Modify_debuff_Poisoning_Scale_Big'"
+      },
+      "5": {
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Scale/DBC_Modify_debuff_Lightning_Scale_Big.DBC_Modify_debuff_Lightning_Scale_Big'",
+        "5": "2",
+        "6": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Scale/DBC_Modify_debuff_Lightning_Scale_Big.DBC_Modify_debuff_Lightning_Scale_Big'",
+        "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Lightning/Hit/Scale/DBC_Modify_debuff_Lightning_Scale_Big_Hit.DBC_Modify_debuff_Lightning_Scale_Big_Hit'"
+      },
+      "6": {},
+      "7": {},
+      "8": {
+        "1": "2",
+        "2": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Big.DBC_Modify_debuff_Frozen_Scale_Big'",
+        "3": "2",
+        "4": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Buff/DBC/Modify/Frozen/Scale/DBC_Modify_debuff_Frozen_Scale_Big.DBC_Modify_debuff_Frozen_Scale_Big'"
+      }
+    }
+  ]
+}

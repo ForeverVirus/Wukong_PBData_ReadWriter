@@ -1,0 +1,104 @@
+{
+  "1": [
+    {
+      "1": "10805",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/SummonUnit/Attack/ComboA/AM_Wukong_ComboA_q5_PR.AM_Wukong_ComboA_q5_PR"
+    },
+    {
+      "1": "10831",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/SummonUnit/Attack/Copy/AM_wukong_xuli_attack_1_pr.AM_wukong_xuli_attack_1_pr"
+    },
+    {
+      "1": "10832",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/SummonUnit/Attack/Copy/AM_wukong_xuli_attack_2_pr.AM_wukong_xuli_attack_2_pr"
+    },
+    {
+      "1": "10833",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/SummonUnit/Attack/Copy/AM_wukong_xuli_attack_3_pr.AM_wukong_xuli_attack_3_pr"
+    },
+    {
+      "1": "10834",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/SummonUnit/Attack/Copy/AM_wukong_xuli_attack_4_pr.AM_wukong_xuli_attack_4_pr"
+    },
+    {
+      "1": "10854",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/SummonUnit/Attack/Copy/AM_wukong_comboa_z5_attack_1_pr.AM_wukong_comboa_z5_attack_1_pr"
+    },
+    {
+      "1": "10855",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/SummonUnit/Attack/Copy/AM_wukong_comboa_z5_attack_2_pr.AM_wukong_comboa_z5_attack_2_pr"
+    },
+    {
+      "1": "10861",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/SummonUnit/Attack/Copy/AM_wukong_comboa_z5_attack_1_pr.AM_wukong_comboa_z5_attack_1_pr"
+    },
+    {
+      "1": "10862",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/SummonUnit/Attack/Copy/AM_wukong_comboa_z5_attack_2_pr.AM_wukong_comboa_z5_attack_2_pr"
+    },
+    {
+      "1": "10863",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/SummonUnit/Attack/Copy/AM_wukong_comboa_z5_attack_3_pr.AM_wukong_comboa_z5_attack_3_pr"
+    },
+    {
+      "1": "10864",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/SummonUnit/Attack/Copy/AM_wukong_comboa_z5_attack_4_pr.AM_wukong_comboa_z5_attack_4_pr"
+    },
+    {
+      "1": "10882",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/SummonUnit/Attack/Copy/AM_wukong_xuli_b_attack_1_pr.AM_wukong_xuli_b_attack_1_pr"
+    },
+    {
+      "1": "10883",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/SummonUnit/Attack/Copy/AM_wukong_xuli_b_attack_2_pr.AM_wukong_xuli_b_attack_2_pr"
+    },
+    {
+      "1": "10884",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/SummonUnit/Attack/Copy/AM_wukong_xuli_b_attack_3_pr.AM_wukong_xuli_b_attack_3_pr"
+    },
+    {
+      "1": "10885",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/SummonUnit/Attack/Copy/AM_wukong_xuli_b_attack_4_pr.AM_wukong_xuli_b_attack_4_pr"
+    },
+    {
+      "1": "10887",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/SummonUnit/Attack/Copy/AM_wukong_qiang_xuli_b_attack_1_pr.AM_wukong_qiang_xuli_b_attack_1_pr"
+    },
+    {
+      "1": "10888",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/SummonUnit/Attack/Copy/AM_wukong_qiang_xuli_b_attack_2_pr.AM_wukong_qiang_xuli_b_attack_2_pr"
+    },
+    {
+      "1": "10889",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/SummonUnit/Attack/Copy/AM_wukong_qiang_xuli_b_attack_3_pr.AM_wukong_qiang_xuli_b_attack_3_pr"
+    },
+    {
+      "1": "10890",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/SummonUnit/Attack/Copy/AM_wukong_qiang_xuli_b_attack_4_pr.AM_wukong_qiang_xuli_b_attack_4_pr"
+    },
+    {
+      "1": "10707",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/SummonUnit/Attack/ComboA/AM_Wukong_ComboA_z_02_PR.AM_Wukong_ComboA_z_02_PR"
+    },
+    {
+      "1": "10714",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/SummonUnit/Attack/ComboB/AM_wukong_combob_z_02_pr.AM_wukong_combob_z_02_pr"
+    },
+    {
+      "1": "10724",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/SummonUnit/Attack/ComboC/AM_wukong_comboc_z_02_pr.AM_wukong_comboc_z_02_pr"
+    },
+    {
+      "1": "50002",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/SummonUnit/Attack/ComboA/AM_Wukong_ComboA_z_02_PR.AM_Wukong_ComboA_z_02_PR"
+    },
+    {
+      "1": "50004",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/SummonUnit/Attack/ComboB/AM_wukong_combob_z_02_pr.AM_wukong_combob_z_02_pr"
+    },
+    {
+      "1": "50006",
+      "2": "/Game/00Main/Animation/Player/Wukong/AM/SummonUnit/Attack/ComboC/AM_wukong_comboc_z_02_pr.AM_wukong_comboc_z_02_pr"
+    }
+  ]
+}

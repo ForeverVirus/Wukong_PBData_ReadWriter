@@ -1,0 +1,4203 @@
+{
+  "1": [
+    {
+      "1": "1",
+      "3": "1",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_Hit_Low_Blood_Blunt.DBC_Hit_Low_Blood_Blunt'",
+      "9": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_MatchingMode/DBC_Hit_Low_Blood_Blunt_MatchingMode.DBC_Hit_Low_Blood_Blunt_MatchingMode'"
+    },
+    {
+      "1": "2",
+      "3": "1",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_Hit_Low_Blood_Blunt.DBC_Hit_Low_Blood_Blunt'",
+      "9": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_MatchingMode/DBC_Hit_Low_Blood_Blunt_MatchingMode.DBC_Hit_Low_Blood_Blunt_MatchingMode'"
+    },
+    {
+      "1": "3",
+      "3": "1",
+      "5": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_Hit_Low_Blood_Blunt.DBC_Hit_Low_Blood_Blunt'",
+      "9": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_MatchingMode/DBC_Hit_Low_Blood_Blunt_MatchingMode.DBC_Hit_Low_Blood_Blunt_MatchingMode'"
+    },
+    {
+      "1": "4",
+      "3": "1",
+      "5": "4",
+      "7": "1"
+    },
+    {
+      "1": "5",
+      "3": "1",
+      "5": "5",
+      "7": "1"
+    },
+    {
+      "1": "6",
+      "3": "1",
+      "5": "6",
+      "7": "1"
+    },
+    {
+      "1": "7",
+      "3": "1",
+      "5": "7",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_Hit_Low_Blood_Blunt.DBC_Hit_Low_Blood_Blunt'",
+      "9": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_MatchingMode/DBC_Hit_Low_Blood_Blunt_MatchingMode.DBC_Hit_Low_Blood_Blunt_MatchingMode'"
+    },
+    {
+      "1": "8",
+      "3": "1",
+      "5": "8",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_Hit_Low_Blood_Blunt.DBC_Hit_Low_Blood_Blunt'",
+      "9": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_MatchingMode/DBC_Hit_Low_Blood_Blunt_MatchingMode.DBC_Hit_Low_Blood_Blunt_MatchingMode'"
+    },
+    {
+      "1": "9",
+      "3": "1",
+      "5": "13",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/DingShen/DBC/DBC_DingShen_Kill.DBC_DingShen_Kill'"
+    },
+    {
+      "1": "10",
+      "3": "1",
+      "5": "14",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_Hit_Low_Blood_Blunt.DBC_Hit_Low_Blood_Blunt'",
+      "9": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_MatchingMode/DBC_Hit_Low_Blood_Blunt_MatchingMode.DBC_Hit_Low_Blood_Blunt_MatchingMode'"
+    },
+    {
+      "1": "11",
+      "3": "1",
+      "5": "1",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_Hit_general_Blood_Blunt.DBC_Hit_general_Blood_Blunt'"
+    },
+    {
+      "1": "12",
+      "3": "1",
+      "5": "2",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_Hit_general_Blood_Blunt.DBC_Hit_general_Blood_Blunt'"
+    },
+    {
+      "1": "13",
+      "3": "1",
+      "5": "3",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_Hit_Low_Blood_Blunt.DBC_Hit_Low_Blood_Blunt'",
+      "9": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_MatchingMode/DBC_Hit_Low_Blood_Blunt_MatchingMode.DBC_Hit_Low_Blood_Blunt_MatchingMode'"
+    },
+    {
+      "1": "14",
+      "3": "1",
+      "5": "7",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_Hit_general_Blood_Blunt.DBC_Hit_general_Blood_Blunt'"
+    },
+    {
+      "1": "15",
+      "3": "1",
+      "5": "8",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_Hit_general_Blood_Blunt.DBC_Hit_general_Blood_Blunt'"
+    },
+    {
+      "1": "16",
+      "3": "1",
+      "5": "1",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_Hit_Crit_Blood_Blunt.DBC_Hit_Crit_Blood_Blunt'"
+    },
+    {
+      "1": "17",
+      "3": "1",
+      "5": "2",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_Hit_Crit_Blood_Blunt.DBC_Hit_Crit_Blood_Blunt'"
+    },
+    {
+      "1": "18",
+      "3": "1",
+      "5": "3",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_Hit_general_Blood_Blunt.DBC_Hit_general_Blood_Blunt'"
+    },
+    {
+      "1": "19",
+      "3": "1",
+      "5": "7",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_Hit_Crit_Blood_Blunt.DBC_Hit_Crit_Blood_Blunt'"
+    },
+    {
+      "1": "20",
+      "3": "1",
+      "5": "8",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_Hit_Crit_Blood_Blunt.DBC_Hit_Crit_Blood_Blunt'"
+    },
+    {
+      "1": "21",
+      "3": "1",
+      "5": "1",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_Hit_Super_Blood_Blunt.DBC_Hit_Super_Blood_Blunt'"
+    },
+    {
+      "1": "22",
+      "3": "1",
+      "5": "2",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_Hit_Super_Blood_Blunt.DBC_Hit_Super_Blood_Blunt'"
+    },
+    {
+      "1": "23",
+      "3": "1",
+      "5": "3",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_Hit_general_Blood_Blunt.DBC_Hit_general_Blood_Blunt'"
+    },
+    {
+      "1": "24",
+      "3": "1",
+      "5": "7",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_Hit_Super_Blood_Blunt.DBC_Hit_Super_Blood_Blunt'"
+    },
+    {
+      "1": "25",
+      "3": "1",
+      "5": "8",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_Hit_Super_Blood_Blunt.DBC_Hit_Super_Blood_Blunt'"
+    },
+    {
+      "1": "26",
+      "2": "10",
+      "3": "1",
+      "4": "10",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/Equip/Niumo/DBC_Equip_Niumo_hit.DBC_Equip_Niumo_hit'",
+      "9": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/Equip/Niumo/DBC_Equip_Niumo_hit.DBC_Equip_Niumo_hit'"
+    },
+    {
+      "1": "27",
+      "2": "10",
+      "3": "1",
+      "4": "10",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/Equip/Niumo/DBC_Equip_Niumo_hit.DBC_Equip_Niumo_hit'",
+      "9": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/Equip/Niumo/DBC_Equip_Niumo_hit.DBC_Equip_Niumo_hit'"
+    },
+    {
+      "1": "28",
+      "2": "10",
+      "3": "1",
+      "4": "10",
+      "5": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/Equip/Niumo/DBC_Equip_Niumo_hit.DBC_Equip_Niumo_hit'",
+      "9": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/Equip/Niumo/DBC_Equip_Niumo_hit.DBC_Equip_Niumo_hit'"
+    },
+    {
+      "1": "29",
+      "2": "10",
+      "3": "1",
+      "4": "10",
+      "5": "4",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/Equip/Niumo/DBC_Equip_Niumo_hit.DBC_Equip_Niumo_hit'"
+    },
+    {
+      "1": "30",
+      "2": "10",
+      "3": "1",
+      "4": "10",
+      "5": "5",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/Equip/Niumo/DBC_Equip_Niumo_hit.DBC_Equip_Niumo_hit'"
+    },
+    {
+      "1": "31",
+      "2": "10",
+      "3": "1",
+      "4": "10",
+      "5": "6",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/Equip/Niumo/DBC_Equip_Niumo_hit.DBC_Equip_Niumo_hit'"
+    },
+    {
+      "1": "32",
+      "2": "10",
+      "3": "1",
+      "4": "10",
+      "5": "7",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/Equip/Niumo/DBC_Equip_Niumo_hit.DBC_Equip_Niumo_hit'",
+      "9": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/Equip/Niumo/DBC_Equip_Niumo_hit.DBC_Equip_Niumo_hit'"
+    },
+    {
+      "1": "33",
+      "2": "10",
+      "3": "1",
+      "4": "10",
+      "5": "8",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/Equip/Niumo/DBC_Equip_Niumo_hit.DBC_Equip_Niumo_hit'",
+      "9": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/Equip/Niumo/DBC_Equip_Niumo_hit.DBC_Equip_Niumo_hit'"
+    },
+    {
+      "1": "34",
+      "2": "10",
+      "3": "1",
+      "4": "10",
+      "5": "13",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/Equip/Niumo/DBC_Equip_Niumo_hit.DBC_Equip_Niumo_hit'"
+    },
+    {
+      "1": "35",
+      "2": "10",
+      "3": "1",
+      "4": "10",
+      "5": "14",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/Equip/Niumo/DBC_Equip_Niumo_hit.DBC_Equip_Niumo_hit'",
+      "9": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/Equip/Niumo/DBC_Equip_Niumo_hit.DBC_Equip_Niumo_hit'"
+    },
+    {
+      "1": "36",
+      "2": "1",
+      "3": "1",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_CanG/DBC_Hit_Low_Blood_Blunt_CanG.DBC_Hit_Low_Blood_Blunt_CanG'"
+    },
+    {
+      "1": "37",
+      "2": "1",
+      "3": "1",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_CanG/DBC_Hit_Low_Blood_Blunt_CanG.DBC_Hit_Low_Blood_Blunt_CanG'"
+    },
+    {
+      "1": "38",
+      "2": "1",
+      "3": "1",
+      "5": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_CanG/DBC_Hit_Low_Blood_Blunt_CanG.DBC_Hit_Low_Blood_Blunt_CanG'"
+    },
+    {
+      "1": "39",
+      "2": "1",
+      "3": "1",
+      "5": "4",
+      "7": "1"
+    },
+    {
+      "1": "40",
+      "2": "1",
+      "3": "1",
+      "5": "5",
+      "7": "1"
+    },
+    {
+      "1": "41",
+      "2": "1",
+      "3": "1",
+      "5": "6",
+      "7": "1"
+    },
+    {
+      "1": "42",
+      "2": "1",
+      "3": "1",
+      "5": "7",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_CanG/DBC_Hit_Low_Blood_Blunt_CanG.DBC_Hit_Low_Blood_Blunt_CanG'"
+    },
+    {
+      "1": "43",
+      "2": "1",
+      "3": "1",
+      "5": "8",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_CanG/DBC_Hit_Low_Blood_Blunt_CanG.DBC_Hit_Low_Blood_Blunt_CanG'"
+    },
+    {
+      "1": "44",
+      "2": "1",
+      "3": "1",
+      "5": "13",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/DingShen/DBC/DBC_DingShen_Kill.DBC_DingShen_Kill'"
+    },
+    {
+      "1": "45",
+      "2": "1",
+      "3": "1",
+      "5": "14",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_CanG/DBC_Hit_Low_Blood_Blunt_CanG.DBC_Hit_Low_Blood_Blunt_CanG'"
+    },
+    {
+      "1": "46",
+      "2": "1",
+      "3": "1",
+      "5": "1",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_CanG/DBC_Hit_general_Blood_Blunt_CanG.DBC_Hit_general_Blood_Blunt_CanG'"
+    },
+    {
+      "1": "47",
+      "2": "1",
+      "3": "1",
+      "5": "2",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_CanG/DBC_Hit_general_Blood_Blunt_CanG.DBC_Hit_general_Blood_Blunt_CanG'"
+    },
+    {
+      "1": "48",
+      "2": "1",
+      "3": "1",
+      "5": "3",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_CanG/DBC_Hit_Low_Blood_Blunt_CanG.DBC_Hit_Low_Blood_Blunt_CanG'"
+    },
+    {
+      "1": "49",
+      "2": "1",
+      "3": "1",
+      "5": "7",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_CanG/DBC_Hit_general_Blood_Blunt_CanG.DBC_Hit_general_Blood_Blunt_CanG'"
+    },
+    {
+      "1": "50",
+      "2": "1",
+      "3": "1",
+      "5": "8",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_CanG/DBC_Hit_general_Blood_Blunt_CanG.DBC_Hit_general_Blood_Blunt_CanG'"
+    },
+    {
+      "1": "51",
+      "2": "1",
+      "3": "1",
+      "5": "1",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_CanG/DBC_Hit_Crit_Blood_Blunt_CanG.DBC_Hit_Crit_Blood_Blunt_CanG'"
+    },
+    {
+      "1": "52",
+      "2": "1",
+      "3": "1",
+      "5": "2",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_CanG/DBC_Hit_Crit_Blood_Blunt_CanG.DBC_Hit_Crit_Blood_Blunt_CanG'"
+    },
+    {
+      "1": "53",
+      "2": "1",
+      "3": "1",
+      "5": "3",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_CanG/DBC_Hit_general_Blood_Blunt_CanG.DBC_Hit_general_Blood_Blunt_CanG'"
+    },
+    {
+      "1": "54",
+      "2": "1",
+      "3": "1",
+      "5": "7",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_CanG/DBC_Hit_Crit_Blood_Blunt_CanG.DBC_Hit_Crit_Blood_Blunt_CanG'"
+    },
+    {
+      "1": "55",
+      "2": "1",
+      "3": "1",
+      "5": "8",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_CanG/DBC_Hit_Crit_Blood_Blunt_CanG.DBC_Hit_Crit_Blood_Blunt_CanG'"
+    },
+    {
+      "1": "56",
+      "2": "1",
+      "3": "1",
+      "5": "1",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_CanG/DBC_Hit_Super_Blood_Blunt_CanG.DBC_Hit_Super_Blood_Blunt_CanG'"
+    },
+    {
+      "1": "57",
+      "2": "1",
+      "3": "1",
+      "5": "2",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_CanG/DBC_Hit_Super_Blood_Blunt_CanG.DBC_Hit_Super_Blood_Blunt_CanG'"
+    },
+    {
+      "1": "58",
+      "2": "1",
+      "3": "1",
+      "5": "3",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_CanG/DBC_Hit_general_Blood_Blunt_CanG.DBC_Hit_general_Blood_Blunt_CanG'"
+    },
+    {
+      "1": "59",
+      "2": "1",
+      "3": "1",
+      "5": "7",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_CanG/DBC_Hit_Super_Blood_Blunt_CanG.DBC_Hit_Super_Blood_Blunt_CanG'"
+    },
+    {
+      "1": "60",
+      "2": "1",
+      "3": "1",
+      "5": "8",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_CanG/DBC_Hit_Super_Blood_Blunt_CanG.DBC_Hit_Super_Blood_Blunt_CanG'"
+    },
+    {
+      "1": "61",
+      "3": "1",
+      "4": "9",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/SoftInsect/DBC/DBC_Hit_Low_SoftInsect.DBC_Hit_Low_SoftInsect'"
+    },
+    {
+      "1": "62",
+      "3": "1",
+      "4": "9",
+      "5": "1",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/SoftInsect/DBC/DBC_Hit_general_SoftInsect.DBC_Hit_general_SoftInsect'"
+    },
+    {
+      "1": "63",
+      "3": "1",
+      "4": "9",
+      "5": "1",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/SoftInsect/DBC/DBC_Hit_Crit_SoftInsect.DBC_Hit_Crit_SoftInsect'"
+    },
+    {
+      "1": "64",
+      "3": "1",
+      "4": "9",
+      "5": "1",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/SoftInsect/DBC/DBC_Hit_Crit_SoftInsect.DBC_Hit_Crit_SoftInsect'"
+    },
+    {
+      "1": "65",
+      "3": "1",
+      "4": "10",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/HardInsect/DBC/DBC_Hit_low_HardInsect.DBC_Hit_low_HardInsect'"
+    },
+    {
+      "1": "66",
+      "3": "1",
+      "4": "10",
+      "5": "1",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/HardInsect/DBC/DBC_Hit_General_HardInsect.DBC_Hit_General_HardInsect'"
+    },
+    {
+      "1": "67",
+      "3": "1",
+      "4": "10",
+      "5": "1",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/HardInsect/DBC/DBC_Hit_Crit_HardInsect.DBC_Hit_Crit_HardInsect'"
+    },
+    {
+      "1": "68",
+      "3": "1",
+      "4": "10",
+      "5": "1",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/HardInsect/DBC/DBC_Hit_Crit_HardInsect.DBC_Hit_Crit_HardInsect'"
+    },
+    {
+      "1": "69",
+      "3": "5",
+      "5": "1",
+      "7": "1"
+    },
+    {
+      "1": "70",
+      "3": "5",
+      "5": "1",
+      "7": "1"
+    },
+    {
+      "1": "71",
+      "3": "5",
+      "5": "1",
+      "7": "1"
+    },
+    {
+      "1": "72",
+      "3": "1",
+      "4": "7",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HYS/HYS_JJS/DBC/DBC_ICE_Hit.DBC_ICE_Hit'"
+    },
+    {
+      "1": "73",
+      "3": "2",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood/DBC/DBC_Hit_general_Blood.DBC_Hit_general_Blood'"
+    },
+    {
+      "1": "74",
+      "3": "2",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood/DBC/DBC_Hit_Crit_Blood.DBC_Hit_Crit_Blood'"
+    },
+    {
+      "1": "75",
+      "3": "2",
+      "5": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood/DBC/DBC_Hit_general_Blood.DBC_Hit_general_Blood'"
+    },
+    {
+      "1": "76",
+      "3": "2",
+      "5": "4",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood/DBC/DBC_Hit_general_Blood.DBC_Hit_general_Blood'"
+    },
+    {
+      "1": "77",
+      "3": "2",
+      "5": "5",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood/DBC/DBC_Hit_general_Blood.DBC_Hit_general_Blood'"
+    },
+    {
+      "1": "78",
+      "3": "2",
+      "5": "6",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood/DBC/DBC_Hit_general_Blood.DBC_Hit_general_Blood'"
+    },
+    {
+      "1": "79",
+      "3": "2",
+      "5": "7",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood/DBC/DBC_Hit_general_Blood.DBC_Hit_general_Blood'"
+    },
+    {
+      "1": "80",
+      "3": "2",
+      "5": "8",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood/DBC/DBC_Hit_general_Blood.DBC_Hit_general_Blood'"
+    },
+    {
+      "1": "81",
+      "3": "2",
+      "5": "13",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/DingShen/DBC/DBC_DingShen_Kill.DBC_DingShen_Kill'"
+    },
+    {
+      "1": "82",
+      "3": "2",
+      "5": "14",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood/DBC/DBC_Hit_general_Blood.DBC_Hit_general_Blood'"
+    },
+    {
+      "1": "83",
+      "2": "10",
+      "3": "2",
+      "4": "10",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/Equip/Niumo/DBC_Equip_Niumo_hit.DBC_Equip_Niumo_hit'"
+    },
+    {
+      "1": "84",
+      "2": "10",
+      "3": "2",
+      "4": "10",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/Equip/Niumo/DBC_Equip_Niumo_hit.DBC_Equip_Niumo_hit'"
+    },
+    {
+      "1": "85",
+      "2": "10",
+      "3": "2",
+      "4": "10",
+      "5": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/Equip/Niumo/DBC_Equip_Niumo_hit.DBC_Equip_Niumo_hit'"
+    },
+    {
+      "1": "86",
+      "2": "10",
+      "3": "2",
+      "4": "10",
+      "5": "4",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/Equip/Niumo/DBC_Equip_Niumo_hit.DBC_Equip_Niumo_hit'"
+    },
+    {
+      "1": "87",
+      "2": "10",
+      "3": "2",
+      "4": "10",
+      "5": "5",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/Equip/Niumo/DBC_Equip_Niumo_hit.DBC_Equip_Niumo_hit'"
+    },
+    {
+      "1": "88",
+      "2": "10",
+      "3": "2",
+      "4": "10",
+      "5": "6",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/Equip/Niumo/DBC_Equip_Niumo_hit.DBC_Equip_Niumo_hit'"
+    },
+    {
+      "1": "89",
+      "2": "10",
+      "3": "2",
+      "4": "10",
+      "5": "7",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/Equip/Niumo/DBC_Equip_Niumo_hit.DBC_Equip_Niumo_hit'"
+    },
+    {
+      "1": "90",
+      "2": "10",
+      "3": "2",
+      "4": "10",
+      "5": "8",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/Equip/Niumo/DBC_Equip_Niumo_hit.DBC_Equip_Niumo_hit'"
+    },
+    {
+      "1": "91",
+      "2": "10",
+      "3": "2",
+      "4": "10",
+      "5": "13",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/Equip/Niumo/DBC_Equip_Niumo_hit.DBC_Equip_Niumo_hit'"
+    },
+    {
+      "1": "92",
+      "2": "10",
+      "3": "2",
+      "4": "10",
+      "5": "14",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/Equip/Niumo/DBC_Equip_Niumo_hit.DBC_Equip_Niumo_hit'"
+    },
+    {
+      "1": "93",
+      "2": "1",
+      "3": "2",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood/DBC/DBC_CanG/DBC_Hit_general_Blood_CanG.DBC_Hit_general_Blood_CanG'"
+    },
+    {
+      "1": "94",
+      "2": "1",
+      "3": "2",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood/DBC/DBC_CanG/DBC_Hit_Crit_Blood_CanG.DBC_Hit_Crit_Blood_CanG'"
+    },
+    {
+      "1": "95",
+      "2": "1",
+      "3": "2",
+      "5": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood/DBC/DBC_CanG/DBC_Hit_general_Blood_CanG.DBC_Hit_general_Blood_CanG'"
+    },
+    {
+      "1": "96",
+      "2": "1",
+      "3": "2",
+      "5": "4",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood/DBC/DBC_CanG/DBC_Hit_general_Blood_CanG.DBC_Hit_general_Blood_CanG'"
+    },
+    {
+      "1": "97",
+      "2": "1",
+      "3": "2",
+      "5": "5",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood/DBC/DBC_CanG/DBC_Hit_general_Blood_CanG.DBC_Hit_general_Blood_CanG'"
+    },
+    {
+      "1": "98",
+      "2": "1",
+      "3": "2",
+      "5": "6",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood/DBC/DBC_CanG/DBC_Hit_general_Blood_CanG.DBC_Hit_general_Blood_CanG'"
+    },
+    {
+      "1": "99",
+      "2": "1",
+      "3": "2",
+      "5": "7",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood/DBC/DBC_CanG/DBC_Hit_general_Blood_CanG.DBC_Hit_general_Blood_CanG'"
+    },
+    {
+      "1": "100",
+      "2": "1",
+      "3": "2",
+      "5": "8",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood/DBC/DBC_CanG/DBC_Hit_general_Blood_CanG.DBC_Hit_general_Blood_CanG'"
+    },
+    {
+      "1": "101",
+      "2": "1",
+      "3": "2",
+      "5": "13",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/DingShen/DBC/DBC_DingShen_Kill.DBC_DingShen_Kill'"
+    },
+    {
+      "1": "102",
+      "2": "1",
+      "3": "2",
+      "5": "14",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood/DBC/DBC_CanG/DBC_Hit_general_Blood_CanG.DBC_Hit_general_Blood_CanG'"
+    },
+    {
+      "1": "103",
+      "3": "2",
+      "4": "1",
+      "5": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blunt/DBC/DBC_Blunt_Hit_general.DBC_Blunt_Hit_general'"
+    },
+    {
+      "1": "104",
+      "3": "1",
+      "4": "1",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blunt/DBC/DBC_Blunt_Hit_general.DBC_Blunt_Hit_general'"
+    },
+    {
+      "1": "105",
+      "3": "2",
+      "4": "1",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blunt/DBC/DBC_Blunt_Hit_general.DBC_Blunt_Hit_general'"
+    },
+    {
+      "1": "106",
+      "3": "1",
+      "4": "1",
+      "5": "6",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Parry/DBC_Hit_MetalBlock_Perfect.DBC_Hit_MetalBlock_Perfect'"
+    },
+    {
+      "1": "107",
+      "2": "7001",
+      "3": "1",
+      "4": "1",
+      "5": "4",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_JSDS/DBC/DBC_JSDS_TTTB_hit.DBC_JSDS_TTTB_hit'"
+    },
+    {
+      "1": "108",
+      "3": "1",
+      "4": "1",
+      "5": "4",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/TongTouTieBi/DBC/DBC_WuKong_TongTouTieBi_TanDao.DBC_WuKong_TongTouTieBi_TanDao'"
+    },
+    {
+      "1": "109",
+      "3": "2",
+      "4": "1",
+      "5": "4",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/TongTouTieBi/DBC/DBC_WuKong_TongTouTieBi_TanDao.DBC_WuKong_TongTouTieBi_TanDao'"
+    },
+    {
+      "1": "110",
+      "3": "3",
+      "4": "1",
+      "5": "4",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/TongTouTieBi/DBC/DBC_WuKong_TongTouTieBi_TanDao.DBC_WuKong_TongTouTieBi_TanDao'"
+    },
+    {
+      "1": "111",
+      "3": "4",
+      "4": "1",
+      "5": "4",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/TongTouTieBi/DBC/DBC_WuKong_TongTouTieBi_TanDao.DBC_WuKong_TongTouTieBi_TanDao'"
+    },
+    {
+      "1": "112",
+      "3": "5",
+      "4": "1",
+      "5": "4",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/TongTouTieBi/DBC/DBC_WuKong_TongTouTieBi_TanDao.DBC_WuKong_TongTouTieBi_TanDao'"
+    },
+    {
+      "1": "113",
+      "3": "6",
+      "4": "1",
+      "5": "4",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/TongTouTieBi/DBC/DBC_WuKong_TongTouTieBi_TanDao.DBC_WuKong_TongTouTieBi_TanDao'"
+    },
+    {
+      "1": "114",
+      "3": "7",
+      "4": "1",
+      "5": "4",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/TongTouTieBi/DBC/DBC_WuKong_TongTouTieBi_TanDao.DBC_WuKong_TongTouTieBi_TanDao'"
+    },
+    {
+      "1": "115",
+      "3": "1",
+      "4": "2",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/MaterialHit/Wood/DBC/DBC_Wood_Hit_General.DBC_Wood_Hit_General'"
+    },
+    {
+      "1": "116",
+      "3": "1",
+      "4": "2",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/MaterialHit/Wood/DBC/DBC_Wood_Hit_General.DBC_Wood_Hit_General'"
+    },
+    {
+      "1": "117",
+      "3": "1",
+      "4": "2",
+      "5": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/MaterialHit/Wood/DBC/DBC_Wood_Hit_General.DBC_Wood_Hit_General'"
+    },
+    {
+      "1": "118",
+      "3": "1",
+      "4": "2",
+      "5": "4",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/MaterialHit/Wood/DBC/DBC_Wood_Hit_General.DBC_Wood_Hit_General'"
+    },
+    {
+      "1": "119",
+      "3": "1",
+      "4": "2",
+      "5": "5",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/MaterialHit/Wood/DBC/DBC_Wood_Hit_General.DBC_Wood_Hit_General'"
+    },
+    {
+      "1": "120",
+      "3": "1",
+      "4": "2",
+      "5": "6",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/MaterialHit/Wood/DBC/DBC_Wood_Hit_General.DBC_Wood_Hit_General'"
+    },
+    {
+      "1": "121",
+      "3": "1",
+      "4": "2",
+      "5": "7",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/MaterialHit/Wood/DBC/DBC_Wood_Hit_General.DBC_Wood_Hit_General'"
+    },
+    {
+      "1": "122",
+      "3": "1",
+      "4": "2",
+      "5": "8",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/MaterialHit/Wood/DBC/DBC_Wood_Hit_General.DBC_Wood_Hit_General'"
+    },
+    {
+      "1": "123",
+      "3": "1",
+      "4": "2",
+      "5": "13",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/MaterialHit/Wood/DBC/DBC_Wood_Hit_General.DBC_Wood_Hit_General'"
+    },
+    {
+      "1": "124",
+      "3": "1",
+      "4": "2",
+      "5": "14",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/MaterialHit/Wood/DBC/DBC_Wood_Hit_General.DBC_Wood_Hit_General'"
+    },
+    {
+      "1": "125",
+      "3": "1",
+      "4": "6",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/ShieldHit/Wood/DBC/DBC_Sheild_Hit_Wood_Low.DBC_Sheild_Hit_Wood_Low'"
+    },
+    {
+      "1": "126",
+      "3": "1",
+      "4": "6",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/ShieldHit/Wood/DBC/DBC_Sheild_Hit_Wood_Low.DBC_Sheild_Hit_Wood_Low'"
+    },
+    {
+      "1": "127",
+      "3": "1",
+      "4": "6",
+      "5": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/ShieldHit/Wood/DBC/DBC_Sheild_Hit_Wood_Low.DBC_Sheild_Hit_Wood_Low'"
+    },
+    {
+      "1": "128",
+      "3": "1",
+      "4": "6",
+      "5": "4",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/ShieldHit/Wood/DBC/DBC_Sheild_Hit_Wood_Low.DBC_Sheild_Hit_Wood_Low'"
+    },
+    {
+      "1": "129",
+      "3": "1",
+      "4": "6",
+      "5": "5",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/ShieldHit/Wood/DBC/DBC_Sheild_Hit_Wood_Low.DBC_Sheild_Hit_Wood_Low'"
+    },
+    {
+      "1": "130",
+      "3": "1",
+      "4": "6",
+      "5": "6",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/ShieldHit/Wood/DBC/DBC_Sheild_Hit_Wood_Low.DBC_Sheild_Hit_Wood_Low'"
+    },
+    {
+      "1": "131",
+      "3": "1",
+      "4": "6",
+      "5": "7",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/ShieldHit/Wood/DBC/DBC_Sheild_Hit_Wood_Low.DBC_Sheild_Hit_Wood_Low'"
+    },
+    {
+      "1": "132",
+      "3": "1",
+      "4": "6",
+      "5": "8",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/ShieldHit/Wood/DBC/DBC_Sheild_Hit_Wood_Low.DBC_Sheild_Hit_Wood_Low'"
+    },
+    {
+      "1": "133",
+      "3": "1",
+      "4": "6",
+      "5": "13",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/ShieldHit/Wood/DBC/DBC_Sheild_Hit_Wood_Low.DBC_Sheild_Hit_Wood_Low'"
+    },
+    {
+      "1": "134",
+      "3": "1",
+      "4": "6",
+      "5": "14",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/ShieldHit/Wood/DBC/DBC_Sheild_Hit_Wood_Low.DBC_Sheild_Hit_Wood_Low'"
+    },
+    {
+      "1": "135",
+      "3": "1",
+      "4": "6",
+      "5": "1",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/ShieldHit/Wood/DBC/DBC_Sheild_Hit_Wood_General.DBC_Sheild_Hit_Wood_General'"
+    },
+    {
+      "1": "136",
+      "3": "1",
+      "4": "6",
+      "5": "1",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/ShieldHit/Wood/DBC/DBC_Sheild_Hit_Wood_HeavyStrike.DBC_Sheild_Hit_Wood_HeavyStrike'"
+    },
+    {
+      "1": "137",
+      "3": "1",
+      "4": "6",
+      "5": "1",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/ShieldHit/Wood/DBC/DBC_Sheild_Hit_Wood_HeavyStrike.DBC_Sheild_Hit_Wood_HeavyStrike'"
+    },
+    {
+      "1": "138",
+      "3": "1",
+      "4": "5",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/ShieldHit/Metal/DBC/DBC_Sheild_Hit_Metal.DBC_Sheild_Hit_Metal'"
+    },
+    {
+      "1": "139",
+      "3": "1",
+      "4": "5",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/ShieldHit/Metal/DBC/DBC_Sheild_Hit_Metal.DBC_Sheild_Hit_Metal'"
+    },
+    {
+      "1": "140",
+      "3": "1",
+      "4": "5",
+      "5": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/ShieldHit/Metal/DBC/DBC_Sheild_Hit_Metal.DBC_Sheild_Hit_Metal'"
+    },
+    {
+      "1": "141",
+      "3": "1",
+      "4": "5",
+      "5": "4",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/ShieldHit/Metal/DBC/DBC_Sheild_Hit_Metal.DBC_Sheild_Hit_Metal'"
+    },
+    {
+      "1": "142",
+      "3": "1",
+      "4": "5",
+      "5": "5",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/ShieldHit/Metal/DBC/DBC_Sheild_Hit_Metal.DBC_Sheild_Hit_Metal'"
+    },
+    {
+      "1": "143",
+      "3": "1",
+      "4": "5",
+      "5": "6",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/ShieldHit/Metal/DBC/DBC_Sheild_Hit_Metal.DBC_Sheild_Hit_Metal'"
+    },
+    {
+      "1": "144",
+      "3": "1",
+      "4": "5",
+      "5": "7",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/ShieldHit/Metal/DBC/DBC_Sheild_Hit_Metal.DBC_Sheild_Hit_Metal'"
+    },
+    {
+      "1": "145",
+      "3": "1",
+      "4": "5",
+      "5": "8",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/ShieldHit/Metal/DBC/DBC_Sheild_Hit_Metal.DBC_Sheild_Hit_Metal'"
+    },
+    {
+      "1": "146",
+      "3": "1",
+      "4": "5",
+      "5": "13",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/ShieldHit/Metal/DBC/DBC_Sheild_Hit_Metal.DBC_Sheild_Hit_Metal'"
+    },
+    {
+      "1": "147",
+      "3": "1",
+      "4": "5",
+      "5": "14",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/ShieldHit/Metal/DBC/DBC_Sheild_Hit_Metal.DBC_Sheild_Hit_Metal'"
+    },
+    {
+      "1": "148",
+      "3": "1",
+      "4": "5",
+      "5": "1",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/ShieldHit/Metal/DBC/DBC_Sheild_Hit_Metal_General.DBC_Sheild_Hit_Metal_General'"
+    },
+    {
+      "1": "149",
+      "3": "1",
+      "4": "5",
+      "5": "1",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/ShieldHit/Metal/DBC/DBC_Sheild_Hit_Metal_HeavyStrike.DBC_Sheild_Hit_Metal_HeavyStrike'"
+    },
+    {
+      "1": "150",
+      "3": "1",
+      "4": "5",
+      "5": "1",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/ShieldHit/Metal/DBC/DBC_Sheild_Hit_Metal_HeavyStrike.DBC_Sheild_Hit_Metal_HeavyStrike'"
+    },
+    {
+      "1": "151",
+      "3": "1",
+      "4": "4",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Bone/DBC/DBC_Hit_Low_Bone.DBC_Hit_Low_Bone'"
+    },
+    {
+      "1": "152",
+      "3": "1",
+      "4": "4",
+      "5": "1",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Bone/DBC/DBC_Hit_General_Bone.DBC_Hit_General_Bone'"
+    },
+    {
+      "1": "153",
+      "3": "1",
+      "4": "4",
+      "5": "1",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Bone/DBC/DBC_Hit_Crit_Bone.DBC_Hit_Crit_Bone'"
+    },
+    {
+      "1": "154",
+      "3": "1",
+      "4": "4",
+      "5": "1",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Bone/DBC/DBC_Hit_Crit_Bone.DBC_Hit_Crit_Bone'"
+    },
+    {
+      "1": "155",
+      "2": "5006",
+      "3": "1",
+      "4": "8",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/PSD/PSD_RenShenJing/DBC/DBC_PSD_RSJ_Wood_Hit_General.DBC_PSD_RSJ_Wood_Hit_General'"
+    },
+    {
+      "1": "156",
+      "2": "5006",
+      "3": "1",
+      "4": "8",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/PSD/PSD_RenShenJing/DBC/DBC_PSD_RSJ_Hit_CriticalStrike.DBC_PSD_RSJ_Hit_CriticalStrike'"
+    },
+    {
+      "1": "157",
+      "2": "1021",
+      "3": "1",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood/DBC/DBC_Hit_Low_Blood.DBC_Hit_Low_Blood'"
+    },
+    {
+      "1": "158",
+      "2": "1021",
+      "3": "1",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood/DBC/DBC_Hit_Low_Blood.DBC_Hit_Low_Blood'"
+    },
+    {
+      "1": "159",
+      "2": "1021",
+      "3": "1",
+      "4": "1",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Seng_04/DBC/DBC_LYS_Seng_04_Block.DBC_LYS_Seng_04_Block'"
+    },
+    {
+      "1": "160",
+      "2": "1021",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Seng_04/DBC/DBC_LYS_Seng_04_Block.DBC_LYS_Seng_04_Block'"
+    },
+    {
+      "1": "161",
+      "3": "1",
+      "4": "8",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/MaterialHit/Wood/DBC/DBC_Wood_Hit_General.DBC_Wood_Hit_General'"
+    },
+    {
+      "1": "162",
+      "3": "1",
+      "4": "8",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/MaterialHit/Wood/DBC/DBC_Wood_Hit_CriticalStrike.DBC_Wood_Hit_CriticalStrike'"
+    },
+    {
+      "1": "163",
+      "3": "1",
+      "4": "8",
+      "5": "7",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/MaterialHit/Wood/DBC/DBC_Wood_Hit_General.DBC_Wood_Hit_General'"
+    },
+    {
+      "1": "164",
+      "3": "1",
+      "4": "8",
+      "5": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/MaterialHit/Wood/DBC/DBC_Wood_Hit_General.DBC_Wood_Hit_General'"
+    },
+    {
+      "1": "165",
+      "3": "1",
+      "4": "8",
+      "5": "5",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/MaterialHit/Wood/DBC/DBC_Wood_Hit_General.DBC_Wood_Hit_General'"
+    },
+    {
+      "1": "166",
+      "3": "1",
+      "4": "8",
+      "5": "13",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/MaterialHit/Wood/DBC/DBC_Wood_Hit_General.DBC_Wood_Hit_General'"
+    },
+    {
+      "1": "167",
+      "3": "1",
+      "4": "8",
+      "5": "14",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/MaterialHit/Wood/DBC/DBC_Wood_Hit_General.DBC_Wood_Hit_General'"
+    },
+    {
+      "1": "168",
+      "3": "1",
+      "4": "8",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/MaterialHit/Wood/DBC/DBC_Wood_Hit_General.DBC_Wood_Hit_General'"
+    },
+    {
+      "1": "169",
+      "2": "3012",
+      "3": "1",
+      "5": "5",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Parry/DBC_Hit_MetalBlock_Normal.DBC_Hit_MetalBlock_Normal'"
+    },
+    {
+      "1": "170",
+      "2": "3012",
+      "3": "1",
+      "5": "6",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Parry/DBC_Hit_MetalBlock_Perfect.DBC_Hit_MetalBlock_Perfect'"
+    },
+    {
+      "1": "171",
+      "2": "3023",
+      "3": "1",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood/DBC/LYS/LYS_KJLDragon/DBC_Hit_LYS_KJLDragon_noblood.DBC_Hit_LYS_KJLDragon_noblood'"
+    },
+    {
+      "1": "172",
+      "2": "3023",
+      "3": "1",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood/DBC/LYS/LYS_KJLDragon/DBC_Hit_LYS_KJLDragon_noblood.DBC_Hit_LYS_KJLDragon_noblood'"
+    },
+    {
+      "1": "173",
+      "2": "3023",
+      "3": "1",
+      "5": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood/DBC/LYS/LYS_KJLDragon/DBC_Hit_LYS_KJLDragon_noblood.DBC_Hit_LYS_KJLDragon_noblood'"
+    },
+    {
+      "1": "174",
+      "2": "3023",
+      "3": "1",
+      "5": "4",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood/DBC/LYS/LYS_KJLDragon/DBC_Hit_LYS_KJLDragon_noblood.DBC_Hit_LYS_KJLDragon_noblood'"
+    },
+    {
+      "1": "175",
+      "2": "3023",
+      "3": "1",
+      "5": "5",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood/DBC/LYS/LYS_KJLDragon/DBC_Hit_LYS_KJLDragon_noblood.DBC_Hit_LYS_KJLDragon_noblood'"
+    },
+    {
+      "1": "176",
+      "2": "3023",
+      "3": "1",
+      "5": "6",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood/DBC/LYS/LYS_KJLDragon/DBC_Hit_LYS_KJLDragon_noblood.DBC_Hit_LYS_KJLDragon_noblood'"
+    },
+    {
+      "1": "177",
+      "2": "3023",
+      "3": "1",
+      "5": "7",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood/DBC/LYS/LYS_KJLDragon/DBC_Hit_LYS_KJLDragon_noblood.DBC_Hit_LYS_KJLDragon_noblood'"
+    },
+    {
+      "1": "178",
+      "2": "3023",
+      "3": "1",
+      "5": "8",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood/DBC/LYS/LYS_KJLDragon/DBC_Hit_LYS_KJLDragon_noblood.DBC_Hit_LYS_KJLDragon_noblood'"
+    },
+    {
+      "1": "179",
+      "2": "3023",
+      "3": "1",
+      "5": "13",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood/DBC/LYS/LYS_KJLDragon/DBC_Hit_LYS_KJLDragon_noblood.DBC_Hit_LYS_KJLDragon_noblood'"
+    },
+    {
+      "1": "180",
+      "2": "3023",
+      "3": "1",
+      "5": "14",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood/DBC/LYS/LYS_KJLDragon/DBC_Hit_LYS_KJLDragon_noblood.DBC_Hit_LYS_KJLDragon_noblood'"
+    },
+    {
+      "1": "181",
+      "2": "5099",
+      "3": "1",
+      "4": "8",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/PSD/PSD_ZiZhuEr_01/DBC/DBC_zizhuer_01_zhubajie_hit.DBC_zizhuer_01_zhubajie_hit'"
+    },
+    {
+      "1": "182",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Rock/DBC/DBC_Hit_Low_Rock.DBC_Hit_Low_Rock'"
+    },
+    {
+      "1": "183",
+      "3": "1",
+      "4": "3",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Rock/DBC/DBC_Hit_Low_Rock.DBC_Hit_Low_Rock'"
+    },
+    {
+      "1": "184",
+      "3": "1",
+      "4": "3",
+      "5": "7",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Rock/DBC/DBC_Hit_Low_Rock.DBC_Hit_Low_Rock'"
+    },
+    {
+      "1": "185",
+      "3": "1",
+      "4": "3",
+      "5": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Rock/DBC/DBC_Hit_Low_Rock.DBC_Hit_Low_Rock'"
+    },
+    {
+      "1": "186",
+      "3": "1",
+      "4": "3",
+      "5": "5",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Rock/DBC/DBC_Hit_Low_Rock.DBC_Hit_Low_Rock'"
+    },
+    {
+      "1": "187",
+      "3": "1",
+      "4": "3",
+      "5": "13",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Rock/DBC/DBC_Hit_Low_Rock.DBC_Hit_Low_Rock'"
+    },
+    {
+      "1": "188",
+      "3": "1",
+      "4": "3",
+      "5": "14",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Rock/DBC/DBC_Hit_Low_Rock.DBC_Hit_Low_Rock'"
+    },
+    {
+      "1": "189",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Rock/DBC/DBC_Hit_Low_Rock.DBC_Hit_Low_Rock'"
+    },
+    {
+      "1": "190",
+      "3": "1",
+      "4": "3",
+      "5": "4",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Rock/DBC/DBC_Hit_Low_Rock.DBC_Hit_Low_Rock'"
+    },
+    {
+      "1": "191",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Rock/DBC/DBC_Hit_general_Rock.DBC_Hit_general_Rock'"
+    },
+    {
+      "1": "192",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Rock/DBC/DBC_Hit_Crit_Rock.DBC_Hit_Crit_Rock'"
+    },
+    {
+      "1": "193",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Rock/DBC/DBC_Hit_Crit_Rock.DBC_Hit_Crit_Rock'"
+    },
+    {
+      "1": "194",
+      "2": "4402",
+      "3": "1",
+      "4": "1",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HYS/HYS_XianGongXin/DBC/DBC_HYS_XGX_DunHIT.DBC_HYS_XGX_DunHIT'"
+    },
+    {
+      "1": "195",
+      "2": "4403",
+      "3": "1",
+      "4": "1",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HYS/HYS_XianGongXin/DBC/DBC_HYS_XGX_DunHIT.DBC_HYS_XGX_DunHIT'"
+    },
+    {
+      "1": "196",
+      "2": "4402",
+      "3": "1",
+      "4": "1",
+      "5": "4",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HYS/HYS_XianGongXin/DBC/DBC_HYS_XGX_rebound.DBC_HYS_XGX_Rebound'"
+    },
+    {
+      "1": "197",
+      "2": "4403",
+      "3": "1",
+      "4": "1",
+      "5": "4",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HYS/HYS_XianGongXin/DBC/DBC_HYS_XGX_rebound.DBC_HYS_XGX_Rebound'"
+    },
+    {
+      "1": "198",
+      "2": "4402",
+      "3": "1",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_Hit_Low_Blood_Blunt.DBC_Hit_Low_Blood_Blunt'"
+    },
+    {
+      "1": "199",
+      "2": "4403",
+      "3": "1",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_Hit_Low_Blood_Blunt.DBC_Hit_Low_Blood_Blunt'"
+    },
+    {
+      "1": "200",
+      "2": "2012",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HFM/HFM_ShiXianFeng_01a/DBC_HFM_ShiXianFeng_01_beHit.DBC_HFM_ShiXianFeng_01_beHit'"
+    },
+    {
+      "1": "201",
+      "2": "4003",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HYS/HYS_ShiTongLing_02a/DBC_HYS_ShiTongLing_02a_beHit.DBC_HYS_ShiTongLing_02a_beHit'"
+    },
+    {
+      "1": "202",
+      "2": "4015",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HYS/HYS_ShiTongLing_02a/DBC_HYS_ShiTongLing_02a_beHit.DBC_HYS_ShiTongLing_02a_beHit'"
+    },
+    {
+      "1": "203",
+      "3": "2",
+      "4": "3",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HFM/HFM_DuJiaoXian/DBC_HFM_DuJiaoXian_DiaoXiangHit.DBC_HFM_DuJiaoXian_DiaoXiangHit'"
+    },
+    {
+      "1": "204",
+      "2": "2009",
+      "3": "1",
+      "4": "2",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HFM/HFM_Shu_05a/Niagara/DBC_Hit_Shu_05_SheildHit.DBC_Hit_Shu_05_SheildHit'"
+    },
+    {
+      "1": "205",
+      "2": "2009",
+      "3": "1",
+      "4": "2",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HFM/HFM_Shu_05a/Niagara/DBC_Hit_Shu_05_SheildHit.DBC_Hit_Shu_05_SheildHit'"
+    },
+    {
+      "1": "206",
+      "2": "2009",
+      "3": "1",
+      "4": "2",
+      "5": "5",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HFM/HFM_Shu_05a/Niagara/DBC_Hit_Shu_05_SheildHit.DBC_Hit_Shu_05_SheildHit'"
+    },
+    {
+      "1": "207",
+      "2": "2009",
+      "3": "1",
+      "4": "2",
+      "5": "14",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HFM/HFM_Shu_05a/Niagara/DBC_Hit_Shu_05_SheildHit.DBC_Hit_Shu_05_SheildHit'"
+    },
+    {
+      "1": "208",
+      "2": "2009",
+      "3": "1",
+      "4": "2",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HFM/HFM_Shu_05a/Niagara/DBC_Hit_Shu_05_SheildHit.DBC_Hit_Shu_05_SheildHit'"
+    },
+    {
+      "1": "209",
+      "2": "4011",
+      "3": "1",
+      "4": "4",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HYS/HYS_HeiMoShou/DBC/DBC_HYS_HMS_Bone_Hit.DBC_HYS_HMS_Bone_Hit'"
+    },
+    {
+      "1": "210",
+      "2": "4011",
+      "3": "1",
+      "4": "4",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HYS/HYS_HeiMoShou/DBC/DBC_HYS_HMS_Bone_Hit.DBC_HYS_HMS_Bone_Hit'"
+    },
+    {
+      "1": "211",
+      "2": "4011",
+      "3": "1",
+      "4": "4",
+      "5": "14",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HYS/HYS_HeiMoShou/DBC/DBC_HYS_HMS_Bone_Hit.DBC_HYS_HMS_Bone_Hit'"
+    },
+    {
+      "1": "212",
+      "2": "4011",
+      "3": "1",
+      "4": "4",
+      "5": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HYS/HYS_HeiMoShou/DBC/DBC_HYS_HMS_Bone_Hit.DBC_HYS_HMS_Bone_Hit'"
+    },
+    {
+      "1": "213",
+      "2": "4011",
+      "3": "1",
+      "4": "4",
+      "5": "13",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HYS/HYS_HeiMoShou/DBC/DBC_HYS_HMS_Bone_Hit.DBC_HYS_HMS_Bone_Hit'"
+    },
+    {
+      "1": "214",
+      "2": "5801",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HYS/HYS_ShiTongLing_02a/DBC_HYS_ShiTongLing_02a_beHit.DBC_HYS_ShiTongLing_02a_beHit'"
+    },
+    {
+      "1": "215",
+      "2": "5801",
+      "3": "1",
+      "4": "3",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HYS/HYS_ShiTongLing_02a/DBC_HYS_ShiTongLing_02a_beHit.DBC_HYS_ShiTongLing_02a_beHit'"
+    },
+    {
+      "1": "216",
+      "2": "5801",
+      "3": "1",
+      "4": "3",
+      "5": "7",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HYS/HYS_ShiTongLing_02a/DBC_HYS_ShiTongLing_02a_beHit.DBC_HYS_ShiTongLing_02a_beHit'"
+    },
+    {
+      "1": "217",
+      "2": "5801",
+      "3": "1",
+      "4": "3",
+      "5": "13",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HYS/HYS_ShiTongLing_02a/DBC_HYS_ShiTongLing_02a_beHit.DBC_HYS_ShiTongLing_02a_beHit'"
+    },
+    {
+      "1": "218",
+      "2": "5802",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HYS/HYS_ShiTongLing_02a/DBC_HYS_ShiTongLing_02a_beHit.DBC_HYS_ShiTongLing_02a_beHit'"
+    },
+    {
+      "1": "219",
+      "2": "5802",
+      "3": "1",
+      "4": "3",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HYS/HYS_ShiTongLing_02a/DBC_HYS_ShiTongLing_02a_beHit.DBC_HYS_ShiTongLing_02a_beHit'"
+    },
+    {
+      "1": "220",
+      "2": "5802",
+      "3": "1",
+      "4": "3",
+      "5": "7",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HYS/HYS_ShiTongLing_02a/DBC_HYS_ShiTongLing_02a_beHit.DBC_HYS_ShiTongLing_02a_beHit'"
+    },
+    {
+      "1": "221",
+      "2": "5802",
+      "3": "1",
+      "4": "3",
+      "5": "13",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HYS/HYS_ShiTongLing_02a/DBC_HYS_ShiTongLing_02a_beHit.DBC_HYS_ShiTongLing_02a_beHit'"
+    },
+    {
+      "1": "222",
+      "2": "4134",
+      "3": "1",
+      "5": "5",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Parry/DBC_Hit_MetalBlock_Normal.DBC_Hit_MetalBlock_Normal'"
+    },
+    {
+      "1": "223",
+      "2": "4134",
+      "3": "1",
+      "5": "6",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Parry/DBC_Hit_MetalBlock_Perfect.DBC_Hit_MetalBlock_Perfect'"
+    },
+    {
+      "1": "224",
+      "2": "4135",
+      "3": "1",
+      "5": "5",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Parry/DBC_Hit_MetalBlock_Normal.DBC_Hit_MetalBlock_Normal'"
+    },
+    {
+      "1": "225",
+      "2": "4135",
+      "3": "1",
+      "5": "6",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Parry/DBC_Hit_MetalBlock_Perfect.DBC_Hit_MetalBlock_Perfect'"
+    },
+    {
+      "1": "226",
+      "2": "4136",
+      "3": "1",
+      "5": "5",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Parry/DBC_Hit_MetalBlock_Normal.DBC_Hit_MetalBlock_Normal'"
+    },
+    {
+      "1": "227",
+      "2": "4136",
+      "3": "1",
+      "5": "6",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Parry/DBC_Hit_MetalBlock_Perfect.DBC_Hit_MetalBlock_Perfect'"
+    },
+    {
+      "1": "228",
+      "2": "10013",
+      "3": "1",
+      "4": "8",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/JuXingSanQi/DBC/DBC_WuKong_JXSQ_playerhit.DBC_WuKong_JXSQ_playerhit'"
+    },
+    {
+      "1": "229",
+      "2": "10013",
+      "3": "1",
+      "4": "8",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/JuXingSanQi/DBC/DBC_WuKong_JXSQ_playerhit.DBC_WuKong_JXSQ_playerhit'"
+    },
+    {
+      "1": "230",
+      "2": "10013",
+      "3": "1",
+      "4": "8",
+      "5": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/JuXingSanQi/DBC/DBC_WuKong_JXSQ_playerhit.DBC_WuKong_JXSQ_playerhit'"
+    },
+    {
+      "1": "231",
+      "2": "10013",
+      "3": "1",
+      "4": "8",
+      "5": "4",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/JuXingSanQi/DBC/DBC_WuKong_JXSQ_playerhit.DBC_WuKong_JXSQ_playerhit'"
+    },
+    {
+      "1": "232",
+      "2": "10013",
+      "3": "1",
+      "4": "8",
+      "5": "5",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/JuXingSanQi/DBC/DBC_WuKong_JXSQ_playerhit.DBC_WuKong_JXSQ_playerhit'"
+    },
+    {
+      "1": "233",
+      "2": "10013",
+      "3": "1",
+      "4": "8",
+      "5": "6",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/JuXingSanQi/DBC/DBC_WuKong_JXSQ_playerhit.DBC_WuKong_JXSQ_playerhit'"
+    },
+    {
+      "1": "234",
+      "2": "10013",
+      "3": "1",
+      "4": "8",
+      "5": "7",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/JuXingSanQi/DBC/DBC_WuKong_JXSQ_playerhit.DBC_WuKong_JXSQ_playerhit'"
+    },
+    {
+      "1": "235",
+      "2": "10013",
+      "3": "1",
+      "4": "8",
+      "5": "8",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/JuXingSanQi/DBC/DBC_WuKong_JXSQ_playerhit.DBC_WuKong_JXSQ_playerhit'"
+    },
+    {
+      "1": "236",
+      "2": "10013",
+      "3": "1",
+      "4": "8",
+      "5": "13",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/JuXingSanQi/DBC/DBC_WuKong_JXSQ_playerhit.DBC_WuKong_JXSQ_playerhit'"
+    },
+    {
+      "1": "237",
+      "2": "10013",
+      "3": "1",
+      "4": "8",
+      "5": "14",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/JuXingSanQi/DBC/DBC_WuKong_JXSQ_playerhit.DBC_WuKong_JXSQ_playerhit'"
+    },
+    {
+      "1": "238",
+      "2": "10",
+      "3": "2",
+      "4": "8",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/JuXingSanQi/DBC/DBC_WuKong_JXSQ_playerhit.DBC_WuKong_JXSQ_playerhit'"
+    },
+    {
+      "1": "239",
+      "2": "10",
+      "3": "2",
+      "4": "8",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/JuXingSanQi/DBC/DBC_WuKong_JXSQ_playerhit.DBC_WuKong_JXSQ_playerhit'"
+    },
+    {
+      "1": "240",
+      "2": "10",
+      "3": "2",
+      "4": "8",
+      "5": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/JuXingSanQi/DBC/DBC_WuKong_JXSQ_playerhit.DBC_WuKong_JXSQ_playerhit'"
+    },
+    {
+      "1": "241",
+      "2": "10",
+      "3": "2",
+      "4": "8",
+      "5": "4",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/JuXingSanQi/DBC/DBC_WuKong_JXSQ_playerhit.DBC_WuKong_JXSQ_playerhit'"
+    },
+    {
+      "1": "242",
+      "2": "10",
+      "3": "2",
+      "4": "8",
+      "5": "5",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/JuXingSanQi/DBC/DBC_WuKong_JXSQ_playerhit.DBC_WuKong_JXSQ_playerhit'"
+    },
+    {
+      "1": "243",
+      "2": "10",
+      "3": "2",
+      "4": "8",
+      "5": "6",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/JuXingSanQi/DBC/DBC_WuKong_JXSQ_playerhit.DBC_WuKong_JXSQ_playerhit'"
+    },
+    {
+      "1": "244",
+      "2": "10",
+      "3": "2",
+      "4": "8",
+      "5": "7",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/JuXingSanQi/DBC/DBC_WuKong_JXSQ_playerhit.DBC_WuKong_JXSQ_playerhit'"
+    },
+    {
+      "1": "245",
+      "2": "10",
+      "3": "2",
+      "4": "8",
+      "5": "8",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/JuXingSanQi/DBC/DBC_WuKong_JXSQ_playerhit.DBC_WuKong_JXSQ_playerhit'"
+    },
+    {
+      "1": "246",
+      "2": "10",
+      "3": "2",
+      "4": "8",
+      "5": "13",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/JuXingSanQi/DBC/DBC_WuKong_JXSQ_playerhit.DBC_WuKong_JXSQ_playerhit'"
+    },
+    {
+      "1": "247",
+      "2": "10",
+      "3": "2",
+      "4": "8",
+      "5": "14",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/JuXingSanQi/DBC/DBC_WuKong_JXSQ_playerhit.DBC_WuKong_JXSQ_playerhit'"
+    },
+    {
+      "1": "248",
+      "2": "10",
+      "3": "2",
+      "4": "9",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/AbnormalState/DBC_Player_Thunder_Behit_Lv1.DBC_Player_Thunder_Behit_Lv1'"
+    },
+    {
+      "1": "249",
+      "2": "10",
+      "3": "2",
+      "4": "9",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/AbnormalState/DBC_Player_Thunder_Behit_Lv1.DBC_Player_Thunder_Behit_Lv1'"
+    },
+    {
+      "1": "250",
+      "2": "10",
+      "3": "2",
+      "4": "9",
+      "5": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/AbnormalState/DBC_Player_Thunder_Behit_Lv1.DBC_Player_Thunder_Behit_Lv1'"
+    },
+    {
+      "1": "251",
+      "2": "10",
+      "3": "2",
+      "4": "9",
+      "5": "4",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/AbnormalState/DBC_Player_Thunder_Behit_Lv1.DBC_Player_Thunder_Behit_Lv1'"
+    },
+    {
+      "1": "252",
+      "2": "10",
+      "3": "2",
+      "4": "9",
+      "5": "5",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/AbnormalState/DBC_Player_Thunder_Behit_Lv1.DBC_Player_Thunder_Behit_Lv1'"
+    },
+    {
+      "1": "253",
+      "2": "10",
+      "3": "2",
+      "4": "9",
+      "5": "6",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/AbnormalState/DBC_Player_Thunder_Behit_Lv1.DBC_Player_Thunder_Behit_Lv1'"
+    },
+    {
+      "1": "254",
+      "2": "10",
+      "3": "2",
+      "4": "9",
+      "5": "7",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/AbnormalState/DBC_Player_Thunder_Behit_Lv1.DBC_Player_Thunder_Behit_Lv1'"
+    },
+    {
+      "1": "255",
+      "2": "10",
+      "3": "2",
+      "4": "9",
+      "5": "8",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/AbnormalState/DBC_Player_Thunder_Behit_Lv1.DBC_Player_Thunder_Behit_Lv1'"
+    },
+    {
+      "1": "256",
+      "2": "10",
+      "3": "2",
+      "4": "9",
+      "5": "13",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/AbnormalState/DBC_Player_Thunder_Behit_Lv1.DBC_Player_Thunder_Behit_Lv1'"
+    },
+    {
+      "1": "257",
+      "2": "10",
+      "3": "2",
+      "4": "9",
+      "5": "14",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/DBC/AbnormalState/DBC_Player_Thunder_Behit_Lv1.DBC_Player_Thunder_Behit_Lv1'"
+    },
+    {
+      "1": "258",
+      "2": "4126",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SL/SL_shitongling/DBC_sl_shitongling_beHit.DBC_sl_shitongling_beHit'"
+    },
+    {
+      "1": "259",
+      "2": "4133",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SL/SL_heimoshou/DBC_szlc_hms_beHit.DBC_szlc_hms_beHit'"
+    },
+    {
+      "1": "260",
+      "2": "4133",
+      "3": "1",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/SL/SL_heimoshou/DBC_szlc_hms_HitOre.DBC_szlc_hms_HitOre'"
+    },
+    {
+      "1": "261",
+      "2": "3019",
+      "3": "1",
+      "4": "1",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo1/DBC/DBC_lys_mo1_hit01.DBC_lys_mo1_hit01'"
+    },
+    {
+      "1": "262",
+      "2": "3019",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo1/DBC/DBC_lys_mo1_hit01.DBC_lys_mo1_hit01'"
+    },
+    {
+      "1": "263",
+      "2": "3019",
+      "3": "1",
+      "4": "8",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/PSD/PSD_RenShenJing/DBC/DBC_PSD_RSJ_Wood_Hit_General.DBC_PSD_RSJ_Wood_Hit_General'"
+    },
+    {
+      "1": "264",
+      "2": "3019",
+      "3": "1",
+      "4": "8",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/PSD/PSD_RenShenJing/DBC/DBC_PSD_RSJ_Hit_CriticalStrike.DBC_PSD_RSJ_Hit_CriticalStrike'"
+    },
+    {
+      "1": "265",
+      "2": "3019",
+      "3": "1",
+      "4": "9",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo1/DBC/DBC_lys_mo1_part_righthand_hit.DBC_lys_mo1_part_righthand_hit'"
+    },
+    {
+      "1": "266",
+      "2": "3019",
+      "3": "1",
+      "4": "9",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo1/DBC/DBC_lys_mo1_part_righthand_hit.DBC_lys_mo1_part_righthand_hit'"
+    },
+    {
+      "1": "267",
+      "2": "4999",
+      "3": "1",
+      "4": "9",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/PSD/PSD_xiezijing_og/Niagara/Hit/DBC/DBC_xiezijing_og_hit_low_SoftInsect.DBC_xiezijing_og_hit_low_SoftInsect'"
+    },
+    {
+      "1": "268",
+      "2": "4999",
+      "3": "1",
+      "4": "9",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/PSD/PSD_xiezijing_og/Niagara/Hit/DBC/DBC_xiezijing_og_hit_middle_SoftInsect.DBC_xiezijing_og_hit_middle_SoftInsect'??"
+    },
+    {
+      "1": "269",
+      "2": "4999",
+      "3": "1",
+      "4": "9",
+      "5": "1",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/PSD/PSD_xiezijing_og/Niagara/Hit/DBC/DBC_xiezijing_og_hit_middle_SoftInsect.DBC_xiezijing_og_hit_middle_SoftInsect'??"
+    },
+    {
+      "1": "270",
+      "2": "4999",
+      "3": "1",
+      "4": "9",
+      "5": "2",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/PSD/PSD_xiezijing_og/Niagara/Hit/DBC/DBC_xiezijing_og_hit_high_SoftInsect.DBC_xiezijing_og_hit_high_SoftInsect'?"
+    },
+    {
+      "1": "271",
+      "2": "4999",
+      "3": "1",
+      "4": "9",
+      "5": "1",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/PSD/PSD_xiezijing_og/Niagara/Hit/DBC/DBC_xiezijing_og_hit_Crit_SoftInsect.DBC_xiezijing_og_hit_Crit_SoftInsect"
+    },
+    {
+      "1": "272",
+      "2": "4999",
+      "3": "1",
+      "4": "9",
+      "5": "2",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/PSD/PSD_xiezijing_og/Niagara/Hit/DBC/DBC_xiezijing_og_hit_Crit_SoftInsect.DBC_xiezijing_og_hit_Crit_SoftInsect"
+    },
+    {
+      "1": "273",
+      "2": "4999",
+      "3": "1",
+      "4": "9",
+      "5": "1",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/PSD/PSD_xiezijing_og/Niagara/Hit/DBC/DBC_xiezijing_og_hit_Crit_SoftInsect.DBC_xiezijing_og_hit_Crit_SoftInsect"
+    },
+    {
+      "1": "274",
+      "2": "4999",
+      "3": "1",
+      "4": "9",
+      "5": "2",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/PSD/PSD_xiezijing_og/Niagara/Hit/DBC/DBC_xiezijing_og_hit_Crit_SoftInsect.DBC_xiezijing_og_hit_Crit_SoftInsect"
+    },
+    {
+      "1": "275",
+      "2": "3020",
+      "3": "1",
+      "4": "9",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo2/DBC/DBC_lys_mo2_kuangbao_hit.DBC_lys_mo2_kuangbao_hit'"
+    },
+    {
+      "1": "276",
+      "2": "3020",
+      "3": "1",
+      "4": "9",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo2/DBC/DBC_lys_mo2_kuangbao_bighit.DBC_lys_mo2_kuangbao_bighit'"
+    },
+    {
+      "1": "277",
+      "2": "3020",
+      "3": "1",
+      "4": "9",
+      "5": "1",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo2/DBC/DBC_lys_mo2_kuangbao_hit.DBC_lys_mo2_kuangbao_hit'"
+    },
+    {
+      "1": "278",
+      "2": "3020",
+      "3": "1",
+      "4": "9",
+      "5": "2",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo2/DBC/DBC_lys_mo2_kuangbao_bighit.DBC_lys_mo2_kuangbao_bighit'"
+    },
+    {
+      "1": "279",
+      "2": "3020",
+      "3": "1",
+      "4": "9",
+      "5": "1",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo2/DBC/DBC_lys_mo2_kuangbao_bighit.DBC_lys_mo2_kuangbao_bighit'"
+    },
+    {
+      "1": "280",
+      "2": "3020",
+      "3": "1",
+      "4": "9",
+      "5": "2",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo2/DBC/DBC_lys_mo2_kuangbao_bighit.DBC_lys_mo2_kuangbao_bighit'"
+    },
+    {
+      "1": "281",
+      "2": "3020",
+      "3": "1",
+      "4": "9",
+      "5": "1",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo2/DBC/DBC_lys_mo2_kuangbao_bighit.DBC_lys_mo2_kuangbao_bighit'"
+    },
+    {
+      "1": "282",
+      "2": "3020",
+      "3": "1",
+      "4": "9",
+      "5": "2",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo2/DBC/DBC_lys_mo2_kuangbao_bighit.DBC_lys_mo2_kuangbao_bighit'"
+    },
+    {
+      "1": "283",
+      "2": "2211",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Cutscenes/HFM/DBC/DBC_lys_shigong_hit_weak.DBC_lys_shigong_hit_weak'"
+    },
+    {
+      "1": "284",
+      "2": "2211",
+      "3": "1",
+      "4": "3",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Cutscenes/HFM/DBC/DBC_lys_shigong_hit_weak.DBC_lys_shigong_hit_weak'"
+    },
+    {
+      "1": "285",
+      "2": "2211",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Cutscenes/HFM/DBC/DBC_lys_shigong_hit.DBC_lys_shigong_hit'"
+    },
+    {
+      "1": "286",
+      "2": "2211",
+      "3": "1",
+      "4": "3",
+      "5": "2",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Cutscenes/HFM/DBC/DBC_lys_shigong_hit.DBC_lys_shigong_hit'"
+    },
+    {
+      "1": "287",
+      "2": "2211",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Cutscenes/HFM/DBC/DBC_lys_shigong_hit_strong.DBC_lys_shigong_hit_strong'"
+    },
+    {
+      "1": "288",
+      "2": "2211",
+      "3": "1",
+      "4": "3",
+      "5": "2",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Cutscenes/HFM/DBC/DBC_lys_shigong_hit_strong.DBC_lys_shigong_hit_strong'"
+    },
+    {
+      "1": "289",
+      "2": "5407",
+      "3": "1",
+      "4": "9",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/PSD/PSD_chongluan_01/DBC/DBC_PSD_chongluan_01_hit_01.DBC_PSD_chongluan_01_hit_01'"
+    },
+    {
+      "1": "290",
+      "2": "5407",
+      "3": "1",
+      "4": "9",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/PSD/PSD_chongluan_01/DBC/DBC_PSD_chongluan_01_hit_01.DBC_PSD_chongluan_01_hit_01'"
+    },
+    {
+      "1": "291",
+      "2": "5407",
+      "3": "1",
+      "4": "9",
+      "5": "1",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/PSD/PSD_chongluan_01/DBC/DBC_PSD_chongluan_01_hit_02.DBC_PSD_chongluan_01_hit_02'"
+    },
+    {
+      "1": "292",
+      "2": "5407",
+      "3": "1",
+      "4": "9",
+      "5": "2",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/PSD/PSD_chongluan_01/DBC/DBC_PSD_chongluan_01_hit_02.DBC_PSD_chongluan_01_hit_02'"
+    },
+    {
+      "1": "293",
+      "2": "5407",
+      "3": "1",
+      "4": "9",
+      "5": "1",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/PSD/PSD_chongluan_01/DBC/DBC_PSD_chongluan_01_hit_03.DBC_PSD_chongluan_01_hit_03'"
+    },
+    {
+      "1": "294",
+      "2": "5407",
+      "3": "1",
+      "4": "9",
+      "5": "2",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/PSD/PSD_chongluan_01/DBC/DBC_PSD_chongluan_01_hit_03.DBC_PSD_chongluan_01_hit_03'"
+    },
+    {
+      "1": "295",
+      "2": "5407",
+      "3": "1",
+      "4": "9",
+      "5": "1",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/PSD/PSD_chongluan_01/DBC/DBC_PSD_chongluan_01_hit_04.DBC_PSD_chongluan_01_hit_04'"
+    },
+    {
+      "1": "296",
+      "2": "5407",
+      "3": "1",
+      "4": "9",
+      "5": "2",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/PSD/PSD_chongluan_01/DBC/DBC_PSD_chongluan_01_hit_04.DBC_PSD_chongluan_01_hit_04'"
+    },
+    {
+      "1": "297",
+      "2": "3800",
+      "3": "1",
+      "4": "1",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_HuangMei/DBC/DBC_lys_huangmei_jinshen_hit_lv1.DBC_lys_huangmei_jinshen_hit_lv1'"
+    },
+    {
+      "1": "298",
+      "2": "3800",
+      "3": "1",
+      "4": "1",
+      "5": "4",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_HuangMei/DBC/DBC_lys_huangmei_jinshen_hit_lv1.DBC_lys_huangmei_jinshen_hit_lv1'"
+    },
+    {
+      "1": "299",
+      "2": "3800",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_HuangMei/DBC/DBC_lys_huangmei_jinshen_hit_lv1.DBC_lys_huangmei_jinshen_hit_lv1'"
+    },
+    {
+      "1": "300",
+      "2": "3800",
+      "3": "1",
+      "4": "1",
+      "5": "1",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_HuangMei/DBC/DBC_lys_huangmei_jinshen_hit_lv1.DBC_lys_huangmei_jinshen_hit_lv1'"
+    },
+    {
+      "1": "301",
+      "2": "3800",
+      "3": "1",
+      "4": "1",
+      "5": "4",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_HuangMei/DBC/DBC_lys_huangmei_jinshen_hit_lv1.DBC_lys_huangmei_jinshen_hit_lv1'"
+    },
+    {
+      "1": "302",
+      "2": "3800",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_HuangMei/DBC/DBC_lys_huangmei_jinshen_hit_lv1.DBC_lys_huangmei_jinshen_hit_lv1'"
+    },
+    {
+      "1": "303",
+      "2": "3800",
+      "3": "1",
+      "4": "1",
+      "5": "1",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_HuangMei/DBC/DBC_lys_huangmei_jinshen_hit_lv2.DBC_lys_huangmei_jinshen_hit_lv2'"
+    },
+    {
+      "1": "304",
+      "2": "3800",
+      "3": "1",
+      "4": "1",
+      "5": "4",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_HuangMei/DBC/DBC_lys_huangmei_jinshen_hit_lv2.DBC_lys_huangmei_jinshen_hit_lv2'"
+    },
+    {
+      "1": "305",
+      "2": "3800",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_HuangMei/DBC/DBC_lys_huangmei_jinshen_hit_lv2.DBC_lys_huangmei_jinshen_hit_lv2'"
+    },
+    {
+      "1": "306",
+      "2": "3800",
+      "3": "1",
+      "4": "1",
+      "5": "1",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_HuangMei/DBC/DBC_lys_huangmei_jinshen_hit_lv3.DBC_lys_huangmei_jinshen_hit_lv3'"
+    },
+    {
+      "1": "307",
+      "2": "3800",
+      "3": "1",
+      "4": "1",
+      "5": "4",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_HuangMei/DBC/DBC_lys_huangmei_jinshen_hit_lv3.DBC_lys_huangmei_jinshen_hit_lv3'"
+    },
+    {
+      "1": "308",
+      "2": "3800",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_HuangMei/DBC/DBC_lys_huangmei_jinshen_hit_lv3.DBC_lys_huangmei_jinshen_hit_lv3'"
+    },
+    {
+      "1": "309",
+      "2": "3800",
+      "3": "1",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_Hit_Low_Blood_Blunt.DBC_Hit_Low_Blood_Blunt'"
+    },
+    {
+      "1": "310",
+      "2": "3800",
+      "3": "1",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_Hit_Low_Blood_Blunt.DBC_Hit_Low_Blood_Blunt'"
+    },
+    {
+      "1": "311",
+      "2": "3800",
+      "3": "1",
+      "5": "1",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_Hit_general_Blood_Blunt.DBC_Hit_general_Blood_Blunt'"
+    },
+    {
+      "1": "312",
+      "2": "3800",
+      "3": "1",
+      "5": "2",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_Hit_general_Blood_Blunt.DBC_Hit_general_Blood_Blunt'"
+    },
+    {
+      "1": "313",
+      "2": "3800",
+      "3": "1",
+      "5": "1",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_Hit_Crit_Blood_Blunt.DBC_Hit_Crit_Blood_Blunt'"
+    },
+    {
+      "1": "314",
+      "2": "3800",
+      "3": "1",
+      "5": "2",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_Hit_Crit_Blood_Blunt.DBC_Hit_Crit_Blood_Blunt'"
+    },
+    {
+      "1": "315",
+      "2": "3800",
+      "3": "1",
+      "5": "1",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_Hit_Super_Blood_Blunt.DBC_Hit_Super_Blood_Blunt'"
+    },
+    {
+      "1": "316",
+      "2": "3800",
+      "3": "1",
+      "5": "2",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_Blunt/DBC/DBC_Hit_Super_Blood_Blunt.DBC_Hit_Super_Blood_Blunt'"
+    },
+    {
+      "1": "317",
+      "2": "5100",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/PSD/PSD_zhubajie_02a/DBC/DBC_PSD_Zhubajie_02a_Yuni_hit.DBC_PSD_Zhubajie_02a_Yuni_hit'"
+    },
+    {
+      "1": "318",
+      "2": "5100",
+      "3": "1",
+      "4": "3",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/PSD/PSD_zhubajie_02a/DBC/DBC_PSD_Zhubajie_02a_Yuni_bighit.DBC_PSD_Zhubajie_02a_Yuni_bighit'"
+    },
+    {
+      "1": "319",
+      "2": "5100",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/PSD/PSD_zhubajie_02a/DBC/DBC_PSD_Zhubajie_02a_Yuni_hit.DBC_PSD_Zhubajie_02a_Yuni_hit'"
+    },
+    {
+      "1": "320",
+      "2": "5100",
+      "3": "1",
+      "4": "3",
+      "5": "2",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/PSD/PSD_zhubajie_02a/DBC/DBC_PSD_Zhubajie_02a_Yuni_bighit.DBC_PSD_Zhubajie_02a_Yuni_bighit'"
+    },
+    {
+      "1": "321",
+      "2": "5100",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/PSD/PSD_zhubajie_02a/DBC/DBC_PSD_Zhubajie_02a_Yuni_bighit.DBC_PSD_Zhubajie_02a_Yuni_bighit'"
+    },
+    {
+      "1": "322",
+      "2": "5100",
+      "3": "1",
+      "4": "3",
+      "5": "2",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/PSD/PSD_zhubajie_02a/DBC/DBC_PSD_Zhubajie_02a_Yuni_bighit.DBC_PSD_Zhubajie_02a_Yuni_bighit'"
+    },
+    {
+      "1": "323",
+      "2": "5100",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/PSD/PSD_zhubajie_02a/DBC/DBC_PSD_Zhubajie_02a_Yuni_bighit.DBC_PSD_Zhubajie_02a_Yuni_bighit'"
+    },
+    {
+      "1": "324",
+      "2": "5100",
+      "3": "1",
+      "4": "3",
+      "5": "2",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/PSD/PSD_zhubajie_02a/DBC/DBC_PSD_Zhubajie_02a_Yuni_bighit.DBC_PSD_Zhubajie_02a_Yuni_bighit'"
+    },
+    {
+      "1": "325",
+      "2": "7401",
+      "3": "1",
+      "4": "1",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_JSDS_FTXD/DBC/DBC_JSDS_FTXD_TTTB_hit.DBC_JSDS_FTXD_TTTB_hit'"
+    },
+    {
+      "1": "326",
+      "2": "7401",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_JSDS_FTXD/DBC/DBC_JSDS_FTXD_TTTB_hit.DBC_JSDS_FTXD_TTTB_hit'"
+    },
+    {
+      "1": "327",
+      "2": "7401",
+      "3": "1",
+      "4": "1",
+      "5": "1",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_JSDS_FTXD/DBC/DBC_JSDS_FTXD_TTTB_hit.DBC_JSDS_FTXD_TTTB_hit'"
+    },
+    {
+      "1": "328",
+      "2": "7401",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_JSDS_FTXD/DBC/DBC_JSDS_FTXD_TTTB_hit.DBC_JSDS_FTXD_TTTB_hit'"
+    },
+    {
+      "1": "329",
+      "2": "7401",
+      "3": "1",
+      "4": "1",
+      "5": "1",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_JSDS_FTXD/DBC/DBC_JSDS_FTXD_TTTB_hit.DBC_JSDS_FTXD_TTTB_hit'"
+    },
+    {
+      "1": "330",
+      "2": "7401",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_JSDS_FTXD/DBC/DBC_JSDS_FTXD_TTTB_hit.DBC_JSDS_FTXD_TTTB_hit'"
+    },
+    {
+      "1": "331",
+      "2": "7401",
+      "3": "1",
+      "4": "1",
+      "5": "1",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_JSDS_FTXD/DBC/DBC_JSDS_FTXD_TTTB_hit.DBC_JSDS_FTXD_TTTB_hit'"
+    },
+    {
+      "1": "332",
+      "2": "7401",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_JSDS_FTXD/DBC/DBC_JSDS_FTXD_TTTB_hit.DBC_JSDS_FTXD_TTTB_hit'"
+    },
+    {
+      "1": "333",
+      "2": "7401",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_JSDS_FTXD/DBC/DBC_JSDS_FTXD_hit_Low.DBC_JSDS_FTXD_hit_Low'"
+    },
+    {
+      "1": "334",
+      "2": "7401",
+      "3": "1",
+      "4": "3",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_JSDS_FTXD/DBC/DBC_JSDS_FTXD_hit_General.DBC_JSDS_FTXD_hit_General'"
+    },
+    {
+      "1": "335",
+      "2": "7401",
+      "3": "1",
+      "4": "3",
+      "5": "7",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_JSDS_FTXD/DBC/DBC_JSDS_FTXD_hit_General.DBC_JSDS_FTXD_hit_General'"
+    },
+    {
+      "1": "336",
+      "2": "7401",
+      "3": "1",
+      "4": "3",
+      "5": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_JSDS_FTXD/DBC/DBC_JSDS_FTXD_hit_General.DBC_JSDS_FTXD_hit_General'"
+    },
+    {
+      "1": "337",
+      "2": "7401",
+      "3": "1",
+      "4": "3",
+      "5": "5",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_JSDS_FTXD/DBC/DBC_JSDS_FTXD_hit_Low.DBC_JSDS_FTXD_hit_Low'"
+    },
+    {
+      "1": "338",
+      "2": "7401",
+      "3": "1",
+      "4": "3",
+      "5": "13",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_JSDS_FTXD/DBC/DBC_JSDS_FTXD_hit_Low.DBC_JSDS_FTXD_hit_Low'"
+    },
+    {
+      "1": "339",
+      "2": "7401",
+      "3": "1",
+      "4": "3",
+      "5": "14",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_JSDS_FTXD/DBC/DBC_JSDS_FTXD_hit_Low.DBC_JSDS_FTXD_hit_Low'"
+    },
+    {
+      "1": "340",
+      "2": "7401",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_JSDS_FTXD/DBC/DBC_JSDS_FTXD_hit_Low.DBC_JSDS_FTXD_hit_Low'"
+    },
+    {
+      "1": "341",
+      "2": "7401",
+      "3": "1",
+      "4": "3",
+      "5": "4",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_JSDS_FTXD/DBC/DBC_JSDS_FTXD_hit_Low.DBC_JSDS_FTXD_hit_Low'"
+    },
+    {
+      "1": "342",
+      "2": "7401",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_JSDS_FTXD/DBC/DBC_JSDS_FTXD_hit_General.DBC_JSDS_FTXD_hit_General'"
+    },
+    {
+      "1": "343",
+      "2": "7401",
+      "3": "1",
+      "4": "3",
+      "5": "2",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_JSDS_FTXD/DBC/DBC_JSDS_FTXD_hit_High.DBC_JSDS_FTXD_hit_High'"
+    },
+    {
+      "1": "344",
+      "2": "7401",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_JSDS_FTXD/DBC/DBC_JSDS_FTXD_hit_High.DBC_JSDS_FTXD_hit_High'"
+    },
+    {
+      "1": "345",
+      "2": "7401",
+      "3": "1",
+      "4": "3",
+      "5": "2",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_JSDS_FTXD/DBC/DBC_JSDS_FTXD_hit_Super.DBC_JSDS_FTXD_hit_Super'"
+    },
+    {
+      "1": "346",
+      "2": "7401",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_JSDS_FTXD/DBC/DBC_JSDS_FTXD_hit_Super.DBC_JSDS_FTXD_hit_Super'"
+    },
+    {
+      "1": "347",
+      "2": "3021",
+      "3": "1",
+      "4": "1",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo3/DBC/DBC_lys_mo3_jinshen_hit.DBC_lys_mo3_jinshen_hit'"
+    },
+    {
+      "1": "348",
+      "2": "3021",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo3/DBC/DBC_lys_mo3_jinshen_hit.DBC_lys_mo3_jinshen_hit'"
+    },
+    {
+      "1": "349",
+      "2": "3021",
+      "3": "1",
+      "4": "1",
+      "5": "1",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo3/DBC/DBC_lys_mo3_jinshen_hit.DBC_lys_mo3_jinshen_hit'"
+    },
+    {
+      "1": "350",
+      "2": "3021",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo3/DBC/DBC_lys_mo3_jinshen_hit.DBC_lys_mo3_jinshen_hit'"
+    },
+    {
+      "1": "351",
+      "2": "3021",
+      "3": "1",
+      "4": "1",
+      "5": "1",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo3/DBC/DBC_lys_mo3_jinshen_hit.DBC_lys_mo3_jinshen_hit'"
+    },
+    {
+      "1": "352",
+      "2": "3021",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo3/DBC/DBC_lys_mo3_jinshen_hit.DBC_lys_mo3_jinshen_hit'"
+    },
+    {
+      "1": "353",
+      "2": "3021",
+      "3": "1",
+      "4": "1",
+      "5": "1",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo3/DBC/DBC_lys_mo3_jinshen_hit.DBC_lys_mo3_jinshen_hit'"
+    },
+    {
+      "1": "354",
+      "2": "3021",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo3/DBC/DBC_lys_mo3_jinshen_hit.DBC_lys_mo3_jinshen_hit'"
+    },
+    {
+      "1": "355",
+      "2": "3021",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo3/DBC/DBC_lys_mo3_hit_Low.DBC_lys_mo3_hit_Low'"
+    },
+    {
+      "1": "356",
+      "2": "3021",
+      "3": "1",
+      "4": "3",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo3/DBC/DBC_lys_mo3_hit_General.DBC_lys_mo3_hit_General'"
+    },
+    {
+      "1": "357",
+      "2": "3021",
+      "3": "1",
+      "4": "3",
+      "5": "7",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo3/DBC/DBC_lys_mo3_hit_General.DBC_lys_mo3_hit_General'"
+    },
+    {
+      "1": "358",
+      "2": "3021",
+      "3": "1",
+      "4": "3",
+      "5": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo3/DBC/DBC_lys_mo3_hit_General.DBC_lys_mo3_hit_General'"
+    },
+    {
+      "1": "359",
+      "2": "3021",
+      "3": "1",
+      "4": "3",
+      "5": "5",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo3/DBC/DBC_lys_mo3_hit_Low.DBC_lys_mo3_hit_Low'"
+    },
+    {
+      "1": "360",
+      "2": "3021",
+      "3": "1",
+      "4": "3",
+      "5": "13",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo3/DBC/DBC_lys_mo3_hit_Low.DBC_lys_mo3_hit_Low'"
+    },
+    {
+      "1": "361",
+      "2": "3021",
+      "3": "1",
+      "4": "3",
+      "5": "14",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo3/DBC/DBC_lys_mo3_hit_Low.DBC_lys_mo3_hit_Low'"
+    },
+    {
+      "1": "362",
+      "2": "3021",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo3/DBC/DBC_lys_mo3_hit_Low.DBC_lys_mo3_hit_Low'"
+    },
+    {
+      "1": "363",
+      "2": "3021",
+      "3": "1",
+      "4": "3",
+      "5": "4",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo3/DBC/DBC_lys_mo3_hit_Low.DBC_lys_mo3_hit_Low'"
+    },
+    {
+      "1": "364",
+      "2": "3021",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo3/DBC/DBC_lys_mo3_hit_General.DBC_lys_mo3_hit_General'"
+    },
+    {
+      "1": "365",
+      "2": "3021",
+      "3": "1",
+      "4": "3",
+      "5": "2",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo3/DBC/DBC_lys_mo3_hit_High.DBC_lys_mo3_hit_High'"
+    },
+    {
+      "1": "366",
+      "2": "3021",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo3/DBC/DBC_lys_mo3_hit_High.DBC_lys_mo3_hit_High'"
+    },
+    {
+      "1": "367",
+      "2": "3021",
+      "3": "1",
+      "4": "3",
+      "5": "2",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo3/DBC/DBC_lys_mo3_hit_Super.DBC_lys_mo3_hit_Super'"
+    },
+    {
+      "1": "368",
+      "2": "3021",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo3/DBC/DBC_lys_mo3_hit_Super.DBC_lys_mo3_hit_Super'"
+    },
+    {
+      "1": "369",
+      "2": "3402",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo3/DBC/Small/DBC_lys_mo3_hit_Low_Small.DBC_lys_mo3_hit_Low_Small'"
+    },
+    {
+      "1": "370",
+      "2": "3402",
+      "3": "1",
+      "4": "3",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo3/DBC/Small/DBC_lys_mo3_hit_General_Small.DBC_lys_mo3_hit_General_Small'"
+    },
+    {
+      "1": "371",
+      "2": "3402",
+      "3": "1",
+      "4": "3",
+      "5": "7",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo3/DBC/Small/DBC_lys_mo3_hit_General_Small.DBC_lys_mo3_hit_General_Small'"
+    },
+    {
+      "1": "372",
+      "2": "3402",
+      "3": "1",
+      "4": "3",
+      "5": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo3/DBC/Small/DBC_lys_mo3_hit_General_Small.DBC_lys_mo3_hit_General_Small'"
+    },
+    {
+      "1": "373",
+      "2": "3402",
+      "3": "1",
+      "4": "3",
+      "5": "5",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo3/DBC/Small/DBC_lys_mo3_hit_Low_Small.DBC_lys_mo3_hit_Low_Small'"
+    },
+    {
+      "1": "374",
+      "2": "3402",
+      "3": "1",
+      "4": "3",
+      "5": "13",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo3/DBC/Small/DBC_lys_mo3_hit_Low_Small.DBC_lys_mo3_hit_Low_Small'"
+    },
+    {
+      "1": "375",
+      "2": "3402",
+      "3": "1",
+      "4": "3",
+      "5": "14",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo3/DBC/Small/DBC_lys_mo3_hit_Low_Small.DBC_lys_mo3_hit_Low_Small'"
+    },
+    {
+      "1": "376",
+      "2": "3402",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo3/DBC/Small/DBC_lys_mo3_hit_Low_Small.DBC_lys_mo3_hit_Low_Small'"
+    },
+    {
+      "1": "377",
+      "2": "3402",
+      "3": "1",
+      "4": "3",
+      "5": "4",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo3/DBC/Small/DBC_lys_mo3_hit_Low_Small.DBC_lys_mo3_hit_Low_Small'"
+    },
+    {
+      "1": "378",
+      "2": "3402",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo3/DBC/Small/DBC_lys_mo3_hit_General_Small.DBC_lys_mo3_hit_General_Small'"
+    },
+    {
+      "1": "379",
+      "2": "3402",
+      "3": "1",
+      "4": "3",
+      "5": "2",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo3/DBC/Small/DBC_lys_mo3_hit_High_Small.DBC_lys_mo3_hit_High_Small'"
+    },
+    {
+      "1": "380",
+      "2": "3402",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo3/DBC/Small/DBC_lys_mo3_hit_High_Small.DBC_lys_mo3_hit_High_Small'"
+    },
+    {
+      "1": "381",
+      "2": "3402",
+      "3": "1",
+      "4": "3",
+      "5": "2",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo3/DBC/Small/DBC_lys_mo3_hit_Super_Small.DBC_lys_mo3_hit_Super_Small'"
+    },
+    {
+      "1": "382",
+      "2": "3402",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/LYS/LYS_Mo3/DBC/Small/DBC_lys_mo3_hit_Super_Small.DBC_lys_mo3_hit_Super_Small'"
+    },
+    {
+      "1": "383",
+      "2": "25",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/FTXD_Wukong/DBC/DBC_Hit_Low_FTXD_wukong.DBC_Hit_Low_FTXD_wukong'"
+    },
+    {
+      "1": "384",
+      "2": "25",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/FTXD_Wukong/DBC/DBC_Hit_general_FTXD_wukong.DBC_Hit_general_FTXD_wukong'"
+    },
+    {
+      "1": "385",
+      "2": "25",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/FTXD_Wukong/DBC/DBC_Hit_High_FTXD_wukong.DBC_Hit_High_FTXD_wukong'"
+    },
+    {
+      "1": "386",
+      "2": "1990",
+      "3": "1",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_SDTW/DBC/DBC_Hit_Low_Blood_Blunt_SDTW.DBC_Hit_Low_Blood_Blunt_SDTW'"
+    },
+    {
+      "1": "387",
+      "2": "1990",
+      "3": "1",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_SDTW/DBC/DBC_Hit_general_Blood_Blunt_SDTW.DBC_Hit_general_Blood_Blunt_SDTW'"
+    },
+    {
+      "1": "388",
+      "2": "1990",
+      "3": "1",
+      "5": "1",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_SDTW/DBC/DBC_Hit_general_Blood_Blunt_SDTW.DBC_Hit_general_Blood_Blunt_SDTW'"
+    },
+    {
+      "1": "389",
+      "2": "1990",
+      "3": "1",
+      "5": "2",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_SDTW/DBC/DBC_Hit_general_Blood_Blunt_SDTW.DBC_Hit_general_Blood_Blunt_SDTW'"
+    },
+    {
+      "1": "390",
+      "2": "1990",
+      "3": "1",
+      "5": "1",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_SDTW/DBC/DBC_Hit_Crit_Blood_Blunt_SDTW.DBC_Hit_Crit_Blood_Blunt_SDTW'"
+    },
+    {
+      "1": "391",
+      "2": "1990",
+      "3": "1",
+      "5": "2",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_SDTW/DBC/DBC_Hit_Crit_Blood_Blunt_SDTW.DBC_Hit_Crit_Blood_Blunt_SDTW'"
+    },
+    {
+      "1": "392",
+      "2": "1990",
+      "3": "1",
+      "5": "1",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_SDTW/DBC/DBC_Hit_Super_Blood_Blunt_SDTW.DBC_Hit_Super_Blood_Blunt_SDTW'"
+    },
+    {
+      "1": "393",
+      "2": "1990",
+      "3": "1",
+      "5": "2",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_SDTW/DBC/DBC_Hit_Super_Blood_Blunt_SDTW.DBC_Hit_Super_Blood_Blunt_SDTW'"
+    },
+    {
+      "1": "394",
+      "2": "1991",
+      "3": "1",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_SDTW/DBC/DBC_Hit_Low_Blood_Blunt_SDTW.DBC_Hit_Low_Blood_Blunt_SDTW'"
+    },
+    {
+      "1": "395",
+      "2": "1991",
+      "3": "1",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_SDTW/DBC/DBC_Hit_general_Blood_Blunt_SDTW.DBC_Hit_general_Blood_Blunt_SDTW'"
+    },
+    {
+      "1": "396",
+      "2": "1991",
+      "3": "1",
+      "5": "1",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_SDTW/DBC/DBC_Hit_general_Blood_Blunt_SDTW.DBC_Hit_general_Blood_Blunt_SDTW'"
+    },
+    {
+      "1": "397",
+      "2": "1991",
+      "3": "1",
+      "5": "2",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_SDTW/DBC/DBC_Hit_general_Blood_Blunt_SDTW.DBC_Hit_general_Blood_Blunt_SDTW'"
+    },
+    {
+      "1": "398",
+      "2": "1991",
+      "3": "1",
+      "5": "1",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_SDTW/DBC/DBC_Hit_Crit_Blood_Blunt_SDTW.DBC_Hit_Crit_Blood_Blunt_SDTW'"
+    },
+    {
+      "1": "399",
+      "2": "1991",
+      "3": "1",
+      "5": "2",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_SDTW/DBC/DBC_Hit_Crit_Blood_Blunt_SDTW.DBC_Hit_Crit_Blood_Blunt_SDTW'"
+    },
+    {
+      "1": "400",
+      "2": "1991",
+      "3": "1",
+      "5": "1",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_SDTW/DBC/DBC_Hit_Super_Blood_Blunt_SDTW.DBC_Hit_Super_Blood_Blunt_SDTW'"
+    },
+    {
+      "1": "401",
+      "2": "1991",
+      "3": "1",
+      "5": "2",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_SDTW/DBC/DBC_Hit_Super_Blood_Blunt_SDTW.DBC_Hit_Super_Blood_Blunt_SDTW'"
+    },
+    {
+      "1": "402",
+      "2": "1992",
+      "3": "1",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_SDTW/DBC/DBC_Hit_Low_Blood_Blunt_SDTW.DBC_Hit_Low_Blood_Blunt_SDTW'"
+    },
+    {
+      "1": "403",
+      "2": "1992",
+      "3": "1",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_SDTW/DBC/DBC_Hit_general_Blood_Blunt_SDTW.DBC_Hit_general_Blood_Blunt_SDTW'"
+    },
+    {
+      "1": "404",
+      "2": "1992",
+      "3": "1",
+      "5": "1",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_SDTW/DBC/DBC_Hit_general_Blood_Blunt_SDTW.DBC_Hit_general_Blood_Blunt_SDTW'"
+    },
+    {
+      "1": "405",
+      "2": "1992",
+      "3": "1",
+      "5": "2",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_SDTW/DBC/DBC_Hit_general_Blood_Blunt_SDTW.DBC_Hit_general_Blood_Blunt_SDTW'"
+    },
+    {
+      "1": "406",
+      "2": "1992",
+      "3": "1",
+      "5": "1",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_SDTW/DBC/DBC_Hit_Crit_Blood_Blunt_SDTW.DBC_Hit_Crit_Blood_Blunt_SDTW'"
+    },
+    {
+      "1": "407",
+      "2": "1992",
+      "3": "1",
+      "5": "2",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_SDTW/DBC/DBC_Hit_Crit_Blood_Blunt_SDTW.DBC_Hit_Crit_Blood_Blunt_SDTW'"
+    },
+    {
+      "1": "408",
+      "2": "1992",
+      "3": "1",
+      "5": "1",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_SDTW/DBC/DBC_Hit_Super_Blood_Blunt_SDTW.DBC_Hit_Super_Blood_Blunt_SDTW'"
+    },
+    {
+      "1": "409",
+      "2": "1992",
+      "3": "1",
+      "5": "2",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_SDTW/DBC/DBC_Hit_Super_Blood_Blunt_SDTW.DBC_Hit_Super_Blood_Blunt_SDTW'"
+    },
+    {
+      "1": "410",
+      "2": "1993",
+      "3": "1",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_SDTW/DBC/DBC_Hit_Low_Blood_Blunt_SDTW.DBC_Hit_Low_Blood_Blunt_SDTW'"
+    },
+    {
+      "1": "411",
+      "2": "1993",
+      "3": "1",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_SDTW/DBC/DBC_Hit_general_Blood_Blunt_SDTW.DBC_Hit_general_Blood_Blunt_SDTW'"
+    },
+    {
+      "1": "412",
+      "2": "1993",
+      "3": "1",
+      "5": "1",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_SDTW/DBC/DBC_Hit_general_Blood_Blunt_SDTW.DBC_Hit_general_Blood_Blunt_SDTW'"
+    },
+    {
+      "1": "413",
+      "2": "1993",
+      "3": "1",
+      "5": "2",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_SDTW/DBC/DBC_Hit_general_Blood_Blunt_SDTW.DBC_Hit_general_Blood_Blunt_SDTW'"
+    },
+    {
+      "1": "414",
+      "2": "1993",
+      "3": "1",
+      "5": "1",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_SDTW/DBC/DBC_Hit_Crit_Blood_Blunt_SDTW.DBC_Hit_Crit_Blood_Blunt_SDTW'"
+    },
+    {
+      "1": "415",
+      "2": "1993",
+      "3": "1",
+      "5": "2",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_SDTW/DBC/DBC_Hit_Crit_Blood_Blunt_SDTW.DBC_Hit_Crit_Blood_Blunt_SDTW'"
+    },
+    {
+      "1": "416",
+      "2": "1993",
+      "3": "1",
+      "5": "1",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_SDTW/DBC/DBC_Hit_Super_Blood_Blunt_SDTW.DBC_Hit_Super_Blood_Blunt_SDTW'"
+    },
+    {
+      "1": "417",
+      "2": "1993",
+      "3": "1",
+      "5": "2",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_SDTW/DBC/DBC_Hit_Super_Blood_Blunt_SDTW.DBC_Hit_Super_Blood_Blunt_SDTW'"
+    },
+    {
+      "1": "418",
+      "2": "1999",
+      "3": "1",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_SDTW/DBC/DBC_Hit_Low_Blood_Blunt_SDTW.DBC_Hit_Low_Blood_Blunt_SDTW'"
+    },
+    {
+      "1": "419",
+      "2": "1999",
+      "3": "1",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_SDTW/DBC/DBC_Hit_general_Blood_Blunt_SDTW.DBC_Hit_general_Blood_Blunt_SDTW'"
+    },
+    {
+      "1": "420",
+      "2": "1999",
+      "3": "1",
+      "5": "1",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_SDTW/DBC/DBC_Hit_general_Blood_Blunt_SDTW.DBC_Hit_general_Blood_Blunt_SDTW'"
+    },
+    {
+      "1": "421",
+      "2": "1999",
+      "3": "1",
+      "5": "2",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_SDTW/DBC/DBC_Hit_general_Blood_Blunt_SDTW.DBC_Hit_general_Blood_Blunt_SDTW'"
+    },
+    {
+      "1": "422",
+      "2": "1999",
+      "3": "1",
+      "5": "1",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_SDTW/DBC/DBC_Hit_Crit_Blood_Blunt_SDTW.DBC_Hit_Crit_Blood_Blunt_SDTW'"
+    },
+    {
+      "1": "423",
+      "2": "1999",
+      "3": "1",
+      "5": "2",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_SDTW/DBC/DBC_Hit_Crit_Blood_Blunt_SDTW.DBC_Hit_Crit_Blood_Blunt_SDTW'"
+    },
+    {
+      "1": "424",
+      "2": "1999",
+      "3": "1",
+      "5": "1",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_SDTW/DBC/DBC_Hit_Super_Blood_Blunt_SDTW.DBC_Hit_Super_Blood_Blunt_SDTW'"
+    },
+    {
+      "1": "425",
+      "2": "1999",
+      "3": "1",
+      "5": "2",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Common/Niagara/Hit/Blood_SDTW/DBC/DBC_Hit_Super_Blood_Blunt_SDTW.DBC_Hit_Super_Blood_Blunt_SDTW'"
+    },
+    {
+      "1": "426",
+      "2": "1023",
+      "3": "1",
+      "4": "1",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HFS/GYCY_YanJianXi_01/DBC/OG/DBC_GYCY_YanJianXi_01_OG_hit_lv1.DBC_GYCY_YanJianXi_01_OG_hit_lv1'"
+    },
+    {
+      "1": "427",
+      "2": "1023",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HFS/GYCY_YanJianXi_01/DBC/OG/DBC_GYCY_YanJianXi_01_OG_hit_lv1.DBC_GYCY_YanJianXi_01_OG_hit_lv1'"
+    },
+    {
+      "1": "428",
+      "2": "1023",
+      "3": "1",
+      "4": "1",
+      "5": "1",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HFS/GYCY_YanJianXi_01/DBC/OG/DBC_GYCY_YanJianXi_01_OG_hit_lv1.DBC_GYCY_YanJianXi_01_OG_hit_lv1'"
+    },
+    {
+      "1": "429",
+      "2": "1023",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HFS/GYCY_YanJianXi_01/DBC/OG/DBC_GYCY_YanJianXi_01_OG_hit_lv1.DBC_GYCY_YanJianXi_01_OG_hit_lv1'"
+    },
+    {
+      "1": "430",
+      "2": "1023",
+      "3": "1",
+      "4": "1",
+      "5": "1",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HFS/GYCY_YanJianXi_01/DBC/OG/DBC_GYCY_YanJianXi_01_OG_hit_lv2.DBC_GYCY_YanJianXi_01_OG_hit_lv2'"
+    },
+    {
+      "1": "431",
+      "2": "1023",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HFS/GYCY_YanJianXi_01/DBC/OG/DBC_GYCY_YanJianXi_01_OG_hit_lv2.DBC_GYCY_YanJianXi_01_OG_hit_lv2'"
+    },
+    {
+      "1": "432",
+      "2": "1023",
+      "3": "1",
+      "4": "1",
+      "5": "1",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HFS/GYCY_YanJianXi_01/DBC/OG/DBC_GYCY_YanJianXi_01_OG_hit_lv3.DBC_GYCY_YanJianXi_01_OG_hit_lv3'"
+    },
+    {
+      "1": "433",
+      "2": "1023",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HFS/GYCY_YanJianXi_01/DBC/OG/DBC_GYCY_YanJianXi_01_OG_hit_lv3.DBC_GYCY_YanJianXi_01_OG_hit_lv3'"
+    },
+    {
+      "1": "434",
+      "2": "1024",
+      "3": "1",
+      "4": "1",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HFS/GYCY_YanJianXi_01/DBC/DBC_GYCY_YanJianXi_01b_hit_lv1.DBC_GYCY_YanJianXi_01b_hit_lv1'"
+    },
+    {
+      "1": "435",
+      "2": "1024",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HFS/GYCY_YanJianXi_01/DBC/DBC_GYCY_YanJianXi_01b_hit_lv1.DBC_GYCY_YanJianXi_01b_hit_lv1'"
+    },
+    {
+      "1": "436",
+      "2": "1024",
+      "3": "1",
+      "4": "1",
+      "5": "1",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HFS/GYCY_YanJianXi_01/DBC/DBC_GYCY_YanJianXi_01b_hit_lv1.DBC_GYCY_YanJianXi_01b_hit_lv1'"
+    },
+    {
+      "1": "437",
+      "2": "1024",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HFS/GYCY_YanJianXi_01/DBC/DBC_GYCY_YanJianXi_01b_hit_lv1.DBC_GYCY_YanJianXi_01b_hit_lv1'"
+    },
+    {
+      "1": "438",
+      "2": "1024",
+      "3": "1",
+      "4": "1",
+      "5": "1",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HFS/GYCY_YanJianXi_01/DBC/DBC_GYCY_YanJianXi_01b_hit_lv2.DBC_GYCY_YanJianXi_01b_hit_lv2'"
+    },
+    {
+      "1": "439",
+      "2": "1024",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HFS/GYCY_YanJianXi_01/DBC/DBC_GYCY_YanJianXi_01b_hit_lv2.DBC_GYCY_YanJianXi_01b_hit_lv2'"
+    },
+    {
+      "1": "440",
+      "2": "1024",
+      "3": "1",
+      "4": "1",
+      "5": "1",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HFS/GYCY_YanJianXi_01/DBC/DBC_GYCY_YanJianXi_01b_hit_lv3.DBC_GYCY_YanJianXi_01b_hit_lv3'"
+    },
+    {
+      "1": "441",
+      "2": "1024",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HFS/GYCY_YanJianXi_01/DBC/DBC_GYCY_YanJianXi_01b_hit_lv3.DBC_GYCY_YanJianXi_01b_hit_lv3'"
+    },
+    {
+      "1": "442",
+      "2": "4127",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_SGD/DBC/DBC_MGD_SGD_ruodian_hit.DBC_MGD_SGD_ruodian_hit'"
+    },
+    {
+      "1": "443",
+      "2": "1024",
+      "3": "1",
+      "4": "1",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_SGD/DBC/DBC_MGD_SGD_ruodian_hit.DBC_MGD_SGD_ruodian_hit'"
+    },
+    {
+      "1": "444",
+      "2": "4163",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_Wa/DBC/DBC_Hit_Low_Rock_wa.DBC_Hit_Low_Rock_wa'"
+    },
+    {
+      "1": "445",
+      "2": "4163",
+      "3": "1",
+      "4": "3",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_Wa/DBC/DBC_Hit_Low_Rock_wa.DBC_Hit_Low_Rock_wa'"
+    },
+    {
+      "1": "446",
+      "2": "4163",
+      "3": "1",
+      "4": "3",
+      "5": "7",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_Wa/DBC/DBC_Hit_Low_Rock_wa.DBC_Hit_Low_Rock_wa'"
+    },
+    {
+      "1": "447",
+      "2": "4163",
+      "3": "1",
+      "4": "3",
+      "5": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_Wa/DBC/DBC_Hit_Low_Rock_wa.DBC_Hit_Low_Rock_wa'"
+    },
+    {
+      "1": "448",
+      "2": "4163",
+      "3": "1",
+      "4": "3",
+      "5": "5",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_Wa/DBC/DBC_Hit_Low_Rock_wa.DBC_Hit_Low_Rock_wa'"
+    },
+    {
+      "1": "449",
+      "2": "4163",
+      "3": "1",
+      "4": "3",
+      "5": "13",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_Wa/DBC/DBC_Hit_Low_Rock_wa.DBC_Hit_Low_Rock_wa'"
+    },
+    {
+      "1": "450",
+      "2": "4163",
+      "3": "1",
+      "4": "3",
+      "5": "14",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_Wa/DBC/DBC_Hit_Low_Rock_wa.DBC_Hit_Low_Rock_wa'"
+    },
+    {
+      "1": "451",
+      "2": "4163",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_Wa/DBC/DBC_Hit_Low_Rock_wa.DBC_Hit_Low_Rock_wa'"
+    },
+    {
+      "1": "452",
+      "2": "4163",
+      "3": "1",
+      "4": "3",
+      "5": "4",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_Wa/DBC/DBC_Hit_Low_Rock_wa.DBC_Hit_Low_Rock_wa'"
+    },
+    {
+      "1": "453",
+      "2": "4163",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_Wa/DBC/DBC_Hit_general_Rock_wa.DBC_Hit_general_Rock_wa'"
+    },
+    {
+      "1": "454",
+      "2": "4163",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_Wa/DBC/DBC_Hit_Crit_Rock_wa.DBC_Hit_Crit_Rock_wa'"
+    },
+    {
+      "1": "455",
+      "2": "4163",
+      "3": "1",
+      "4": "3",
+      "5": "1",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/MGD/MGD_Wa/DBC/DBC_Hit_Crit_Rock_wa.DBC_Hit_Crit_Rock_wa'"
+    },
+    {
+      "1": "456",
+      "2": "5555",
+      "3": "1",
+      "4": "5",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/sunwukong/Niagara/Huashen/DBC/DBC_Wukong_HS_Dun_Burst_Hit.DBC_Wukong_HS_Dun_Burst_Hit'"
+    },
+    {
+      "1": "457",
+      "2": "5555",
+      "3": "1",
+      "4": "5",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/01Main/VFX/Characters/sunwukong/Niagara/Huashen/DBC/DBC_Wukong_HS_Dun_Burst_Hit.DBC_Wukong_HS_Dun_Burst_Hit'"
+    },
+    {
+      "1": "458",
+      "2": "5555",
+      "3": "1",
+      "4": "5",
+      "5": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/02Main/VFX/Characters/sunwukong/Niagara/Huashen/DBC/DBC_Wukong_HS_Dun_Burst_Hit.DBC_Wukong_HS_Dun_Burst_Hit'"
+    },
+    {
+      "1": "459",
+      "2": "5555",
+      "3": "1",
+      "4": "5",
+      "5": "4",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/03Main/VFX/Characters/sunwukong/Niagara/Huashen/DBC/DBC_Wukong_HS_Dun_Burst_Hit.DBC_Wukong_HS_Dun_Burst_Hit'"
+    },
+    {
+      "1": "460",
+      "2": "5555",
+      "3": "1",
+      "4": "5",
+      "5": "5",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/04Main/VFX/Characters/sunwukong/Niagara/Huashen/DBC/DBC_Wukong_HS_Dun_Burst_Hit.DBC_Wukong_HS_Dun_Burst_Hit'"
+    },
+    {
+      "1": "461",
+      "2": "5555",
+      "3": "1",
+      "4": "5",
+      "5": "6",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/05Main/VFX/Characters/sunwukong/Niagara/Huashen/DBC/DBC_Wukong_HS_Dun_Burst_Hit.DBC_Wukong_HS_Dun_Burst_Hit'"
+    },
+    {
+      "1": "462",
+      "2": "5555",
+      "3": "1",
+      "4": "5",
+      "5": "7",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/06Main/VFX/Characters/sunwukong/Niagara/Huashen/DBC/DBC_Wukong_HS_Dun_Burst_Hit.DBC_Wukong_HS_Dun_Burst_Hit'"
+    },
+    {
+      "1": "463",
+      "2": "5555",
+      "3": "1",
+      "4": "5",
+      "5": "8",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/07Main/VFX/Characters/sunwukong/Niagara/Huashen/DBC/DBC_Wukong_HS_Dun_Burst_Hit.DBC_Wukong_HS_Dun_Burst_Hit'"
+    },
+    {
+      "1": "464",
+      "2": "5555",
+      "3": "1",
+      "4": "5",
+      "5": "13",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/08Main/VFX/Characters/sunwukong/Niagara/Huashen/DBC/DBC_Wukong_HS_Dun_Burst_Hit.DBC_Wukong_HS_Dun_Burst_Hit'"
+    },
+    {
+      "1": "465",
+      "2": "5555",
+      "3": "1",
+      "4": "5",
+      "5": "14",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/09Main/VFX/Characters/sunwukong/Niagara/Huashen/DBC/DBC_Wukong_HS_Dun_Burst_Hit.DBC_Wukong_HS_Dun_Burst_Hit'"
+    },
+    {
+      "1": "466",
+      "2": "5555",
+      "3": "1",
+      "4": "5",
+      "5": "1",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/10Main/VFX/Characters/sunwukong/Niagara/Huashen/DBC/DBC_Wukong_HS_Dun_Burst_Hit.DBC_Wukong_HS_Dun_Burst_Hit'"
+    },
+    {
+      "1": "467",
+      "2": "5555",
+      "3": "1",
+      "4": "5",
+      "5": "1",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/11Main/VFX/Characters/sunwukong/Niagara/Huashen/DBC/DBC_Wukong_HS_Dun_Burst_Hit.DBC_Wukong_HS_Dun_Burst_Hit'"
+    },
+    {
+      "1": "468",
+      "2": "5555",
+      "3": "1",
+      "4": "5",
+      "5": "1",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/12Main/VFX/Characters/sunwukong/Niagara/Huashen/DBC/DBC_Wukong_HS_Dun_Burst_Hit.DBC_Wukong_HS_Dun_Burst_Hit'"
+    },
+    {
+      "1": "469",
+      "2": "1004",
+      "3": "1",
+      "4": "4",
+      "5": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HFS/GYCY_She_02/DBC/DBC_GYCY_She_02_Bone_hit.DBC_GYCY_She_02_Bone_hit'"
+    },
+    {
+      "1": "470",
+      "2": "1004",
+      "3": "1",
+      "4": "4",
+      "5": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HFS/GYCY_She_02/DBC/DBC_GYCY_She_02_Bone_hit.DBC_GYCY_She_02_Bone_hit'"
+    },
+    {
+      "1": "471",
+      "2": "1004",
+      "3": "1",
+      "4": "4",
+      "5": "1",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HFS/GYCY_She_02/DBC/DBC_GYCY_She_02_Bone_hit.DBC_GYCY_She_02_Bone_hit'"
+    },
+    {
+      "1": "472",
+      "2": "1004",
+      "3": "1",
+      "4": "4",
+      "5": "2",
+      "6": "1",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HFS/GYCY_She_02/DBC/DBC_GYCY_She_02_Bone_hit.DBC_GYCY_She_02_Bone_hit'"
+    },
+    {
+      "1": "473",
+      "2": "1004",
+      "3": "1",
+      "4": "4",
+      "5": "1",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HFS/GYCY_She_02/DBC/DBC_GYCY_She_02_Bone_hit.DBC_GYCY_She_02_Bone_hit'"
+    },
+    {
+      "1": "474",
+      "2": "1004",
+      "3": "1",
+      "4": "4",
+      "5": "2",
+      "6": "2",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HFS/GYCY_She_02/DBC/DBC_GYCY_She_02_Bone_hit.DBC_GYCY_She_02_Bone_hit'"
+    },
+    {
+      "1": "475",
+      "2": "1004",
+      "3": "1",
+      "4": "4",
+      "5": "1",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HFS/GYCY_She_02/DBC/DBC_GYCY_She_02_Bone_hit.DBC_GYCY_She_02_Bone_hit'"
+    },
+    {
+      "1": "476",
+      "2": "1004",
+      "3": "1",
+      "4": "4",
+      "5": "2",
+      "6": "3",
+      "7": "1",
+      "8": "BGWDataAsset_B1DBC'/Game/00Main/VFX/Characters/HFS/GYCY_She_02/DBC/DBC_GYCY_She_02_Bone_hit.DBC_GYCY_She_02_Bone_hit'"
+    }
+  ]
+}

@@ -1,0 +1,1323 @@
+{
+  "1": [
+    {
+      "1": "1",
+      "2": "9001",
+      "4": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "5": "EVT_hit_fenshen_bang_level01_light"
+    },
+    {
+      "1": "2",
+      "2": "9002",
+      "4": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "5": "EVT_hit_fenshen_bang_level01_mid"
+    },
+    {
+      "1": "3",
+      "2": "9003",
+      "4": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "5": "EVT_hit_fenshen_bang_level01_strong"
+    },
+    {
+      "1": "4",
+      "2": "9004",
+      "4": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "5": "EVT_hit_fenshen_bang_levelall_superstrong"
+    },
+    {
+      "1": "5",
+      "2": "9005",
+      "4": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "5": "EVT_hit_fenshen_bang_levelall_ultrastrong"
+    },
+    {
+      "1": "6",
+      "2": "9001",
+      "3": "1",
+      "4": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "5": "EVT_hit_fenshen_bang_level01_light"
+    },
+    {
+      "1": "7",
+      "2": "9002",
+      "3": "1",
+      "4": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "5": "EVT_hit_fenshen_bang_level01_mid"
+    },
+    {
+      "1": "8",
+      "2": "9003",
+      "3": "1",
+      "4": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "5": "EVT_hit_fenshen_bang_level01_strong"
+    },
+    {
+      "1": "9",
+      "2": "9004",
+      "3": "1",
+      "4": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "5": "EVT_hit_fenshen_bang_levelall_superstrong"
+    },
+    {
+      "1": "10",
+      "2": "9005",
+      "3": "1",
+      "4": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "5": "EVT_hit_fenshen_bang_levelall_ultrastrong"
+    },
+    {
+      "1": "11",
+      "2": "9001",
+      "3": "2",
+      "4": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "5": "EVT_hit_fenshen_bang_level01_light"
+    },
+    {
+      "1": "12",
+      "2": "9002",
+      "3": "2",
+      "4": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "5": "EVT_hit_fenshen_bang_level01_mid"
+    },
+    {
+      "1": "13",
+      "2": "9003",
+      "3": "2",
+      "4": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "5": "EVT_hit_fenshen_bang_level01_strong"
+    },
+    {
+      "1": "14",
+      "2": "9004",
+      "3": "2",
+      "4": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "5": "EVT_hit_fenshen_bang_levelall_superstrong"
+    },
+    {
+      "1": "15",
+      "2": "9005",
+      "3": "2",
+      "4": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "5": "EVT_hit_fenshen_bang_levelall_ultrastrong"
+    },
+    {
+      "1": "16",
+      "2": "9001",
+      "3": "3",
+      "4": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "5": "EVT_hit_fenshen_bang_level01_light"
+    },
+    {
+      "1": "17",
+      "2": "9002",
+      "3": "3",
+      "4": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "5": "EVT_hit_fenshen_bang_level01_mid"
+    },
+    {
+      "1": "18",
+      "2": "9003",
+      "3": "3",
+      "4": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "5": "EVT_hit_fenshen_bang_level01_strong"
+    },
+    {
+      "1": "19",
+      "2": "9004",
+      "3": "3",
+      "4": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "5": "EVT_hit_fenshen_bang_levelall_superstrong"
+    },
+    {
+      "1": "20",
+      "2": "9005",
+      "3": "3",
+      "4": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "5": "EVT_hit_fenshen_bang_levelall_ultrastrong"
+    },
+    {
+      "1": "21",
+      "2": "9001",
+      "3": "4",
+      "4": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "5": "EVT_hit_fenshen_bang_level01_light"
+    },
+    {
+      "1": "22",
+      "2": "9002",
+      "3": "4",
+      "4": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "5": "EVT_hit_fenshen_bang_level01_mid"
+    },
+    {
+      "1": "23",
+      "2": "9003",
+      "3": "4",
+      "4": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "5": "EVT_hit_fenshen_bang_level01_strong"
+    },
+    {
+      "1": "24",
+      "2": "9004",
+      "3": "4",
+      "4": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "5": "EVT_hit_fenshen_bang_levelall_superstrong"
+    },
+    {
+      "1": "25",
+      "2": "9005",
+      "3": "4",
+      "4": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "5": "EVT_hit_fenshen_bang_levelall_ultrastrong"
+    },
+    {
+      "1": "26",
+      "2": "9001",
+      "3": "5",
+      "4": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "5": "EVT_hit_fenshen_bang_level01_light"
+    },
+    {
+      "1": "27",
+      "2": "9002",
+      "3": "5",
+      "4": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "5": "EVT_hit_fenshen_bang_level01_mid"
+    },
+    {
+      "1": "28",
+      "2": "9003",
+      "3": "5",
+      "4": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "5": "EVT_hit_fenshen_bang_level01_strong"
+    },
+    {
+      "1": "29",
+      "2": "9004",
+      "3": "5",
+      "4": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "5": "EVT_hit_fenshen_bang_levelall_superstrong"
+    },
+    {
+      "1": "30",
+      "2": "9005",
+      "3": "5",
+      "4": "/Game/00Main/Audio/SFX/Hit/FenShen_Hit_Enemy",
+      "5": "EVT_hit_fenshen_bang_levelall_ultrastrong"
+    },
+    {
+      "1": "31",
+      "2": "1001",
+      "3": "1",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Bang_V2",
+      "5": "EVT_hit_player_bang_level01_light"
+    },
+    {
+      "1": "32",
+      "2": "1002",
+      "3": "1",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Bang_V2",
+      "5": "EVT_hit_player_bang_level01_mid"
+    },
+    {
+      "1": "33",
+      "2": "1003",
+      "3": "1",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Bang_V2",
+      "5": "EVT_hit_player_bang_level01_strong"
+    },
+    {
+      "1": "34",
+      "2": "1004",
+      "3": "1",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Bang_V2",
+      "5": "EVT_hit_player_bang_levelall_superstrong"
+    },
+    {
+      "1": "35",
+      "2": "1005",
+      "3": "1",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Bang_V2",
+      "5": "EVT_hit_player_bang_levelall_ultrastrong"
+    },
+    {
+      "1": "36",
+      "2": "1001",
+      "3": "2",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Bang_V2",
+      "5": "EVT_hit_player_bang_level02_light"
+    },
+    {
+      "1": "37",
+      "2": "1002",
+      "3": "2",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Bang_V2",
+      "5": "EVT_hit_player_bang_level02_mid"
+    },
+    {
+      "1": "38",
+      "2": "1003",
+      "3": "2",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Bang_V2",
+      "5": "EVT_hit_player_bang_level02_strong"
+    },
+    {
+      "1": "39",
+      "2": "1004",
+      "3": "2",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Bang_V2",
+      "5": "EVT_hit_player_bang_levelall_superstrong"
+    },
+    {
+      "1": "40",
+      "2": "1005",
+      "3": "2",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Bang_V2",
+      "5": "EVT_hit_player_bang_levelall_ultrastrong"
+    },
+    {
+      "1": "41",
+      "2": "1001",
+      "3": "3",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Bang_V2",
+      "5": "EVT_hit_player_bang_level03_light"
+    },
+    {
+      "1": "42",
+      "2": "1002",
+      "3": "3",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Bang_V2",
+      "5": "EVT_hit_player_bang_level03_mid"
+    },
+    {
+      "1": "43",
+      "2": "1003",
+      "3": "3",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Bang_V2",
+      "5": "EVT_hit_player_bang_level03_strong"
+    },
+    {
+      "1": "44",
+      "2": "1004",
+      "3": "3",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Bang_V2",
+      "5": "EVT_hit_player_bang_levelall_superstrong"
+    },
+    {
+      "1": "45",
+      "2": "1005",
+      "3": "3",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Bang_V2",
+      "5": "EVT_hit_player_bang_levelall_ultrastrong"
+    },
+    {
+      "1": "46",
+      "2": "1001",
+      "3": "4",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Bang_V2",
+      "5": "EVT_hit_player_bang_level04_light"
+    },
+    {
+      "1": "47",
+      "2": "1002",
+      "3": "4",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Bang_V2",
+      "5": "EVT_hit_player_bang_level04_mid"
+    },
+    {
+      "1": "48",
+      "2": "1003",
+      "3": "4",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Bang_V2",
+      "5": "EVT_hit_player_bang_level04_strong"
+    },
+    {
+      "1": "49",
+      "2": "1004",
+      "3": "4",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Bang_V2",
+      "5": "EVT_hit_player_bang_levelall_superstrong"
+    },
+    {
+      "1": "50",
+      "2": "1005",
+      "3": "4",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Bang_V2",
+      "5": "EVT_hit_player_bang_levelall_ultrastrong"
+    },
+    {
+      "1": "51",
+      "2": "1001",
+      "3": "5",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/qiang",
+      "5": "EVT_hit_player_qiang_light"
+    },
+    {
+      "1": "52",
+      "2": "1002",
+      "3": "5",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/qiang",
+      "5": "EVT_hit_player_qiang_mid"
+    },
+    {
+      "1": "53",
+      "2": "1003",
+      "3": "5",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/qiang",
+      "5": "EVT_hit_player_qiang_strong"
+    },
+    {
+      "1": "54",
+      "2": "1004",
+      "3": "5",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/qiang",
+      "5": "EVT_hit_player_qiang_superstrong"
+    },
+    {
+      "1": "55",
+      "2": "1005",
+      "3": "5",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/qiang",
+      "5": "EVT_hit_player_qiang_ultrastrong"
+    },
+    {
+      "1": "56",
+      "2": "1011",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Foot",
+      "5": "EVT_hit_player_foot_light"
+    },
+    {
+      "1": "57",
+      "2": "1012",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Foot",
+      "5": "EVT_hit_player_foot_mid"
+    },
+    {
+      "1": "58",
+      "2": "1013",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Foot",
+      "5": "EVT_hit_player_foot_strong"
+    },
+    {
+      "1": "59",
+      "2": "1011",
+      "3": "1",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Foot",
+      "5": "EVT_hit_player_foot_light"
+    },
+    {
+      "1": "60",
+      "2": "1012",
+      "3": "1",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Foot",
+      "5": "EVT_hit_player_foot_mid"
+    },
+    {
+      "1": "61",
+      "2": "1013",
+      "3": "1",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Foot",
+      "5": "EVT_hit_player_foot_strong"
+    },
+    {
+      "1": "62",
+      "2": "1011",
+      "3": "2",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Foot",
+      "5": "EVT_hit_player_foot_light"
+    },
+    {
+      "1": "63",
+      "2": "1012",
+      "3": "2",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Foot",
+      "5": "EVT_hit_player_foot_mid"
+    },
+    {
+      "1": "64",
+      "2": "1013",
+      "3": "2",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Foot",
+      "5": "EVT_hit_player_foot_strong"
+    },
+    {
+      "1": "65",
+      "2": "1011",
+      "3": "3",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Foot",
+      "5": "EVT_hit_player_foot_light"
+    },
+    {
+      "1": "66",
+      "2": "1012",
+      "3": "3",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Foot",
+      "5": "EVT_hit_player_foot_mid"
+    },
+    {
+      "1": "67",
+      "2": "1013",
+      "3": "3",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Foot",
+      "5": "EVT_hit_player_foot_strong"
+    },
+    {
+      "1": "68",
+      "2": "1011",
+      "3": "4",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Foot",
+      "5": "EVT_hit_player_foot_light"
+    },
+    {
+      "1": "69",
+      "2": "1012",
+      "3": "4",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Foot",
+      "5": "EVT_hit_player_foot_mid"
+    },
+    {
+      "1": "70",
+      "2": "1013",
+      "3": "4",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Foot",
+      "5": "EVT_hit_player_foot_strong"
+    },
+    {
+      "1": "71",
+      "2": "1011",
+      "3": "5",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Foot",
+      "5": "EVT_hit_player_foot_light"
+    },
+    {
+      "1": "72",
+      "2": "1012",
+      "3": "5",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Foot",
+      "5": "EVT_hit_player_foot_mid"
+    },
+    {
+      "1": "73",
+      "2": "1013",
+      "3": "5",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Foot",
+      "5": "EVT_hit_player_foot_strong"
+    },
+    {
+      "1": "74",
+      "2": "1021",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Sharp",
+      "5": "EVT_hit_player_sharp_light"
+    },
+    {
+      "1": "75",
+      "2": "1022",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Sharp",
+      "5": "EVT_hit_player_sharp_mid"
+    },
+    {
+      "1": "76",
+      "2": "1023",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Sharp",
+      "5": "EVT_hit_player_sharp_strong"
+    },
+    {
+      "1": "77",
+      "2": "1021",
+      "3": "1",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Sharp",
+      "5": "EVT_hit_player_sharp_light"
+    },
+    {
+      "1": "78",
+      "2": "1022",
+      "3": "1",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Sharp",
+      "5": "EVT_hit_player_sharp_mid"
+    },
+    {
+      "1": "79",
+      "2": "1023",
+      "3": "1",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Sharp",
+      "5": "EVT_hit_player_sharp_strong"
+    },
+    {
+      "1": "80",
+      "2": "1021",
+      "3": "2",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Sharp",
+      "5": "EVT_hit_player_sharp_light"
+    },
+    {
+      "1": "81",
+      "2": "1022",
+      "3": "2",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Sharp",
+      "5": "EVT_hit_player_sharp_mid"
+    },
+    {
+      "1": "82",
+      "2": "1023",
+      "3": "2",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Sharp",
+      "5": "EVT_hit_player_sharp_strong"
+    },
+    {
+      "1": "83",
+      "2": "1021",
+      "3": "3",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Sharp",
+      "5": "EVT_hit_player_sharp_light"
+    },
+    {
+      "1": "84",
+      "2": "1022",
+      "3": "3",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Sharp",
+      "5": "EVT_hit_player_sharp_mid"
+    },
+    {
+      "1": "85",
+      "2": "1023",
+      "3": "3",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Sharp",
+      "5": "EVT_hit_player_sharp_strong"
+    },
+    {
+      "1": "86",
+      "2": "1021",
+      "3": "4",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Sharp",
+      "5": "EVT_hit_player_sharp_light"
+    },
+    {
+      "1": "87",
+      "2": "1022",
+      "3": "4",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Sharp",
+      "5": "EVT_hit_player_sharp_mid"
+    },
+    {
+      "1": "88",
+      "2": "1023",
+      "3": "4",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Sharp",
+      "5": "EVT_hit_player_sharp_strong"
+    },
+    {
+      "1": "89",
+      "2": "1021",
+      "3": "5",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Sharp",
+      "5": "EVT_hit_player_sharp_light"
+    },
+    {
+      "1": "90",
+      "2": "1022",
+      "3": "5",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Sharp",
+      "5": "EVT_hit_player_sharp_mid"
+    },
+    {
+      "1": "91",
+      "2": "1023",
+      "3": "5",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Sharp",
+      "5": "EVT_hit_player_sharp_strong"
+    },
+    {
+      "1": "92",
+      "2": "1031",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Claw",
+      "5": "EVT_hit_player_claw_light"
+    },
+    {
+      "1": "93",
+      "2": "1032",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Claw",
+      "5": "EVT_hit_player_claw_mid"
+    },
+    {
+      "1": "94",
+      "2": "1033",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Claw",
+      "5": "EVT_hit_player_claw_strong"
+    },
+    {
+      "1": "95",
+      "2": "1031",
+      "3": "1",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Claw",
+      "5": "EVT_hit_player_claw_light"
+    },
+    {
+      "1": "96",
+      "2": "1032",
+      "3": "1",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Claw",
+      "5": "EVT_hit_player_claw_mid"
+    },
+    {
+      "1": "97",
+      "2": "1033",
+      "3": "1",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Claw",
+      "5": "EVT_hit_player_claw_strong"
+    },
+    {
+      "1": "98",
+      "2": "1031",
+      "3": "2",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Claw",
+      "5": "EVT_hit_player_claw_light"
+    },
+    {
+      "1": "99",
+      "2": "1032",
+      "3": "2",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Claw",
+      "5": "EVT_hit_player_claw_mid"
+    },
+    {
+      "1": "100",
+      "2": "1033",
+      "3": "2",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Claw",
+      "5": "EVT_hit_player_claw_strong"
+    },
+    {
+      "1": "101",
+      "2": "1031",
+      "3": "3",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Claw",
+      "5": "EVT_hit_player_claw_light"
+    },
+    {
+      "1": "102",
+      "2": "1032",
+      "3": "3",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Claw",
+      "5": "EVT_hit_player_claw_mid"
+    },
+    {
+      "1": "103",
+      "2": "1033",
+      "3": "3",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Claw",
+      "5": "EVT_hit_player_claw_strong"
+    },
+    {
+      "1": "104",
+      "2": "1031",
+      "3": "4",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Claw",
+      "5": "EVT_hit_player_claw_light"
+    },
+    {
+      "1": "105",
+      "2": "1032",
+      "3": "4",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Claw",
+      "5": "EVT_hit_player_claw_mid"
+    },
+    {
+      "1": "106",
+      "2": "1033",
+      "3": "4",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Claw",
+      "5": "EVT_hit_player_claw_strong"
+    },
+    {
+      "1": "107",
+      "2": "1031",
+      "3": "5",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Claw",
+      "5": "EVT_hit_player_claw_light"
+    },
+    {
+      "1": "108",
+      "2": "1032",
+      "3": "5",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Claw",
+      "5": "EVT_hit_player_claw_mid"
+    },
+    {
+      "1": "109",
+      "2": "1033",
+      "3": "5",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/Claw",
+      "5": "EVT_hit_player_claw_strong"
+    },
+    {
+      "1": "110",
+      "2": "1041",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/duchong",
+      "5": "EVT_hit_player_duchong_light"
+    },
+    {
+      "1": "111",
+      "2": "1042",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/duchong",
+      "5": "EVT_hit_player_duchong_mid"
+    },
+    {
+      "1": "112",
+      "2": "1043",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/duchong",
+      "5": "EVT_hit_player_duchong_strong"
+    },
+    {
+      "1": "113",
+      "2": "1041",
+      "3": "1",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/duchong",
+      "5": "EVT_hit_player_duchong_light"
+    },
+    {
+      "1": "114",
+      "2": "1042",
+      "3": "1",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/duchong",
+      "5": "EVT_hit_player_duchong_mid"
+    },
+    {
+      "1": "115",
+      "2": "1043",
+      "3": "1",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/duchong",
+      "5": "EVT_hit_player_duchong_strong"
+    },
+    {
+      "1": "116",
+      "2": "1041",
+      "3": "2",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/duchong",
+      "5": "EVT_hit_player_duchong_light"
+    },
+    {
+      "1": "117",
+      "2": "1042",
+      "3": "2",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/duchong",
+      "5": "EVT_hit_player_duchong_mid"
+    },
+    {
+      "1": "118",
+      "2": "1043",
+      "3": "2",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/duchong",
+      "5": "EVT_hit_player_duchong_strong"
+    },
+    {
+      "1": "119",
+      "2": "1041",
+      "3": "3",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/duchong",
+      "5": "EVT_hit_player_duchong_light"
+    },
+    {
+      "1": "120",
+      "2": "1042",
+      "3": "3",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/duchong",
+      "5": "EVT_hit_player_duchong_mid"
+    },
+    {
+      "1": "121",
+      "2": "1043",
+      "3": "3",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/duchong",
+      "5": "EVT_hit_player_duchong_strong"
+    },
+    {
+      "1": "122",
+      "2": "1041",
+      "3": "4",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/duchong",
+      "5": "EVT_hit_player_duchong_light"
+    },
+    {
+      "1": "123",
+      "2": "1042",
+      "3": "4",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/duchong",
+      "5": "EVT_hit_player_duchong_mid"
+    },
+    {
+      "1": "124",
+      "2": "1043",
+      "3": "4",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/duchong",
+      "5": "EVT_hit_player_duchong_strong"
+    },
+    {
+      "1": "125",
+      "2": "1041",
+      "3": "5",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/duchong",
+      "5": "EVT_hit_player_duchong_light"
+    },
+    {
+      "1": "126",
+      "2": "1042",
+      "3": "5",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/duchong",
+      "5": "EVT_hit_player_duchong_mid"
+    },
+    {
+      "1": "127",
+      "2": "1043",
+      "3": "5",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/duchong",
+      "5": "EVT_hit_player_duchong_strong"
+    },
+    {
+      "1": "128",
+      "2": "1051",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/FTXD",
+      "5": "EVT_hit_player_ftxd_light"
+    },
+    {
+      "1": "129",
+      "2": "1052",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/FTXD",
+      "5": "EVT_hit_player_ftxd_mid"
+    },
+    {
+      "1": "130",
+      "2": "1053",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/FTXD",
+      "5": "EVT_hit_player_ftxd_strong"
+    },
+    {
+      "1": "131",
+      "2": "1051",
+      "3": "1",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/FTXD",
+      "5": "EVT_hit_player_ftxd_light"
+    },
+    {
+      "1": "132",
+      "2": "1052",
+      "3": "1",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/FTXD",
+      "5": "EVT_hit_player_ftxd_mid"
+    },
+    {
+      "1": "133",
+      "2": "1053",
+      "3": "1",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/FTXD",
+      "5": "EVT_hit_player_ftxd_strong"
+    },
+    {
+      "1": "134",
+      "2": "1051",
+      "3": "2",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/FTXD",
+      "5": "EVT_hit_player_ftxd_light"
+    },
+    {
+      "1": "135",
+      "2": "1052",
+      "3": "2",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/FTXD",
+      "5": "EVT_hit_player_ftxd_mid"
+    },
+    {
+      "1": "136",
+      "2": "1053",
+      "3": "2",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/FTXD",
+      "5": "EVT_hit_player_ftxd_strong"
+    },
+    {
+      "1": "137",
+      "2": "1051",
+      "3": "3",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/FTXD",
+      "5": "EVT_hit_player_ftxd_light"
+    },
+    {
+      "1": "138",
+      "2": "1052",
+      "3": "3",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/FTXD",
+      "5": "EVT_hit_player_ftxd_mid"
+    },
+    {
+      "1": "139",
+      "2": "1053",
+      "3": "3",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/FTXD",
+      "5": "EVT_hit_player_ftxd_strong"
+    },
+    {
+      "1": "140",
+      "2": "1051",
+      "3": "4",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/FTXD",
+      "5": "EVT_hit_player_ftxd_light"
+    },
+    {
+      "1": "141",
+      "2": "1052",
+      "3": "4",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/FTXD",
+      "5": "EVT_hit_player_ftxd_mid"
+    },
+    {
+      "1": "142",
+      "2": "1053",
+      "3": "4",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/FTXD",
+      "5": "EVT_hit_player_ftxd_strong"
+    },
+    {
+      "1": "143",
+      "2": "1051",
+      "3": "5",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/FTXD",
+      "5": "EVT_hit_player_ftxd_light"
+    },
+    {
+      "1": "144",
+      "2": "1052",
+      "3": "5",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/FTXD",
+      "5": "EVT_hit_player_ftxd_mid"
+    },
+    {
+      "1": "145",
+      "2": "1053",
+      "3": "5",
+      "4": "/Game/00Main/Audio/SFX/Hit/Player_Hit_Enemy/FTXD",
+      "5": "EVT_hit_player_ftxd_strong"
+    },
+    {
+      "1": "146",
+      "2": "1101",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Sharp",
+      "5": "EVT_hit_enm_sharp_light_light"
+    },
+    {
+      "1": "147",
+      "2": "1102",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Sharp",
+      "5": "EVT_hit_enm_sharp_light_mid"
+    },
+    {
+      "1": "148",
+      "2": "1103",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Sharp",
+      "5": "EVT_hit_enm_sharp_light_strong"
+    },
+    {
+      "1": "149",
+      "2": "1201",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Sharp",
+      "5": "EVT_hit_enm_sharp_mid_light"
+    },
+    {
+      "1": "150",
+      "2": "1202",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Sharp",
+      "5": "EVT_hit_enm_sharp_mid_mid"
+    },
+    {
+      "1": "151",
+      "2": "1203",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Sharp",
+      "5": "EVT_hit_enm_sharp_mid_strong"
+    },
+    {
+      "1": "152",
+      "2": "1301",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Sharp",
+      "5": "EVT_hit_enm_sharp_strong_light"
+    },
+    {
+      "1": "153",
+      "2": "1302",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Sharp",
+      "5": "EVT_hit_enm_sharp_strong_mid"
+    },
+    {
+      "1": "154",
+      "2": "1303",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Sharp",
+      "5": "EVT_hit_enm_sharp_strong_strong"
+    },
+    {
+      "1": "155",
+      "2": "2101",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Blunt",
+      "5": "EVT_hit_enm_blunt_light_light"
+    },
+    {
+      "1": "156",
+      "2": "2102",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Blunt",
+      "5": "EVT_hit_enm_blunt_light_mid"
+    },
+    {
+      "1": "157",
+      "2": "2103",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Blunt",
+      "5": "EVT_hit_enm_blunt_light_strong"
+    },
+    {
+      "1": "158",
+      "2": "2201",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Blunt",
+      "5": "EVT_hit_enm_blunt_mid_light"
+    },
+    {
+      "1": "159",
+      "2": "2202",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Blunt",
+      "5": "EVT_hit_enm_blunt_mid_mid"
+    },
+    {
+      "1": "160",
+      "2": "2203",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Blunt",
+      "5": "EVT_hit_enm_blunt_mid_strong"
+    },
+    {
+      "1": "161",
+      "2": "2301",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Blunt",
+      "5": "EVT_hit_enm_blunt_strong_light"
+    },
+    {
+      "1": "162",
+      "2": "2302",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Blunt",
+      "5": "EVT_hit_enm_blunt_strong_mid"
+    },
+    {
+      "1": "163",
+      "2": "2303",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Blunt",
+      "5": "EVT_hit_enm_blunt_strong_strong"
+    },
+    {
+      "1": "164",
+      "2": "3101",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Claw",
+      "5": "EVT_hit_enm_claw_light_light"
+    },
+    {
+      "1": "165",
+      "2": "3102",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Claw",
+      "5": "EVT_hit_enm_claw_light_mid"
+    },
+    {
+      "1": "166",
+      "2": "3103",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Claw",
+      "5": "EVT_hit_enm_claw_light_strong"
+    },
+    {
+      "1": "167",
+      "2": "3201",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Claw",
+      "5": "EVT_hit_enm_claw_mid_light"
+    },
+    {
+      "1": "168",
+      "2": "3202",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Claw",
+      "5": "EVT_hit_enm_claw_mid_mid"
+    },
+    {
+      "1": "169",
+      "2": "3203",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Claw",
+      "5": "EVT_hit_enm_claw_mid_strong"
+    },
+    {
+      "1": "170",
+      "2": "3301",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Claw",
+      "5": "EVT_hit_enm_claw_strong_light"
+    },
+    {
+      "1": "171",
+      "2": "3302",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Claw",
+      "5": "EVT_hit_enm_claw_strong_mid"
+    },
+    {
+      "1": "172",
+      "2": "3303",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Claw",
+      "5": "EVT_hit_enm_claw_strong_strong"
+    },
+    {
+      "1": "173",
+      "2": "5101",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Magic",
+      "5": "EVT_hit_enm_magic_light_light"
+    },
+    {
+      "1": "174",
+      "2": "5102",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Magic",
+      "5": "EVT_hit_enm_magic_light_mid"
+    },
+    {
+      "1": "175",
+      "2": "5103",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Magic",
+      "5": "EVT_hit_enm_magic_light_strong"
+    },
+    {
+      "1": "176",
+      "2": "5201",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Magic",
+      "5": "EVT_hit_enm_magic_mid_light"
+    },
+    {
+      "1": "177",
+      "2": "5202",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Magic",
+      "5": "EVT_hit_enm_magic_mid_mid"
+    },
+    {
+      "1": "178",
+      "2": "5203",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Magic",
+      "5": "EVT_hit_enm_magic_mid_strong"
+    },
+    {
+      "1": "179",
+      "2": "5301",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Magic",
+      "5": "EVT_hit_enm_magic_strong_light"
+    },
+    {
+      "1": "180",
+      "2": "5302",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Magic",
+      "5": "EVT_hit_enm_magic_strong_mid"
+    },
+    {
+      "1": "181",
+      "2": "5303",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Magic",
+      "5": "EVT_hit_enm_magic_strong_strong"
+    },
+    {
+      "1": "182",
+      "2": "6101",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Fist",
+      "5": "EVT_hit_enm_fist_light_light"
+    },
+    {
+      "1": "183",
+      "2": "6102",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Fist",
+      "5": "EVT_hit_enm_fist_light_mid"
+    },
+    {
+      "1": "184",
+      "2": "6103",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Fist",
+      "5": "EVT_hit_enm_fist_light_strong"
+    },
+    {
+      "1": "185",
+      "2": "6201",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Fist",
+      "5": "EVT_hit_enm_fist_mid_light"
+    },
+    {
+      "1": "186",
+      "2": "6202",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Fist",
+      "5": "EVT_hit_enm_fist_mid_mid"
+    },
+    {
+      "1": "187",
+      "2": "6203",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Fist",
+      "5": "EVT_hit_enm_fist_mid_strong"
+    },
+    {
+      "1": "188",
+      "2": "6301",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Fist",
+      "5": "EVT_hit_enm_fist_strong_light"
+    },
+    {
+      "1": "189",
+      "2": "6302",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Fist",
+      "5": "EVT_hit_enm_fist_strong_mid"
+    },
+    {
+      "1": "190",
+      "2": "6303",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Fist",
+      "5": "EVT_hit_enm_fist_strong_strong"
+    },
+    {
+      "1": "191",
+      "2": "7101",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Arrow",
+      "5": "EVT_hit_enm_arrow_light_light"
+    },
+    {
+      "1": "192",
+      "2": "7102",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Arrow",
+      "5": "EVT_hit_enm_arrow_light_mid"
+    },
+    {
+      "1": "193",
+      "2": "7103",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Arrow",
+      "5": "EVT_hit_enm_arrow_light_strong"
+    },
+    {
+      "1": "194",
+      "2": "7201",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Arrow",
+      "5": "EVT_hit_enm_arrow_mid_light"
+    },
+    {
+      "1": "195",
+      "2": "7202",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Arrow",
+      "5": "EVT_hit_enm_arrow_mid_mid"
+    },
+    {
+      "1": "196",
+      "2": "7203",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Arrow",
+      "5": "EVT_hit_enm_arrow_mid_strong"
+    },
+    {
+      "1": "197",
+      "2": "7301",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Arrow",
+      "5": "EVT_hit_enm_arrow_strong_light"
+    },
+    {
+      "1": "198",
+      "2": "7302",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Arrow",
+      "5": "EVT_hit_enm_arrow_strong_mid"
+    },
+    {
+      "1": "199",
+      "2": "7303",
+      "4": "/Game/00Main/Audio/SFX/Hit/Enemy_Hit_Player/Arrow",
+      "5": "EVT_hit_enm_arrow_strong_strong"
+    }
+  ]
+}
